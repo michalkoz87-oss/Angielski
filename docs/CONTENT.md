@@ -1,13 +1,15 @@
 # Format treści kursu
 
-Każdy tydzień kursu to dwa pliki w `data/weeks/`:
+Każdy tydzień kursu to dwa pliki w `data/courses/<poziom>/weeks/`:
 
-- `wNN-vocab.json` — 40 haseł słownikowych (karty do powtórek),
+- `wNN-vocab.json` — hasła słownikowe tygodnia (karty do powtórek),
 - `wNN-lessons.json` — lekcje tygodnia: czytanie, gramatyka, słuchanie, pisanie, mówienie, ćwiczenia.
 
-`NN` to numer tygodnia z zerem wiodącym (`01`…`24`). Plan całego kursu (tematy, gramatyka, proporcje poziomów) jest w `data/program.json`.
+`NN` to numer tygodnia z zerem wiodącym (`01`…`24`). Plan kursu (tematy, gramatyka, proporcje poziomów) jest w `data/courses/<poziom>/program.json`.
 
-Poprawność plików sprawdza `node scripts/validate-content.mjs` (cały katalog) albo `node scripts/validate-content.mjs --week 7` (jeden tydzień). Walidator musi przejść bez błędów.
+Liczby podane niżej (40 haseł, 300–460 słów, 12 zadań itd.) dotyczą kursu B2 → C1. Każdy poziom ma własne limity w polu `content` swojego `program.json` i to one obowiązują; walidator je egzekwuje.
+
+Poprawność plików sprawdza `node scripts/validate-content.mjs` (wszystkie kursy) albo `node scripts/validate-content.mjs --course b2c1 --week 7` (jeden tydzień). Po dodaniu tygodnia uruchom `node scripts/update-catalog.mjs`.
 
 ## Zasady ogólne
 

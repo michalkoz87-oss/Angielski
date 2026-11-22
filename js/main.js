@@ -23,7 +23,7 @@ import * as progress from './views/progress.js';
 import * as settings from './views/settings.js';
 
 const store = storeNs.store ?? storeNs.default ?? storeNs;
-const model = modelNs.model ?? modelNs.default ?? modelNs;
+const model = modelNs;
 const audio = audioNs.audio ?? audioNs.default ?? audioNs;
 const ai = aiNs.ai ?? aiNs.default ?? aiNs;
 

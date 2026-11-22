@@ -65,7 +65,9 @@ export function mergeDoc(docId, a, b) {
   const updatedAt = Math.max(Number(A.updatedAt) || 0, Number(B.updatedAt) || 0);
   if (kind === 'profiles') return { list: mergeMap(A.list, B.list, 'updatedAt'), updatedAt };
   if (kind === 'progress') {
-    return { steps: mergeMap(A.steps, B.steps, 'at'), results: mergeMap(A.results, B.results, 'at'), tests: mergeMap(A.tests, B.tests, 'at'), updatedAt };
+    const out = { updatedAt };
+    for (const k of ['steps', 'results', 'tests']) if (A[k] || B[k]) out[k] = mergeMap(A[k], B[k], 'at');
+    return out;
   }
   if (kind === 'srs') return { cards: mergeMap(A.cards, B.cards, 't'), updatedAt };
   if (kind === 'journal') return { entries: mergeMap(A.entries, B.entries, 'at'), updatedAt };

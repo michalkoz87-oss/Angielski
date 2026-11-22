@@ -45,7 +45,7 @@ export async function render(root, ctx) {
       h('p', { class: 'en muted small', lang: 'en' }, `${w.themeEn} · ${w.grammarEn}`), ui.list(...sessions));
   };
 
-  const calendar = schedule.calendarUrl({ ...profile, sessionMinutes: program.sessionMinutes }, { appUrl: location.href.split('#')[0], today, isDoneFn: isDone });
+  const calendar = schedule.calendarUrl({ ...profile, sessionMinutes: program.sessionMinutes }, { appUrl: globalThis.__APP_URL__ ?? location.href.split('#')[0], today, isDoneFn: isDone });
   ui.mount(root, ui.page(null,
     ui.pageHeader({ title: 'Plan', eyebrow: `${program.rangeLabel} · ${program.title}`, sub: `${program.weeks} tygodnie, ${program.daysPerWeek} sesji w tygodniu, około ${program.sessionMinutes} minut dziennie` }),
     ui.section({ title: 'Rytm tygodnia' }, rhythm),

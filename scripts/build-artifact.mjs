@@ -3,6 +3,7 @@
 // tytuł, style, znaczniki i jeden skrypt) oraz dist/artifact/data/** (pliki kursów pobierane fetch()).
 //   node scripts/build-artifact.mjs            → pełna strona artefaktu
 //   node scripts/build-artifact.mjs --preview  → dodatkowo dist/artifact/preview.html (do testów lokalnych)
+//   --app-url <adres>  adres opublikowanej strony (trafia do opisu wydarzenia w kalendarzu)
 import { build } from 'esbuild';
 import { readFileSync, writeFileSync, mkdirSync, rmSync, cpSync } from 'node:fs';
 import { join, dirname } from 'node:path';
@@ -11,6 +12,8 @@ import { fileURLToPath } from 'node:url';
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const out = join(root, 'dist', 'artifact');
 const html = readFileSync(join(root, 'index.html'), 'utf8');
+const appUrlAt = process.argv.indexOf('--app-url');
+const appUrl = appUrlAt > -1 ? process.argv[appUrlAt + 1] : null;
 
 const title = /<title>([^<]*)<\/title>/.exec(html)[1];
 const fonts = /<link rel="stylesheet" href="(https:\/\/fonts\.googleapis\.com[^"]+)">/.exec(html)[1];
@@ -38,7 +41,7 @@ const page = `<title>${title}</title>
 ${css}
 </style>
 ${body}
-<script>globalThis.__DATA_BASE__ = 'data/';</script>
+<script>globalThis.__DATA_BASE__ = 'data/';${appUrl ? ` globalThis.__APP_URL__ = ${JSON.stringify(appUrl)};` : ''}</script>
 <script>
 ${js}
 </script>
