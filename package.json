@@ -1,0 +1,17 @@
+{
+  "name": "angielski-krok-po-kroku",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Angielski krok po kroku: kursy od A1 do C1 z powtórkami słownictwa, planem nauki i profilami osób.",
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "validate": "node scripts/validate-content.mjs",
+    "test": "node --test tests/unit/",
+    "test:e2e": "node tests/e2e/smoke.mjs",
+    "build:artifact": "node scripts/build-artifact.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}

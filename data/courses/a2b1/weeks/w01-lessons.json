@@ -1,0 +1,591 @@
+{
+  "week": 1,
+  "intro": "W tym tygodniu porozmawiamy o wolnym czasie i hobby. Poznasz słowa i zwroty potrzebne do opowiadania, co lubisz robić, oraz nauczysz się odróżniać present simple od present continuous. Na koniec napiszesz krótką wiadomość do znajomego o planach na weekend.",
+  "reading": {
+    "title": "My first blog post",
+    "paragraphs": [
+      "Hi everyone! This is my first blog post, so let me tell you about my {{hobby|w01-01}}. I love swimming, and I am a {{member|w01-09}} of a small {{club|w01-10}} in my town. We train on Tuesdays and Saturdays, but I'm not training today because it's Sunday.",
+      "On Sundays I usually {{take it easy|w01-16}}. I don't get up early, and I {{relax|w01-07}} with a book or a film. In my {{spare time|w01-02}} I also {{draw|w01-13}} cartoons and {{play the guitar|w01-19}}, although I am not very good yet.",
+      "My best friend Kasia is different. She is very {{keen|w01-03}} on sport and never sits still. This month she is {{taking up|w01-05}} cycling, so she is saving money for a bike. She says she {{enjoys|w01-29}} the fresh air, and she wants to ride to school every day.",
+      "This afternoon we are {{meeting up|w01-06}} in the park. We usually {{go for a walk|w01-08}} by the river and then {{chat|w01-14}} on a bench. Today Kasia is bringing her brother's old bike, and I am bringing a {{board game|w01-17}} because she always wants to win!",
+      "What about you? Do you {{prefer|w01-30}} quiet weekends or busy ones? Write to me in the comments. I am always happy to hear about new hobbies!"
+    ],
+    "glossary": [
+      {
+        "term": "bench",
+        "pl": "ławka"
+      },
+      {
+        "term": "cartoons",
+        "pl": "rysunki humorystyczne, kreskówki"
+      },
+      {
+        "term": "train",
+        "pl": "trenować"
+      },
+      {
+        "term": "fresh air",
+        "pl": "świeże powietrze"
+      },
+      {
+        "term": "comments",
+        "pl": "komentarze"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "q": "What is the writer's main hobby?",
+        "options": [
+          "Swimming",
+          "Cycling",
+          "Drawing cartoons",
+          "Playing the guitar"
+        ],
+        "answer": 0,
+        "explanationPl": "W pierwszym akapicie autor pisze: „I love swimming” i opowiada o swoim klubie pływackim. Rysowanie i gitara to dodatkowe zajęcia."
+      },
+      {
+        "type": "mc",
+        "q": "What does the writer usually do on Sundays?",
+        "options": [
+          "Trains with the club",
+          "Relaxes with a book or a film",
+          "Goes cycling with Kasia",
+          "Plays in a band"
+        ],
+        "answer": 1,
+        "explanationPl": "Drugi akapit: „On Sundays I usually take it easy… I relax with a book or a film”. Treningi są we wtorki i soboty."
+      },
+      {
+        "type": "mc",
+        "q": "Where are the friends meeting this afternoon?",
+        "options": [
+          "At the swimming pool",
+          "In the park",
+          "At Kasia's house",
+          "At the cinema"
+        ],
+        "answer": 1,
+        "explanationPl": "Czwarty akapit: „This afternoon we are meeting up in the park”."
+      },
+      {
+        "type": "tf",
+        "q": "Kasia is saving money for a holiday.",
+        "answer": "false",
+        "explanationPl": "Trzeci akapit: Kasia oszczędza na rower („saving money for a bike”), a nie na wakacje."
+      },
+      {
+        "type": "tf",
+        "q": "Kasia can ride a bike very well.",
+        "answer": "not_given",
+        "explanationPl": "Tekst mówi, że Kasia zaczyna jeździć na rowerze, ale nie podaje, jak dobrze jej to wychodzi."
+      }
+    ],
+    "discussion": [
+      "What do you usually do at the weekend?",
+      "Which hobby would you like to take up, and why?"
+    ]
+  },
+  "grammar": {
+    "title": "Present simple vs present continuous",
+    "titlePl": "Present simple a present continuous",
+    "summaryPl": "Present simple opisuje zwyczaje i fakty, a present continuous to, co dzieje się teraz lub trwa chwilowo. Wybór czasu zależy od tego, czy czynność się powtarza, czy właśnie trwa.",
+    "sections": [
+      {
+        "heading": "Present simple: nawyki, rutyna i fakty",
+        "bodyPl": "Present simple opisuje to, co robimy **regularnie**, oraz stałe fakty. Często pojawiają się w nim słowa: *always, usually, often, sometimes, never, every day, on Saturdays*. W 3. osobie liczby pojedynczej (he, she, it) dodajemy **-s**: *plays, watches, studies*. Przeczenia i pytania tworzymy z **do / does**: *I don't play*, *Does she play?*. Po *does* czasownik zostaje w formie podstawowej.",
+        "examples": [
+          {
+            "en": "I play the guitar every Saturday.",
+            "pl": "Gram na gitarze w każdą sobotę."
+          },
+          {
+            "en": "She usually takes it easy on Sundays.",
+            "pl": "Zwykle odpoczywa na luzie w niedziele."
+          },
+          {
+            "en": "My brother doesn't like board games.",
+            "pl": "Mój brat nie lubi gier planszowych."
+          },
+          {
+            "en": "Does your club meet on Fridays?",
+            "pl": "Czy wasz klub spotyka się w piątki?"
+          }
+        ]
+      },
+      {
+        "heading": "Present continuous: to, co dzieje się teraz",
+        "bodyPl": "Present continuous opisuje czynność, która trwa **w tej chwili** albo **w tym okresie**, a także plany na najbliższy czas. Budujemy go z **am / is / are + czasownik z -ing**. Typowe słowa: *now, at the moment, today, this week, this weekend, tonight*. Pytanie zaczynamy od *Are / Is / Am*, a przeczenie to *I'm not…*, *he isn't…*, *we aren't…*.",
+        "examples": [
+          {
+            "en": "Look! Tom is drawing a dragon.",
+            "pl": "Patrz! Tom rysuje smoka."
+          },
+          {
+            "en": "We aren't playing football today because it's raining.",
+            "pl": "Dziś nie gramy w piłkę, bo pada."
+          },
+          {
+            "en": "Are you listening to music at the moment?",
+            "pl": "Czy teraz słuchasz muzyki?"
+          },
+          {
+            "en": "We are meeting up at four o'clock tomorrow.",
+            "pl": "Jutro o czwartej się spotykamy."
+          }
+        ]
+      },
+      {
+        "heading": "Czasowniki, których zwykle nie używamy w present continuous",
+        "bodyPl": "Niektóre czasowniki opisują **stan**, a nie czynność: *like, love, hate, want, need, prefer, know, understand, believe*, a także *have* w znaczeniu „mieć”. Używamy ich w present simple, nawet gdy mówimy o tym, co jest teraz: *I want a new bike* (nie *I am wanting*). Uwaga na *have*: w znaczeniu „mieć” to czasownik stanu, ale w znaczeniu „jeść, spędzać czas” może być w present continuous.",
+        "examples": [
+          {
+            "en": "I know the answer.",
+            "pl": "Znam odpowiedź."
+          },
+          {
+            "en": "He prefers tennis to football.",
+            "pl": "On woli tenis od piłki nożnej."
+          },
+          {
+            "en": "She has a new guitar.",
+            "pl": "Ma nową gitarę."
+          },
+          {
+            "en": "She is having lunch now.",
+            "pl": "Teraz je obiad."
+          }
+        ]
+      },
+      {
+        "heading": "Jak wybrać czas?",
+        "bodyPl": "Zadaj sobie pytanie: **czy to się powtarza, czy dzieje się teraz?** Zwyczaj lub fakt to present simple. Coś, co trwa w tej chwili albo jest tymczasowe, to present continuous. Czasem to samo zdanie zmienia sens w zależności od czasu: *He plays tennis* oznacza, że to jego sport, a *He is playing tennis* – że gra właśnie teraz.",
+        "examples": [
+          {
+            "en": "I usually walk to school, but today I am taking the bus.",
+            "pl": "Zwykle chodzę do szkoły pieszo, ale dziś jadę autobusem."
+          },
+          {
+            "en": "He plays tennis.",
+            "pl": "Gra w tenisa (to jego sport)."
+          },
+          {
+            "en": "He is playing tennis.",
+            "pl": "Gra w tenisa (właśnie teraz)."
+          }
+        ]
+      }
+    ],
+    "pitfallsPl": [
+      {
+        "wrong": "I am knowing the answer.",
+        "right": "I know the answer.",
+        "whyPl": "*Know* to czasownik stanu, więc nie używamy go w present continuous. Po polsku mówimy „wiem”, po angielsku *I know*."
+      },
+      {
+        "wrong": "She play the guitar every day.",
+        "right": "She plays the guitar every day.",
+        "whyPl": "W present simple po *he / she / it* dodajemy **-s**. W polskim końcówka zmienia się przy każdej osobie, więc łatwo o niej zapomnieć."
+      },
+      {
+        "wrong": "He doesn't plays tennis.",
+        "right": "He doesn't play tennis.",
+        "whyPl": "Po *do / does / don't / doesn't* czasownik ma formę podstawową. Końcówka **-s** jest już w słowie *does*."
+      },
+      {
+        "wrong": "I am playing football every Saturday.",
+        "right": "I play football every Saturday.",
+        "whyPl": "Regularne czynności opisujemy w present simple. Present continuous jest do tego, co dzieje się teraz lub tymczasowo."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "Tom ___ football every Saturday morning.",
+        "options": [
+          "plays",
+          "is playing",
+          "play"
+        ],
+        "answer": 0,
+        "explanationPl": "*Every Saturday morning* to regularność, więc present simple. Po *Tom* dodajemy **-s**."
+      },
+      {
+        "type": "mc",
+        "prompt": "Be quiet, please! The baby ___.",
+        "options": [
+          "sleeps",
+          "is sleeping",
+          "sleep"
+        ],
+        "answer": 1,
+        "explanationPl": "Prośba „Be quiet!” dotyczy tego, co dzieje się teraz, więc present continuous: *is sleeping*."
+      },
+      {
+        "type": "mc",
+        "prompt": "I ___ a new bike for my birthday.",
+        "options": [
+          "am wanting",
+          "want",
+          "wants"
+        ],
+        "answer": 1,
+        "explanationPl": "*Want* to czasownik stanu, więc używamy present simple. Po *I* nie dodajemy **-s**."
+      },
+      {
+        "type": "gap",
+        "prompt": "My cousin ___ (play) the guitar in a school band every Friday.",
+        "answers": [
+          "plays"
+        ],
+        "explanationPl": "*Every Friday* to regularność, a *my cousin* to 3. osoba liczby pojedynczej: *plays*."
+      },
+      {
+        "type": "mc",
+        "prompt": "What ___ at the moment?",
+        "options": [
+          "do you do",
+          "are you doing",
+          "you are doing"
+        ],
+        "answer": 1,
+        "explanationPl": "*At the moment* wskazuje na teraz, więc present continuous. W pytaniu *are* stoi przed *you*."
+      },
+      {
+        "type": "gap",
+        "prompt": "We ___ (not / go) to the club today because it is closed.",
+        "answers": [
+          "are not going",
+          "aren't going",
+          "'re not going"
+        ],
+        "explanationPl": "*Today* i sytuacja chwilowa to present continuous. Przeczenie: *are not* lub *aren't* + *going*."
+      },
+      {
+        "type": "gap",
+        "prompt": "My sister ___ (not / like) board games.",
+        "answers": [
+          "doesn't like",
+          "does not like"
+        ],
+        "explanationPl": "Lubienie to stan i zwyczaj, więc present simple. Po *she* używamy *doesn't* + forma podstawowa."
+      },
+      {
+        "type": "mc",
+        "prompt": "Ania usually walks to school, but today she ___ the bus because it is raining.",
+        "options": [
+          "takes",
+          "is taking",
+          "take"
+        ],
+        "answer": 1,
+        "explanationPl": "*But today* oznacza zmianę zwykłego zwyczaju na dziś, więc present continuous: *is taking*."
+      },
+      {
+        "type": "gap",
+        "prompt": "Look! Those boys ___ (play) chess in the park.",
+        "answers": [
+          "are playing",
+          "'re playing"
+        ],
+        "explanationPl": "*Look!* zapowiada coś, co dzieje się teraz. *Those boys* to liczba mnoga, więc *are playing*."
+      },
+      {
+        "type": "mc",
+        "prompt": "I ___ you. Can you repeat that, please?",
+        "options": [
+          "don't understand",
+          "am not understanding",
+          "doesn't understand"
+        ],
+        "answer": 0,
+        "explanationPl": "*Understand* to czasownik stanu, więc present simple. Po *I* używamy *don't*."
+      }
+    ],
+    "testItems": [
+      {
+        "type": "mc",
+        "prompt": "Mum usually ___ coffee, but today she is drinking tea.",
+        "options": [
+          "drinks",
+          "is drinking",
+          "drink"
+        ],
+        "answer": 0,
+        "explanationPl": "*Usually* wskazuje na zwyczaj, więc present simple. Po *Mum* dodajemy **-s**."
+      },
+      {
+        "type": "gap",
+        "prompt": "I'm busy now. I ___ (do) my homework.",
+        "answers": [
+          "am doing",
+          "'m doing"
+        ],
+        "explanationPl": "*Now* oznacza, że czynność trwa w tej chwili, więc present continuous."
+      },
+      {
+        "type": "mc",
+        "prompt": "Dan ___ how to play this board game.",
+        "options": [
+          "is knowing",
+          "knows",
+          "know"
+        ],
+        "answer": 1,
+        "explanationPl": "*Know* to czasownik stanu, więc używamy present simple. Po *Dan* dodajemy **-s**."
+      },
+      {
+        "type": "gap",
+        "prompt": "My parents ___ (not / watch) TV in the evening; they usually read.",
+        "answers": [
+          "don't watch",
+          "do not watch"
+        ],
+        "explanationPl": "*Usually* wskazuje na zwyczaj, więc present simple. Po *my parents* używamy *don't* + forma podstawowa."
+      }
+    ]
+  },
+  "listening": {
+    "dictation": [
+      {
+        "text": "My brother practises the guitar every evening."
+      },
+      {
+        "text": "We are staying at home because it is raining."
+      },
+      {
+        "text": "Do you enjoy playing board games with your friends?"
+      },
+      {
+        "text": "She usually takes it easy on Sunday afternoons."
+      },
+      {
+        "text": "Are you free on Saturday afternoon?"
+      }
+    ],
+    "monologue": {
+      "title": "Plans for Saturday",
+      "speaker": "a teenager leaving a voice message for a friend",
+      "script": [
+        "Hi, it's me! I'm calling about Saturday. Are you free in the afternoon? A few of us are meeting up at the sports centre at two. Mia's brother is bringing a football, and we're playing for about an hour.",
+        "After that, we usually hang out in the park and chat. Some people take their bikes, but I prefer to walk. It's quite relaxing, and I don't have to hurry.",
+        "If it rains, we usually stay in at Mia's house and play board games. Her family has about twenty games, and some of them are really exciting. Anyway, please text me back tonight. I'm looking forward to seeing you! Bye!"
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Why is the speaker calling?",
+          "options": [
+            "To invite a friend to meet up on Saturday",
+            "To ask about homework",
+            "To cancel a football match",
+            "To say sorry for being late"
+          ],
+          "answer": 0,
+          "explanationPl": "Mówiący pyta: „Are you free in the afternoon?” i opowiada o planach na sobotę, czyli zaprasza znajomego."
+        },
+        {
+          "type": "mc",
+          "q": "What do the friends usually do after the football?",
+          "options": [
+            "They go home and watch TV",
+            "They hang out and chat in the park",
+            "They play board games at the sports centre",
+            "They go cycling"
+          ],
+          "answer": 1,
+          "explanationPl": "Usłyszysz: „After that, we usually hang out in the park and chat”."
+        },
+        {
+          "type": "mc",
+          "q": "What do they usually do if it rains?",
+          "options": [
+            "They stay at Mia's house and play board games",
+            "They cancel the meeting",
+            "They go to the cinema",
+            "They play football inside"
+          ],
+          "answer": 0,
+          "explanationPl": "Usłyszysz: „If it rains, we usually stay in at Mia's house and play board games”."
+        }
+      ]
+    }
+  },
+  "writing": {
+    "taskEn": "Write a message to a friend. Say what you are doing this weekend and what you usually do in your free time. Then ask your friend a question.",
+    "taskPl": "Napisz wiadomość do znajomego. Napisz, co robisz w ten weekend i co zwykle robisz w wolnym czasie. Na koniec zadaj znajomemu pytanie.",
+    "genre": "message",
+    "minWords": 50,
+    "maxWords": 90,
+    "checklistPl": [
+      "Przywitaj się i zapytaj, co słychać.",
+      "Napisz, co robisz w ten weekend (present continuous).",
+      "Napisz, co zwykle robisz w wolnym czasie (present simple).",
+      "Zakończ pytaniem lub propozycją spotkania."
+    ],
+    "usefulPhrases": [
+      "How are you?",
+      "This weekend I'm …",
+      "I usually … in my spare time.",
+      "Are you free on …?",
+      "I'm really looking forward to …",
+      "Write back soon!"
+    ],
+    "modelAnswer": "Hi Tom! How are you? This weekend I'm busy. On Saturday I'm {{meeting up|w01-06}} with my cousin at the tennis club, because I'm {{taking up|w01-05}} a new sport. I usually {{stay in|w01-20}} at weekends and {{play the guitar|w01-19}}, so this is a big change! I'm really {{looking forward to|w01-32}} it. Are you {{free|w01-23}} on Sunday? We can {{hang out|w01-15}} at the park and {{chat|w01-14}}. Write back soon! Max"
+  },
+  "speaking": {
+    "prompts": [
+      {
+        "q": "What do you usually do at the weekend?",
+        "followUp": "Do you do the same things every weekend?"
+      },
+      {
+        "q": "Which hobby would you like to take up? Why?",
+        "followUp": "What do you need to start?"
+      },
+      {
+        "q": "What are you doing this evening?",
+        "followUp": "Are you looking forward to it?"
+      },
+      {
+        "q": "Do you prefer to hang out with friends or stay in at home?",
+        "followUp": "What do you do when you stay in?"
+      }
+    ],
+    "shadowing": [
+      "I usually relax with a book on Sunday.",
+      "We are meeting up at the park at four.",
+      "She doesn't enjoy board games, but she likes chess.",
+      "I am looking forward to the weekend."
+    ],
+    "roleplay": {
+      "titlePl": "Plany na sobotę",
+      "scenarioPl": "Dzwonisz do kolegi lub koleżanki, żeby umówić się na sobotę. Ustalcie, co będziecie robić i o której się spotkacie.",
+      "yourRole": "You want to meet your friend on Saturday. Suggest an activity and ask if your friend is free.",
+      "partnerRole": "You are a friend. You are free on Saturday afternoon, but you prefer staying in. Suggest another plan.",
+      "opening": "Hi! What are you doing on Saturday?",
+      "goalsPl": [
+        "Zapytaj, czy znajomy ma czas w sobotę.",
+        "Zaproponuj, co możecie robić razem.",
+        "Ustal godzinę i miejsce spotkania."
+      ]
+    }
+  },
+  "practice": {
+    "gapFill": [
+      {
+        "sentence": "She wants to ___ the school football team, so she is going to the first training today.",
+        "answerId": "w01-04",
+        "answers": [
+          "join"
+        ]
+      },
+      {
+        "sentence": "My uncle ___ old coins, and he has over three hundred of them.",
+        "answerId": "w01-12",
+        "answers": [
+          "collects"
+        ]
+      },
+      {
+        "sentence": "If you want to speak English better, you must ___ every day.",
+        "answerId": "w01-11",
+        "answers": [
+          "practise"
+        ]
+      },
+      {
+        "sentence": "We are going to ___ outside the cinema at seven and go in together.",
+        "answerId": "w01-06",
+        "answers": [
+          "meet up"
+        ]
+      },
+      {
+        "sentence": "I'm not ___ tomorrow because I have a dentist appointment.",
+        "answerId": "w01-23",
+        "answers": [
+          "free"
+        ]
+      },
+      {
+        "sentence": "You should exercise ___, at least three times a week, to stay healthy.",
+        "answerId": "w01-24",
+        "answers": [
+          "regularly"
+        ]
+      },
+      {
+        "sentence": "I never read this magazine because the articles are so ___.",
+        "answerId": "w01-21",
+        "answers": [
+          "boring"
+        ]
+      },
+      {
+        "sentence": "Kasia is a ___ of the chess club and goes to every meeting.",
+        "answerId": "w01-09",
+        "answers": [
+          "member"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "left": "collect",
+        "right": "to keep many things of one kind, for example stamps"
+      },
+      {
+        "left": "stay in",
+        "right": "to remain at home"
+      },
+      {
+        "left": "draw",
+        "right": "to make a picture with a pencil"
+      },
+      {
+        "left": "keen",
+        "right": "very interested in something"
+      },
+      {
+        "left": "prefer",
+        "right": "to like one thing more than another"
+      },
+      {
+        "left": "practise",
+        "right": "to do something again and again to get better"
+      }
+    ],
+    "wordFormation": [
+      {
+        "sentence": "A warm bath is very ___ after a long day.",
+        "base": "RELAX",
+        "answers": [
+          "relaxing"
+        ]
+      },
+      {
+        "sentence": "Our school has a ___ of old maps and coins.",
+        "base": "COLLECT",
+        "answers": [
+          "collection"
+        ]
+      },
+      {
+        "sentence": "Anna is a very good ___, and her pictures of animals are beautiful.",
+        "base": "PHOTOGRAPH",
+        "answers": [
+          "photographer"
+        ]
+      },
+      {
+        "sentence": "I felt very ___ during the long lesson, so I looked out of the window.",
+        "base": "BORE",
+        "answers": [
+          "bored"
+        ]
+      }
+    ]
+  }
+}

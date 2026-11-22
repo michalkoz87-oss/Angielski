@@ -1,0 +1,392 @@
+{
+  "week": 1,
+  "theme": "Me and my family",
+  "items": [
+    {
+      "id": "w01-01",
+      "term": "hello",
+      "type": "word",
+      "pos": "excl",
+      "level": "A1",
+      "ipa": "/həˈləʊ/",
+      "pl": "cześć, dzień dobry",
+      "def": "a word you say when you meet someone",
+      "example": "{{Hello}}, my name is Tom.",
+      "examplePl": "Cześć, mam na imię Tom.",
+      "collocations": [
+        "say hello",
+        "hello to everyone"
+      ]
+    },
+    {
+      "id": "w01-02",
+      "term": "mother",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈmʌðə/",
+      "pl": "mama, matka",
+      "def": "your female parent",
+      "example": "My {{mother}} cooks dinner for us.",
+      "examplePl": "Moja mama gotuje nam obiad.",
+      "collocations": [
+        "my mother",
+        "mother and father"
+      ],
+      "note": "Wymowa: **th** w tym słowie czytamy jak /ð/ – to nie jest „t”."
+    },
+    {
+      "id": "w01-03",
+      "term": "father",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈfɑːðə/",
+      "pl": "tata, ojciec",
+      "def": "your male parent",
+      "example": "My {{father}} drives me to school.",
+      "examplePl": "Tata zawozi mnie do szkoły.",
+      "collocations": [
+        "my father",
+        "father and mother"
+      ]
+    },
+    {
+      "id": "w01-04",
+      "term": "brother",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈbrʌðə/",
+      "pl": "brat",
+      "def": "a boy with the same parents as you",
+      "example": "My {{brother}} is eight years old.",
+      "examplePl": "Mój brat ma osiem lat.",
+      "collocations": [
+        "older brother",
+        "little brother"
+      ]
+    },
+    {
+      "id": "w01-05",
+      "term": "sister",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈsɪstə/",
+      "pl": "siostra",
+      "def": "a girl with the same parents as you",
+      "example": "My {{sister}} likes to draw.",
+      "examplePl": "Moja siostra lubi rysować.",
+      "collocations": [
+        "older sister",
+        "little sister"
+      ]
+    },
+    {
+      "id": "w01-06",
+      "term": "How are you?",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "A1",
+      "ipa": "/ˌhaʊ ɑː ˈjuː/",
+      "pl": "Jak się masz?",
+      "def": "a question you ask to be kind when you meet someone",
+      "example": "{{How are you}}? I am fine, thanks.",
+      "examplePl": "Jak się masz? Dobrze, dziękuję.",
+      "collocations": []
+    },
+    {
+      "id": "w01-07",
+      "term": "grandmother",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈɡrænmʌðə/",
+      "pl": "babcia",
+      "def": "the mother of your mother or father",
+      "example": "My {{grandmother}} makes very good cakes.",
+      "examplePl": "Moja babcia piecze bardzo dobre ciasta.",
+      "collocations": [
+        "my grandmother",
+        "visit my grandmother"
+      ],
+      "note": "W mowie często mówimy krócej: *grandma*."
+    },
+    {
+      "id": "w01-08",
+      "term": "grandfather",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈɡrænfɑːðə/",
+      "pl": "dziadek",
+      "def": "the father of your mother or father",
+      "example": "My {{grandfather}} reads me a story.",
+      "examplePl": "Mój dziadek czyta mi bajkę.",
+      "collocations": [
+        "my grandfather",
+        "visit my grandfather"
+      ],
+      "note": "W mowie często mówimy krócej: *grandpa*."
+    },
+    {
+      "id": "w01-09",
+      "term": "friend",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/frend/",
+      "pl": "przyjaciel, przyjaciółka, kolega",
+      "def": "a person you like and know well",
+      "example": "Ben is my best {{friend}}.",
+      "examplePl": "Ben jest moim najlepszym przyjacielem.",
+      "collocations": [
+        "best friend",
+        "a good friend"
+      ],
+      "note": "Wymowa: **ie** to krótkie /e/, nie „i-e”. Czytamy „frend”."
+    },
+    {
+      "id": "w01-10",
+      "term": "boy",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/bɔɪ/",
+      "pl": "chłopiec, chłopak",
+      "def": "a male child",
+      "example": "The {{boy}} has a red ball.",
+      "examplePl": "Chłopiec ma czerwoną piłkę.",
+      "collocations": [
+        "a little boy",
+        "a boy and a girl"
+      ]
+    },
+    {
+      "id": "w01-11",
+      "term": "girl",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ɡɜːl/",
+      "pl": "dziewczynka, dziewczyna",
+      "def": "a female child",
+      "example": "The {{girl}} is in my class.",
+      "examplePl": "Ta dziewczynka jest w mojej klasie.",
+      "collocations": [
+        "a little girl",
+        "a boy and a girl"
+      ]
+    },
+    {
+      "id": "w01-12",
+      "term": "Nice to meet you",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A1",
+      "ipa": "/ˌnaɪs tə ˈmiːt juː/",
+      "pl": "Miło cię poznać",
+      "def": "something you say when you meet a person for the first time",
+      "example": "{{Nice to meet you}}, I am Anna.",
+      "examplePl": "Miło cię poznać, jestem Anna.",
+      "collocations": []
+    },
+    {
+      "id": "w01-13",
+      "term": "parents",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈpeərənts/",
+      "pl": "rodzice",
+      "def": "your mother and your father",
+      "example": "My {{parents}} are at home.",
+      "examplePl": "Moi rodzice są w domu.",
+      "collocations": [
+        "my parents",
+        "parents and children"
+      ],
+      "note": "Uwaga, fałszywy przyjaciel: *parents* to rodzice, a nie krewni (krewni to *relatives*)."
+    },
+    {
+      "id": "w01-14",
+      "term": "baby",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈbeɪbi/",
+      "pl": "niemowlę, dziecko",
+      "def": "a very young child",
+      "example": "The {{baby}} is asleep now.",
+      "examplePl": "Niemowlę teraz śpi.",
+      "collocations": [
+        "a new baby",
+        "a baby girl"
+      ]
+    },
+    {
+      "id": "w01-15",
+      "term": "name",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/neɪm/",
+      "pl": "imię, nazwa",
+      "def": "the word that people call you",
+      "example": "What is your {{name}}?",
+      "examplePl": "Jak masz na imię?",
+      "collocations": [
+        "my name",
+        "first name"
+      ]
+    },
+    {
+      "id": "w01-16",
+      "term": "old",
+      "type": "word",
+      "pos": "adj",
+      "level": "A1",
+      "ipa": "/əʊld/",
+      "pl": "stary",
+      "def": "having lived for many years",
+      "example": "My dog is very {{old}}.",
+      "examplePl": "Mój pies jest bardzo stary.",
+      "collocations": [
+        "an old man",
+        "old and young"
+      ]
+    },
+    {
+      "id": "w01-17",
+      "term": "come from",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "A1",
+      "ipa": "/ˈkʌm frəm/",
+      "pl": "pochodzić z, być z",
+      "def": "to be from a country or a town",
+      "example": "I {{come from}} Poland.",
+      "examplePl": "Pochodzę z Polski.",
+      "collocations": [
+        "come from Poland",
+        "where do you come from"
+      ]
+    },
+    {
+      "id": "w01-18",
+      "term": "years old",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A1",
+      "ipa": "/ˌjɪəz ˈəʊld/",
+      "pl": "lat (o wieku)",
+      "def": "a way to say how old a person is",
+      "example": "My sister is nine {{years old}}.",
+      "examplePl": "Moja siostra ma dziewięć lat.",
+      "collocations": [
+        "ten years old",
+        "how old"
+      ],
+      "note": "Wiek mówimy z czasownikiem **be**: *I am ten years old*, a nie „I have ten years”."
+    },
+    {
+      "id": "w01-19",
+      "term": "happy",
+      "type": "word",
+      "pos": "adj",
+      "level": "A1",
+      "ipa": "/ˈhæpi/",
+      "pl": "szczęśliwy, zadowolony",
+      "def": "feeling good and glad",
+      "example": "I am {{happy}} today.",
+      "examplePl": "Dzisiaj jestem szczęśliwy.",
+      "collocations": [
+        "happy birthday",
+        "feel happy"
+      ]
+    },
+    {
+      "id": "w01-20",
+      "term": "tall",
+      "type": "word",
+      "pos": "adj",
+      "level": "A1",
+      "ipa": "/tɔːl/",
+      "pl": "wysoki",
+      "def": "high from the bottom to the top, not short",
+      "example": "My father is very {{tall}}.",
+      "examplePl": "Mój tata jest bardzo wysoki.",
+      "collocations": [
+        "tall and thin",
+        "a tall boy"
+      ]
+    },
+    {
+      "id": "w01-21",
+      "term": "young",
+      "type": "word",
+      "pos": "adj",
+      "level": "A1",
+      "ipa": "/jʌŋ/",
+      "pl": "młody, mały (o wieku)",
+      "def": "not old; born not long ago",
+      "example": "My little brother is very {{young}}.",
+      "examplePl": "Mój młodszy brat jest bardzo mały.",
+      "collocations": [
+        "a young boy",
+        "young and old"
+      ]
+    },
+    {
+      "id": "w01-22",
+      "term": "kind",
+      "type": "word",
+      "pos": "adj",
+      "level": "A2",
+      "ipa": "/kaɪnd/",
+      "pl": "miły, dobry",
+      "def": "nice to other people and ready to help",
+      "example": "My grandmother is very {{kind}}.",
+      "examplePl": "Moja babcia jest bardzo miła.",
+      "collocations": [
+        "a kind person",
+        "kind to animals"
+      ],
+      "note": "Uwaga: *kind* jako przymiotnik znaczy „miły”. Nie mylić z rzeczownikiem *kind* (rodzaj)."
+    },
+    {
+      "id": "w01-23",
+      "term": "live",
+      "type": "word",
+      "pos": "v",
+      "level": "A1",
+      "ipa": "/lɪv/",
+      "pl": "mieszkać, żyć",
+      "def": "to have your home in a place",
+      "example": "We {{live}} in a small house.",
+      "examplePl": "Mieszkamy w małym domu.",
+      "collocations": [
+        "live in a house",
+        "live in Poland"
+      ],
+      "note": "Jako czasownik **live** czytamy /lɪv/ (krótkie i)."
+    },
+    {
+      "id": "w01-24",
+      "term": "live with",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A2",
+      "ipa": "/ˈlɪv wɪð/",
+      "pl": "mieszkać z",
+      "def": "to have your home together with a person",
+      "example": "I {{live with}} my mum and dad.",
+      "examplePl": "Mieszkam z mamą i tatą.",
+      "collocations": [
+        "live with my parents",
+        "live with my family"
+      ]
+    }
+  ]
+}

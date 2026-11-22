@@ -1,0 +1,76 @@
+{
+  "courses": [
+    {
+      "id": "a1a2",
+      "order": 1,
+      "rangeLabel": "A1 → A2",
+      "levelFrom": "A1",
+      "levelTo": "A2",
+      "titlePl": "Początkujący",
+      "courseTitle": "Pierwsze kroki",
+      "descPl": "Od podstaw: najczęstsze słowa, proste zdania o sobie, rodzinie, szkole i codziennym dniu.",
+      "forWhomPl": "Dla dzieci od około 8 lat i dla dorosłych, którzy zaczynają od zera lub wracają po długiej przerwie.",
+      "weeks": 24,
+      "daysPerWeek": 6,
+      "sessionMinutes": 20,
+      "vocabPerWeek": 24,
+      "availableWeeks": [
+        1
+      ]
+    },
+    {
+      "id": "a2b1",
+      "order": 2,
+      "rangeLabel": "A2 → B1",
+      "levelFrom": "A2",
+      "levelTo": "B1",
+      "titlePl": "Podstawowy",
+      "courseTitle": "Na co dzień",
+      "descPl": "Codzienne sytuacje: opowiadanie o przeszłości i planach, zakupy, podróże, zdrowie, pierwsze dłuższe teksty.",
+      "forWhomPl": "Dla uczniów od około 11 lat i dla dorosłych, którzy znają podstawy i chcą swobodnie radzić sobie w typowych sytuacjach.",
+      "weeks": 24,
+      "daysPerWeek": 6,
+      "sessionMinutes": 25,
+      "vocabPerWeek": 32,
+      "availableWeeks": [
+        1
+      ]
+    },
+    {
+      "id": "b1b2",
+      "order": 3,
+      "rangeLabel": "B1 → B2",
+      "levelFrom": "B1",
+      "levelTo": "B2",
+      "titlePl": "Średnio zaawansowany",
+      "courseTitle": "Swobodnie",
+      "descPl": "Swobodna rozmowa i rozumienie filmów oraz artykułów: phrasal verbs, kolokacje, tryby warunkowe, strona bierna.",
+      "forWhomPl": "Dla nastolatków od 13 lat i dla dorosłych, którzy dogadują się po angielsku, ale brakuje im słów i pewności.",
+      "weeks": 24,
+      "daysPerWeek": 6,
+      "sessionMinutes": 35,
+      "vocabPerWeek": 40,
+      "availableWeeks": [
+        1
+      ]
+    },
+    {
+      "id": "b2c1",
+      "order": 4,
+      "rangeLabel": "B2 → C1",
+      "levelFrom": "B2",
+      "levelTo": "C1",
+      "titlePl": "Zaawansowany",
+      "courseTitle": "Droga do C1",
+      "descPl": "Precyzja i naturalność: kolokacje, idiomy, rejestr, zaawansowana gramatyka, dłuższe teksty i dyskusje.",
+      "forWhomPl": "Dla dorosłych i starszych nastolatków, którzy mówią płynnie, ale chcą brzmieć naturalnie i rozumieć niuanse.",
+      "weeks": 24,
+      "daysPerWeek": 6,
+      "sessionMinutes": 40,
+      "vocabPerWeek": 40,
+      "availableWeeks": [
+        1
+      ]
+    }
+  ]
+}

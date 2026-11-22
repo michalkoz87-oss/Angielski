@@ -1,0 +1,586 @@
+{
+  "week": 1,
+  "theme": "Free time & hobbies",
+  "items": [
+    {
+      "id": "w01-01",
+      "term": "hobby",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈhɒbi/",
+      "pl": "hobby, zainteresowanie",
+      "def": "something you enjoy doing regularly in your free time",
+      "example": "Cooking is my favourite {{hobby}}; I try a new recipe every Sunday.",
+      "examplePl": "Gotowanie to moje ulubione hobby; w każdą niedzielę wypróbowuję nowy przepis.",
+      "collocations": [
+        "have a hobby",
+        "a favourite hobby",
+        "an unusual hobby"
+      ]
+    },
+    {
+      "id": "w01-02",
+      "term": "spare time",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A2",
+      "ipa": "/ˈspeə taɪm/",
+      "pl": "wolny czas",
+      "def": "the time when you are not working or studying",
+      "example": "In my {{spare time}} I read comics and play computer games.",
+      "examplePl": "W wolnym czasie czytam komiksy i gram w gry komputerowe.",
+      "collocations": [
+        "in your spare time",
+        "have no spare time",
+        "spend your spare time"
+      ]
+    },
+    {
+      "id": "w01-03",
+      "term": "keen",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/kiːn/",
+      "pl": "zapalony, chętny",
+      "def": "very interested in something or eager to do it",
+      "example": "Maria is {{keen}} on swimming, so she goes to the pool every morning.",
+      "examplePl": "Maria jest zapaloną pływaczką, więc co rano chodzi na basen.",
+      "collocations": [
+        "keen on",
+        "keen to do something",
+        "a keen footballer"
+      ],
+      "note": "Po *keen* zwykle stoi *on* + rzeczownik lub forma -ing: *keen on cooking*."
+    },
+    {
+      "id": "w01-04",
+      "term": "join",
+      "type": "word",
+      "pos": "v",
+      "level": "A2",
+      "ipa": "/dʒɔɪn/",
+      "pl": "dołączyć do, zapisać się do",
+      "def": "to become a member of a group or club",
+      "example": "I want to {{join}} the school choir because I love singing.",
+      "examplePl": "Chcę dołączyć do szkolnego chóru, bo uwielbiam śpiewać.",
+      "collocations": [
+        "join a club",
+        "join a team",
+        "join in"
+      ],
+      "note": "*Join* nie ma przyimka: *join a club* (nie *join to a club*)."
+    },
+    {
+      "id": "w01-05",
+      "term": "take up",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/teɪk ˈʌp/",
+      "pl": "zacząć uprawiać, zająć się (hobby)",
+      "def": "to start doing a new activity or hobby",
+      "example": "Last year my dad {{took up}} cycling, and now he rides every weekend.",
+      "examplePl": "W zeszłym roku tata zaczął jeździć na rowerze, a teraz jeździ w każdy weekend.",
+      "collocations": [
+        "take up a hobby",
+        "take up a sport",
+        "take up painting"
+      ]
+    },
+    {
+      "id": "w01-06",
+      "term": "meet up",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "A2",
+      "ipa": "/miːt ˈʌp/",
+      "pl": "umówić się, spotkać się",
+      "def": "to meet someone, usually after making a plan",
+      "example": "We usually {{meet up}} outside the cinema at six o'clock.",
+      "examplePl": "Zwykle spotykamy się przed kinem o szóstej.",
+      "collocations": [
+        "meet up with friends",
+        "meet up after school",
+        "let's meet up"
+      ]
+    },
+    {
+      "id": "w01-07",
+      "term": "relax",
+      "type": "word",
+      "pos": "v",
+      "level": "A2",
+      "ipa": "/rɪˈlæks/",
+      "pl": "odpoczywać, zrelaksować się",
+      "def": "to rest and feel calm, without any worry",
+      "example": "After a long day at school, I {{relax}} with some music.",
+      "examplePl": "Po długim dniu w szkole odpoczywam przy muzyce.",
+      "collocations": [
+        "relax at home",
+        "relax with music",
+        "relax after school"
+      ],
+      "family": [
+        "relaxed (adj)",
+        "relaxing (adj)",
+        "relaxation (n)"
+      ]
+    },
+    {
+      "id": "w01-08",
+      "term": "go for a walk",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A2",
+      "ipa": "/ɡəʊ fər ə ˈwɔːk/",
+      "pl": "iść na spacer",
+      "def": "to walk somewhere slowly for pleasure",
+      "example": "When the weather is nice, we {{go for a walk}} along the river.",
+      "examplePl": "Gdy jest ładna pogoda, idziemy na spacer wzdłuż rzeki.",
+      "collocations": [
+        "go for a long walk",
+        "take the dog for a walk"
+      ]
+    },
+    {
+      "id": "w01-09",
+      "term": "member",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈmembə/",
+      "pl": "członek",
+      "def": "a person who belongs to a group or club",
+      "example": "Every {{member}} of the chess club gets a free T-shirt.",
+      "examplePl": "Każdy członek szachowego klubu dostaje darmową koszulkę.",
+      "collocations": [
+        "a member of a club",
+        "a family member",
+        "a team member"
+      ],
+      "family": [
+        "membership (n)"
+      ]
+    },
+    {
+      "id": "w01-10",
+      "term": "club",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/klʌb/",
+      "pl": "klub, koło zainteresowań",
+      "def": "a group of people who meet to do an activity together",
+      "example": "My sister goes to a drama {{club}} after school on Tuesdays.",
+      "examplePl": "Moja siostra chodzi we wtorki po lekcjach na koło teatralne.",
+      "collocations": [
+        "a football club",
+        "a drama club",
+        "a youth club"
+      ]
+    },
+    {
+      "id": "w01-11",
+      "term": "practise",
+      "type": "word",
+      "pos": "v",
+      "level": "A2",
+      "ipa": "/ˈpræktɪs/",
+      "pl": "ćwiczyć, trenować",
+      "def": "to do something again and again to get better at it",
+      "example": "I {{practise}} the piano for half an hour every evening.",
+      "examplePl": "Codziennie wieczorem ćwiczę grę na pianinie przez pół godziny.",
+      "collocations": [
+        "practise the piano",
+        "practise speaking English",
+        "practise every day"
+      ],
+      "family": [
+        "practice (n)"
+      ],
+      "note": "W brytyjskim angielskim czasownik to *practise*, a rzeczownik *practice*. W USA oba piszemy przez *c*."
+    },
+    {
+      "id": "w01-12",
+      "term": "collect",
+      "type": "word",
+      "pos": "v",
+      "level": "A2",
+      "ipa": "/kəˈlekt/",
+      "pl": "zbierać, kolekcjonować",
+      "def": "to get and keep many things of one kind because you like them",
+      "example": "Tom {{collects}} stamps from all over the world and keeps them in albums.",
+      "examplePl": "Tom zbiera znaczki z całego świata i trzyma je w albumach.",
+      "collocations": [
+        "collect stamps",
+        "collect coins",
+        "collect toy cars"
+      ],
+      "family": [
+        "collection (n)",
+        "collector (n)"
+      ]
+    },
+    {
+      "id": "w01-13",
+      "term": "draw",
+      "type": "word",
+      "pos": "v",
+      "level": "A2",
+      "ipa": "/drɔː/",
+      "pl": "rysować",
+      "def": "to make a picture with a pencil or pen",
+      "example": "She loves to {{draw}} animals, and her pictures are on our fridge.",
+      "examplePl": "Uwielbia rysować zwierzęta, a jej obrazki wiszą na naszej lodówce.",
+      "collocations": [
+        "draw a picture",
+        "draw a map",
+        "draw with a pencil"
+      ],
+      "family": [
+        "drawing (n)"
+      ],
+      "note": "*Draw* to rysowanie ołówkiem lub długopisem. Farbami się *paint* (malować)."
+    },
+    {
+      "id": "w01-14",
+      "term": "chat",
+      "type": "word",
+      "pos": "v",
+      "level": "A2",
+      "ipa": "/tʃæt/",
+      "pl": "gawędzić, rozmawiać luźno",
+      "def": "to talk with someone in a friendly, relaxed way",
+      "example": "After lunch, we sit outside and {{chat}} about our weekend plans.",
+      "examplePl": "Po obiedzie siedzimy na dworze i gawędzimy o planach na weekend.",
+      "collocations": [
+        "chat online",
+        "chat with friends",
+        "chat about"
+      ]
+    },
+    {
+      "id": "w01-15",
+      "term": "hang out",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/hæŋ ˈaʊt/",
+      "pl": "spędzać czas (ze znajomymi)",
+      "def": "to spend time in a place or with people without doing anything special",
+      "example": "On Saturdays I {{hang out}} with my friends at the skate park.",
+      "examplePl": "W soboty spędzam czas ze znajomymi w skateparku.",
+      "collocations": [
+        "hang out with friends",
+        "hang out at the park"
+      ]
+    },
+    {
+      "id": "w01-16",
+      "term": "take it easy",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "B1",
+      "ipa": "/teɪk ɪt ˈiːzi/",
+      "pl": "wyluzować, nie przemęczać się",
+      "def": "to relax and not work too hard",
+      "example": "It's Sunday, so I'm going to {{take it easy}} and watch films all day.",
+      "examplePl": "Jest niedziela, więc zamierzam wyluzować i oglądać filmy przez cały dzień.",
+      "collocations": []
+    },
+    {
+      "id": "w01-17",
+      "term": "board game",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈbɔːd ɡeɪm/",
+      "pl": "gra planszowa",
+      "def": "a game that people play at a table, using small pieces, cards or dice",
+      "example": "On rainy evenings we play a {{board game}} together at the kitchen table.",
+      "examplePl": "W deszczowe wieczory gramy razem w grę planszową przy kuchennym stole.",
+      "collocations": [
+        "play a board game",
+        "a popular board game"
+      ]
+    },
+    {
+      "id": "w01-18",
+      "term": "gardening",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈɡɑːdnɪŋ/",
+      "pl": "ogrodnictwo, zajmowanie się ogrodem",
+      "def": "the activity of growing plants, flowers or vegetables outside your home",
+      "example": "My grandma loves {{gardening}} and grows tomatoes behind her house.",
+      "examplePl": "Moja babcia uwielbia zajmować się ogrodem i hoduje pomidory za domem.",
+      "collocations": [
+        "do the gardening",
+        "love gardening",
+        "gardening gloves"
+      ],
+      "family": [
+        "garden (n)",
+        "gardener (n)"
+      ]
+    },
+    {
+      "id": "w01-19",
+      "term": "play the guitar",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A2",
+      "ipa": "/ˌpleɪ ðə ɡɪˈtɑː/",
+      "pl": "grać na gitarze",
+      "def": "to make music with an instrument that has strings and a long neck",
+      "example": "My cousin can {{play the guitar}} and sings at our family parties.",
+      "examplePl": "Mój kuzyn gra na gitarze i śpiewa na naszych rodzinnych imprezach.",
+      "collocations": [
+        "play the guitar",
+        "play the piano",
+        "play in a band"
+      ],
+      "note": "Przy nazwach instrumentów używamy *the*: *play the guitar* (nie *play guitar*)."
+    },
+    {
+      "id": "w01-20",
+      "term": "stay in",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/steɪ ˈɪn/",
+      "pl": "zostać w domu",
+      "def": "to remain at home and not go out",
+      "example": "It's raining heavily, so we're {{staying in}} and watching a film tonight.",
+      "examplePl": "Mocno pada, więc dziś wieczorem zostajemy w domu i oglądamy film.",
+      "collocations": [
+        "stay in tonight",
+        "prefer to stay in"
+      ]
+    },
+    {
+      "id": "w01-21",
+      "term": "boring",
+      "type": "word",
+      "pos": "adj",
+      "level": "A2",
+      "ipa": "/ˈbɔːrɪŋ/",
+      "pl": "nudny",
+      "def": "not interesting at all",
+      "example": "This TV programme is so {{boring}} that I always fall asleep.",
+      "examplePl": "Ten program telewizyjny jest tak nudny, że zawsze zasypiam.",
+      "collocations": [
+        "a boring lesson",
+        "extremely boring"
+      ],
+      "family": [
+        "bore (v)",
+        "bored (adj)",
+        "boredom (n)"
+      ],
+      "note": "*Boring* opisuje to, co nudzi (*a boring film*), a *bored* opisuje osobę: *I'm bored* (jestem znudzony/znudzona)."
+    },
+    {
+      "id": "w01-22",
+      "term": "exciting",
+      "type": "word",
+      "pos": "adj",
+      "level": "A2",
+      "ipa": "/ɪkˈsaɪtɪŋ/",
+      "pl": "ekscytujący, pasjonujący",
+      "def": "making you feel happy and full of energy because something interesting is happening",
+      "example": "Rock climbing is an {{exciting}} sport, but you must wear a helmet.",
+      "examplePl": "Wspinaczka skałkowa to ekscytujący sport, ale trzeba nosić kask.",
+      "collocations": [
+        "an exciting game",
+        "really exciting"
+      ],
+      "family": [
+        "excite (v)",
+        "excited (adj)",
+        "excitement (n)"
+      ],
+      "note": "*Exciting* opisuje to, co ekscytuje (*an exciting game*), a *excited* – osobę: *I'm excited* (jestem podekscytowany/podekscytowana)."
+    },
+    {
+      "id": "w01-23",
+      "term": "free",
+      "type": "word",
+      "pos": "adj",
+      "level": "A2",
+      "ipa": "/friː/",
+      "pl": "wolny, mający czas",
+      "def": "not busy and with no plans",
+      "example": "Are you {{free}} on Saturday afternoon? We need one more player.",
+      "examplePl": "Masz czas w sobotę po południu? Brakuje nam jednego gracza.",
+      "collocations": [
+        "free time",
+        "free on Friday",
+        "a free evening"
+      ],
+      "note": "*Free* znaczy też „darmowy”: *a free ticket*."
+    },
+    {
+      "id": "w01-24",
+      "term": "regularly",
+      "type": "word",
+      "pos": "adv",
+      "level": "B1",
+      "ipa": "/ˈreɡjələli/",
+      "pl": "regularnie",
+      "def": "often and at the same times, again and again",
+      "example": "She trains {{regularly}}, three times a week, to stay in shape.",
+      "examplePl": "Trenuje regularnie, trzy razy w tygodniu, żeby być w formie.",
+      "collocations": [
+        "exercise regularly",
+        "meet regularly",
+        "very regularly"
+      ],
+      "family": [
+        "regular (adj)",
+        "irregular (adj)"
+      ]
+    },
+    {
+      "id": "w01-25",
+      "term": "get into",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ɡet ˈɪntu/",
+      "pl": "wciągnąć się w, zainteresować się",
+      "def": "to start to enjoy something and become interested in it",
+      "example": "My brother {{got into}} chess last winter, and now he plays every day.",
+      "examplePl": "Mój brat wciągnął się w szachy zeszłej zimy i teraz gra codziennie.",
+      "collocations": [
+        "get into reading",
+        "get into a new hobby"
+      ]
+    },
+    {
+      "id": "w01-26",
+      "term": "photography",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/fəˈtɒɡrəfi/",
+      "pl": "fotografia, fotografowanie",
+      "def": "the art or activity of taking pictures with a camera",
+      "example": "She enjoys {{photography}} and takes pictures of birds in the park.",
+      "examplePl": "Interesuje się fotografią i robi zdjęcia ptakom w parku.",
+      "collocations": [
+        "a photography club",
+        "nature photography"
+      ],
+      "family": [
+        "photograph (n)",
+        "photographer (n)"
+      ],
+      "note": "Akcent: *photography* /fəˈtɒɡrəfi/ ma akcent na drugiej sylabie, a *photograph* /ˈfəʊtəɡrɑːf/ na pierwszej."
+    },
+    {
+      "id": "w01-27",
+      "term": "painting",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈpeɪntɪŋ/",
+      "pl": "malowanie, malarstwo; obraz",
+      "def": "the activity of making pictures with paint, or a picture made this way",
+      "example": "My aunt is very good at {{painting}}, and her pictures hang in our living room.",
+      "examplePl": "Moja ciocia świetnie maluje, a jej obrazy wiszą w naszym salonie.",
+      "collocations": [
+        "oil painting",
+        "a painting class",
+        "do painting"
+      ]
+    },
+    {
+      "id": "w01-28",
+      "term": "weekend",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˌwiːkˈend/",
+      "pl": "weekend",
+      "def": "Saturday and Sunday",
+      "example": "I never get up early at the {{weekend}}; I sleep until ten.",
+      "examplePl": "W weekend nigdy nie wstaję wcześnie; śpię do dziesiątej.",
+      "collocations": [
+        "at the weekend",
+        "last weekend",
+        "a long weekend"
+      ],
+      "note": "W brytyjskim angielskim: *at the weekend*. W amerykańskim: *on the weekend*."
+    },
+    {
+      "id": "w01-29",
+      "term": "enjoy",
+      "type": "word",
+      "pos": "v",
+      "level": "A2",
+      "ipa": "/ɪnˈdʒɔɪ/",
+      "pl": "lubić, cieszyć się czymś",
+      "def": "to get pleasure from something",
+      "example": "I really {{enjoy}} cooking with my dad on Sunday mornings.",
+      "examplePl": "Naprawdę lubię gotować z tatą w niedzielne poranki.",
+      "collocations": [
+        "enjoy doing something",
+        "enjoy the weekend",
+        "enjoy yourself"
+      ],
+      "note": "Po *enjoy* używamy formy -ing: *enjoy swimming* (nie *enjoy to swim*)."
+    },
+    {
+      "id": "w01-30",
+      "term": "prefer",
+      "type": "word",
+      "pos": "v",
+      "level": "A2",
+      "ipa": "/prɪˈfɜː/",
+      "pl": "woleć",
+      "def": "to like one thing or person better than another",
+      "example": "Some people like football, but I {{prefer}} tennis because it's faster.",
+      "examplePl": "Niektórzy lubią piłkę nożną, ale ja wolę tenis, bo jest szybszy.",
+      "collocations": [
+        "prefer tea to coffee",
+        "prefer doing something",
+        "prefer to stay in"
+      ],
+      "note": "Mówimy *prefer A to B* (nie *prefer A than B*): *I prefer tea to coffee*."
+    },
+    {
+      "id": "w01-31",
+      "term": "no way",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "A2",
+      "ipa": "/nəʊ ˈweɪ/",
+      "pl": "nie ma mowy",
+      "def": "used to say strongly that you will not do something, or that it is impossible",
+      "example": "{{No way}}! I'm not getting up at five on my day off.",
+      "examplePl": "Nie ma mowy! Nie wstanę o piątej w swój wolny dzień.",
+      "collocations": []
+    },
+    {
+      "id": "w01-32",
+      "term": "look forward to",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/lʊk ˈfɔːwəd tə/",
+      "pl": "nie móc się doczekać, cieszyć się na",
+      "def": "to feel happy and excited about something that will happen soon",
+      "example": "I'm {{looking forward to}} the school trip because we are visiting a castle.",
+      "examplePl": "Nie mogę się doczekać szkolnej wycieczki, bo zwiedzamy zamek.",
+      "collocations": [
+        "look forward to the weekend",
+        "look forward to seeing you"
+      ],
+      "note": "Po *look forward to* stoi rzeczownik lub forma -ing: *I look forward to seeing you* (nie *to see*)."
+    }
+  ]
+}

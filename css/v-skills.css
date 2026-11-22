@@ -1,0 +1,21 @@
+/* v-skills.css — listening, writing, speaking. */
+.dict__peek { font-size: var(--text-lg); padding: var(--s-3); background: var(--surface-2); border-radius: var(--r-ctl); margin: 0; }
+.dict__diff { font-size: var(--text-lg); line-height: 1.7; margin: 0; }
+.dict__w--ok { color: var(--ok-fg); }
+.dict__w--wrong { color: var(--bad-fg); text-decoration: underline wavy; }
+.dict__w--missing { color: var(--warn-fg); border-bottom: 2px dashed var(--warn); }
+.dict__w--extra { color: var(--fg-3); text-decoration: line-through; }
+.is-ok { color: var(--ok-fg); }
+.fb { padding: var(--s-4); border: 1px solid var(--line); border-radius: var(--r-card); background: var(--surface); }
+.fb p, .fb h3, .fb ul { margin: 0; }
+.rp__goals { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: var(--s-1); }
+.rp__log { display: flex; flex-direction: column; gap: var(--s-2); }
+.rp__bubble { max-width: 88%; margin: 0; padding: var(--s-3) var(--s-4); border-radius: var(--r-card); background: var(--surface); border: 1px solid var(--line); overflow-wrap: anywhere; white-space: pre-wrap; }
+.rp__bubble--me { align-self: flex-end; background: var(--accent-soft); border-color: transparent; }
+.rp__fix { display: block; margin-top: var(--s-2); padding-top: var(--s-2); border-top: 1px dashed var(--line-strong); color: var(--warn-fg); font-family: var(--font-ui); font-size: var(--text-sm); }
+.rp__fix .label { display: block; }
+.rp__compose { display: flex; flex-wrap: wrap; gap: var(--s-2); }
+.rp__compose .input { flex: 1 1 200px; min-width: 0; }
+.speak__clock { font-size: var(--text-lg); font-weight: 600; }
+.shadow { margin: 0; padding-left: var(--s-5); display: flex; flex-direction: column; gap: var(--s-3); font-size: var(--text-md); }
+.shadow li > .speak { margin-left: var(--s-2); vertical-align: middle; }

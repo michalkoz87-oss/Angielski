@@ -1,0 +1,33 @@
+/* v-pages.css — plan, dictionary, progress, settings. */
+.plan__weeks { display: flex; flex-direction: column; }
+.plan__week { display: flex; align-items: center; gap: var(--s-3); flex: 1 1 auto; min-width: 0; }
+.plan__no { flex: none; width: 2ch; text-align: right; font-weight: 600; color: var(--fg-3); }
+.plan__body { flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+.plan__theme { font-weight: 600; }
+.dict { display: flex; flex-direction: column; }
+.dict__tools { display: flex; flex-wrap: wrap; gap: var(--s-2); }
+.dict__tools .input { flex: 1 1 200px; min-width: 0; }
+.dict__tools select.input { flex: 0 1 180px; }
+.dict__row { display: flex; align-items: baseline; flex-wrap: wrap; gap: var(--s-1) var(--s-3); flex: 1 1 auto; min-width: 0; }
+.dict__term { font-weight: 600; font-size: var(--text-md); }
+.dict__pl { flex: 1 1 140px; min-width: 0; color: var(--fg-2); font-size: var(--text-sm); }
+.dict__more { display: flex; flex-direction: column; gap: var(--s-3); }
+.dict__more p { margin: 0; }
+.dict__explain { white-space: pre-wrap; }
+.legend { list-style: none; display: flex; flex-wrap: wrap; gap: var(--s-2) var(--s-5); margin: 0; padding: 0; font-size: var(--text-sm); }
+.legend li { display: inline-flex; align-items: center; gap: var(--s-2); }
+.legend__dot { width: 10px; height: 10px; border-radius: var(--r-pill); background: var(--seq-2); }
+.legend__dot[data-k="young"] { background: var(--seq-3); }
+.legend__dot[data-k="mature"] { background: var(--ok); }
+.heat { display: grid; grid-template-rows: repeat(7, 12px); grid-auto-flow: column; grid-auto-columns: 12px; gap: 3px; overflow-x: auto; padding-bottom: var(--s-1); }
+.heat__cell { border-radius: 3px; background: var(--seq-0); }
+.heat__cell--pad { background: transparent; }
+.heat__cell[data-l="1"] { background: var(--seq-1); }
+.heat__cell[data-l="2"] { background: var(--seq-2); }
+.heat__cell[data-l="3"] { background: var(--seq-3); }
+.heat__cell[data-l="4"] { background: var(--seq-4); }
+.chart { margin: 0; display: flex; flex-direction: column; gap: var(--s-2); }
+.chart__bars { display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: 4px; height: 140px; align-items: end; }
+.chart__col { display: flex; flex-direction: column; align-items: center; justify-content: flex-end; gap: 2px; height: 100%; min-width: 0; }
+.chart__bar { width: 100%; max-width: 28px; min-height: 2px; border-radius: 3px 3px 0 0; background: var(--seq-3); }
+.chart__val, .chart__lab { font-size: var(--text-2xs); color: var(--fg-3); white-space: nowrap; }

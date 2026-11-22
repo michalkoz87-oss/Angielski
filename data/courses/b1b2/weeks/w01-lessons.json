@@ -1,0 +1,708 @@
+{
+  "week": 1,
+  "intro": "W tym tygodniu mówimy o osobowości i charakterze: nauczysz się opisywać siebie i innych, rozmawiać o pierwszych wrażeniach i o tym, co łączy przyjaciół. Powtórzysz też różnicę między present simple a present continuous, czyli między tym, jacy ludzie są zwykle, a tym, co robią właśnie teraz. Na koniec napiszesz krótki opis bliskiej osoby.",
+  "reading": {
+    "title": "Three Friends, Three Personalities",
+    "paragraphs": [
+      "I'm sitting on a train to my grandparents' house, and I'm thinking about my two best friends. People often ask how we {{get on with|w01-07}} each other when we are so different, so this post is my answer.",
+      "Maya is {{the life and soul of the party|w01-40}}. She is very {{outgoing|w01-01}} and {{talkative|w01-33}}, and she makes a great {{first impression|w01-09}} on everybody. At the moment she is organising a surprise party for our form teacher, and she is telling half the school about it, which is not much of a surprise! Her one weakness is that she sometimes {{shows off|w01-28}}, but nobody minds, because she is also {{generous|w01-05}}.",
+      "Jonas is almost the opposite. He is quite {{shy|w01-02}}, so it takes time to {{get to know|w01-38}} him. He doesn't say much in a group, but when he finally {{opens up|w01-18}}, he is hilarious, because he has a brilliant {{sense of humour|w01-19}}. He is also the most {{reliable|w01-03}} person I know: if he promises to help, he always turns up on time.",
+      "As for me, people say I {{take after|w01-17}} my dad, and I'm afraid it's true. I'm rather {{stubborn|w01-04}}, and I {{lose my temper|w01-29}} quickly when I think I'm right. Right now I'm trying to become more {{easy-going|w01-21}}, but my friends say I'm always arguing about something!",
+      "So why does our friendship work? I believe we {{have a lot in common|w01-20}} where it matters. We all {{look up to|w01-08}} people who are kind, and we all know that friends don't have to be the same. Maya makes us laugh, Jonas keeps us calm, and I keep us organised. Our differences are not a problem; they make us stronger."
+    ],
+    "glossary": [
+      {
+        "term": "opposite",
+        "pl": "przeciwieństwo, przeciwny"
+      },
+      {
+        "term": "form teacher",
+        "pl": "wychowawca klasy"
+      },
+      {
+        "term": "weakness",
+        "pl": "słabość, wada"
+      },
+      {
+        "term": "hilarious",
+        "pl": "przezabawny"
+      },
+      {
+        "term": "turn up",
+        "pl": "pojawić się, przyjść"
+      },
+      {
+        "term": "argue",
+        "pl": "kłócić się"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "q": "What is Maya doing at the moment?",
+        "options": [
+          "Organising a surprise party for a teacher",
+          "Telling jokes on a train",
+          "Looking for a new school",
+          "Helping Jonas to make friends"
+        ],
+        "answer": 0,
+        "explanationPl": "W drugim akapicie: *she is organising a surprise party for our form teacher*."
+      },
+      {
+        "type": "mc",
+        "q": "Why do the friends not mind that Maya sometimes shows off?",
+        "options": [
+          "Because she is also generous",
+          "Because she is the oldest of them",
+          "Because she only does it at parties",
+          "Because she is shy"
+        ],
+        "answer": 0,
+        "explanationPl": "Tekst mówi: *nobody minds, because she is also generous*."
+      },
+      {
+        "type": "mc",
+        "q": "What does the writer say about Jonas?",
+        "options": [
+          "He is funny once he feels comfortable with people",
+          "He talks a lot in a group",
+          "He often arrives late",
+          "He is the writer's cousin"
+        ],
+        "answer": 0,
+        "explanationPl": "W trzecim akapicie: *when he finally opens up, he is hilarious*. Jonas mało mówi w grupie i zawsze przychodzi na czas."
+      },
+      {
+        "type": "tf",
+        "q": "The writer's friends say that she argues too often.",
+        "answer": "true",
+        "explanationPl": "Czwarty akapit: *my friends say I'm always arguing about something*."
+      },
+      {
+        "type": "tf",
+        "q": "Maya has kept the surprise party a secret.",
+        "answer": "false",
+        "explanationPl": "Maya *is telling half the school about it*, więc to żadna tajemnica."
+      },
+      {
+        "type": "tf",
+        "q": "The writer has known Jonas since primary school.",
+        "answer": "not_given",
+        "explanationPl": "Tekst nie mówi, od kiedy autorka zna Jonasa."
+      }
+    ],
+    "discussion": [
+      "Which of the three friends is most like you? Why?",
+      "Do you think close friends need to have similar personalities? Why or why not?"
+    ]
+  },
+  "grammar": {
+    "title": "Present simple vs present continuous",
+    "titlePl": "Present simple a present continuous",
+    "summaryPl": "**Present simple** opisuje, jacy ludzie są zwykle: nawyki, fakty i stałe cechy. **Present continuous** mówi o tym, co dzieje się teraz lub w tym okresie, oraz o zachowaniach tymczasowych.",
+    "sections": [
+      {
+        "heading": "Present simple: nawyki, fakty, stałe cechy",
+        "bodyPl": "Używamy **present simple**, gdy mówimy o tym, jaki ktoś jest zwykle, co robi regularnie albo o faktach. Typowe słowa: *always, usually, often, sometimes, never, every day, on Mondays*. Przysłówki częstotliwości stoją przed czasownikiem głównym, ale po *be*: *She always arrives early*, ale *She is always early*. Pytania i przeczenia tworzymy z *do / does*, a końcówka *-s* zostaje przy *does* tylko w trzeciej osobie liczby pojedynczej: *Does she play?*, ale *She plays*.",
+        "examples": [
+          {
+            "en": "Maya talks a lot and makes friends easily.",
+            "pl": "Maya dużo mówi i łatwo zawiera przyjaźnie."
+          },
+          {
+            "en": "I don't usually argue with my friends.",
+            "pl": "Zwykle nie kłócę się z przyjaciółmi."
+          },
+          {
+            "en": "Does your brother get on well with your parents?",
+            "pl": "Czy twój brat dobrze dogaduje się z rodzicami?"
+          }
+        ]
+      },
+      {
+        "heading": "Present continuous: to, co dzieje się teraz",
+        "bodyPl": "**Present continuous** (*am / is / are* + czasownik z końcówką *-ing*) opisuje czynności trwające w chwili mówienia albo w okresie wokół niej: *now, at the moment, today, this week, these days*. Używamy go też, gdy ktoś zachowuje się inaczej niż zwykle, oraz do opisu zmian zachodzących w czasie (*getting, becoming*).",
+        "examples": [
+          {
+            "en": "Jonas is usually shy, but today he is talking to everyone.",
+            "pl": "Jonas zwykle jest nieśmiały, ale dziś rozmawia ze wszystkimi."
+          },
+          {
+            "en": "I'm reading a really funny book at the moment.",
+            "pl": "Czytam teraz naprawdę zabawną książkę."
+          },
+          {
+            "en": "Our class is doing a project on friendship this week.",
+            "pl": "W tym tygodniu nasza klasa robi projekt o przyjaźni."
+          },
+          {
+            "en": "My little sister is becoming more confident every year.",
+            "pl": "Moja młodsza siostra z roku na rok staje się coraz pewniejsza siebie."
+          }
+        ]
+      },
+      {
+        "heading": "Czasowniki stanu: bez formy -ing",
+        "bodyPl": "Czasowniki opisujące stany, uczucia, opinie i posiadanie zwykle nie występują w czasach ciągłych, nawet gdy mowa o teraźniejszości. Należą do nich m.in. *know, understand, believe, remember, like, love, hate, want, need, prefer, belong, own, seem*. Po polsku mówimy „Wiem”, „Rozumiem”, ale też „Czytam”, więc łatwo przenieść schemat na angielski i powiedzieć błędnie *I am knowing*.",
+        "examples": [
+          {
+            "en": "I know exactly what you mean.",
+            "pl": "Dokładnie wiem, co masz na myśli."
+          },
+          {
+            "en": "She seems tired today.",
+            "pl": "Dziś wygląda na zmęczoną."
+          },
+          {
+            "en": "This bag belongs to my cousin.",
+            "pl": "Ta torba należy do mojej kuzynki."
+          },
+          {
+            "en": "I don't want to argue with you.",
+            "pl": "Nie chcę się z tobą kłócić."
+          }
+        ]
+      },
+      {
+        "heading": "Czasowniki o dwóch znaczeniach",
+        "bodyPl": "Niektóre czasowniki mają jedno znaczenie opisujące stan (present simple) i drugie opisujące czynność (present continuous). *Think*: „sądzić” (opinia) kontra „zastanawiać się” (proces). *Have*: „mieć” kontra „jeść, przeżywać” (*having lunch*, *having a good time*). *See*: „widzieć, rozumieć” kontra „spotykać się z kimś”. *Be*: *He is rude* („taki jest”) kontra *He is being rude* („zachowuje się niegrzecznie teraz”).",
+        "examples": [
+          {
+            "en": "I think you are right.",
+            "pl": "Uważam, że masz rację."
+          },
+          {
+            "en": "I'm thinking about changing schools.",
+            "pl": "Zastanawiam się nad zmianą szkoły."
+          },
+          {
+            "en": "We're having lunch in the school canteen.",
+            "pl": "Jemy lunch w szkolnej stołówce."
+          },
+          {
+            "en": "She is being really selfish today.",
+            "pl": "Dziś zachowuje się naprawdę samolubnie."
+          }
+        ]
+      },
+      {
+        "heading": "Always + present continuous: irytujące nawyki",
+        "bodyPl": "Z przysłówkiem *always* (także *constantly, forever*) present continuous wyraża irytację lub zdziwienie z powodu zachowania, które powtarza się za często. Porównaj: *He always borrows my pens* (zwykły fakt) i *He is always borrowing my pens!* (to mnie denerwuje).",
+        "examples": [
+          {
+            "en": "My brother is always borrowing my headphones!",
+            "pl": "Mój brat wiecznie pożycza moje słuchawki!"
+          },
+          {
+            "en": "You're always losing your keys.",
+            "pl": "Wiecznie gubisz klucze."
+          },
+          {
+            "en": "She always helps me with my homework.",
+            "pl": "Zawsze pomaga mi w pracy domowej."
+          }
+        ]
+      }
+    ],
+    "pitfallsPl": [
+      {
+        "wrong": "I am knowing her very well.",
+        "right": "I know her very well.",
+        "whyPl": "*Know* jest czasownikiem stanu i nie przyjmuje formy ciągłej."
+      },
+      {
+        "wrong": "Be quiet! I study for a test.",
+        "right": "Be quiet! I'm studying for a test.",
+        "whyPl": "Czynność trwa w chwili mówienia, więc potrzebny jest **present continuous**. Polskie „uczę się” pasuje do obu czasów, dlatego trzeba uważać."
+      },
+      {
+        "wrong": "I am thinking that you are right.",
+        "right": "I think that you are right.",
+        "whyPl": "Gdy *think* oznacza „sądzić, uważać”, używamy present simple. Forma ciągła pasuje do „zastanawiać się”."
+      },
+      {
+        "wrong": "How often are you going to the cinema?",
+        "right": "How often do you go to the cinema?",
+        "whyPl": "Pytanie o częstotliwość (*how often*) dotyczy nawyku, więc używamy **present simple**."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "My brother ___ football every Saturday morning.",
+        "options": [
+          "plays",
+          "is playing",
+          "play"
+        ],
+        "answer": 0,
+        "explanationPl": "*Every Saturday morning* wskazuje na regularny nawyk, więc present simple. W 3. osobie dodajemy *-s*."
+      },
+      {
+        "type": "mc",
+        "prompt": "Be quiet, please. The baby ___.",
+        "options": [
+          "sleeps",
+          "is sleeping",
+          "sleep"
+        ],
+        "answer": 1,
+        "explanationPl": "Dziecko śpi właśnie teraz, więc potrzebny jest present continuous."
+      },
+      {
+        "type": "mc",
+        "prompt": "I ___ what you mean. It's a good idea.",
+        "options": [
+          "understand",
+          "am understanding",
+          "understanding"
+        ],
+        "answer": 0,
+        "explanationPl": "*Understand* jest czasownikiem stanu i nie przyjmuje formy ciągłej."
+      },
+      {
+        "type": "mc",
+        "prompt": "Our class ___ a project about friendship this week.",
+        "options": [
+          "does",
+          "is doing",
+          "do"
+        ],
+        "answer": 1,
+        "explanationPl": "*This week* oznacza tymczasową czynność w toku, więc present continuous."
+      },
+      {
+        "type": "gap",
+        "prompt": "Jana ___ (not / like) spicy food, so she never orders curry.",
+        "answers": [
+          "doesn't like",
+          "does not like"
+        ],
+        "explanationPl": "Czasownik stanu *like* i fakt o upodobaniach: present simple. Przeczenie: *does not (doesn't) like*."
+      },
+      {
+        "type": "gap",
+        "prompt": "At the moment ___ (I / read) a very funny book about a dog.",
+        "answers": [
+          "I am reading",
+          "I'm reading"
+        ],
+        "explanationPl": "*At the moment* sygnalizuje present continuous: *I am (I'm) reading*."
+      },
+      {
+        "type": "mc",
+        "prompt": "Which sentence is correct?",
+        "options": [
+          "I am wanting a new phone.",
+          "I want a new phone.",
+          "I'm want a new phone."
+        ],
+        "answer": 1,
+        "explanationPl": "*Want* jest czasownikiem stanu, więc używamy present simple: *I want*."
+      },
+      {
+        "type": "mc",
+        "prompt": "Hana ___ about moving to another city, but she hasn't decided yet.",
+        "options": [
+          "thinks",
+          "is thinking",
+          "think"
+        ],
+        "answer": 1,
+        "explanationPl": "Tu *think* oznacza proces („zastanawiać się”), więc używamy present continuous."
+      },
+      {
+        "type": "gap",
+        "prompt": "How often ___ (you / see) your grandparents?",
+        "answers": [
+          "do you see"
+        ],
+        "explanationPl": "*How often* pyta o nawyk, więc present simple z *do* w pytaniu."
+      },
+      {
+        "type": "mc",
+        "prompt": "Our neighbour ___ loud music late at night! It's so annoying.",
+        "options": [
+          "is always playing",
+          "always is playing",
+          "does always play"
+        ],
+        "answer": 0,
+        "explanationPl": "Irytujący, powtarzający się nawyk wyrażamy przez *is always* + *-ing*. Pozostałe opcje mają błędny szyk lub formę."
+      },
+      {
+        "type": "transform",
+        "prompt": "My brother takes my headphones without asking, and it really annoys me.",
+        "keyword": "ALWAYS",
+        "gapped": "My brother ___ my headphones without asking!",
+        "answers": [
+          "is always taking",
+          "always takes"
+        ],
+        "explanationPl": "*Is always taking* wyraża irytację z powodu częstego zachowania. Poprawna jest też wersja neutralna *always takes*."
+      },
+      {
+        "type": "transform",
+        "prompt": "Piotr is considering a change of school.",
+        "keyword": "THINKING",
+        "gapped": "Piotr ___ about changing school.",
+        "answers": [
+          "is thinking"
+        ],
+        "explanationPl": "*Think about* w znaczeniu „zastanawiać się” występuje w present continuous: *is thinking about*."
+      }
+    ],
+    "testItems": [
+      {
+        "type": "mc",
+        "prompt": "The sun ___ in the east.",
+        "options": [
+          "rises",
+          "is rising",
+          "rise"
+        ],
+        "answer": 0,
+        "explanationPl": "To fakt ogólny, więc present simple."
+      },
+      {
+        "type": "mc",
+        "prompt": "Shh! I ___ to concentrate.",
+        "options": [
+          "try",
+          "am trying",
+          "trying"
+        ],
+        "answer": 1,
+        "explanationPl": "Czynność trwa teraz, więc present continuous: *am trying*."
+      },
+      {
+        "type": "gap",
+        "prompt": "This book ___ (belong) to my sister, not to me.",
+        "answers": [
+          "belongs"
+        ],
+        "explanationPl": "*Belong* jest czasownikiem stanu, więc present simple: *belongs*."
+      },
+      {
+        "type": "gap",
+        "prompt": "Why ___ (you / laugh)? What's so funny?",
+        "answers": [
+          "are you laughing"
+        ],
+        "explanationPl": "Pytanie o to, co dzieje się teraz: present continuous."
+      },
+      {
+        "type": "mc",
+        "prompt": "She ___ she is the best singer in the school.",
+        "options": [
+          "is believing",
+          "believes",
+          "believe"
+        ],
+        "answer": 1,
+        "explanationPl": "*Believe* jest czasownikiem stanu: present simple, 3. osoba z *-s*."
+      }
+    ]
+  },
+  "listening": {
+    "dictation": [
+      {
+        "text": "My older sister is very sensible and never panics in an emergency."
+      },
+      {
+        "text": "He is usually quite shy, but today he is talking to everyone."
+      },
+      {
+        "text": "I get on well with my neighbours, although they are rather noisy."
+      },
+      {
+        "text": "At the moment we are learning how to describe people's characters."
+      },
+      {
+        "text": "She always arrives early because she is a very reliable person."
+      },
+      {
+        "text": "I don't understand why you are so stubborn about this."
+      }
+    ],
+    "monologue": {
+      "title": "A voice message about the new boy",
+      "speaker": "a teenage girl leaving a voice message for her friend",
+      "script": [
+        "Hi Ola, it's me. I'm on the bus home, and I wanted to tell you about the new boy in our class. His name is Felix, and he moved here last week from Manchester. At first I thought he was really shy, because he sat alone at lunch and never said a word to anyone.",
+        "But yesterday we worked together on the science project, and he completely changed. He's actually very funny. He has a great sense of humour, and he makes jokes about everything, even about his own mistakes. He's also really determined. We were stuck on one experiment for an hour, and he refused to give up until it worked.",
+        "The only problem is that he's quite stubborn. He never listens when I suggest a different idea! Anyway, I'm having lunch with him tomorrow, and I'm going to ask if he wants to join our football team. I think you'll like him. Call me back when you can. Bye!"
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Why did the speaker first think that Felix was shy?",
+          "options": [
+            "He sat alone and did not talk to anyone",
+            "He refused to join the science project",
+            "He came from another country",
+            "He was late on his first day"
+          ],
+          "answer": 0,
+          "explanationPl": "W pierwszym akapicie: *he sat alone at lunch and never said a word to anyone*."
+        },
+        {
+          "type": "mc",
+          "q": "What did Felix do when the experiment did not work?",
+          "options": [
+            "He asked the teacher for help",
+            "He kept trying until it worked",
+            "He made a joke and went home",
+            "He changed the project"
+          ],
+          "answer": 1,
+          "explanationPl": "Mówczyni mówi, że *he refused to give up until it worked*."
+        },
+        {
+          "type": "mc",
+          "q": "What is the speaker's only complaint about Felix?",
+          "options": [
+            "He talks too much",
+            "He is often late",
+            "He is quite stubborn",
+            "He is jealous of her"
+          ],
+          "answer": 2,
+          "explanationPl": "*The only problem is that he's quite stubborn.*"
+        },
+        {
+          "type": "mc",
+          "q": "What is the speaker going to do tomorrow?",
+          "options": [
+            "Meet Ola after school",
+            "Have lunch with Felix and invite him to the football team",
+            "Visit Manchester",
+            "Start a new science project"
+          ],
+          "answer": 1,
+          "explanationPl": "W ostatnim akapicie: *I'm having lunch with him tomorrow, and I'm going to ask if he wants to join our football team.*"
+        }
+      ]
+    }
+  },
+  "writing": {
+    "taskEn": "Write a description of a friend or a family member. Say what the person is like, what he or she is doing these days, and why you enjoy spending time with them.",
+    "taskPl": "Opisz przyjaciela, przyjaciółkę lub członka rodziny. Napisz, jaka to osoba, co robi w ostatnim czasie i dlaczego lubisz spędzać z nią czas.",
+    "genre": "description",
+    "minWords": 80,
+    "maxWords": 120,
+    "checklistPl": [
+      "Zacznij od przedstawienia osoby i jej głównej cechy charakteru",
+      "Opisz co najmniej trzy cechy, używając przymiotników z tego tygodnia",
+      "Użyj present simple do opisu cech i nawyków oraz present continuous do opisu tego, co dzieje się teraz",
+      "Zakończ zdaniem o tym, dlaczego lubisz tę osobę"
+    ],
+    "usefulPhrases": [
+      "is the most ... person I know",
+      "What I like most about ... is ...",
+      "At the moment, ... is ...ing",
+      "She/He is always ...ing, which makes me laugh",
+      "We get on really well because ...",
+      "I really look up to ... because ...",
+      "People often say that ... takes after ..."
+    ],
+    "modelAnswer": "My cousin Kasia is the most {{outgoing|w01-01}} person I know. She is very {{talkative|w01-33}}, and she has a great {{sense of humour|w01-19}}, so she is often {{the life and soul of the party|w01-40}}. She is also {{reliable|w01-03}}: if she promises to help, she always does. At the moment she is preparing for a swimming competition, and she is training every morning because she is so {{determined|w01-25}}. Of course, she is sometimes a little {{stubborn|w01-04}}, and she is always telling me what to do! I {{get on with|w01-07}} her better than with anyone else in my family, and I really {{look up to|w01-08}} her, because she never gives up."
+  },
+  "speaking": {
+    "prompts": [
+      {
+        "q": "How would your best friend describe your personality?",
+        "followUp": "Do you agree with that description?"
+      },
+      {
+        "q": "Who do you look up to, and why?",
+        "followUp": "Which of their qualities would you like to have?"
+      },
+      {
+        "q": "Are you more outgoing or more shy when you meet new people?",
+        "followUp": "Is it always like this, or does it depend on the situation?"
+      },
+      {
+        "q": "What are you doing these days that is new or different in your life?",
+        "followUp": "How do you feel about it?"
+      },
+      {
+        "q": "What makes a good friend, in your opinion?",
+        "followUp": "Can two very different people be close friends?"
+      }
+    ],
+    "shadowing": [
+      "I usually get on well with people, but I'm a bit shy at first.",
+      "My brother is always borrowing my things without asking, and it drives me mad.",
+      "She has a great sense of humour, so she makes everybody laugh.",
+      "At the moment I'm trying to be more patient with my little sister.",
+      "You can trust him completely, because he is honest and very reliable."
+    ],
+    "roleplay": {
+      "titlePl": "Rozmowa o nowej osobie w klasie",
+      "scenarioPl": "Do Twojej klasy dołączyła nowa osoba i właśnie z nią porozmawiano. Znajomy lub znajoma pyta Cię, jaka ona jest. Opowiedz o jej charakterze i o tym, co robicie razem.",
+      "yourRole": "You have just spent some time with the new student in your class. A friend asks you what he or she is like. Describe the student's personality and say what you are doing together at the moment.",
+      "partnerRole": "You are a friend who is curious about the new student. Ask about his or her personality, hobbies and whether he or she is shy or outgoing.",
+      "opening": "Hi! I saw you talking to the new student at lunch. What is he or she like?",
+      "goalsPl": [
+        "Opisz charakter nowej osoby, używając co najmniej trzech przymiotników",
+        "Powiedz, co ta osoba robi w tej chwili w klasie lub po lekcjach",
+        "Powiedz, czy dobrze się z nią dogadujesz, i uzasadnij to"
+      ]
+    }
+  },
+  "practice": {
+    "gapFill": [
+      {
+        "sentence": "I really ___ my older cousin because she studies hard, helps everyone and never complains.",
+        "answerId": "w01-08",
+        "answers": [
+          "look up to"
+        ]
+      },
+      {
+        "sentence": "Dan was so ___ that he refused to say sorry, even though he knew he was wrong.",
+        "answerId": "w01-04",
+        "answers": [
+          "stubborn"
+        ]
+      },
+      {
+        "sentence": "Learning a language takes time, so you need to be ___ and not give up after one bad lesson.",
+        "answerId": "w01-14",
+        "answers": [
+          "patient"
+        ]
+      },
+      {
+        "sentence": "Uncle Tomek is incredibly ___ with his money and often pays for everybody.",
+        "answerId": "w01-05",
+        "answers": [
+          "generous"
+        ]
+      },
+      {
+        "sentence": "Ben noticed I was upset and sat with me all break without being asked; it was a very ___ thing to do.",
+        "answerId": "w01-24",
+        "answers": [
+          "thoughtful"
+        ]
+      },
+      {
+        "sentence": "On the morning of the exam, Zuzia was ___ and could not eat any breakfast.",
+        "answerId": "w01-30",
+        "answers": [
+          "a bundle of nerves"
+        ]
+      },
+      {
+        "sentence": "Try not to ___ when your little brother touches your things; shouting never helps.",
+        "answerId": "w01-29",
+        "answers": [
+          "lose your temper"
+        ]
+      },
+      {
+        "sentence": "Everyone laughed when Leo started ___ in front of the whole class by doing handstands.",
+        "answerId": "w01-28",
+        "answers": [
+          "showing off",
+          "to show off"
+        ]
+      },
+      {
+        "sentence": "Marek was sad about the lost match, but he quickly ___ when his friends brought him a pizza.",
+        "answerId": "w01-27",
+        "answers": [
+          "cheered up"
+        ]
+      },
+      {
+        "sentence": "Piotr ___ his grandmother: they both love gardening and hate getting up early.",
+        "answerId": "w01-17",
+        "answers": [
+          "takes after"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "left": "reliable",
+        "right": "can be trusted to do what he or she promises"
+      },
+      {
+        "left": "shy",
+        "right": "nervous and quiet with people you do not know well"
+      },
+      {
+        "left": "selfish",
+        "right": "caring only about yourself"
+      },
+      {
+        "left": "ambitious",
+        "right": "wanting very much to succeed"
+      },
+      {
+        "left": "moody",
+        "right": "changing quickly from happy to angry for no clear reason"
+      },
+      {
+        "left": "honest",
+        "right": "always telling the truth"
+      },
+      {
+        "left": "jealous",
+        "right": "unhappy because someone has something you want"
+      },
+      {
+        "left": "optimistic",
+        "right": "expecting good things to happen"
+      }
+    ],
+    "wordFormation": [
+      {
+        "sentence": "Her ___ to win the championship impressed the whole school.",
+        "base": "DETERMINED",
+        "answers": [
+          "determination"
+        ]
+      },
+      {
+        "sentence": "His ___ disappears as soon as he starts talking about football.",
+        "base": "SHY",
+        "answers": [
+          "shyness"
+        ]
+      },
+      {
+        "sentence": "___ is the most important thing in any friendship.",
+        "base": "HONEST",
+        "answers": [
+          "honesty"
+        ]
+      },
+      {
+        "sentence": "The singer walked onto the stage ___ and smiled at the audience.",
+        "base": "CONFIDENT",
+        "answers": [
+          "confidently"
+        ]
+      },
+      {
+        "sentence": "Children learn quickly because their ___ never stops.",
+        "base": "CURIOUS",
+        "answers": [
+          "curiosity"
+        ]
+      },
+      {
+        "sentence": "Everyone was angry about his ___; he never shares anything.",
+        "base": "SELFISH",
+        "answers": [
+          "selfishness"
+        ]
+      }
+    ]
+  }
+}

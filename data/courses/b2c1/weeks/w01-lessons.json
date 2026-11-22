@@ -1,0 +1,504 @@
+{
+  "week": 1,
+  "intro": "Ten tydzień jest o opisywaniu ludzi: o cechach charakteru, pierwszym wrażeniu, mocnych stronach i wadach. Po jego ukończeniu opiszesz czyjś charakter precyzyjnie i z przykładami (na przykład odróżnisz osobę powściągliwą od nieśmiałej, a natarczywą od apodyktycznej), ominiesz pułapki w rodzaju sympathetic i pathetic i napiszesz opis osoby, którą podziwiasz. W gramatyce uporządkujesz różnicę między present simple a present continuous, razem z czasownikami stanu i zdaniami typu He's always interrupting.",
+  "reading": {
+    "title": "The colleague I got wrong",
+    "paragraphs": [
+      "I pride myself on reading people quickly. Give me thirty seconds at a party and I think I know who is {{genuine|w01-16}}, who {{is full of himself|w01-30}} and who has only come for the free wine. It is a useful {{trait|w01-31}} in a journalist. It is also, I am slowly realising, my most embarrassing {{flaw|w01-32}}.",
+      "Take Helen. When she joined our office three years ago, she barely spoke. She didn't laugh at my jokes, she ate lunch at her desk, and in meetings she {{came across as|w01-11}} cold, even a little bored. Everyone else in the building is {{outgoing|w01-13}} to the point of noise, so a {{reserved|w01-14}} newcomer stood out. Within a week I had decided that she {{looked down on|w01-27}} the rest of us. 'She thinks she's too good for this place,' I told a friend.",
+      "I was wrong about almost everything. Helen, it turns out, is simply {{awkward|w01-17}} with people she doesn't know. She needs time, and most of us never give it. She is also the most {{conscientious|w01-01}} person I have ever worked with: she reads every contract twice. She {{keeps her word|w01-09}}, too. If she says Thursday, she means Thursday morning. And when a junior reporter was blamed for a mistake that wasn't his, it was Helen, not one of the loud, charming people, who {{stood up for|w01-38}} him in front of the editor.",
+      "These days I {{count on|w01-08}} her more than on anyone else in the building. This month she is training our new recruits, and I am watching them make exactly the mistake I made. They laugh with the {{witty|w01-15}} ones and ignore the quiet woman in the corner who actually knows the answers. She doesn't {{show off|w01-26}}, so they assume there is nothing to show.",
+      "Psychologists say we form an opinion of a stranger in a fraction of a second and then spend months collecting evidence that we were right. I believe it, because I still do it. I am always deciding who people are before they have finished their first sentence. Helen is {{brutally honest|w01-29}} about this. 'You don't listen,' she told me last week. 'You {{judge a book by its cover|w01-20}} and then you stop reading.'",
+      "She is right, of course. So I am trying something new. When I meet someone who fails to {{make a good impression|w01-12}}, I think of Helen and give them a month. Most people, I find, are far more interesting in week four."
+    ],
+    "glossary": [
+      { "term": "to pride yourself on sth", "pl": "szczycić się czymś" },
+      { "term": "barely", "pl": "ledwie, prawie wcale" },
+      { "term": "it turns out", "pl": "okazuje się" },
+      { "term": "to be blamed for sth", "pl": "zostać obwinionym o coś" },
+      { "term": "a recruit", "pl": "nowo przyjęty pracownik" },
+      { "term": "to assume", "pl": "zakładać, przyjmować z góry" },
+      { "term": "a fraction of a second", "pl": "ułamek sekundy" },
+      { "term": "evidence", "pl": "dowody" }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "q": "What is the writer's main point?",
+        "options": [
+          "Quiet colleagues are usually better at their jobs than confident ones.",
+          "Our quick judgements of people are often wrong, so people deserve more time.",
+          "Nobody can be a good journalist without the ability to read people.",
+          "People who make a bad first impression rarely manage to change it."
+        ],
+        "answer": 1,
+        "explanationPl": "Cały tekst opisuje pomyłkę w ocenie Helen, a ostatni akapit podaje wniosek: komuś, kto nie zrobił dobrego wrażenia, warto dać miesiąc. Tekst nie twierdzi, że ciche osoby z zasady pracują lepiej."
+      },
+      {
+        "type": "mc",
+        "q": "Why did the writer decide that Helen looked down on her colleagues?",
+        "options": [
+          "She criticised other people's work in meetings.",
+          "She told a friend that the office was not good enough for her.",
+          "She was quiet and kept to herself in a very sociable office.",
+          "She refused to have lunch with the writer."
+        ],
+        "answer": 2,
+        "explanationPl": "Akapit 2: Helen prawie się nie odzywała, nie śmiała się z żartów, jadła lunch przy biurku, a na zebraniach wydawała się chłodna. Zdanie *She thinks she's too good for this place* wypowiada autor tekstu, nie Helen."
+      },
+      {
+        "type": "tf",
+        "q": "The writer understood within a week that Helen was simply uncomfortable with strangers.",
+        "answer": "false",
+        "explanationPl": "W ciągu tygodnia autor tekstu uznał, że Helen patrzy na wszystkich z góry (*Within a week I had decided that she looked down on the rest of us*). To, że Helen jest po prostu skrępowana wśród obcych, okazało się dopiero później."
+      },
+      {
+        "type": "mc",
+        "q": "What does the writer suggest about the new recruits?",
+        "options": [
+          "They are afraid to ask Helen questions.",
+          "They show off too much during their training.",
+          "They already know most of the answers.",
+          "They are misjudging Helen, just as the writer once did."
+        ],
+        "answer": 3,
+        "explanationPl": "Akapit 4: *I am watching them make exactly the mistake I made*. Nowi pracownicy śmieją się z dowcipnymi kolegami, a ignorują cichą osobę, która naprawdę zna odpowiedzi."
+      },
+      {
+        "type": "mc",
+        "q": "How does the writer react to Helen's comment 'You don't listen'?",
+        "options": [
+          "By feeling hurt and thinking that Helen is being unfair.",
+          "By accepting that it is fair and trying to change.",
+          "By treating it as a joke.",
+          "By being surprised, because nobody has said it before."
+        ],
+        "answer": 1,
+        "explanationPl": "Ostatni akapit zaczyna się od słów *She is right, of course*, a zaraz potem pada *So I am trying something new*: krytyka zostaje przyjęta i prowadzi do zmiany zachowania."
+      },
+      {
+        "type": "mc",
+        "q": "In paragraph 2, 'a reserved newcomer stood out' means that Helen",
+        "options": [
+          "was easy to notice because she was different from the others.",
+          "was clearly better at her job than the others.",
+          "refused to take part in the life of the office.",
+          "often left meetings before they had finished."
+        ],
+        "answer": 0,
+        "explanationPl": "*Stand out* znaczy tutaj „rzucać się w oczy”: w głośnym, towarzyskim biurze powściągliwa osoba była od razu widoczna. W innych kontekstach *stand out* może znaczyć „być wyraźnie lepszym”, ale tu nic na to nie wskazuje."
+      }
+    ],
+    "discussion": [
+      "How long do you usually need before you feel you know what a new person is like?",
+      "Have you ever been completely wrong about someone? What changed your mind?",
+      "Is it fair that outgoing people often make a better first impression than reserved ones?"
+    ]
+  },
+  "grammar": {
+    "title": "Present simple vs present continuous",
+    "titlePl": "Present simple a present continuous",
+    "summaryPl": "Present simple opisuje to, co stałe, powtarzalne albo ogólnie prawdziwe, a present continuous to, co dzieje się teraz, jest tymczasowe albo właśnie się zmienia. Po polsku obie sytuacje obsługuje jeden czas teraźniejszy, dlatego po angielsku trzeba wybierać świadomie.",
+    "sections": [
+      {
+        "heading": "Stałe i powtarzalne a dziejące się teraz",
+        "bodyPl": "**Present simple** (*I work*, *she works*; pytania i przeczenia z *do/does*) opisuje to, co stałe, powtarzalne albo ogólnie prawdziwe: nawyki, cechy charakteru, fakty. Typowe sygnały to *always*, *usually*, *often*, *never*, *every day*. **Present continuous** (*am/is/are* + czasownik z końcówką *-ing*) opisuje czynność w toku: dokładnie w tej chwili albo w obecnym okresie (*at the moment*, *this week*, *these days*), a także sytuacje tymczasowe i stopniowe zmiany. Po polsku w obu przypadkach wystarcza jedno „pracuję”, po angielsku trzeba wybrać między *I work* a *I'm working*.",
+        "examples": [
+          { "en": "She usually works from home, but this week she's working in the office.", "pl": "Zwykle pracuje z domu, ale w tym tygodniu pracuje w biurze." },
+          { "en": "He doesn't talk much in meetings.", "pl": "Na zebraniach mało się odzywa (taki już jest)." },
+          { "en": "Why isn't he talking today? Is something wrong?", "pl": "Dlaczego dziś się nie odzywa? Coś się stało?" },
+          { "en": "My brother is getting more patient as he gets older.", "pl": "Mój brat z wiekiem robi się coraz cierpliwszy." }
+        ]
+      },
+      {
+        "heading": "Czasowniki stanu (stative verbs)",
+        "bodyPl": "Niektóre czasowniki nie opisują czynności, tylko stan, i zwykle **nie mają formy continuous**, nawet gdy mowa o tej chwili. Główne grupy to: wiedza i opinie (*know*, *believe*, *understand*, *agree*, *remember*, *mean*, *doubt*), uczucia i potrzeby (*like*, *love*, *hate*, *prefer*, *want*, *need*), posiadanie (*own*, *belong*, *have* w znaczeniu „mieć”) oraz wrażenia (*seem*, *appear*, *sound*). Polskie „rozumiem” brzmi tak samo w zdaniu o tej chwili i w zdaniu ogólnym, więc łatwo odruchowo dodać *-ing*. Przy tych czasownikach to błąd.",
+        "examples": [
+          { "en": "I know her quite well, but I don't really understand her.", "pl": "Znam ją dość dobrze, ale tak naprawdę jej nie rozumiem." },
+          { "en": "Do you believe him? He never keeps his word.", "pl": "Wierzysz mu? On nigdy nie dotrzymuje słowa." },
+          { "en": "They own three restaurants and a hotel.", "pl": "Są właścicielami trzech restauracji i hotelu." },
+          { "en": "This jacket belongs to my flatmate.", "pl": "Ta kurtka należy do mojego współlokatora." },
+          { "en": "She seems genuine, but I need more time to be sure.", "pl": "Wydaje się szczera, ale potrzebuję więcej czasu, żeby mieć pewność." }
+        ]
+      },
+      {
+        "heading": "Dwa znaczenia: think i have",
+        "bodyPl": "Część czasowników ma dwa znaczenia: jedno opisuje stan (wtedy tylko present simple), drugie czynność (wtedy continuous jest możliwy). *Think* w znaczeniu „uważać, sądzić” to stan, a *think about/of* w znaczeniu „zastanawiać się, rozważać” to czynność. *Have* w znaczeniu „mieć, posiadać” to stan, a w wyrażeniach takich jak *have lunch*, *have a shower*, *have a meeting* czy *have a good time* to czynność.",
+        "examples": [
+          { "en": "I think she's very down-to-earth.", "pl": "Uważam, że jest bardzo bezpretensjonalna." },
+          { "en": "I'm thinking of changing my job.", "pl": "Zastanawiam się nad zmianą pracy." },
+          { "en": "He has a great sense of humour.", "pl": "Ma świetne poczucie humoru." },
+          { "en": "We're having lunch with the new manager.", "pl": "Jemy właśnie lunch z nową szefową." }
+        ]
+      },
+      {
+        "heading": "Dwa znaczenia: see i be",
+        "bodyPl": "*See* w znaczeniu „widzieć” albo „rozumieć” to stan (*I see what you mean*), a w znaczeniu „spotykać się z kimś” to czynność (*She's seeing a client*). Podobnie działa *be*: *He is rude* opisuje stałą cechę charakteru, a *He is being rude* znaczy, że ktoś zachowuje się tak w tej chwili, często inaczej niż zwykle. Przy opisywaniu ludzi to rozróżnienie przydaje się bardzo często.",
+        "examples": [
+          { "en": "I see what you mean, but I don't agree.", "pl": "Rozumiem, o co ci chodzi, ale się nie zgadzam." },
+          { "en": "She's seeing a client at the moment.", "pl": "Ma teraz spotkanie z klientem." },
+          { "en": "My sister is stubborn.", "pl": "Moja siostra jest uparta (z natury)." },
+          { "en": "You're being stubborn. Just listen to me for a minute!", "pl": "Upierasz się bez powodu. Posłuchaj mnie przez chwilę!" }
+        ]
+      },
+      {
+        "heading": "Always + present continuous: irytujące nawyki",
+        "bodyPl": "Zwykłe *always* łączy się z present simple i neutralnie stwierdza fakt. Jeśli jednak *always* (albo *constantly*, *forever*) pojawia się z present continuous, zdanie wyraża emocje: coś zdarza się za często i mówiącego to drażni albo dziwi. Przysłówek stoi między *be* a formą z *-ing*. Po polsku podobny efekt dają słowa „wiecznie” albo „ciągle”.",
+        "examples": [
+          { "en": "He always arrives on time.", "pl": "Zawsze przychodzi punktualnie (fakt, bez emocji)." },
+          { "en": "He's always interrupting me.", "pl": "On mi wiecznie przerywa (i mnie to denerwuje)." },
+          { "en": "My flatmate is constantly borrowing my things without asking.", "pl": "Mój współlokator ciągle pożycza moje rzeczy bez pytania." },
+          { "en": "I'm always losing my keys.", "pl": "Wiecznie gubię klucze." }
+        ]
+      }
+    ],
+    "pitfallsPl": [
+      {
+        "wrong": "I'm not understanding why she is so moody.",
+        "right": "I don't understand why she is so moody.",
+        "whyPl": "*Understand* to czasownik stanu: nie tworzy formy continuous, nawet gdy mowa o tej chwili."
+      },
+      {
+        "wrong": "She is having a heart of gold.",
+        "right": "She has a heart of gold.",
+        "whyPl": "*Have* w znaczeniu „mieć” to stan. Forma *is having* jest poprawna tylko w wyrażeniach opisujących czynność, np. *is having lunch*."
+      },
+      {
+        "wrong": "What do you think about? You look worried.",
+        "right": "What are you thinking about? You look worried.",
+        "whyPl": "Pytanie dotyczy myślenia w tej chwili, a nie opinii, więc potrzebny jest continuous. *What do you think?* znaczy „Co sądzisz?”."
+      },
+      {
+        "wrong": "This week I work from home.",
+        "right": "This week I'm working from home.",
+        "whyPl": "Sytuacja tymczasowa (*this week*) wymaga present continuous. Polskie „pracuję” nie pokazuje tej różnicy, dlatego łatwo ją przeoczyć."
+      },
+      {
+        "wrong": "He always is complaining about his boss.",
+        "right": "He's always complaining about his boss.",
+        "whyPl": "*Always* stoi po czasowniku *be*, a przed formą z *-ing*."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "My sister ___ to everyone she meets. She's the most outgoing person I know.",
+        "options": ["talks", "is talking", "talk"],
+        "answer": 0,
+        "explanationPl": "Stała cecha i powtarzalne zachowanie, więc present simple; w trzeciej osobie liczby pojedynczej z końcówką *-s*."
+      },
+      {
+        "type": "mc",
+        "prompt": "Don't go in now. Kate ___ a job candidate.",
+        "options": ["interviews", "is interviewing", "interview"],
+        "answer": 1,
+        "explanationPl": "Czynność trwa w tej chwili (*now*), więc present continuous."
+      },
+      {
+        "type": "mc",
+        "prompt": "I ___ a word he says. He never keeps his promises.",
+        "options": ["am not believing", "don't believe", "not believe"],
+        "answer": 1,
+        "explanationPl": "*Believe* to czasownik stanu, więc nie używamy formy continuous. Przeczenie tworzymy z *don't*."
+      },
+      {
+        "type": "mc",
+        "prompt": "Whose laptop is this? It ___ to the new designer.",
+        "options": ["is belonging", "belongs", "belong"],
+        "answer": 1,
+        "explanationPl": "*Belong* opisuje posiadanie, czyli stan: tylko present simple, w trzeciej osobie *belongs*."
+      },
+      {
+        "type": "mc",
+        "prompt": "You look worried. What ___ about?",
+        "options": ["do you think", "are you thinking", "you are thinking"],
+        "answer": 1,
+        "explanationPl": "Chodzi o to, nad czym ktoś zastanawia się w tej chwili (czynność), a nie o opinię, więc *are you thinking*. W pytaniu obowiązuje inwersja: *are you*, nie *you are*."
+      },
+      {
+        "type": "mc",
+        "prompt": "'Tom is being very polite today.' What does the speaker mean?",
+        "options": [
+          "Tom is a polite person by nature.",
+          "Tom is behaving politely now, which is not how he usually behaves.",
+          "Tom was polite earlier today, but he isn't any more."
+        ],
+        "answer": 1,
+        "explanationPl": "*Is being* + przymiotnik opisuje zachowanie w tej chwili, zwykle inne niż normalnie. Stałą cechę wyraża zwykłe *is*: *Tom is polite*."
+      },
+      {
+        "type": "mc",
+        "prompt": "It's so annoying. My boss ___ me in meetings.",
+        "options": ["is always interrupting", "always is interrupting", "is interrupting always"],
+        "answer": 0,
+        "explanationPl": "*Always* z present continuous wyraża irytację powtarzającym się zachowaniem. Przysłówek stoi między *is* a formą z *-ing*."
+      },
+      {
+        "type": "gap",
+        "prompt": "She ___ (not / understand) why people find her bossy.",
+        "answers": ["doesn't understand", "does not understand"],
+        "explanationPl": "*Understand* to czasownik stanu, więc present simple: *doesn't understand*."
+      },
+      {
+        "type": "gap",
+        "prompt": "This month our manager ___ (train) three new members of staff.",
+        "answers": ["is training"],
+        "explanationPl": "*This month* sygnalizuje sytuację tymczasową, trwającą w obecnym okresie, więc present continuous."
+      },
+      {
+        "type": "gap",
+        "prompt": "Sorry, I can't talk now. We ___ (have) lunch with the new director.",
+        "answers": ["are having", "'re having"],
+        "explanationPl": "*Have lunch* to czynność, a nie posiadanie, i trwa w tej chwili, więc *are having*."
+      },
+      {
+        "type": "gap",
+        "prompt": "My flatmate is ___ (always / leave) dirty plates in the sink. It drives me mad.",
+        "answers": ["always leaving"],
+        "explanationPl": "Irytujący nawyk: *be* + *always* + forma z *-ing*. Przysłówek stoi po *is*."
+      },
+      {
+        "type": "transform",
+        "prompt": "I'm considering applying for the team leader's job.",
+        "keyword": "THINKING",
+        "gapped": "I ___ applying for the team leader's job.",
+        "answers": ["am thinking of", "'m thinking of", "am thinking about", "'m thinking about"],
+        "explanationPl": "*Think of/about doing sth* w znaczeniu „rozważać” opisuje czynność, więc występuje w present continuous. Po przyimku czasownik ma formę z *-ing*."
+      }
+    ],
+    "testItems": [
+      {
+        "type": "mc",
+        "prompt": "My aunt and uncle ___ a small hotel by the sea.",
+        "options": ["are owning", "own", "owns"],
+        "answer": 1,
+        "explanationPl": "*Own* to czasownik stanu (posiadanie), więc present simple. Podmiot jest w liczbie mnogiej, dlatego bez końcówki *-s*."
+      },
+      {
+        "type": "mc",
+        "prompt": "'Is Anna free?' 'No, she ___ a client at the moment.'",
+        "options": ["sees", "is seeing", "see"],
+        "answer": 1,
+        "explanationPl": "*See* w znaczeniu „spotykać się z kimś” to czynność, a *at the moment* wskazuje na to, co dzieje się teraz, więc *is seeing*."
+      },
+      {
+        "type": "gap",
+        "prompt": "I ___ (think) you're being a bit unfair to him.",
+        "answers": ["think"],
+        "explanationPl": "*Think* w znaczeniu „uważać” wyraża opinię, czyli stan, więc present simple."
+      },
+      {
+        "type": "gap",
+        "prompt": "Why ___ (you / laugh)? I'm being serious.",
+        "answers": ["are you laughing"],
+        "explanationPl": "Czynność trwa w tej chwili, więc present continuous; w pytaniu *are* stoi przed podmiotem."
+      },
+      {
+        "type": "mc",
+        "prompt": "Which sentence shows that the speaker is annoyed?",
+        "options": [
+          "He always phones his mother on Sundays.",
+          "He's always phoning his mother when we're trying to eat.",
+          "He phones his mother every day."
+        ],
+        "answer": 1,
+        "explanationPl": "*Always* z present continuous wyraża irytację. Pozostałe zdania w present simple neutralnie opisują zwyczaj."
+      }
+    ]
+  },
+  "listening": {
+    "dictation": [
+      { "text": "She comes across as reserved, but she has a heart of gold." },
+      { "text": "He is always showing off in front of his colleagues." },
+      { "text": "I don't think she looks down on anyone." },
+      { "text": "My manager is being surprisingly sympathetic about the whole thing." },
+      { "text": "You can always count on him because he keeps his word." },
+      { "text": "We are looking for someone who is conscientious and can take criticism." }
+    ],
+    "monologue": {
+      "title": "The new boss",
+      "speaker": "a woman leaving a voice message for a close friend",
+      "script": [
+        "Hi, it's me. You're probably having dinner, so don't worry about calling back tonight. I just wanted to tell you about the new boss, because you asked, and to be honest I'm still thinking about it.",
+        "So, first impressions. On Monday she came across as really cold. She didn't smile, she didn't chat, she just asked everyone for their figures. And I thought, great, another bossy manager who always wants to get her own way. I wasn't the only one, either. Half the office decided they didn't like her before lunch.",
+        "But here's the thing. This week she's having a private meeting with each of us, and mine was this morning. And one to one, she's completely different. She listens. She remembers what you tell her. She asked what I'm good at and what I hate doing, because she wants everyone to play to their strengths. She was brutally honest, too. She said my reports are far too long, which is true, and I didn't even mind, because it felt genuine. And you know I'm not great at taking criticism.",
+        "So now I think she's just reserved, not unfriendly. She probably needs time, like the rest of us. Anyway, I'm seeing her again on Friday about the new project, so I'll let you know how it goes. Oh, and she's always drinking tea. Six cups this morning. I counted. Right, I'd better go. Speak soon. Bye!"
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Why is the speaker leaving this message?",
+          "options": [
+            "To ask her friend to call her back tonight.",
+            "To tell her friend what the new boss is like.",
+            "To get advice about a problem at work.",
+            "To invite her friend to dinner on Friday."
+          ],
+          "answer": 1,
+          "explanationPl": "Na początku pada zdanie *I just wanted to tell you about the new boss, because you asked*. Mówiąca wyraźnie dodaje, że nie trzeba dziś oddzwaniać."
+        },
+        {
+          "type": "mc",
+          "q": "What was the speaker's first impression of the new boss?",
+          "options": [
+            "She seemed shy and nervous.",
+            "She seemed friendly but badly organised.",
+            "She seemed cold and likely to be controlling.",
+            "She seemed funny but not very serious."
+          ],
+          "answer": 2,
+          "explanationPl": "Drugi fragment: *she came across as really cold*, a potem *another bossy manager who always wants to get her own way*."
+        },
+        {
+          "type": "mc",
+          "q": "How did the speaker react when the boss criticised her reports?",
+          "options": [
+            "She was upset, because she cannot take criticism.",
+            "She argued that her reports were the right length.",
+            "She complained about it to her colleagues.",
+            "She accepted it, because it was true and felt sincere."
+          ],
+          "answer": 3,
+          "explanationPl": "Mówiąca przyznaje, że raporty są za długie (*which is true*), i dodaje: *I didn't even mind, because it felt genuine*. Uwaga o tym, że słabo znosi krytykę, podkreśla tylko, jak nietypowa była ta reakcja."
+        },
+        {
+          "type": "mc",
+          "q": "What does the speaker think of the boss now?",
+          "options": [
+            "She is reserved rather than unfriendly.",
+            "She is still too bossy.",
+            "She is honest but unkind.",
+            "She is not interested in her staff."
+          ],
+          "answer": 0,
+          "explanationPl": "Ostatni fragment: *So now I think she's just reserved, not unfriendly*."
+        }
+      ]
+    }
+  },
+  "writing": {
+    "taskEn": "A website for learners of English is collecting texts for a series called 'Someone I look up to'. Write a description of a person you admire (140–200 words). Say who the person is and how you know them, describe their character with examples of what they do, mention one weakness, and explain what you have learnt from them.",
+    "taskPl": "Portal dla uczących się angielskiego zbiera teksty do cyklu „Someone I look up to”. Opisz osobę, którą podziwiasz (140–200 słów): kim jest i skąd ją znasz, jaki ma charakter (z przykładami tego, co robi), jaką ma słabość i czego się od niej uczysz.",
+    "genre": "description",
+    "minWords": 140,
+    "maxWords": 200,
+    "checklistPl": [
+      "Wstęp: kim jest ta osoba i skąd ją znasz",
+      "Dwie lub trzy cechy charakteru, każda poparta konkretnym przykładem zachowania",
+      "Jedna słabość albo wada, dzięki której opis jest wiarygodny",
+      "Zakończenie: czego się od tej osoby uczysz",
+      "Present simple do cech i nawyków, present continuous do tego, co dzieje się obecnie"
+    ],
+    "usefulPhrases": [
+      "The person I look up to most is …",
+      "At first he/she comes across as …, but …",
+      "He/She is the kind of person who …",
+      "What I admire most about him/her is that …",
+      "You can always count on him/her to …",
+      "If he/she has a flaw, it is that …",
+      "Thanks to him/her, I am learning that …"
+    ],
+    "modelAnswer": "The person I {{look up to|w01-04}} most is my aunt Marta, who runs a small bakery in my home town.\n\nAt first she {{comes across as|w01-11}} rather {{reserved|w01-14}}, because she rarely talks about herself. But everyone who knows her agrees that she {{has a heart of gold|w01-10}}. She gets up at four every morning, and anything she hasn't sold by closing time goes to a local shelter. She is also extremely {{modest|w01-05}}: her bread has won several prizes, yet there isn't a single certificate on the wall.\n\nWhat I admire most is that she always {{keeps her word|w01-09}}. If she promises a cake for Saturday, it is ready on Friday night. She is {{down-to-earth|w01-07}}, too, and treats the mayor and the delivery driver in exactly the same way.\n\nIf she has a {{flaw|w01-32}}, it is that she is {{stubborn|w01-21}}. She has never taken a proper holiday, although this year she is finally training an assistant.\n\nMarta {{brings out the best in|w01-40}} the people around her. Thanks to her, I am learning that kindness is something you do, not something you talk about."
+  },
+  "speaking": {
+    "prompts": [
+      { "q": "Which three character traits describe you best?", "followUp": "Would your family or close friends choose the same three?" },
+      { "q": "Who do you look up to, and what exactly do you admire about them?", "followUp": "Have you ever told them?" },
+      { "q": "Think of someone who made a bad first impression on you. What changed your mind about them?", "followUp": "How long did it take?" },
+      { "q": "Which flaw in other people do you find hardest to accept?", "followUp": "Do you ever notice it in yourself?" },
+      { "q": "How well do you take criticism at work or at home?", "followUp": "Does it matter who the criticism comes from?" }
+    ],
+    "shadowing": [
+      "She comes across as reserved, but she's actually very witty.",
+      "You can always count on him to keep his word.",
+      "He's always showing off, and it's getting on everyone's nerves.",
+      "I don't think she looks down on people; she's just a bit awkward.",
+      "A good boss brings out the best in the whole team."
+    ],
+    "roleplay": {
+      "titlePl": "Kogo zatrudnić? Rozmowa o dwojgu kandydatach",
+      "scenarioPl": "Razem z drugą osobą z zespołu wybierasz nowego pracownika. Po rozmowach kwalifikacyjnych zostało dwoje kandydatów: Daniel, pewny siebie i błyskotliwy, ale trochę zarozumiały, oraz Priya, cicha i powściągliwa, ale bardzo sumienna. Macie różne zdania, a decyzja musi zapaść dzisiaj.",
+      "yourRole": "You interviewed both candidates. You prefer Priya: she was reserved in the interview, but her references say she is conscientious and consistent and takes criticism well. You think Daniel is full of himself. Explain your view, but listen to your colleague.",
+      "partnerRole": "You are a colleague who also met both candidates. You prefer Daniel: he is outgoing and witty, he made a great impression on the clients, and you think the team needs someone confident. In your opinion Priya came across as awkward and may be too quiet for the job. Defend your choice, but be ready to compromise.",
+      "opening": "So, we need to decide today. I have to say, Daniel really impressed me. What did you think of him?",
+      "goalsPl": [
+        "Opisz charakter obojga kandydatów słownictwem z tego tygodnia",
+        "Uzasadnij swój wybór przykładami z rozmów kwalifikacyjnych",
+        "Odnieś się do argumentów drugiej strony",
+        "Zaproponuj rozwiązanie, na które obie strony mogą się zgodzić"
+      ]
+    }
+  },
+  "practice": {
+    "gapFill": [
+      {
+        "sentence": "I expected my landlord to be angry about the late rent, but he was surprisingly ___ when I explained that I'd lost my job.",
+        "answerId": "w01-03",
+        "answers": ["sympathetic"]
+      },
+      {
+        "sentence": "Our dog is usually nervous of strangers, but she ___ my new boyfriend immediately and followed him around all evening.",
+        "answerId": "w01-19",
+        "answers": ["took to"]
+      },
+      {
+        "sentence": "I don't want to seem ___, but this is the third time I've asked: could you give me your answer today?",
+        "answerId": "w01-18",
+        "answers": ["pushy"]
+      },
+      {
+        "sentence": "As the youngest of five children, he is used to ___; nobody in the family ever says no to him.",
+        "answerId": "w01-23",
+        "answers": ["getting his own way"]
+      },
+      {
+        "sentence": "His apology was ___: a one-word text message, sent three days late.",
+        "answerId": "w01-28",
+        "answers": ["pathetic"]
+      },
+      {
+        "sentence": "She's ___ to finish the marathon, even if she has to walk the last five kilometres.",
+        "answerId": "w01-34",
+        "answers": ["determined"]
+      },
+      {
+        "sentence": "The hotel looked wonderful on the website, but it didn't ___ our expectations: the room was tiny and the pool was closed.",
+        "answerId": "w01-39",
+        "answers": ["live up to"]
+      },
+      {
+        "sentence": "If you want to get better at your job, you have to learn to ___ without getting angry or upset.",
+        "answerId": "w01-37",
+        "answers": ["take criticism"]
+      },
+      {
+        "sentence": "The coach shouts a lot during matches, but away from the pitch he ___ and would do anything for his players.",
+        "answerId": "w01-10",
+        "answers": ["has a heart of gold"]
+      },
+      {
+        "sentence": "She isn't the fastest runner in the club, but she's the most ___: she finishes in almost exactly the same time every week.",
+        "answerId": "w01-35",
+        "answers": ["consistent"]
+      }
+    ],
+    "matching": [
+      { "left": "conscientious", "right": "does every job carefully and completely" },
+      { "left": "bossy", "right": "is always telling other people what to do" },
+      { "left": "moody", "right": "is cheerful one minute and bad-tempered the next" },
+      { "left": "modest", "right": "doesn't talk about his or her own successes" },
+      { "left": "outgoing", "right": "loves meeting and talking to new people" },
+      { "left": "open-minded", "right": "is willing to consider new and unusual ideas" },
+      { "left": "self-centred", "right": "thinks only about himself or herself" },
+      { "left": "stubborn", "right": "refuses to change his or her mind" }
+    ],
+    "wordFormation": [
+      { "sentence": "I've always admired her ___; she never gives up, whatever happens.", "base": "DETERMINED", "answers": ["determination"] },
+      { "sentence": "It was very ___ of him to park in front of our gate so that we couldn't get out.", "base": "CONSIDERATE", "answers": ["inconsiderate"] },
+      { "sentence": "The team can play brilliantly, but what they lack is ___: they win one week and lose badly the next.", "base": "CONSISTENT", "answers": ["consistency"] },
+      { "sentence": "I was ___ surprised when he apologised; I hadn't expected it at all.", "base": "GENUINE", "answers": ["genuinely"] },
+      { "sentence": "Her performance was ___; the judges couldn't find a single mistake.", "base": "FLAW", "answers": ["flawless"] },
+      { "sentence": "I have a lot of ___ for people who have to work night shifts.", "base": "SYMPATHETIC", "answers": ["sympathy"] }
+    ]
+  }
+}

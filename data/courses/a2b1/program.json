@@ -1,0 +1,594 @@
+{
+  "id": "a2b1",
+  "title": "Na co dzień",
+  "rangeLabel": "A2 → B1",
+  "levelFrom": "A2",
+  "levelTo": "B1",
+  "weeks": 24,
+  "daysPerWeek": 6,
+  "sessionMinutes": 25,
+  "vocabPerWeek": 32,
+  "newPerLearningDay": 8,
+  "audience": "School-age learners from about 11 years old and adults. Universal themes that work for both: free time, school and learning, travel, food, health, technology, friends, nature, shopping, plans and experiences. Nothing about alcohol, violence, romance or adult working life as a presumed experience (jobs may appear as a topic). Polish explanations clear and friendly, light on terminology.",
+  "vocabGuide": "Genuinely A2-B1 on the CEFR scale: everyday vocabulary beyond the first 1000 words, common phrasal verbs (look for, find out, give up, pick up), basic collocations (make a decision, take a photo, catch a cold), and at most two very common fixed expressions per week as \"idiom\" (take it easy, no way). No rare or abstract academic words.",
+  "content": {
+    "levels": [
+      "A2",
+      "B1"
+    ],
+    "vocabPerWeek": 32,
+    "typeRange": {
+      "word": [
+        20,
+        25
+      ],
+      "phrasal": [
+        3,
+        6
+      ],
+      "collocation": [
+        3,
+        6
+      ],
+      "idiom": [
+        0,
+        2
+      ]
+    },
+    "exampleWords": [
+      5,
+      18
+    ],
+    "reading": {
+      "paragraphs": [
+        3,
+        6
+      ],
+      "words": [
+        160,
+        260
+      ],
+      "minTargets": 10,
+      "glossary": [
+        3,
+        6
+      ],
+      "questions": 5,
+      "minMc": 3
+    },
+    "grammar": {
+      "sections": [
+        2,
+        5
+      ],
+      "examplesPerSection": [
+        2,
+        5
+      ],
+      "pitfalls": [
+        2,
+        4
+      ],
+      "exercises": 10,
+      "minTyped": 3,
+      "testItems": 4,
+      "allowTransform": false
+    },
+    "listening": {
+      "dictation": 5,
+      "dictationWords": [
+        4,
+        11
+      ],
+      "monologueParagraphs": [
+        2,
+        4
+      ],
+      "monologueWords": [
+        100,
+        160
+      ],
+      "questions": 3
+    },
+    "writing": {
+      "minWords": [
+        40,
+        90
+      ],
+      "maxWords": [
+        70,
+        130
+      ],
+      "minTargets": 4,
+      "checklist": [
+        3,
+        4
+      ],
+      "phrases": [
+        4,
+        6
+      ]
+    },
+    "speaking": {
+      "prompts": 4,
+      "shadowing": 4,
+      "shadowingWords": [
+        5,
+        12
+      ]
+    },
+    "practice": {
+      "gapFill": 8,
+      "matching": 6,
+      "wordFormation": 4
+    }
+  },
+  "dayTemplate": [
+    {
+      "day": 1,
+      "kind": "reading",
+      "labelPl": "Czytanie",
+      "learnSet": 1
+    },
+    {
+      "day": 2,
+      "kind": "grammar",
+      "labelPl": "Gramatyka",
+      "learnSet": 2
+    },
+    {
+      "day": 3,
+      "kind": "listening",
+      "labelPl": "Słuchanie",
+      "learnSet": 3
+    },
+    {
+      "day": 4,
+      "kind": "writing",
+      "labelPl": "Pisanie",
+      "learnSet": 4
+    },
+    {
+      "day": 5,
+      "kind": "speaking",
+      "labelPl": "Słowa w użyciu i mówienie",
+      "learnSet": null
+    },
+    {
+      "day": 6,
+      "kind": "test",
+      "labelPl": "Test tygodnia i kontakt z językiem",
+      "learnSet": null
+    }
+  ],
+  "modules": [
+    {
+      "n": 1,
+      "titlePl": "Wolny czas i ludzie",
+      "titleEn": "Free time & people",
+      "weeks": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "n": 2,
+      "titlePl": "Podróże, jedzenie i zdrowie",
+      "titleEn": "Travel, food & health",
+      "weeks": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "n": 3,
+      "titlePl": "Technologia, przyroda i miasto",
+      "titleEn": "Technology, nature & town",
+      "weeks": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "n": 4,
+      "titlePl": "Rozrywka, sport i wyobraźnia",
+      "titleEn": "Entertainment, sport & imagination",
+      "weeks": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "n": 5,
+      "titlePl": "Praca, media i rozwiązywanie problemów",
+      "titleEn": "Work, media & problem solving",
+      "weeks": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "n": 6,
+      "titlePl": "Doświadczenia i plany",
+      "titleEn": "Experiences & plans",
+      "weeks": [
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  ],
+  "weekList": [
+    {
+      "week": 1,
+      "module": 1,
+      "themeEn": "Free time & hobbies",
+      "themePl": "Wolny czas i hobby",
+      "focus": "hobbies, weekend activities, clubs, how often you do things",
+      "grammarEn": "Present simple vs present continuous",
+      "grammarPl": "Present simple a present continuous",
+      "grammarScope": "routines vs actions happening now, frequency adverbs, stative verbs (like, know, want, have), -s and -ing spelling",
+      "writingGenre": "message to a friend about weekend plans",
+      "mix": {
+        "A2": 24,
+        "B1": 8
+      }
+    },
+    {
+      "week": 2,
+      "module": 1,
+      "themeEn": "Family & friends",
+      "themePl": "Rodzina i przyjaciele",
+      "focus": "family members, friendship, describing people, getting on with others",
+      "grammarEn": "Question forms",
+      "grammarPl": "Tworzenie pytań w angielskim",
+      "grammarScope": "yes/no questions, wh- questions, subject vs object questions (Who called you? Who did you call?), how often/how long/how many",
+      "writingGenre": "short description of a friend",
+      "mix": {
+        "A2": 24,
+        "B1": 8
+      }
+    },
+    {
+      "week": 3,
+      "module": 1,
+      "themeEn": "School & learning",
+      "themePl": "Szkoła i nauka",
+      "focus": "school subjects, lessons, exams, learning a language, homework",
+      "grammarEn": "Past simple",
+      "grammarPl": "Past simple – czas przeszły prosty",
+      "grammarScope": "was/were, regular -ed and its pronunciation, common irregular verbs, negatives and questions with did, yesterday/last/ago",
+      "writingGenre": "short email about your school day",
+      "mix": {
+        "A2": 24,
+        "B1": 8
+      }
+    },
+    {
+      "week": 4,
+      "module": 1,
+      "themeEn": "Home & daily routine",
+      "themePl": "Dom i codzienne obowiązki",
+      "focus": "rooms and furniture, housework, daily routine, family evenings",
+      "grammarEn": "Past simple vs past continuous",
+      "grammarPl": "Past simple a past continuous",
+      "grammarScope": "when/while, interrupted actions, background description, was/were + -ing",
+      "writingGenre": "simple story about an ordinary day that went wrong",
+      "mix": {
+        "A2": 24,
+        "B1": 8
+      }
+    },
+    {
+      "week": 5,
+      "module": 2,
+      "themeEn": "Travel & holidays",
+      "themePl": "Podróże i wakacje",
+      "focus": "holidays, transport, hotels, sightseeing, packing, trips",
+      "grammarEn": "Present perfect: ever, never, experiences",
+      "grammarPl": "Present perfect – doświadczenia (ever, never)",
+      "grammarScope": "form have/has + past participle, ever/never, been vs gone, common irregular participles, present perfect vs past simple for experiences",
+      "writingGenre": "postcard or short email from a holiday",
+      "mix": {
+        "A2": 22,
+        "B1": 10
+      }
+    },
+    {
+      "week": 6,
+      "module": 2,
+      "themeEn": "Food & drink",
+      "themePl": "Jedzenie i picie",
+      "focus": "meals, cooking, restaurants, healthy and unhealthy food",
+      "grammarEn": "Countable and uncountable nouns, quantifiers",
+      "grammarPl": "Rzeczowniki policzalne i niepoliczalne, określenia ilości",
+      "grammarScope": "some/any, much/many, a lot of, (a) few/(a) little, how much/how many, a slice/bottle/packet of",
+      "writingGenre": "short review of a meal or restaurant",
+      "mix": {
+        "A2": 22,
+        "B1": 10
+      }
+    },
+    {
+      "week": 7,
+      "module": 2,
+      "themeEn": "Shopping & money",
+      "themePl": "Zakupy i pieniądze",
+      "focus": "shops, clothes, prices, pocket money, saving and spending",
+      "grammarEn": "Comparatives and superlatives",
+      "grammarPl": "Stopniowanie przymiotników",
+      "grammarScope": "-er/-est, more/most, irregular good/better/best, as ... as, than, the ... in/of",
+      "writingGenre": "message to a friend comparing two things to buy",
+      "mix": {
+        "A2": 22,
+        "B1": 10
+      }
+    },
+    {
+      "week": 8,
+      "module": 2,
+      "themeEn": "Health & the body",
+      "themePl": "Zdrowie i ciało",
+      "focus": "parts of the body, common illnesses, healthy habits, at the doctor's",
+      "grammarEn": "should, must, have to",
+      "grammarPl": "Should, must i have to",
+      "grammarScope": "should/shouldn't for advice, must/mustn't, have to/don't have to, difference between mustn't and don't have to",
+      "writingGenre": "email giving advice to a friend who feels ill",
+      "mix": {
+        "A2": 22,
+        "B1": 10
+      }
+    },
+    {
+      "week": 9,
+      "module": 3,
+      "themeEn": "Technology & the internet",
+      "themePl": "Technologia i internet",
+      "focus": "phones, computers, apps, social media, online safety",
+      "grammarEn": "Present perfect with for/since, just/already/yet; present perfect vs past simple",
+      "grammarPl": "Present perfect (for, since, just, already, yet) a past simple",
+      "grammarScope": "for + period, since + point in time, just/already/yet position, finished time vs time up to now, typical Polish mistakes with since",
+      "writingGenre": "message asking a friend for help with a device",
+      "mix": {
+        "A2": 20,
+        "B1": 12
+      }
+    },
+    {
+      "week": 10,
+      "module": 3,
+      "themeEn": "Weather & nature",
+      "themePl": "Pogoda i przyroda",
+      "focus": "weather, seasons, landscapes, plants, outdoor activities",
+      "grammarEn": "Future: will vs going to",
+      "grammarPl": "Czas przyszły: will i going to",
+      "grammarScope": "predictions, spontaneous decisions (will), plans and intentions (going to), evidence-based predictions",
+      "writingGenre": "short description of a place in nature",
+      "mix": {
+        "A2": 20,
+        "B1": 12
+      }
+    },
+    {
+      "week": 11,
+      "module": 3,
+      "themeEn": "Town & transport",
+      "themePl": "Miasto i transport",
+      "focus": "places in town, directions, public transport, travelling around",
+      "grammarEn": "Future arrangements: present continuous; will for offers",
+      "grammarPl": "Plany na przyszłość: present continuous i will",
+      "grammarScope": "present continuous for fixed arrangements, going to for intentions, will for offers and promises, prepositions of place and movement",
+      "writingGenre": "email inviting a friend to visit and giving directions",
+      "mix": {
+        "A2": 20,
+        "B1": 12
+      }
+    },
+    {
+      "week": 12,
+      "module": 3,
+      "themeEn": "Animals & the environment",
+      "themePl": "Zwierzęta i środowisko",
+      "focus": "pets, wild animals, recycling, protecting nature",
+      "grammarEn": "used to",
+      "grammarPl": "Used to – dawne zwyczaje",
+      "grammarScope": "used to / didn't use to / did ... use to, used to vs past simple, states and habits in the past",
+      "writingGenre": "short description of an animal or pet",
+      "mix": {
+        "A2": 20,
+        "B1": 12
+      }
+    },
+    {
+      "week": 13,
+      "module": 4,
+      "themeEn": "Films, music & books",
+      "themePl": "Filmy, muzyka i książki",
+      "focus": "cinema, TV, music, reading, favourite stars, reviews",
+      "grammarEn": "Passive voice: present and past simple",
+      "grammarPl": "Strona bierna (present simple i past simple)",
+      "grammarScope": "is/are/was/were + past participle, by + agent, when to use the passive, passive questions",
+      "writingGenre": "review of a film or book",
+      "mix": {
+        "A2": 16,
+        "B1": 16
+      }
+    },
+    {
+      "week": 14,
+      "module": 4,
+      "themeEn": "Sport & fitness",
+      "themePl": "Sport i kondycja",
+      "focus": "sports, teams, matches, training, staying fit",
+      "grammarEn": "Gerunds and infinitives",
+      "grammarPl": "Rzeczownik odsłowny (-ing) i bezokolicznik",
+      "grammarScope": "enjoy/like/hate + -ing, want/hope/decide + to, -ing after prepositions, stop doing vs stop to do",
+      "writingGenre": "short blog post about a sport you like",
+      "mix": {
+        "A2": 16,
+        "B1": 16
+      }
+    },
+    {
+      "week": 15,
+      "module": 4,
+      "themeEn": "Celebrations & events",
+      "themePl": "Święta i uroczystości",
+      "focus": "birthdays, holidays, parties, traditions, festivals",
+      "grammarEn": "First conditional",
+      "grammarPl": "Pierwszy okres warunkowy",
+      "grammarScope": "if + present simple, will + base verb, unless, when vs if, possibilities and promises",
+      "writingGenre": "invitation or email inviting friends to a party",
+      "mix": {
+        "A2": 16,
+        "B1": 16
+      }
+    },
+    {
+      "week": 16,
+      "module": 4,
+      "themeEn": "Dreams & imagination",
+      "themePl": "Marzenia i wyobraźnia",
+      "focus": "dreams, wishes, imaginary situations, future jobs",
+      "grammarEn": "Second conditional",
+      "grammarPl": "Drugi okres warunkowy",
+      "grammarScope": "if + past simple, would + base verb, if I were, advice with If I were you, contrast with first conditional",
+      "writingGenre": "short text: If I could do anything...",
+      "mix": {
+        "A2": 16,
+        "B1": 16
+      }
+    },
+    {
+      "week": 17,
+      "module": 5,
+      "themeEn": "Jobs & the world of work",
+      "themePl": "Zawody i świat pracy",
+      "focus": "jobs, workplaces, skills, dream careers, part-time work as a topic",
+      "grammarEn": "Defining relative clauses",
+      "grammarPl": "Zdania względne (who, which, that, where, whose)",
+      "grammarScope": "who for people, which/that for things, where for places, whose, leaving out the pronoun as object",
+      "writingGenre": "short description of a job you would like",
+      "mix": {
+        "A2": 12,
+        "B1": 20
+      }
+    },
+    {
+      "week": 18,
+      "module": 5,
+      "themeEn": "Study skills & abilities",
+      "themePl": "Nauka i umiejętności",
+      "focus": "learning methods, skills, courses, talents, school clubs",
+      "grammarEn": "Modals of ability and possibility: can, could, be able to, may, might",
+      "grammarPl": "Czasowniki modalne: can, could, be able to, may, might",
+      "grammarScope": "ability now and in the past, could vs was able to, possibility with may/might, polite requests",
+      "writingGenre": "email asking about a summer course or camp",
+      "mix": {
+        "A2": 12,
+        "B1": 20
+      }
+    },
+    {
+      "week": 19,
+      "module": 5,
+      "themeEn": "Media & news",
+      "themePl": "Media i wiadomości",
+      "focus": "news, TV, newspapers, social media, celebrities, fake news",
+      "grammarEn": "Reported speech: statements",
+      "grammarPl": "Mowa zależna (zdania oznajmujące)",
+      "grammarScope": "say/tell, backshift of tenses, changes of pronouns and time words, reported requests with ask/tell",
+      "writingGenre": "short report of what friends told you",
+      "mix": {
+        "A2": 12,
+        "B1": 20
+      }
+    },
+    {
+      "week": 20,
+      "module": 5,
+      "themeEn": "Problems & solutions",
+      "themePl": "Problemy i rozwiązania",
+      "focus": "everyday problems, complaints, lost things, giving advice",
+      "grammarEn": "Modals of deduction: must, might, can't",
+      "grammarPl": "Wnioskowanie: must, might, can't",
+      "grammarScope": "must be for strong certainty, might/may/could for possibility, can't be for impossibility, past forms with have",
+      "writingGenre": "polite email of complaint about a faulty product",
+      "mix": {
+        "A2": 12,
+        "B1": 20
+      }
+    },
+    {
+      "week": 21,
+      "module": 6,
+      "themeEn": "Memorable journeys",
+      "themePl": "Niezapomniane podróże",
+      "focus": "adventures, travel stories, mishaps, memorable places",
+      "grammarEn": "Narrative tenses: past simple, past continuous, past perfect",
+      "grammarPl": "Czasy narracji: past simple, past continuous, past perfect",
+      "grammarScope": "past perfect for earlier events, by the time, after/before/when, sequencing a story",
+      "writingGenre": "story about a memorable trip",
+      "mix": {
+        "A2": 8,
+        "B1": 24
+      }
+    },
+    {
+      "week": 22,
+      "module": 6,
+      "themeEn": "Lifestyle & habits",
+      "themePl": "Styl życia i nawyki",
+      "focus": "healthy routines, sleep, hobbies, changing habits, free time today",
+      "grammarEn": "Present perfect continuous vs present perfect simple",
+      "grammarPl": "Present perfect continuous a present perfect simple",
+      "grammarScope": "have/has been + -ing, how long, recent activity with visible result, state verbs stay simple",
+      "writingGenre": "blog post about a new habit",
+      "mix": {
+        "A2": 8,
+        "B1": 24
+      }
+    },
+    {
+      "week": 23,
+      "module": 6,
+      "themeEn": "Rules, society & customs",
+      "themePl": "Zasady i zwyczaje",
+      "focus": "rules at school and at home, laws, customs around the world, manners",
+      "grammarEn": "Obligation, prohibition and permission (present and past)",
+      "grammarPl": "Obowiązek, zakaz i pozwolenie",
+      "grammarScope": "have to/had to, must/mustn't, can/can't, be allowed to/was allowed to, don't have to vs mustn't",
+      "writingGenre": "short article about customs in your country",
+      "mix": {
+        "A2": 8,
+        "B1": 24
+      }
+    },
+    {
+      "week": 24,
+      "module": 6,
+      "themeEn": "Plans, goals & the future",
+      "themePl": "Plany i cele na przyszłość",
+      "focus": "goals, ambitions, studying abroad, future life, looking back on the year",
+      "grammarEn": "Review: future forms and conditionals",
+      "grammarPl": "Powtórka: formy przyszłe i okresy warunkowe",
+      "grammarScope": "will/going to/present continuous, zero/first/second conditional, time clauses with when/as soon as/before, choosing the right form",
+      "writingGenre": "email to a friend about your plans for the future",
+      "mix": {
+        "A2": 8,
+        "B1": 24
+      }
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "id": "b2c1",
+  "title": "Droga do C1",
+  "rangeLabel": "B2 → C1",
+  "levelFrom": "B2",
+  "levelTo": "C1",
+  "weeks": 24,
+  "daysPerWeek": 6,
+  "sessionMinutes": 40,
+  "vocabPerWeek": 40,
+  "newPerLearningDay": 10,
+  "audience": "Adults (and older teenagers). Mature general-interest themes: work, money, society, media, science, psychology, business. No explicit content.",
+  "vocabGuide": "Genuinely B2 or C1 on the CEFR scale (English Vocabulary Profile / Cambridge Dictionary labels): high-utility items an educated native speaker uses in conversation, films, podcasts and newspapers today: precise adjectives and verbs, phrasal verbs, strong collocations, idioms in current use, false friends for Polish speakers. No A1-B1 basics, no C2 rarities, nothing literary, dated or technical.",
+  "content": {
+    "levels": [
+      "B2",
+      "C1"
+    ],
+    "vocabPerWeek": 40,
+    "typeRange": {
+      "word": [
+        20,
+        24
+      ],
+      "phrasal": [
+        7,
+        9
+      ],
+      "collocation": [
+        5,
+        7
+      ],
+      "idiom": [
+        3,
+        5
+      ]
+    },
+    "exampleWords": [
+      6,
+      26
+    ],
+    "reading": {
+      "paragraphs": [
+        3,
+        7
+      ],
+      "words": [
+        300,
+        460
+      ],
+      "minTargets": 12,
+      "glossary": [
+        4,
+        8
+      ],
+      "questions": 6,
+      "minMc": 3
+    },
+    "grammar": {
+      "sections": [
+        3,
+        6
+      ],
+      "examplesPerSection": [
+        2,
+        5
+      ],
+      "pitfalls": [
+        3,
+        5
+      ],
+      "exercises": 12,
+      "minTyped": 4,
+      "testItems": 5,
+      "allowTransform": true
+    },
+    "listening": {
+      "dictation": 6,
+      "dictationWords": [
+        6,
+        16
+      ],
+      "monologueParagraphs": [
+        2,
+        5
+      ],
+      "monologueWords": [
+        170,
+        260
+      ],
+      "questions": 4
+    },
+    "writing": {
+      "minWords": [
+        80,
+        180
+      ],
+      "maxWords": [
+        120,
+        220
+      ],
+      "minTargets": 5,
+      "checklist": [
+        3,
+        5
+      ],
+      "phrases": [
+        5,
+        8
+      ]
+    },
+    "speaking": {
+      "prompts": 5,
+      "shadowing": 5,
+      "shadowingWords": [
+        8,
+        18
+      ]
+    },
+    "practice": {
+      "gapFill": 10,
+      "matching": 8,
+      "wordFormation": 6
+    }
+  },
+  "dayTemplate": [
+    {
+      "day": 1,
+      "kind": "reading",
+      "labelPl": "Czytanie",
+      "learnSet": 1
+    },
+    {
+      "day": 2,
+      "kind": "grammar",
+      "labelPl": "Gramatyka",
+      "learnSet": 2
+    },
+    {
+      "day": 3,
+      "kind": "listening",
+      "labelPl": "Słuchanie",
+      "learnSet": 3
+    },
+    {
+      "day": 4,
+      "kind": "writing",
+      "labelPl": "Pisanie",
+      "learnSet": 4
+    },
+    {
+      "day": 5,
+      "kind": "speaking",
+      "labelPl": "Słowa w użyciu i mówienie",
+      "learnSet": null
+    },
+    {
+      "day": 6,
+      "kind": "test",
+      "labelPl": "Test tygodnia i kontakt z językiem",
+      "learnSet": null
+    }
+  ],
+  "modules": [
+    {
+      "n": 1,
+      "titlePl": "Ludzie i codzienność",
+      "titleEn": "People & everyday life",
+      "weeks": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "n": 2,
+      "titlePl": "Praca, nauka, pieniądze",
+      "titleEn": "Work, study & money",
+      "weeks": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "n": 3,
+      "titlePl": "Świat wokół nas",
+      "titleEn": "The world around us",
+      "weeks": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "n": 4,
+      "titlePl": "Społeczeństwo i kultura",
+      "titleEn": "Society & culture",
+      "weeks": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "n": 5,
+      "titlePl": "Myślenie i komunikacja",
+      "titleEn": "Thinking & communication",
+      "weeks": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "n": 6,
+      "titlePl": "W stronę C1",
+      "titleEn": "Towards C1",
+      "weeks": [
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  ],
+  "weekList": [
+    {
+      "week": 1,
+      "module": 1,
+      "themeEn": "Personality & character",
+      "themePl": "Osobowość i charakter",
+      "focus": "character traits, describing people, first impressions, strengths and weaknesses",
+      "grammarEn": "Present simple vs present continuous",
+      "grammarPl": "Present simple a present continuous",
+      "grammarScope": "habits vs actions in progress, stative verbs (know, believe, own), verbs with two meanings (think, have, see), always + continuous for annoying habits",
+      "writingGenre": "description of a person you admire",
+      "mix": {
+        "B2": 28,
+        "C1": 12
+      }
+    },
+    {
+      "week": 2,
+      "module": 1,
+      "themeEn": "Family & relationships",
+      "themePl": "Rodzina i relacje",
+      "focus": "family ties, friendship, dating, getting on with people, conflict and making up",
+      "grammarEn": "Past simple vs present perfect",
+      "grammarPl": "Past simple a present perfect",
+      "grammarScope": "finished time vs time up to now, for/since, just/already/yet, ever/never, been vs gone, typical Polish mistakes with 'since' and present tense",
+      "writingGenre": "informal email to a friend with news",
+      "mix": {
+        "B2": 28,
+        "C1": 12
+      }
+    },
+    {
+      "week": 3,
+      "module": 1,
+      "themeEn": "Home & daily routines",
+      "themePl": "Dom i codzienne nawyki",
+      "focus": "housework, habits, routines, home life, time management, sleep",
+      "grammarEn": "Used to, would, be used to, get used to",
+      "grammarPl": "Used to, would, be used to, get used to",
+      "grammarScope": "past habits and states (used to vs would), be/get used to + -ing, contrast with usually + present simple",
+      "writingGenre": "blog post about how your routine has changed",
+      "mix": {
+        "B2": 28,
+        "C1": 12
+      }
+    },
+    {
+      "week": 4,
+      "module": 1,
+      "themeEn": "Feelings & emotions",
+      "themePl": "Uczucia i emocje",
+      "focus": "moods, reactions, stress, happiness, anger, fear, -ed/-ing adjectives, expressing how you feel",
+      "grammarEn": "Narrative tenses",
+      "grammarPl": "Czasy narracyjne",
+      "grammarScope": "past simple, past continuous, past perfect simple and continuous for telling stories; time linkers (while, as soon as, by the time)",
+      "writingGenre": "short story about a memorable moment",
+      "mix": {
+        "B2": 28,
+        "C1": 12
+      }
+    },
+    {
+      "week": 5,
+      "module": 2,
+      "themeEn": "Work & careers",
+      "themePl": "Praca i kariera",
+      "focus": "jobs, applying, interviews, workplace, colleagues, promotion, work-life balance",
+      "grammarEn": "Present perfect simple vs continuous",
+      "grammarPl": "Present perfect simple a continuous",
+      "grammarScope": "result vs activity/duration, how long vs how many, stative verbs, recently/lately",
+      "writingGenre": "short professional profile or covering email",
+      "mix": {
+        "B2": 28,
+        "C1": 12
+      }
+    },
+    {
+      "week": 6,
+      "module": 2,
+      "themeEn": "Education & learning",
+      "themePl": "Edukacja i uczenie się",
+      "focus": "school, university, exams, skills, studying methods, lifelong learning",
+      "grammarEn": "Future forms",
+      "grammarPl": "Formy wyrażania przyszłości",
+      "grammarScope": "will, be going to, present continuous and present simple for future, future continuous, future perfect, time clauses (when/as soon as + present)",
+      "writingGenre": "plan describing your learning goals for the next year",
+      "mix": {
+        "B2": 28,
+        "C1": 12
+      }
+    },
+    {
+      "week": 7,
+      "module": 2,
+      "themeEn": "Money & shopping",
+      "themePl": "Pieniądze i zakupy",
+      "focus": "spending, saving, banking, prices, bargains, debt, consumer problems",
+      "grammarEn": "Quantifiers, countable & uncountable nouns",
+      "grammarPl": "Określniki ilości, rzeczowniki policzalne i niepoliczalne",
+      "grammarScope": "much/many/a lot of, (a) few/(a) little, plenty of, hardly any, both/either/neither, each/every, uncountable nouns that are countable in Polish (advice, information, news, furniture, money)",
+      "writingGenre": "email of complaint about a purchase",
+      "mix": {
+        "B2": 28,
+        "C1": 12
+      }
+    },
+    {
+      "week": 8,
+      "module": 2,
+      "themeEn": "Technology & the internet",
+      "themePl": "Technologia i internet",
+      "focus": "devices, apps, social media, online safety, AI, digital habits",
+      "grammarEn": "Articles: a/an, the, zero article",
+      "grammarPl": "Przedimki: a/an, the, brak przedimka",
+      "grammarScope": "first vs second mention, unique things, generalisations with zero article, institutions (go to school/hospital), geographical names, typical article mistakes of Polish speakers",
+      "writingGenre": "review of an app or gadget",
+      "mix": {
+        "B2": 28,
+        "C1": 12
+      }
+    },
+    {
+      "week": 9,
+      "module": 3,
+      "themeEn": "Travel & transport",
+      "themePl": "Podróże i transport",
+      "focus": "journeys, airports, accommodation, commuting, delays, sightseeing, travel problems",
+      "grammarEn": "Modal verbs: obligation, permission, advice",
+      "grammarPl": "Czasowniki modalne: obowiązek, pozwolenie, rada",
+      "grammarScope": "must vs have to, mustn't vs don't have to, should/ought to/had better, can/could/be allowed to, needn't, past forms (had to, didn't need to, needn't have, should have)",
+      "writingGenre": "travel recommendation for a visitor to your region",
+      "mix": {
+        "B2": 22,
+        "C1": 18
+      }
+    },
+    {
+      "week": 10,
+      "module": 3,
+      "themeEn": "Food & cooking",
+      "themePl": "Jedzenie i gotowanie",
+      "focus": "tastes, cooking methods, eating out, diets, ingredients, eating habits",
+      "grammarEn": "Gerunds & infinitives",
+      "grammarPl": "Formy -ing i bezokolicznik",
+      "grammarScope": "verbs + -ing, verbs + to-infinitive, verbs with both and a change of meaning (remember, stop, try, regret, forget), -ing after prepositions, infinitive of purpose, adjectives + infinitive",
+      "writingGenre": "restaurant review",
+      "mix": {
+        "B2": 22,
+        "C1": 18
+      }
+    },
+    {
+      "week": 11,
+      "module": 3,
+      "themeEn": "Health & fitness",
+      "themePl": "Zdrowie i kondycja",
+      "focus": "illness, symptoms, treatment, exercise, lifestyle, mental well-being, at the doctor's",
+      "grammarEn": "Conditionals: zero, first, second",
+      "grammarPl": "Tryby warunkowe: zerowy, pierwszy, drugi",
+      "grammarScope": "real vs unreal conditions, unless/as long as/provided that/in case, no 'will' or 'would' in the if-clause, were vs was",
+      "writingGenre": "message giving advice to a friend who wants to get fit",
+      "mix": {
+        "B2": 22,
+        "C1": 18
+      }
+    },
+    {
+      "week": 12,
+      "module": 3,
+      "themeEn": "Nature & the environment",
+      "themePl": "Przyroda i środowisko",
+      "focus": "climate, weather, pollution, wildlife, sustainability, energy, natural disasters",
+      "grammarEn": "Passive voice & have something done",
+      "grammarPl": "Strona bierna i konstrukcja have something done",
+      "grammarScope": "passive in all main tenses and with modals, by + agent, verbs with two objects, have/get something done",
+      "writingGenre": "opinion paragraph on an environmental issue",
+      "mix": {
+        "B2": 22,
+        "C1": 18
+      }
+    },
+    {
+      "week": 13,
+      "module": 4,
+      "themeEn": "Media & news",
+      "themePl": "Media i wiadomości",
+      "focus": "journalism, headlines, social media news, fake news, advertising, broadcasting",
+      "grammarEn": "Reported speech & reporting verbs",
+      "grammarPl": "Mowa zależna i czasowniki raportujące",
+      "grammarScope": "tense backshift, reported questions and commands, time/place changes, reporting verbs with patterns (admit, deny, accuse sb of, suggest, urge, warn)",
+      "writingGenre": "summary of a news story",
+      "mix": {
+        "B2": 22,
+        "C1": 18
+      }
+    },
+    {
+      "week": 14,
+      "module": 4,
+      "themeEn": "Film, books & the arts",
+      "themePl": "Film, książki i sztuka",
+      "focus": "plots, genres, reviews, performance, music, exhibitions, creativity",
+      "grammarEn": "Relative clauses",
+      "grammarPl": "Zdania względne",
+      "grammarScope": "defining vs non-defining, who/which/that/whose/where/when, omitting the pronoun, prepositions in relative clauses, reduced relative clauses",
+      "writingGenre": "review of a film, series or book",
+      "mix": {
+        "B2": 22,
+        "C1": 18
+      }
+    },
+    {
+      "week": 15,
+      "module": 4,
+      "themeEn": "Cities & housing",
+      "themePl": "Miasta i mieszkanie",
+      "focus": "urban life, neighbourhoods, renting and buying, public services, countryside vs city",
+      "grammarEn": "Comparatives, superlatives & modifiers",
+      "grammarPl": "Stopniowanie i modyfikatory",
+      "grammarScope": "comparative/superlative forms, as...as, far/much/slightly/a bit + comparative, by far + superlative, the...the..., less/least, so/such, too/enough",
+      "writingGenre": "comparison of two places to live",
+      "mix": {
+        "B2": 22,
+        "C1": 18
+      }
+    },
+    {
+      "week": 16,
+      "module": 4,
+      "themeEn": "Crime & the law",
+      "themePl": "Przestępczość i prawo",
+      "focus": "crimes, criminals, police, courts, punishment, rules, justice",
+      "grammarEn": "Modals of deduction & speculation",
+      "grammarPl": "Czasowniki modalne: domysły i spekulacje",
+      "grammarScope": "must/might/may/could/can't + infinitive for the present, + have + past participle for the past, continuous forms (must be joking, might have been waiting)",
+      "writingGenre": "account of an incident you witnessed",
+      "mix": {
+        "B2": 22,
+        "C1": 18
+      }
+    },
+    {
+      "week": 17,
+      "module": 5,
+      "themeEn": "Opinions & arguments",
+      "themePl": "Opinie i argumentacja",
+      "focus": "agreeing, disagreeing, persuading, debating, evidence, bias, changing your mind",
+      "grammarEn": "Linking words & discourse markers",
+      "grammarPl": "Spójniki i wyrażenia łączące",
+      "grammarScope": "contrast (although, even though, despite, in spite of, whereas, however, nevertheless), reason and result (due to, owing to, therefore, as a result), addition (moreover, furthermore, what is more), purpose (so that, in order to)",
+      "writingGenre": "for-and-against paragraph",
+      "mix": {
+        "B2": 14,
+        "C1": 26
+      }
+    },
+    {
+      "week": 18,
+      "module": 5,
+      "themeEn": "Science & discovery",
+      "themePl": "Nauka i odkrycia",
+      "focus": "research, experiments, inventions, space, medicine, evidence, breakthroughs",
+      "grammarEn": "Third & mixed conditionals",
+      "grammarPl": "Trzeci tryb warunkowy i tryby mieszane",
+      "grammarScope": "unreal past (if + past perfect, would have), mixed time references (past condition/present result and present condition/past result), could/might have, inversion-free alternatives (but for, otherwise)",
+      "writingGenre": "text speculating how life would be different without one invention",
+      "mix": {
+        "B2": 14,
+        "C1": 26
+      }
+    },
+    {
+      "week": 19,
+      "module": 5,
+      "themeEn": "The mind & behaviour",
+      "themePl": "Umysł i zachowanie",
+      "focus": "memory, habits, motivation, decision-making, intelligence, instincts, mental states",
+      "grammarEn": "Wish, if only, would rather, it's time",
+      "grammarPl": "Wish, if only, would rather, it's time",
+      "grammarScope": "wish + past simple (present regrets), wish + past perfect (past regrets), wish + would (annoying habits), would rather/would sooner + subject + past, it's (high) time + past",
+      "writingGenre": "reflective text about a decision you would make differently",
+      "mix": {
+        "B2": 14,
+        "C1": 26
+      }
+    },
+    {
+      "week": 20,
+      "module": 5,
+      "themeEn": "Communication & language",
+      "themePl": "Komunikacja i język",
+      "focus": "speaking, misunderstandings, body language, tone, small talk, language learning, politeness",
+      "grammarEn": "Indirect questions, question tags & negative questions",
+      "grammarPl": "Pytania pośrednie, question tags i pytania przeczące",
+      "grammarScope": "word order in indirect questions (Could you tell me where...), if/whether, question tags including irregular ones (aren't I, shall we, will you), negative questions for surprise and confirmation, subject vs object questions",
+      "writingGenre": "formal email asking for information",
+      "mix": {
+        "B2": 14,
+        "C1": 26
+      }
+    },
+    {
+      "week": 21,
+      "module": 6,
+      "themeEn": "Business & the economy",
+      "themePl": "Biznes i gospodarka",
+      "focus": "companies, markets, start-ups, negotiation, management, growth, recession, marketing",
+      "grammarEn": "Dependent prepositions",
+      "grammarPl": "Przyimki po czasownikach, przymiotnikach i rzeczownikach",
+      "grammarScope": "verb + preposition (depend on, insist on, succeed in, object to), adjective + preposition (capable of, keen on, responsible for), noun + preposition (reason for, increase in, demand for), contrasts with Polish prepositions",
+      "writingGenre": "short proposal to your manager",
+      "mix": {
+        "B2": 14,
+        "C1": 26
+      }
+    },
+    {
+      "week": 22,
+      "module": 6,
+      "themeEn": "Society & global issues",
+      "themePl": "Społeczeństwo i sprawy globalne",
+      "focus": "inequality, migration, politics, human rights, poverty, activism, public policy",
+      "grammarEn": "Advanced passives & distancing",
+      "grammarPl": "Zaawansowana strona bierna i dystansowanie się",
+      "grammarScope": "it is said/believed/thought that..., he is said to be / to have done, passive infinitives and gerunds (to be told, being asked), there is thought to be, seem/appear for hedging",
+      "writingGenre": "opinion essay on a social issue",
+      "mix": {
+        "B2": 14,
+        "C1": 26
+      }
+    },
+    {
+      "week": 23,
+      "module": 6,
+      "themeEn": "Success, change & ambition",
+      "themePl": "Sukces, zmiana i ambicje",
+      "focus": "goals, failure, resilience, risk, opportunities, turning points, personal growth",
+      "grammarEn": "Participle clauses",
+      "grammarPl": "Imiesłowowe równoważniki zdań",
+      "grammarScope": "present participle clauses (Feeling tired, she...), past participle clauses (Built in 1900, ...), perfect participle (Having finished, ...), with conjunctions (while, after, when + -ing), avoiding dangling participles",
+      "writingGenre": "personal statement about a turning point",
+      "mix": {
+        "B2": 14,
+        "C1": 26
+      }
+    },
+    {
+      "week": 24,
+      "module": 6,
+      "themeEn": "Nuance, register & idiomatic English",
+      "themePl": "Niuanse, rejestr i idiomatyczny angielski",
+      "focus": "formal vs informal register, hedging, understatement, emphasis, degrees of certainty, tact and diplomacy",
+      "grammarEn": "Inversion & emphasis",
+      "grammarPl": "Inwersja i emfaza",
+      "grammarScope": "negative inversion (Never have I..., Not only..., No sooner..., Hardly..., Under no circumstances...), cleft sentences (What I need is..., It was ... that ...), emphatic do, so/such inversion",
+      "writingGenre": "persuasive text that defends an unpopular opinion",
+      "mix": {
+        "B2": 14,
+        "C1": 26
+      }
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "week": 1,
+  "intro": "W tym tygodniu poznasz słowa o rodzinie i o sobie. Nauczysz się mówić, jak masz na imię, ile masz lat i skąd jesteś. Poznasz też czasownik to be (am, is, are), który jest bardzo ważny w angielskim.",
+  "reading": {
+    "title": "Hello, I am Tom",
+    "paragraphs": [
+      "{{Hello|w01-01}}! My {{name|w01-15}} is Tom. I am ten {{years old|w01-18}}. I {{come from|w01-17}} Poland. I {{live with|w01-24}} my {{parents|w01-13}} and my sister in a small town.",
+      "My {{mother|w01-02}} is very {{kind|w01-22}}. My {{father|w01-03}} is {{tall|w01-20}} and funny. My {{sister|w01-05}} is a {{baby|w01-14}}. She is one year old and she is at home.",
+      "My {{grandmother|w01-07}} and my {{grandfather|w01-08}} are not here today. They are at their house. They are not {{young|w01-21}}, but they are always {{happy|w01-19}}.",
+      "Ben is my best {{friend|w01-09}}. He is a {{boy|w01-10}} from my class. We are happy at school."
+    ],
+    "glossary": [
+      {
+        "term": "town",
+        "pl": "miasto (małe)"
+      },
+      {
+        "term": "funny",
+        "pl": "zabawny, śmieszny"
+      },
+      {
+        "term": "class",
+        "pl": "klasa (w szkole)"
+      },
+      {
+        "term": "always",
+        "pl": "zawsze"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "q": "Where does Tom come from?",
+        "options": [
+          "Poland",
+          "England",
+          "Spain",
+          "Germany"
+        ],
+        "answer": 0,
+        "explanationPl": "W pierwszym akapicie: „I come from Poland”."
+      },
+      {
+        "type": "mc",
+        "q": "How old is Tom?",
+        "options": [
+          "Eight",
+          "Nine",
+          "Ten",
+          "Eleven"
+        ],
+        "answer": 2,
+        "explanationPl": "W pierwszym akapicie: „I am ten years old”."
+      },
+      {
+        "type": "mc",
+        "q": "Who is a baby?",
+        "options": [
+          "Tom's sister",
+          "Tom's brother",
+          "Tom's friend",
+          "Tom's father"
+        ],
+        "answer": 0,
+        "explanationPl": "W drugim akapicie: „My sister is a baby”."
+      },
+      {
+        "type": "tf",
+        "q": "Tom's sister is at school.",
+        "answer": "false",
+        "explanationPl": "W drugim akapicie: siostra jest w domu („she is at home”)."
+      },
+      {
+        "type": "tf",
+        "q": "Ben is nine years old.",
+        "answer": "not_given",
+        "explanationPl": "W tekście nie ma informacji o wieku Bena."
+      }
+    ],
+    "discussion": [
+      "Who is in your family?",
+      "Who is your best friend?"
+    ]
+  },
+  "grammar": {
+    "title": "The verb to be",
+    "titlePl": "Czasownik to be (am, is, are)",
+    "summaryPl": "Czasownik **to be** znaczy „być”. Używamy go, gdy mówimy, kim jesteśmy, ile mamy lat, skąd jesteśmy i jacy jesteśmy.",
+    "sections": [
+      {
+        "heading": "I am, you are, he is",
+        "bodyPl": "Po angielsku w zdaniu musi być czasownik. **To be** zmienia się tak: **I am**, **you are**, **he / she / it is**, **we are**, **they are**. W mowie często go skracamy: **I'm**, **you're**, **he's**, **she's**, **we're**, **they're**.",
+        "examples": [
+          {
+            "en": "I am ten years old.",
+            "pl": "Mam dziesięć lat."
+          },
+          {
+            "en": "She is my sister.",
+            "pl": "Ona jest moją siostrą."
+          },
+          {
+            "en": "We are in the same class.",
+            "pl": "Jesteśmy w tej samej klasie."
+          },
+          {
+            "en": "He's tall.",
+            "pl": "On jest wysoki."
+          }
+        ]
+      },
+      {
+        "heading": "Nie i pytania",
+        "bodyPl": "Żeby powiedzieć „nie”, dodaj **not** po am / is / are. Skróty: **isn't**, **aren't**, a przy I mówimy **I'm not**. Żeby zadać pytanie, zamień miejscami osobę i czasownik: **Are you happy?** W krótkiej odpowiedzi powtarzamy am / is / are.",
+        "examples": [
+          {
+            "en": "My father is not short.",
+            "pl": "Mój tata nie jest niski."
+          },
+          {
+            "en": "Are you from Poland?",
+            "pl": "Czy jesteś z Polski?"
+          },
+          {
+            "en": "Yes, I am.",
+            "pl": "Tak, jestem."
+          },
+          {
+            "en": "Is your mother tall? No, she isn't.",
+            "pl": "Czy twoja mama jest wysoka? Nie, nie jest."
+          }
+        ]
+      },
+      {
+        "heading": "my, your, his, her i a / an",
+        "bodyPl": "Mówimy, do kogo coś należy: **my** (mój), **your** (twój), **his** (jego), **her** (jej). Przed jednym rzeczownikiem często stawiamy **a** albo **an**. **An** używamy przed samogłoską (a, e, i, o, u): **a boy**, **an old dog**.",
+        "examples": [
+          {
+            "en": "This is my brother. His name is Max.",
+            "pl": "To mój brat. Ma na imię Max."
+          },
+          {
+            "en": "This is my sister. Her name is Eva.",
+            "pl": "To moja siostra. Ma na imię Eva."
+          },
+          {
+            "en": "I am a boy.",
+            "pl": "Jestem chłopcem."
+          },
+          {
+            "en": "It is an old house.",
+            "pl": "To jest stary dom."
+          }
+        ]
+      }
+    ],
+    "pitfallsPl": [
+      {
+        "wrong": "I have ten years.",
+        "right": "I am ten years old.",
+        "whyPl": "Wiek po angielsku mówimy z czasownikiem **be**, a nie z „have”. Dodajemy też **years old**."
+      },
+      {
+        "wrong": "She no is tall.",
+        "right": "She is not tall.",
+        "whyPl": "**Not** stawiamy po **is / am / are**. Nie mówimy „no is”."
+      },
+      {
+        "wrong": "Where you are from?",
+        "right": "Where are you from?",
+        "whyPl": "W pytaniu czasownik **are** jest przed osobą: **Where are you from?**"
+      },
+      {
+        "wrong": "I am boy.",
+        "right": "I am a boy.",
+        "whyPl": "Po angielsku przed jednym rzeczownikiem zwykle stawiamy **a** albo **an**."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "I ___ ten years old.",
+        "options": [
+          "is",
+          "am",
+          "are",
+          "be"
+        ],
+        "answer": 1,
+        "explanationPl": "Przy **I** używamy **am**: I am ten years old."
+      },
+      {
+        "type": "mc",
+        "prompt": "My mother ___ very kind.",
+        "options": [
+          "am",
+          "are",
+          "is",
+          "be"
+        ],
+        "answer": 2,
+        "explanationPl": "Przy **she / he / it** i przy jednej osobie (my mother) używamy **is**."
+      },
+      {
+        "type": "mc",
+        "prompt": "We ___ in the same class.",
+        "options": [
+          "is",
+          "am",
+          "are",
+          "be"
+        ],
+        "answer": 2,
+        "explanationPl": "Przy **we** używamy **are**."
+      },
+      {
+        "type": "gap",
+        "prompt": "My brother ___ eight years old.",
+        "answers": [
+          "is"
+        ],
+        "explanationPl": "Jeden brat to „he”, więc używamy **is**."
+      },
+      {
+        "type": "gap",
+        "prompt": "___ ten years old. (he)",
+        "answers": [
+          "He is",
+          "He's"
+        ],
+        "explanationPl": "Przy **he** używamy **is**. Można też powiedzieć skrótem: **He's**."
+      },
+      {
+        "type": "gap",
+        "prompt": "Ben and Tom ___ not at school today.",
+        "answers": [
+          "are"
+        ],
+        "explanationPl": "Ben and Tom to „they”, więc używamy **are**."
+      },
+      {
+        "type": "mc",
+        "prompt": "___ you from Poland?",
+        "options": [
+          "Is",
+          "Am",
+          "Are",
+          "Do"
+        ],
+        "answer": 2,
+        "explanationPl": "W pytaniu z **you** czasownik **are** jest na początku: **Are you from Poland?**"
+      },
+      {
+        "type": "gap",
+        "prompt": "Is your father tall? No, he ___.",
+        "answers": [
+          "isn't",
+          "is not"
+        ],
+        "explanationPl": "Krótka odpowiedź przecząca: **No, he isn't.** albo **No, he is not.**"
+      },
+      {
+        "type": "mc",
+        "prompt": "I am ___ girl.",
+        "options": [
+          "a",
+          "an",
+          "is",
+          "am"
+        ],
+        "answer": 0,
+        "explanationPl": "Słowo **girl** zaczyna się od spółgłoski, więc używamy **a**."
+      },
+      {
+        "type": "mc",
+        "prompt": "This is my brother. ___ name is Max.",
+        "options": [
+          "Her",
+          "His",
+          "My",
+          "Your"
+        ],
+        "answer": 1,
+        "explanationPl": "Mówimy o chłopcu (brat), więc używamy **his** (jego)."
+      }
+    ],
+    "testItems": [
+      {
+        "type": "mc",
+        "prompt": "She ___ my grandmother.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": 1,
+        "explanationPl": "Przy **she** używamy **is**."
+      },
+      {
+        "type": "gap",
+        "prompt": "They ___ not tall.",
+        "answers": [
+          "are"
+        ],
+        "explanationPl": "Przy **they** używamy **are**."
+      },
+      {
+        "type": "gap",
+        "prompt": "___ your parents at home?",
+        "answers": [
+          "Are"
+        ],
+        "explanationPl": "Rodzice to „they”, więc pytanie zaczynamy od **Are**."
+      },
+      {
+        "type": "mc",
+        "prompt": "I ___ not a baby.",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "answer": 2,
+        "explanationPl": "Przy **I** używamy **am**: I am not a baby."
+      }
+    ]
+  },
+  "listening": {
+    "dictation": [
+      {
+        "text": "My mother is very kind."
+      },
+      {
+        "text": "I am not a baby."
+      },
+      {
+        "text": "Is your father tall?"
+      },
+      {
+        "text": "We are good friends."
+      },
+      {
+        "text": "My grandmother is at home."
+      }
+    ],
+    "monologue": {
+      "title": "My family",
+      "speaker": "a nine-year-old girl introducing her family",
+      "script": [
+        "Hello! My name is Maria. I am nine years old. I come from Poland, but I live in England now. I live with my parents and my brother.",
+        "My mother is very kind. My father is tall and funny. My brother is twelve years old. He is not at home now. He is at school with his friends.",
+        "I am at home with my grandmother. She is not young, but she is very happy."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Where does Maria live now?",
+          "options": [
+            "In England",
+            "In Poland",
+            "In Spain",
+            "In France"
+          ],
+          "answer": 0,
+          "explanationPl": "Maria mówi: „I live in England now”."
+        },
+        {
+          "type": "mc",
+          "q": "How old is Maria's brother?",
+          "options": [
+            "Nine",
+            "Ten",
+            "Twelve",
+            "Fourteen"
+          ],
+          "answer": 2,
+          "explanationPl": "Maria mówi: „My brother is twelve years old”."
+        },
+        {
+          "type": "mc",
+          "q": "Who is at home with Maria?",
+          "options": [
+            "Her grandmother",
+            "Her mother",
+            "Her father",
+            "Her brother"
+          ],
+          "answer": 0,
+          "explanationPl": "Maria mówi: „I am at home with my grandmother”."
+        }
+      ]
+    }
+  },
+  "writing": {
+    "taskEn": "Write about your family. Say your name, your age and who you live with. Write four or five short sentences.",
+    "taskPl": "Napisz o swojej rodzinie. Napisz, jak masz na imię, ile masz lat i z kim mieszkasz. Napisz cztery lub pięć krótkich zdań.",
+    "genre": "a few sentences about my family",
+    "minWords": 25,
+    "maxWords": 50,
+    "checklistPl": [
+      "Napisz, jak masz na imię i ile masz lat.",
+      "Napisz, z kim mieszkasz.",
+      "Opisz jedną lub dwie osoby z rodziny.",
+      "Sprawdź, czy dobrze użyto am, is i are."
+    ],
+    "usefulPhrases": [
+      "My name is …",
+      "I am … years old.",
+      "I live with …",
+      "My mother is …",
+      "I come from …"
+    ],
+    "modelAnswer": "{{Hello|w01-01}}! My {{name|w01-15}} is Kasia. I am nine {{years old|w01-18}}. I {{live with|w01-24}} my {{parents|w01-13}} and my brother. My {{mother|w01-02}} is {{kind|w01-22}} and my father is tall. My brother is {{happy|w01-19}}, too."
+  },
+  "speaking": {
+    "prompts": [
+      {
+        "q": "What is your name?",
+        "followUp": "How old are you?"
+      },
+      {
+        "q": "Where are you from?",
+        "followUp": "Is it a big town or a small town?"
+      },
+      {
+        "q": "Who is in your family?",
+        "followUp": "Is your family big or small?"
+      },
+      {
+        "q": "Who is your best friend?",
+        "followUp": "How old is your friend?"
+      }
+    ],
+    "shadowing": [
+      "Hello, my name is Tom.",
+      "I am ten years old.",
+      "My mother is very kind.",
+      "Nice to meet you."
+    ],
+    "roleplay": {
+      "titlePl": "Poznajemy się",
+      "scenarioPl": "Jesteś w nowej szkole. Poznajesz nowego kolegę lub nową koleżankę. Przedstaw się i zapytaj o rodzinę.",
+      "yourRole": "You are a new student. You meet a new friend in your class.",
+      "partnerRole": "You are a friendly student. You say hello and ask easy questions.",
+      "opening": "Hello! What is your name?",
+      "goalsPl": [
+        "Powiedz, jak masz na imię i ile masz lat.",
+        "Powiedz, skąd jesteś.",
+        "Zapytaj o rodzinę nowego kolegi lub koleżanki."
+      ]
+    }
+  },
+  "practice": {
+    "gapFill": [
+      {
+        "sentence": "My little sister is only one year old. She is a ___.",
+        "answerId": "w01-14",
+        "answers": [
+          "baby"
+        ]
+      },
+      {
+        "sentence": "My mum and dad are my ___.",
+        "answerId": "w01-13",
+        "answers": [
+          "parents"
+        ]
+      },
+      {
+        "sentence": "I am nine ___.",
+        "answerId": "w01-18",
+        "answers": [
+          "years old"
+        ]
+      },
+      {
+        "sentence": "My father's mother is my ___.",
+        "answerId": "w01-07",
+        "answers": [
+          "grandmother"
+        ]
+      },
+      {
+        "sentence": "He is not short. He is very ___.",
+        "answerId": "w01-20",
+        "answers": [
+          "tall"
+        ]
+      },
+      {
+        "sentence": "We ___ Poland, but we live in England.",
+        "answerId": "w01-17",
+        "answers": [
+          "come from"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "left": "brother",
+        "right": "brat"
+      },
+      {
+        "left": "sister",
+        "right": "siostra"
+      },
+      {
+        "left": "grandmother",
+        "right": "babcia"
+      },
+      {
+        "left": "grandfather",
+        "right": "dziadek"
+      },
+      {
+        "left": "parents",
+        "right": "rodzice"
+      },
+      {
+        "left": "tall",
+        "right": "wysoki"
+      }
+    ],
+    "wordFormation": []
+  }
+}

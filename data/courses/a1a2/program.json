@@ -1,0 +1,594 @@
+{
+  "id": "a1a2",
+  "title": "Pierwsze kroki",
+  "rangeLabel": "A1 → A2",
+  "levelFrom": "A1",
+  "levelTo": "A2",
+  "weeks": 24,
+  "daysPerWeek": 6,
+  "sessionMinutes": 20,
+  "vocabPerWeek": 24,
+  "newPerLearningDay": 6,
+  "audience": "Children from about 8 years old and adult beginners. Everything must be suitable for a child and still respectful of an adult: everyday life, family, school, home, food, animals, hobbies, sport, weather, town, holidays. Nothing about alcohol, violence, romance, money worries, politics or working life. Short sentences. Polish explanations in simple words that a 9-year-old understands, with no linguistic jargon beyond: rzeczownik, czasownik, przymiotnik, czas.",
+  "vocabGuide": "Genuinely A1-A2 on the CEFR scale (English Vocabulary Profile / Cambridge Dictionary labels): the most frequent everyday words and fixed phrases a beginner needs first. Mostly single words; \"collocation\" items are simple everyday phrases (have breakfast, go to bed, ride a bike, do homework); phrasal verbs only the most basic (get up, turn on, put on); at most one very common fixed expression per week as \"idiom\" (How are you?, Well done!), or none. Concrete, picturable words first.",
+  "content": {
+    "levels": [
+      "A1",
+      "A2"
+    ],
+    "vocabPerWeek": 24,
+    "typeRange": {
+      "word": [
+        16,
+        21
+      ],
+      "phrasal": [
+        0,
+        3
+      ],
+      "collocation": [
+        2,
+        6
+      ],
+      "idiom": [
+        0,
+        1
+      ]
+    },
+    "exampleWords": [
+      4,
+      12
+    ],
+    "reading": {
+      "paragraphs": [
+        2,
+        5
+      ],
+      "words": [
+        80,
+        150
+      ],
+      "minTargets": 8,
+      "glossary": [
+        2,
+        5
+      ],
+      "questions": 5,
+      "minMc": 3
+    },
+    "grammar": {
+      "sections": [
+        2,
+        4
+      ],
+      "examplesPerSection": [
+        2,
+        4
+      ],
+      "pitfalls": [
+        2,
+        4
+      ],
+      "exercises": 10,
+      "minTyped": 3,
+      "testItems": 4,
+      "allowTransform": false
+    },
+    "listening": {
+      "dictation": 5,
+      "dictationWords": [
+        3,
+        8
+      ],
+      "monologueParagraphs": [
+        1,
+        4
+      ],
+      "monologueWords": [
+        60,
+        110
+      ],
+      "questions": 3
+    },
+    "writing": {
+      "minWords": [
+        20,
+        50
+      ],
+      "maxWords": [
+        40,
+        80
+      ],
+      "minTargets": 3,
+      "checklist": [
+        2,
+        4
+      ],
+      "phrases": [
+        3,
+        5
+      ]
+    },
+    "speaking": {
+      "prompts": 4,
+      "shadowing": 4,
+      "shadowingWords": [
+        3,
+        9
+      ]
+    },
+    "practice": {
+      "gapFill": 6,
+      "matching": 6,
+      "wordFormation": 0
+    }
+  },
+  "dayTemplate": [
+    {
+      "day": 1,
+      "kind": "reading",
+      "labelPl": "Czytanie",
+      "learnSet": 1
+    },
+    {
+      "day": 2,
+      "kind": "grammar",
+      "labelPl": "Gramatyka",
+      "learnSet": 2
+    },
+    {
+      "day": 3,
+      "kind": "listening",
+      "labelPl": "Słuchanie",
+      "learnSet": 3
+    },
+    {
+      "day": 4,
+      "kind": "writing",
+      "labelPl": "Pisanie",
+      "learnSet": 4
+    },
+    {
+      "day": 5,
+      "kind": "speaking",
+      "labelPl": "Słowa w użyciu i mówienie",
+      "learnSet": null
+    },
+    {
+      "day": 6,
+      "kind": "test",
+      "labelPl": "Test tygodnia i kontakt z językiem",
+      "learnSet": null
+    }
+  ],
+  "modules": [
+    {
+      "n": 1,
+      "titlePl": "Ja i mój świat",
+      "titleEn": "Me and my world",
+      "weeks": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "n": 2,
+      "titlePl": "Mój dzień",
+      "titleEn": "My day",
+      "weeks": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "n": 3,
+      "titlePl": "Pogoda, miasto, zakupy",
+      "titleEn": "Weather, town and shopping",
+      "weeks": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "n": 4,
+      "titlePl": "Opowiadam o przeszłości",
+      "titleEn": "Talking about the past",
+      "weeks": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "n": 5,
+      "titlePl": "Porównania i plany",
+      "titleEn": "Comparing and planning",
+      "weeks": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "n": 6,
+      "titlePl": "Zasady, uczucia, doświadczenia",
+      "titleEn": "Rules, feelings and experiences",
+      "weeks": [
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  ],
+  "weekList": [
+    {
+      "week": 1,
+      "module": 1,
+      "themeEn": "Me and my family",
+      "themePl": "Ja i moja rodzina",
+      "focus": "greetings, introductions, family members, age, countries",
+      "grammarEn": "Verb to be",
+      "grammarPl": "Czasownik to be (am, is, are)",
+      "grammarScope": "am/is/are in statements, negatives and questions, short answers, a/an, my/your/his/her",
+      "writingGenre": "a few sentences about my family",
+      "mix": {
+        "A1": 22,
+        "A2": 2
+      }
+    },
+    {
+      "week": 2,
+      "module": 1,
+      "themeEn": "My school and my things",
+      "themePl": "Moja szkoła i moje rzeczy",
+      "focus": "classroom objects, school subjects, colours, numbers 1-20",
+      "grammarEn": "have got and plural nouns",
+      "grammarPl": "have got i liczba mnoga",
+      "grammarScope": "have/has got in statements, negatives, questions; regular plurals (-s, -es); this/that/these/those",
+      "writingGenre": "a short description of my school bag",
+      "mix": {
+        "A1": 21,
+        "A2": 3
+      }
+    },
+    {
+      "week": 3,
+      "module": 1,
+      "themeEn": "My home",
+      "themePl": "Mój dom",
+      "focus": "rooms, furniture, things in a house",
+      "grammarEn": "There is / there are and prepositions of place",
+      "grammarPl": "There is / there are i przyimki miejsca",
+      "grammarScope": "there is/are, there isn't/aren't, is there/are there, in, on, under, next to, behind",
+      "writingGenre": "a message to a friend about my room",
+      "mix": {
+        "A1": 20,
+        "A2": 4
+      }
+    },
+    {
+      "week": 4,
+      "module": 1,
+      "themeEn": "Animals",
+      "themePl": "Zwierzęta",
+      "focus": "pets, farm animals, wild animals, body parts of animals, simple descriptions",
+      "grammarEn": "can and can't",
+      "grammarPl": "can i can't (umiejętności)",
+      "grammarScope": "can/can't for ability, questions with can, short answers",
+      "writingGenre": "a few sentences about my favourite animal",
+      "mix": {
+        "A1": 20,
+        "A2": 4
+      }
+    },
+    {
+      "week": 5,
+      "module": 2,
+      "themeEn": "My daily routine",
+      "themePl": "Mój dzień",
+      "focus": "daily activities, telling the time, days of the week",
+      "grammarEn": "Present simple (affirmative)",
+      "grammarPl": "Present simple – zdania twierdzące",
+      "grammarScope": "I/you/we/they and he/she/it (-s, -es), time with at, on days",
+      "writingGenre": "a short text about my day",
+      "mix": {
+        "A1": 19,
+        "A2": 5
+      }
+    },
+    {
+      "week": 6,
+      "module": 2,
+      "themeEn": "Food and drink",
+      "themePl": "Jedzenie i picie",
+      "focus": "meals, fruit, vegetables, drinks, likes and dislikes",
+      "grammarEn": "Present simple (negatives and questions)",
+      "grammarPl": "Present simple – przeczenia i pytania",
+      "grammarScope": "do/does, don't/doesn't, short answers, like/love/hate",
+      "writingGenre": "a short message about my favourite food",
+      "mix": {
+        "A1": 18,
+        "A2": 6
+      }
+    },
+    {
+      "week": 7,
+      "module": 2,
+      "themeEn": "Hobbies and free time",
+      "themePl": "Hobby i czas wolny",
+      "focus": "hobbies, games, music, free-time activities, how often",
+      "grammarEn": "Adverbs of frequency and like + -ing",
+      "grammarPl": "Przysłówki częstotliwości i like + -ing",
+      "grammarScope": "always, usually, often, sometimes, never; position in the sentence; like/love/enjoy + -ing",
+      "writingGenre": "a few sentences about my free time",
+      "mix": {
+        "A1": 17,
+        "A2": 7
+      }
+    },
+    {
+      "week": 8,
+      "module": 2,
+      "themeEn": "Clothes and colours",
+      "themePl": "Ubrania i kolory",
+      "focus": "clothes, accessories, colours, what people are wearing",
+      "grammarEn": "Present continuous",
+      "grammarPl": "Present continuous (teraz)",
+      "grammarScope": "am/is/are + -ing, spelling of -ing, negatives, questions, now/at the moment",
+      "writingGenre": "a description of what a friend is wearing",
+      "mix": {
+        "A1": 16,
+        "A2": 8
+      }
+    },
+    {
+      "week": 9,
+      "module": 3,
+      "themeEn": "Weather and seasons",
+      "themePl": "Pogoda i pory roku",
+      "focus": "weather, seasons, months, activities in different weather",
+      "grammarEn": "Present simple and present continuous",
+      "grammarPl": "Present simple i present continuous",
+      "grammarScope": "habits vs now, time words, weather verbs (it is raining)",
+      "writingGenre": "a postcard with weather news",
+      "mix": {
+        "A1": 15,
+        "A2": 9
+      }
+    },
+    {
+      "week": 10,
+      "module": 3,
+      "themeEn": "Around town",
+      "themePl": "W mieście",
+      "focus": "places in town, shops, transport basics, directions",
+      "grammarEn": "Imperatives and prepositions of movement",
+      "grammarPl": "Tryb rozkazujący i kierunki",
+      "grammarScope": "affirmative and negative imperatives, go/turn/walk, between, opposite, across",
+      "writingGenre": "a message that tells a friend the way",
+      "mix": {
+        "A1": 14,
+        "A2": 10
+      }
+    },
+    {
+      "week": 11,
+      "module": 3,
+      "themeEn": "Shopping",
+      "themePl": "Zakupy",
+      "focus": "shops, things to buy, prices in simple form, quantities",
+      "grammarEn": "Countable and uncountable nouns, some/any, how much/how many",
+      "grammarPl": "Policzalne i niepoliczalne, some/any",
+      "grammarScope": "a/an, some, any, how much/how many, a lot of, a bottle/packet of",
+      "writingGenre": "a short shopping list and a message",
+      "mix": {
+        "A1": 13,
+        "A2": 11
+      }
+    },
+    {
+      "week": 12,
+      "module": 3,
+      "themeEn": "My body and health",
+      "themePl": "Ciało i zdrowie",
+      "focus": "parts of the body, feeling ill, healthy habits",
+      "grammarEn": "should/shouldn't and have got (revision)",
+      "grammarPl": "should / shouldn't – rady",
+      "grammarScope": "should/shouldn't for simple advice, What's the matter?, I've got a headache",
+      "writingGenre": "a short message to a friend who is ill",
+      "mix": {
+        "A1": 12,
+        "A2": 12
+      }
+    },
+    {
+      "week": 13,
+      "module": 4,
+      "themeEn": "Yesterday",
+      "themePl": "Wczoraj",
+      "focus": "yesterday, time expressions, places, who was where",
+      "grammarEn": "Past simple of to be",
+      "grammarPl": "Czas przeszły was / were",
+      "grammarScope": "was/were, wasn't/weren't, questions, short answers, yesterday, last week, ago",
+      "writingGenre": "a few sentences about my yesterday",
+      "mix": {
+        "A1": 11,
+        "A2": 13
+      }
+    },
+    {
+      "week": 14,
+      "module": 4,
+      "themeEn": "The weekend",
+      "themePl": "Weekend",
+      "focus": "weekend activities, things we did, family and friends",
+      "grammarEn": "Past simple (regular verbs)",
+      "grammarPl": "Past simple – czasowniki regularne",
+      "grammarScope": "-ed endings and spelling, did/didn't, questions with did, past time expressions",
+      "writingGenre": "a short text about my weekend",
+      "mix": {
+        "A1": 10,
+        "A2": 14
+      }
+    },
+    {
+      "week": 15,
+      "module": 4,
+      "themeEn": "Holidays",
+      "themePl": "Wakacje",
+      "focus": "holiday places, travel, activities on holiday, postcards",
+      "grammarEn": "Past simple (irregular verbs)",
+      "grammarPl": "Past simple – czasowniki nieregularne",
+      "grammarScope": "common irregular verbs (go, have, see, eat, buy, take, make), negatives and questions",
+      "writingGenre": "a postcard from my holiday",
+      "mix": {
+        "A1": 9,
+        "A2": 15
+      }
+    },
+    {
+      "week": 16,
+      "module": 4,
+      "themeEn": "Birthdays and celebrations",
+      "themePl": "Urodziny i święta",
+      "focus": "birthdays, parties, presents, celebrations, ordinal numbers and dates",
+      "grammarEn": "Past simple (questions and revision)",
+      "grammarPl": "Past simple – pytania i powtórka",
+      "grammarScope": "Wh- questions in the past, was/were and did together, when, what, who, where",
+      "writingGenre": "an invitation or a thank-you message",
+      "mix": {
+        "A1": 8,
+        "A2": 16
+      }
+    },
+    {
+      "week": 17,
+      "module": 5,
+      "themeEn": "Sport and games",
+      "themePl": "Sport i gry",
+      "focus": "sports, equipment, places for sport, being good at something",
+      "grammarEn": "Comparatives",
+      "grammarPl": "Stopień wyższy przymiotników",
+      "grammarScope": "-er, more + adjective, good/better, than, as ... as",
+      "writingGenre": "a few sentences comparing two sports",
+      "mix": {
+        "A1": 7,
+        "A2": 17
+      }
+    },
+    {
+      "week": 18,
+      "module": 5,
+      "themeEn": "Travel and transport",
+      "themePl": "Podróże i transport",
+      "focus": "vehicles, journeys, tickets, places to visit",
+      "grammarEn": "Superlatives",
+      "grammarPl": "Stopień najwyższy przymiotników",
+      "grammarScope": "the + -est, the most + adjective, the best/the worst, in/of",
+      "writingGenre": "a short text about the best place I know",
+      "mix": {
+        "A1": 6,
+        "A2": 18
+      }
+    },
+    {
+      "week": 19,
+      "module": 5,
+      "themeEn": "Plans",
+      "themePl": "Plany",
+      "focus": "plans, weekend and holiday plans, future time expressions",
+      "grammarEn": "going to",
+      "grammarPl": "Zamiary: be going to",
+      "grammarScope": "am/is/are going to, negatives, questions, tomorrow, next week, this evening",
+      "writingGenre": "a message about my plans",
+      "mix": {
+        "A1": 5,
+        "A2": 19
+      }
+    },
+    {
+      "week": 20,
+      "module": 5,
+      "themeEn": "The future",
+      "themePl": "Przyszłość",
+      "focus": "predictions, jobs and technology for children, offers and promises",
+      "grammarEn": "will and won't",
+      "grammarPl": "will / won't – przyszłość",
+      "grammarScope": "will for predictions, quick decisions and promises; going to vs will in simple cases",
+      "writingGenre": "a few sentences about life in the future",
+      "mix": {
+        "A1": 5,
+        "A2": 19
+      }
+    },
+    {
+      "week": 21,
+      "module": 6,
+      "themeEn": "Rules at school and at home",
+      "themePl": "Zasady w szkole i w domu",
+      "focus": "rules, school and house rules, chores, safety signs",
+      "grammarEn": "must, mustn't, have to, don't have to",
+      "grammarPl": "must / have to – obowiązki i zakazy",
+      "grammarScope": "must/mustn't for rules, have to/don't have to for need, simple questions",
+      "writingGenre": "a short list of rules",
+      "mix": {
+        "A1": 4,
+        "A2": 20
+      }
+    },
+    {
+      "week": 22,
+      "module": 6,
+      "themeEn": "Friends and feelings",
+      "themePl": "Przyjaciele i uczucia",
+      "focus": "feelings, describing friends, character, helping each other",
+      "grammarEn": "Adjectives and adverbs of manner",
+      "grammarPl": "Przymiotniki i przysłówki sposobu",
+      "grammarScope": "adjective vs adverb (quick/quickly), good/well, -ly spelling, too and very",
+      "writingGenre": "a short description of my best friend",
+      "mix": {
+        "A1": 4,
+        "A2": 20
+      }
+    },
+    {
+      "week": 23,
+      "module": 6,
+      "themeEn": "Things I have done",
+      "themePl": "Moje doświadczenia",
+      "focus": "experiences, trips, new things, first time",
+      "grammarEn": "Present perfect (ever and never)",
+      "grammarPl": "Present perfect – doświadczenia",
+      "grammarScope": "have/has + past participle, ever/never, been, short answers, common irregular participles",
+      "writingGenre": "a few sentences about things I have done",
+      "mix": {
+        "A1": 3,
+        "A2": 21
+      }
+    },
+    {
+      "week": 24,
+      "module": 6,
+      "themeEn": "My year in English",
+      "themePl": "Mój rok z angielskim",
+      "focus": "revision of the year, news, just/already/yet, goals",
+      "grammarEn": "Present perfect (just, already, yet) and revision",
+      "grammarPl": "Present perfect – just, already, yet",
+      "grammarScope": "just/already/yet, present perfect vs past simple in simple cases, mixed revision",
+      "writingGenre": "a letter to a friend about my year",
+      "mix": {
+        "A1": 3,
+        "A2": 21
+      }
+    }
+  ]
+}

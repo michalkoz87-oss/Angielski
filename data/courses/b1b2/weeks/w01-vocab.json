@@ -1,0 +1,754 @@
+{
+  "week": 1,
+  "theme": "Personality & character",
+  "items": [
+    {
+      "id": "w01-01",
+      "term": "outgoing",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˌaʊtˈɡəʊɪŋ/",
+      "pl": "towarzyski, otwarty",
+      "def": "friendly and happy to meet and talk to new people",
+      "example": "Lena is so {{outgoing}} that she made three new friends on her first day at school.",
+      "examplePl": "Lena jest tak towarzyska, że pierwszego dnia w szkole zdobyła troje nowych przyjaciół.",
+      "collocations": [
+        "an outgoing personality",
+        "outgoing and friendly"
+      ]
+    },
+    {
+      "id": "w01-02",
+      "term": "shy",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ʃaɪ/",
+      "pl": "nieśmiały",
+      "def": "nervous and quiet with people you do not know well",
+      "example": "Tom was too {{shy}} to raise his hand, even though he knew the answer.",
+      "examplePl": "Tom był zbyt nieśmiały, żeby podnieść rękę, chociaż znał odpowiedź.",
+      "collocations": [
+        "painfully shy",
+        "a shy smile",
+        "too shy to do sth"
+      ],
+      "family": [
+        "shyness (n)",
+        "shyly (adv)"
+      ]
+    },
+    {
+      "id": "w01-03",
+      "term": "reliable",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/rɪˈlaɪəbl/",
+      "pl": "niezawodny, godny zaufania",
+      "def": "able to be trusted to do what you expect or what was promised",
+      "example": "If Maria says she will be there at six, she is there at six; she is really {{reliable}}.",
+      "examplePl": "Jeśli Maria mówi, że będzie o szóstej, to jest o szóstej; naprawdę można na niej polegać.",
+      "collocations": [
+        "a reliable friend",
+        "reliable information"
+      ],
+      "family": [
+        "rely (v)",
+        "reliability (n)",
+        "unreliable (adj)"
+      ]
+    },
+    {
+      "id": "w01-04",
+      "term": "stubborn",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈstʌbən/",
+      "pl": "uparty",
+      "def": "refusing to change your mind or your way of doing things, even when people give good reasons",
+      "example": "My grandfather is so {{stubborn}} that he still refuses to use a mobile phone, however much we explain.",
+      "examplePl": "Mój dziadek jest tak uparty, że nadal nie chce korzystać z telefonu komórkowego, choćbyśmy nie wiem ile tłumaczyli.",
+      "collocations": [
+        "as stubborn as a mule",
+        "a stubborn streak"
+      ],
+      "family": [
+        "stubbornness (n)",
+        "stubbornly (adv)"
+      ],
+      "note": "*Stubborn* ma zwykle lekko negatywny wydźwięk; o pozytywnym uporze w dążeniu do celu mówimy *determined*."
+    },
+    {
+      "id": "w01-05",
+      "term": "generous",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈdʒenərəs/",
+      "pl": "hojny",
+      "def": "happy to give money, time or help to other people",
+      "example": "She is so {{generous}} that she often buys lunch for friends who have forgotten their money.",
+      "examplePl": "Jest tak hojna, że często kupuje lunch znajomym, którzy zapomnieli pieniędzy.",
+      "collocations": [
+        "generous with your time",
+        "a generous gift"
+      ],
+      "family": [
+        "generosity (n)",
+        "generously (adv)"
+      ]
+    },
+    {
+      "id": "w01-06",
+      "term": "sensible",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈsensəbl/",
+      "pl": "rozsądny",
+      "def": "showing good judgement and making wise, practical choices",
+      "example": "Wearing a helmet when you ride a bike is the {{sensible}} thing to do.",
+      "examplePl": "Noszenie kasku podczas jazdy na rowerze jest po prostu rozsądne.",
+      "collocations": [
+        "a sensible decision",
+        "sensible shoes",
+        "the sensible thing to do"
+      ],
+      "family": [
+        "sense (n)",
+        "sensibly (adv)"
+      ],
+      "note": "Fałszywy przyjaciel: *sensible* to „rozsądny”, a „wrażliwy” to *sensitive*."
+    },
+    {
+      "id": "w01-07",
+      "term": "get on with",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌɡet ˈɒn wɪð/",
+      "pl": "dogadywać się z (kimś)",
+      "def": "to have a friendly relationship with someone",
+      "example": "I'm lucky to {{get on with}} all my classmates, so I enjoy going to school.",
+      "examplePl": "Mam szczęście, że dogaduję się ze wszystkimi kolegami z klasy, więc lubię chodzić do szkoły.",
+      "collocations": [
+        "get on well with sb",
+        "get on with your neighbours"
+      ],
+      "note": "*Get on with sth* znaczy też „kontynuować, zabrać się za coś” (*Get on with your homework!*)."
+    },
+    {
+      "id": "w01-08",
+      "term": "look up to",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B2",
+      "ipa": "/ˌlʊk ˈʌp tə/",
+      "pl": "podziwiać, szanować (kogoś)",
+      "def": "to respect and admire someone, often someone older or more experienced",
+      "example": "My little brother {{looks up to}} me, so I try to set a good example.",
+      "examplePl": "Mój młodszy brat mnie podziwia, więc staram się dawać dobry przykład.",
+      "collocations": [
+        "look up to your parents",
+        "a person to look up to"
+      ]
+    },
+    {
+      "id": "w01-09",
+      "term": "first impression",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B1",
+      "ipa": "/ˌfɜːst ɪmˈpreʃn/",
+      "pl": "pierwsze wrażenie",
+      "def": "the opinion you form about a person as soon as you meet him or her",
+      "example": "You only get one chance to make a good {{first impression}}, so arrive on time for the interview.",
+      "examplePl": "Masz tylko jedną szansę, żeby zrobić dobre pierwsze wrażenie, więc przyjdź na rozmowę punktualnie.",
+      "collocations": [
+        "make a good first impression",
+        "a lasting first impression",
+        "give a bad first impression"
+      ]
+    },
+    {
+      "id": "w01-10",
+      "term": "have a heart of gold",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "B2",
+      "ipa": "/hæv ə ˌhɑːt əv ˈɡəʊld/",
+      "pl": "mieć złote serce",
+      "def": "to be a very kind and caring person",
+      "example": "Mr Evans looks very strict, but he {{has a heart of gold}} and often helps students after lessons.",
+      "examplePl": "Pan Evans wygląda surowo, ale ma złote serce i często pomaga uczniom po lekcjach.",
+      "collocations": [
+        "a person with a heart of gold"
+      ]
+    },
+    {
+      "id": "w01-11",
+      "term": "confident",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈkɒnfɪdənt/",
+      "pl": "pewny siebie, przekonany",
+      "def": "sure about your own abilities and not worried about what others think",
+      "example": "After weeks of practice, Jake felt {{confident}} enough to sing in front of the whole school.",
+      "examplePl": "Po tygodniach ćwiczeń Jake czuł się na tyle pewnie, że zaśpiewał przed całą szkołą.",
+      "collocations": [
+        "feel confident",
+        "a confident smile",
+        "confident about doing sth"
+      ],
+      "family": [
+        "confidence (n)",
+        "confidently (adv)"
+      ],
+      "note": "Fałszywy przyjaciel: *confident* to „pewny siebie”, a nie „konfident”."
+    },
+    {
+      "id": "w01-12",
+      "term": "curious",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈkjʊəriəs/",
+      "pl": "ciekawski, dociekliwy",
+      "def": "wanting to find out about things or to learn new facts",
+      "example": "Children are naturally {{curious}}: they ask 'why?' about everything.",
+      "examplePl": "Dzieci są z natury ciekawskie: o wszystko pytają „dlaczego?”.",
+      "collocations": [
+        "curious about sth",
+        "a curious mind"
+      ],
+      "family": [
+        "curiosity (n)",
+        "curiously (adv)"
+      ],
+      "note": "*Curious* to „ciekawski, żądny wiedzy”; „ciekawy film” to *an interesting film*."
+    },
+    {
+      "id": "w01-13",
+      "term": "ambitious",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/æmˈbɪʃəs/",
+      "pl": "ambitny",
+      "def": "wanting very much to be successful and willing to work hard for it",
+      "example": "Sara is {{ambitious}}: she wants to be the youngest captain her swimming team has ever had.",
+      "examplePl": "Sara jest ambitna: chce zostać najmłodszą kapitanką w historii swojej drużyny pływackiej.",
+      "collocations": [
+        "an ambitious plan",
+        "highly ambitious"
+      ],
+      "family": [
+        "ambition (n)"
+      ]
+    },
+    {
+      "id": "w01-14",
+      "term": "patient",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈpeɪʃnt/",
+      "pl": "cierpliwy",
+      "def": "able to wait or deal with problems calmly, without getting angry",
+      "example": "Our teacher is very {{patient}}: she explained the same rule three times without sighing.",
+      "examplePl": "Nasza nauczycielka jest bardzo cierpliwa: wyjaśniła tę samą zasadę trzy razy i ani razu nie westchnęła.",
+      "collocations": [
+        "be patient with sb",
+        "wait patiently"
+      ],
+      "family": [
+        "patience (n)",
+        "patiently (adv)",
+        "impatient (adj)"
+      ],
+      "note": "Rzeczownik *patient* znaczy „pacjent”."
+    },
+    {
+      "id": "w01-15",
+      "term": "moody",
+      "type": "word",
+      "pos": "adj",
+      "level": "B2",
+      "ipa": "/ˈmuːdi/",
+      "pl": "humorzasty",
+      "def": "often changing from happy to angry or sad for no clear reason",
+      "example": "My sister gets really {{moody}} when she is tired: one minute she is laughing, the next she is shouting.",
+      "examplePl": "Moja siostra robi się strasznie humorzasta, gdy jest zmęczona: raz się śmieje, a za chwilę krzyczy.",
+      "collocations": [
+        "a moody teenager",
+        "get moody"
+      ],
+      "family": [
+        "mood (n)"
+      ],
+      "note": "„W dobrym nastroju” to *in a good mood*; *moody* ma negatywny sens."
+    },
+    {
+      "id": "w01-16",
+      "term": "selfish",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈselfɪʃ/",
+      "pl": "samolubny, egoistyczny",
+      "def": "caring only about yourself and not about what other people need",
+      "example": "It was {{selfish}} of him to take the last slice of pizza without asking if anyone else wanted it.",
+      "examplePl": "To było samolubne z jego strony, że wziął ostatni kawałek pizzy, nie pytając, czy ktoś jeszcze chce.",
+      "collocations": [
+        "a selfish person",
+        "selfish behaviour"
+      ],
+      "family": [
+        "selfishness (n)",
+        "selfishly (adv)",
+        "unselfish (adj)"
+      ]
+    },
+    {
+      "id": "w01-17",
+      "term": "take after",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌteɪk ˈɑːftə/",
+      "pl": "wdać się w, być podobnym do (członka rodziny)",
+      "def": "to look or behave like an older member of your family",
+      "example": "Everybody says Mia {{takes after}} her mum, because they both love talking and telling jokes.",
+      "examplePl": "Wszyscy mówią, że Mia wdała się w mamę, bo obie uwielbiają rozmawiać i opowiadać dowcipy.",
+      "collocations": [
+        "take after your father",
+        "take after your mother"
+      ]
+    },
+    {
+      "id": "w01-18",
+      "term": "open up",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B2",
+      "ipa": "/ˌəʊpən ˈʌp/",
+      "pl": "otworzyć się, zacząć się zwierzać",
+      "def": "to start talking more freely about your thoughts and feelings",
+      "example": "He was very quiet for weeks, but he slowly began to {{open up}} to his new classmates.",
+      "examplePl": "Przez kilka tygodni był bardzo cichy, ale powoli zaczął się otwierać przed nowymi kolegami z klasy.",
+      "collocations": [
+        "open up to sb",
+        "open up about your problems"
+      ]
+    },
+    {
+      "id": "w01-19",
+      "term": "sense of humour",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B1",
+      "ipa": "/ˌsens əv ˈhjuːmə/",
+      "pl": "poczucie humoru",
+      "def": "the ability to find things funny and to make other people laugh",
+      "example": "Jack has a great {{sense of humour}}; even his terrible jokes make the whole class laugh.",
+      "examplePl": "Jack ma świetne poczucie humoru; nawet jego fatalne dowcipy rozśmieszają całą klasę.",
+      "collocations": [
+        "have a good sense of humour",
+        "a dry sense of humour"
+      ],
+      "note": "Pisownia brytyjska: *humour* (w amerykańskiej *humor*)."
+    },
+    {
+      "id": "w01-20",
+      "term": "have a lot in common",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B1",
+      "ipa": "/hæv ə ˌlɒt ɪn ˈkɒmən/",
+      "pl": "mieć wiele wspólnego",
+      "def": "to share many interests, opinions or experiences with another person",
+      "example": "We became friends because we {{have a lot in common}}: football, comics and pizza.",
+      "examplePl": "Zaprzyjaźniliśmy się, bo mamy ze sobą wiele wspólnego: piłkę nożną, komiksy i pizzę.",
+      "collocations": [
+        "have a lot in common with sb",
+        "have nothing in common"
+      ]
+    },
+    {
+      "id": "w01-21",
+      "term": "easy-going",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˌiːziˈɡəʊɪŋ/",
+      "pl": "wyluzowany, łatwy w obejściu",
+      "def": "relaxed and not easily upset or worried",
+      "example": "Our new teacher is very {{easy-going}}; she does not mind if someone forgets their homework once.",
+      "examplePl": "Nasza nowa nauczycielka jest bardzo wyluzowana; nie przeszkadza jej, gdy ktoś raz zapomni zadania domowego.",
+      "collocations": [
+        "an easy-going person",
+        "an easy-going attitude"
+      ],
+      "note": "Można pisać *easy-going* lub *easygoing*."
+    },
+    {
+      "id": "w01-22",
+      "term": "honest",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈɒnɪst/",
+      "pl": "uczciwy, szczery",
+      "def": "always telling the truth and never cheating or stealing",
+      "example": "She was {{honest}} enough to tell the shop assistant that he had given her too much change.",
+      "examplePl": "Była na tyle uczciwa, że powiedziała ekspedientowi, iż wydał jej za dużo reszty.",
+      "collocations": [
+        "be honest with sb",
+        "an honest answer"
+      ],
+      "family": [
+        "honesty (n)",
+        "honestly (adv)",
+        "dishonest (adj)"
+      ],
+      "note": "Litera *h* jest niema: /ˈɒnɪst/."
+    },
+    {
+      "id": "w01-23",
+      "term": "mature",
+      "type": "word",
+      "pos": "adj",
+      "level": "B2",
+      "ipa": "/məˈtʃʊə/",
+      "pl": "dojrzały",
+      "def": "behaving in a sensible way, like an adult",
+      "example": "For a twelve-year-old, he is very {{mature}}: he always thinks before he speaks.",
+      "examplePl": "Jak na dwunastolatka jest bardzo dojrzały: zawsze myśli, zanim coś powie.",
+      "collocations": [
+        "mature for your age",
+        "a mature attitude"
+      ],
+      "family": [
+        "maturity (n)",
+        "immature (adj)"
+      ]
+    },
+    {
+      "id": "w01-24",
+      "term": "thoughtful",
+      "type": "word",
+      "pos": "adj",
+      "level": "B2",
+      "ipa": "/ˈθɔːtfl/",
+      "pl": "troskliwy, pełen względów",
+      "def": "paying attention to other people's feelings and needs",
+      "example": "It was very {{thoughtful}} of Anna to ask how I felt after I failed the test.",
+      "examplePl": "To było bardzo troskliwe ze strony Anny, że zapytała, jak się czuję po oblanym teście.",
+      "collocations": [
+        "a thoughtful gift",
+        "thoughtful of sb to do sth"
+      ],
+      "family": [
+        "thought (n)",
+        "thoughtfully (adv)",
+        "thoughtless (adj)"
+      ],
+      "note": "Uwaga: *thoughtful* może też znaczyć „zamyślony”."
+    },
+    {
+      "id": "w01-25",
+      "term": "determined",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/dɪˈtɜːmɪnd/",
+      "pl": "zdeterminowany, zdecydowany",
+      "def": "having made a firm decision to do something and refusing to let anything stop you",
+      "example": "She was {{determined}} to finish the race, even after she fell and hurt her knee.",
+      "examplePl": "Była zdeterminowana, żeby ukończyć bieg, nawet po tym, jak upadła i uderzyła się w kolano.",
+      "collocations": [
+        "be determined to do sth",
+        "a determined effort"
+      ],
+      "family": [
+        "determination (n)",
+        "determine (v)"
+      ]
+    },
+    {
+      "id": "w01-26",
+      "term": "creative",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/kriˈeɪtɪv/",
+      "pl": "kreatywny, twórczy",
+      "def": "good at thinking of new ideas or making new and interesting things",
+      "example": "My cousin is so {{creative}}: she designs her own clothes and paints pictures on her bedroom walls.",
+      "examplePl": "Moja kuzynka jest tak kreatywna: sama projektuje sobie ubrania i maluje obrazy na ścianach swojego pokoju.",
+      "collocations": [
+        "a creative person",
+        "creative writing",
+        "a creative solution"
+      ],
+      "family": [
+        "create (v)",
+        "creativity (n)",
+        "creation (n)"
+      ]
+    },
+    {
+      "id": "w01-27",
+      "term": "cheer up",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌtʃɪər ˈʌp/",
+      "pl": "rozchmurzyć się, poprawić sobie humor",
+      "def": "to become happier, or to make somebody feel happier",
+      "example": "He was upset about losing the game, but he {{cheered up}} when his friends arrived with pizza.",
+      "examplePl": "Był zmartwiony przegraną, ale rozchmurzył się, gdy przyjaciele przyszli z pizzą.",
+      "collocations": [
+        "cheer up!",
+        "cheer sb up"
+      ]
+    },
+    {
+      "id": "w01-28",
+      "term": "show off",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B2",
+      "ipa": "/ˌʃəʊ ˈɒf/",
+      "pl": "popisywać się",
+      "def": "to try to impress people by showing what you can do or what you own",
+      "example": "The boys were {{showing off}} by jumping from the highest board at the swimming pool.",
+      "examplePl": "Chłopcy popisywali się, skacząc z najwyższej trampoliny na basenie.",
+      "collocations": [
+        "show off in front of sb",
+        "show off your new phone"
+      ],
+      "family": [
+        "show-off (n)"
+      ]
+    },
+    {
+      "id": "w01-29",
+      "term": "lose your temper",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B2",
+      "ipa": "/ˌluːz jɔː ˈtempə/",
+      "pl": "stracić panowanie nad sobą, wpaść w złość",
+      "def": "to suddenly become very angry",
+      "example": "My brother {{lost his temper}} when I deleted his game by mistake.",
+      "examplePl": "Mój brat wpadł w złość, kiedy przez pomyłkę skasowałem mu grę.",
+      "collocations": [
+        "lose your temper with sb",
+        "keep your temper"
+      ]
+    },
+    {
+      "id": "w01-30",
+      "term": "a bundle of nerves",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "B2",
+      "ipa": "/ə ˌbʌndl əv ˈnɜːvz/",
+      "pl": "kłębek nerwów",
+      "def": "a person who feels extremely nervous and tense",
+      "example": "Before the singing contest she was {{a bundle of nerves}}, and her hands were shaking.",
+      "examplePl": "Przed konkursem piosenki była kłębkiem nerwów i drżały jej ręce.",
+      "collocations": [
+        "be a bundle of nerves"
+      ]
+    },
+    {
+      "id": "w01-31",
+      "term": "optimistic",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˌɒptɪˈmɪstɪk/",
+      "pl": "optymistyczny",
+      "def": "expecting good things to happen and feeling hopeful about the future",
+      "example": "Our coach is {{optimistic}} about the match: the team has trained hard and is playing at home.",
+      "examplePl": "Nasz trener jest optymistycznie nastawiony do meczu: drużyna ciężko trenowała i gra u siebie.",
+      "collocations": [
+        "optimistic about sth",
+        "cautiously optimistic"
+      ],
+      "family": [
+        "optimism (n)",
+        "optimist (n)",
+        "pessimistic (adj)"
+      ]
+    },
+    {
+      "id": "w01-32",
+      "term": "anxious",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈæŋkʃəs/",
+      "pl": "zaniepokojony, niespokojny",
+      "def": "worried and nervous about something that might happen",
+      "example": "Mum gets {{anxious}} whenever I am late, so I always send her a message.",
+      "examplePl": "Mama się niepokoi, ilekroć się spóźniam, więc zawsze wysyłam jej wiadomość.",
+      "collocations": [
+        "anxious about sth",
+        "feel anxious"
+      ],
+      "family": [
+        "anxiety (n)",
+        "anxiously (adv)"
+      ]
+    },
+    {
+      "id": "w01-33",
+      "term": "talkative",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈtɔːkətɪv/",
+      "pl": "gadatliwy, rozmowny",
+      "def": "liking to talk a lot",
+      "example": "My little cousin is so {{talkative}} that she told me about her whole day without stopping once.",
+      "examplePl": "Moja młodsza kuzynka jest tak gadatliwa, że ani razu nie przerwała, opowiadając mi o całym swoim dniu.",
+      "collocations": [
+        "a talkative child",
+        "very talkative"
+      ]
+    },
+    {
+      "id": "w01-34",
+      "term": "jealous",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈdʒeləs/",
+      "pl": "zazdrosny, zawistny",
+      "def": "unhappy because you want what another person has",
+      "example": "Mia felt a bit {{jealous}} when her friend got the phone she had wanted for months.",
+      "examplePl": "Mia poczuła się trochę zazdrosna, gdy jej przyjaciółka dostała telefon, o którym marzyła od miesięcy.",
+      "collocations": [
+        "jealous of sb",
+        "feel jealous"
+      ],
+      "family": [
+        "jealousy (n)"
+      ],
+      "note": "Po *jealous* używamy *of*: *jealous of her success*."
+    },
+    {
+      "id": "w01-35",
+      "term": "tolerant",
+      "type": "word",
+      "pos": "adj",
+      "level": "B2",
+      "ipa": "/ˈtɒlərənt/",
+      "pl": "tolerancyjny, wyrozumiały",
+      "def": "accepting that other people have different opinions or ways of life, even if you do not agree",
+      "example": "In a school with students from many countries, you have to be {{tolerant}} of different habits and beliefs.",
+      "examplePl": "W szkole, do której chodzą uczniowie z wielu krajów, trzeba być tolerancyjnym wobec odmiennych zwyczajów i przekonań.",
+      "collocations": [
+        "tolerant of sb/sth",
+        "a tolerant society"
+      ],
+      "family": [
+        "tolerance (n)",
+        "tolerate (v)",
+        "intolerant (adj)"
+      ]
+    },
+    {
+      "id": "w01-36",
+      "term": "insecure",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˌɪnsɪˈkjʊə/",
+      "pl": "niepewny siebie",
+      "def": "not sure about your own value or abilities",
+      "example": "He seems loud and sure of himself, but deep down he feels {{insecure}} and worries about what others think.",
+      "examplePl": "Sprawia wrażenie głośnego i pewnego siebie, ale w głębi duszy czuje się niepewnie i martwi się tym, co myślą inni.",
+      "collocations": [
+        "feel insecure",
+        "insecure about sth"
+      ],
+      "family": [
+        "insecurity (n)",
+        "secure (adj)"
+      ]
+    },
+    {
+      "id": "w01-37",
+      "term": "stand out",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B2",
+      "ipa": "/ˌstænd ˈaʊt/",
+      "pl": "wyróżniać się",
+      "def": "to be easy to notice because you are different or better than others",
+      "example": "Maya's creativity makes her {{stand out}} from the rest of the class.",
+      "examplePl": "Kreatywność sprawia, że Maya wyróżnia się na tle klasy.",
+      "collocations": [
+        "stand out from the crowd",
+        "stand out as"
+      ]
+    },
+    {
+      "id": "w01-38",
+      "term": "get to know",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B1",
+      "ipa": "/ˌɡet tə ˈnəʊ/",
+      "pl": "poznać (kogoś) bliżej",
+      "def": "to learn what a person is really like by spending time with them",
+      "example": "It takes time to {{get to know}} someone properly, so do not judge people too quickly.",
+      "examplePl": "Poznanie kogoś naprawdę dobrze wymaga czasu, więc nie oceniaj ludzi zbyt szybko.",
+      "collocations": [
+        "get to know sb",
+        "get to know each other"
+      ],
+      "note": "*Get to know* to „poznać bliżej”; samo „poznać kogoś” (pierwszy raz) to *meet*."
+    },
+    {
+      "id": "w01-39",
+      "term": "peer pressure",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B2",
+      "ipa": "/ˈpɪə ˌpreʃə/",
+      "pl": "presja rówieśników",
+      "def": "the strong influence that people of your own age have on how you behave",
+      "example": "Many teenagers try things they do not enjoy because of {{peer pressure}}.",
+      "examplePl": "Wielu nastolatków próbuje rzeczy, które im się nie podobają, z powodu presji rówieśników.",
+      "collocations": [
+        "under peer pressure",
+        "resist peer pressure",
+        "give in to peer pressure"
+      ]
+    },
+    {
+      "id": "w01-40",
+      "term": "the life and soul of the party",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "B2",
+      "ipa": "/ðə ˌlaɪf ən ˌsəʊl əv ðə ˈpɑːti/",
+      "pl": "dusza towarzystwa",
+      "def": "the person who makes a social event lively and fun",
+      "example": "Zoe is always {{the life and soul of the party}}: she tells jokes and gets everybody dancing.",
+      "examplePl": "Zoe zawsze jest duszą towarzystwa: opowiada dowcipy i porywa wszystkich do tańca.",
+      "collocations": [
+        "be the life and soul of the party"
+      ]
+    }
+  ]
+}
