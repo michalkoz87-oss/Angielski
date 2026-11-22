@@ -1,11 +1,11 @@
 {
   "week": 1,
-  "intro": "Ten tydzień jest o opisywaniu ludzi: o cechach charakteru, pierwszym wrażeniu, mocnych stronach i wadach. Po jego ukończeniu opiszesz czyjś charakter precyzyjnie i z przykładami (na przykład odróżnisz osobę powściągliwą od nieśmiałej, a natarczywą od apodyktycznej), ominiesz pułapki w rodzaju sympathetic i pathetic i napiszesz opis osoby, którą podziwiasz. W gramatyce uporządkujesz różnicę między present simple a present continuous, razem z czasownikami stanu i zdaniami typu He's always interrupting.",
+  "intro": "Ten tydzień poświęcony jest opisywaniu ludzi: cechom charakteru, pierwszemu wrażeniu, mocnym stronom i wadom. Po jego ukończeniu opiszesz czyjś charakter precyzyjnie i z przykładami (na przykład odróżnisz osobę powściągliwą od skrępowanej, a natarczywą od apodyktycznej), ominiesz pułapki w rodzaju sympathetic i pathetic i napiszesz opis osoby, którą podziwiasz. W gramatyce uporządkujesz różnicę między present simple a present continuous, razem z czasownikami stanu i zdaniami typu He's always interrupting.",
   "reading": {
     "title": "The colleague I got wrong",
     "paragraphs": [
       "I pride myself on reading people quickly. Give me thirty seconds at a party and I think I know who is {{genuine|w01-16}}, who {{is full of himself|w01-30}} and who has only come for the free wine. It is a useful {{trait|w01-31}} in a journalist. It is also, I am slowly realising, my most embarrassing {{flaw|w01-32}}.",
-      "Take Helen. When she joined our office three years ago, she barely spoke. She didn't laugh at my jokes, she ate lunch at her desk, and in meetings she {{came across as|w01-11}} cold, even a little bored. Everyone else in the building is {{outgoing|w01-13}} to the point of noise, so a {{reserved|w01-14}} newcomer stood out. Within a week I had decided that she {{looked down on|w01-27}} the rest of us. 'She thinks she's too good for this place,' I told a friend.",
+      "Take Helen. When she joined our office three years ago, she barely spoke. She didn't laugh at my jokes, she ate lunch at her desk, and in meetings she {{came across as|w01-11}} cold, even a little bored. Everyone else in the building is {{outgoing|w01-13}} to the point of being noisy, so a {{reserved|w01-14}} newcomer stood out. Within a week I had decided that she {{looked down on|w01-27}} the rest of us. 'She thinks she's too good for this place,' I told a friend.",
       "I was wrong about almost everything. Helen, it turns out, is simply {{awkward|w01-17}} with people she doesn't know. She needs time, and most of us never give it. She is also the most {{conscientious|w01-01}} person I have ever worked with: she reads every contract twice. She {{keeps her word|w01-09}}, too. If she says Thursday, she means Thursday morning. And when a junior reporter was blamed for a mistake that wasn't his, it was Helen, not one of the loud, charming people, who {{stood up for|w01-38}} him in front of the editor.",
       "These days I {{count on|w01-08}} her more than on anyone else in the building. This month she is training our new recruits, and I am watching them make exactly the mistake I made. They laugh with the {{witty|w01-15}} ones and ignore the quiet woman in the corner who actually knows the answers. She doesn't {{show off|w01-26}}, so they assume there is nothing to show.",
       "Psychologists say we form an opinion of a stranger in a fraction of a second and then spend months collecting evidence that we were right. I believe it, because I still do it. I am always deciding who people are before they have finished their first sentence. Helen is {{brutally honest|w01-29}} about this. 'You don't listen,' she told me last week. 'You {{judge a book by its cover|w01-20}} and then you stop reading.'",
@@ -138,7 +138,7 @@
           { "en": "I see what you mean, but I don't agree.", "pl": "Rozumiem, o co ci chodzi, ale się nie zgadzam." },
           { "en": "She's seeing a client at the moment.", "pl": "Ma teraz spotkanie z klientem." },
           { "en": "My sister is stubborn.", "pl": "Moja siostra jest uparta (z natury)." },
-          { "en": "You're being stubborn. Just listen to me for a minute!", "pl": "Upierasz się bez powodu. Posłuchaj mnie przez chwilę!" }
+          { "en": "You're being stubborn. Just listen to me for a minute!", "pl": "Upierasz się (teraz, w tej rozmowie). Posłuchaj mnie przez chwilę!" }
         ]
       },
       {
@@ -242,7 +242,7 @@
       {
         "type": "gap",
         "prompt": "This month our manager ___ (train) three new members of staff.",
-        "answers": ["is training"],
+        "answers": ["is training", "'s training"],
         "explanationPl": "*This month* sygnalizuje sytuację tymczasową, trwającą w obecnym okresie, więc present continuous."
       },
       {
@@ -377,7 +377,7 @@
     }
   },
   "writing": {
-    "taskEn": "A website for learners of English is collecting texts for a series called 'Someone I look up to'. Write a description of a person you admire (140–200 words). Say who the person is and how you know them, describe their character with examples of what they do, mention one weakness, and explain what you have learnt from them.",
+    "taskEn": "A website for learners of English is collecting texts for a series called 'Someone I look up to'. Write a description of a person you admire (140–200 words). Say who the person is and how you know them, describe their character with examples of what they do, mention one weakness, and explain what you are learning from them.",
     "taskPl": "Portal dla uczących się angielskiego zbiera teksty do cyklu „Someone I look up to”. Opisz osobę, którą podziwiasz (140–200 słów): kim jest i skąd ją znasz, jaki ma charakter (z przykładami tego, co robi), jaką ma słabość i czego się od niej uczysz.",
     "genre": "description",
     "minWords": 140,
@@ -419,7 +419,7 @@
       "titlePl": "Kogo zatrudnić? Rozmowa o dwojgu kandydatach",
       "scenarioPl": "Razem z drugą osobą z zespołu wybierasz nowego pracownika. Po rozmowach kwalifikacyjnych zostało dwoje kandydatów: Daniel, pewny siebie i błyskotliwy, ale trochę zarozumiały, oraz Priya, cicha i powściągliwa, ale bardzo sumienna. Macie różne zdania, a decyzja musi zapaść dzisiaj.",
       "yourRole": "You interviewed both candidates. You prefer Priya: she was reserved in the interview, but her references say she is conscientious and consistent and takes criticism well. You think Daniel is full of himself. Explain your view, but listen to your colleague.",
-      "partnerRole": "You are a colleague who also met both candidates. You prefer Daniel: he is outgoing and witty, he made a great impression on the clients, and you think the team needs someone confident. In your opinion Priya came across as awkward and may be too quiet for the job. Defend your choice, but be ready to compromise.",
+      "partnerRole": "You are a colleague who also met both candidates. You prefer Daniel: he is outgoing and witty, he made a great impression on you in the interview, and you think the team needs someone confident. In your opinion Priya came across as awkward and may be too quiet for the job. Defend your choice, but be ready to compromise.",
       "opening": "So, we need to decide today. I have to say, Daniel really impressed me. What did you think of him?",
       "goalsPl": [
         "Opisz charakter obojga kandydatów słownictwem z tego tygodnia",
@@ -432,7 +432,7 @@
   "practice": {
     "gapFill": [
       {
-        "sentence": "I expected my landlord to be angry about the late rent, but he was surprisingly ___ when I explained that I'd lost my job.",
+        "sentence": "I expected my landlord to be angry about the late rent, but when I explained that I'd lost my job he was surprisingly ___ and said he knew how hard things must be for me.",
         "answerId": "w01-03",
         "answers": ["sympathetic"]
       },
@@ -442,7 +442,7 @@
         "answers": ["took to"]
       },
       {
-        "sentence": "I don't want to seem ___, but this is the third time I've asked: could you give me your answer today?",
+        "sentence": "I only went in to ask about prices, but the man at the gym was so ___ that I signed up for a year just to make him stop talking.",
         "answerId": "w01-18",
         "answers": ["pushy"]
       },
@@ -474,7 +474,7 @@
       {
         "sentence": "The coach shouts a lot during matches, but away from the pitch he ___ and would do anything for his players.",
         "answerId": "w01-10",
-        "answers": ["has a heart of gold"]
+        "answers": ["has a heart of gold", "has got a heart of gold", "'s got a heart of gold"]
       },
       {
         "sentence": "She isn't the fastest runner in the club, but she's the most ___: she finishes in almost exactly the same time every week.",

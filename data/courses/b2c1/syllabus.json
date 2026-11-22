@@ -1,0 +1,6845 @@
+{
+ "note": "Lista haseł zaplanowanych na kolejne tygodnie kursu (do pisania plików wNN-vocab.json). Tydzień 1 jest już opublikowany.",
+ "weeks": [
+  {
+   "week": 1,
+   "terms": [
+    {
+     "term": "conscientious",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "sumienny, skrupulatny"
+    },
+    {
+     "term": "considerate",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "liczący się z innymi, taktowny"
+    },
+    {
+     "term": "sympathetic",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "współczujący, pełen zrozumienia"
+    },
+    {
+     "term": "look up to sb",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "podziwiać kogoś, brać z kogoś przykład"
+    },
+    {
+     "term": "modest",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "skromny"
+    },
+    {
+     "term": "open-minded",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "otwarty na nowe idee, tolerancyjny"
+    },
+    {
+     "term": "down-to-earth",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "twardo stąpający po ziemi, bezpretensjonalny"
+    },
+    {
+     "term": "count on sb",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "liczyć na kogoś, polegać na kimś"
+    },
+    {
+     "term": "keep your word",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "dotrzymywać słowa"
+    },
+    {
+     "term": "have a heart of gold",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "mieć złote serce"
+    },
+    {
+     "term": "come across as",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "sprawiać wrażenie (jakiegoś)"
+    },
+    {
+     "term": "make a good impression",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "zrobić dobre wrażenie"
+    },
+    {
+     "term": "outgoing",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "towarzyski, otwarty"
+    },
+    {
+     "term": "reserved",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "powściągliwy, zamknięty w sobie"
+    },
+    {
+     "term": "witty",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "błyskotliwy, dowcipny"
+    },
+    {
+     "term": "genuine",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "szczery, autentyczny"
+    },
+    {
+     "term": "awkward",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "niezręczny, skrępowany"
+    },
+    {
+     "term": "pushy",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "natarczywy, nachalny"
+    },
+    {
+     "term": "take to sb",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "polubić kogoś (od razu), poczuć do kogoś sympatię"
+    },
+    {
+     "term": "judge a book by its cover",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "oceniać po pozorach, oceniać książkę po okładce"
+    },
+    {
+     "term": "stubborn",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "uparty"
+    },
+    {
+     "term": "bossy",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "apodyktyczny, lubiący rządzić innymi"
+    },
+    {
+     "term": "get your own way",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "stawiać na swoim, dopinać swego"
+    },
+    {
+     "term": "moody",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "humorzasty, kapryśny"
+    },
+    {
+     "term": "self-centred",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "egocentryczny, skupiony na sobie"
+    },
+    {
+     "term": "show off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "popisywać się, szpanować"
+    },
+    {
+     "term": "look down on sb",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "patrzeć na kogoś z góry, gardzić kimś"
+    },
+    {
+     "term": "pathetic",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "żałosny"
+    },
+    {
+     "term": "brutally honest",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "brutalnie szczery, szczery do bólu"
+    },
+    {
+     "term": "be full of yourself",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "być zarozumiałym, mieć o sobie wysokie mniemanie"
+    },
+    {
+     "term": "trait",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "cecha (charakteru)"
+    },
+    {
+     "term": "flaw",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "wada, skaza"
+    },
+    {
+     "term": "play to your strengths",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "wykorzystywać swoje mocne strony"
+    },
+    {
+     "term": "determined",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "zdeterminowany, zdecydowany (coś osiągnąć)"
+    },
+    {
+     "term": "consistent",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "konsekwentny, stały"
+    },
+    {
+     "term": "sensitive",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "wrażliwy, drażliwy"
+    },
+    {
+     "term": "take criticism",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "przyjmować krytykę, znosić krytykę"
+    },
+    {
+     "term": "stand up for sb/sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "stawać w obronie kogoś/czegoś, bronić"
+    },
+    {
+     "term": "live up to sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "sprostać czemuś, spełnić (oczekiwania)"
+    },
+    {
+     "term": "bring out the best in sb",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "wydobywać z kogoś to, co najlepsze"
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "terms": [
+    {
+     "term": "sibling",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "brat lub siostra, (l.mn.) rodzeństwo"
+    },
+    {
+     "term": "in-laws",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "teściowie, rodzina męża lub żony"
+    },
+    {
+     "term": "a distant relative",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "daleki krewny"
+    },
+    {
+     "term": "ancestor",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "przodek"
+    },
+    {
+     "term": "take after sb",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "wdać się w kogoś, być podobnym do kogoś (z rodziny)"
+    },
+    {
+     "term": "run in the family",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "B2",
+     "pl": "być rodzinne, powtarzać się w rodzinie"
+    },
+    {
+     "term": "pass sth down",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "przekazywać coś z pokolenia na pokolenie"
+    },
+    {
+     "term": "upbringing",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "wychowanie"
+    },
+    {
+     "term": "spoil",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "rozpieszczać"
+    },
+    {
+     "term": "close-knit",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "zżyty, mocno ze sobą związany"
+    },
+    {
+     "term": "acquaintance",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "znajomy, znajoma"
+    },
+    {
+     "term": "hit it off",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "od razu przypaść sobie do gustu, złapać dobry kontakt"
+    },
+    {
+     "term": "mutual",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "wspólny, wzajemny"
+    },
+    {
+     "term": "bond",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "więź"
+    },
+    {
+     "term": "supportive",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "wspierający, pomocny"
+    },
+    {
+     "term": "confide",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "zwierzać się"
+    },
+    {
+     "term": "keep sb company",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "dotrzymywać komuś towarzystwa"
+    },
+    {
+     "term": "let sb down",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zawieść kogoś"
+    },
+    {
+     "term": "drift apart",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "oddalić się od siebie"
+    },
+    {
+     "term": "lose touch",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "stracić kontakt"
+    },
+    {
+     "term": "fancy",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "czuć do kogoś pociąg, uważać kogoś za atrakcyjnego"
+    },
+    {
+     "term": "fall for sb",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "zakochać się w kimś"
+    },
+    {
+     "term": "affectionate",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "czuły, serdeczny"
+    },
+    {
+     "term": "commitment",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "zaangażowanie, zobowiązanie"
+    },
+    {
+     "term": "propose",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "oświadczyć się"
+    },
+    {
+     "term": "tie the knot",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "wziąć ślub, pobrać się"
+    },
+    {
+     "term": "settle down",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "ustatkować się"
+    },
+    {
+     "term": "start a family",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "założyć rodzinę"
+    },
+    {
+     "term": "affair",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "romans"
+    },
+    {
+     "term": "split up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "rozstać się, zerwać ze sobą"
+    },
+    {
+     "term": "row",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "kłótnia, awantura"
+    },
+    {
+     "term": "fall out with sb",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "pokłócić się z kimś, poróżnić się"
+    },
+    {
+     "term": "tension",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "napięcie"
+    },
+    {
+     "term": "interfere",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "wtrącać się, mieszać się"
+    },
+    {
+     "term": "nag",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "zrzędzić, suszyć komuś głowę"
+    },
+    {
+     "term": "take sb for granted",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "nie doceniać kogoś, traktować kogoś jak coś oczywistego"
+    },
+    {
+     "term": "resent",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "mieć żal (o coś), mieć komuś coś za złe"
+    },
+    {
+     "term": "bear a grudge",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "chować urazę"
+    },
+    {
+     "term": "clear the air",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "oczyścić atmosferę, wyjaśnić sobie nieporozumienia"
+    },
+    {
+     "term": "make up with sb",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "pogodzić się z kimś"
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "terms": [
+    {
+     "term": "chore",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "obowiązek domowy, nudny obowiązek"
+    },
+    {
+     "term": "pull your weight",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "robić swoje, przykładać się do wspólnych obowiązków"
+    },
+    {
+     "term": "laundry",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "pranie"
+    },
+    {
+     "term": "stain",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "plama"
+    },
+    {
+     "term": "fabric",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "tkanina, materiał"
+    },
+    {
+     "term": "pile up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "piętrzyć się, gromadzić się"
+    },
+    {
+     "term": "vacuum",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "odkurzać (odkurzaczem)"
+    },
+    {
+     "term": "wipe",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "wycierać, przecierać"
+    },
+    {
+     "term": "clear sth out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "zrobić w czymś porządek, opróżnić coś z niepotrzebnych rzeczy"
+    },
+    {
+     "term": "lay the table",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "nakrywać do stołu"
+    },
+    {
+     "term": "household",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "gospodarstwo domowe, domownicy"
+    },
+    {
+     "term": "cosy",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "przytulny"
+    },
+    {
+     "term": "clutter",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "graty, rupiecie, bałagan"
+    },
+    {
+     "term": "pick up after sb",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "sprzątać po kimś"
+    },
+    {
+     "term": "tend",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "mieć w zwyczaju, mieć skłonność (coś robić)"
+    },
+    {
+     "term": "on a daily basis",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "codziennie, na co dzień"
+    },
+    {
+     "term": "get into the habit",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "wyrobić w sobie nawyk, nabrać zwyczaju"
+    },
+    {
+     "term": "stick to sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "trzymać się czegoś (planu, rutyny)"
+    },
+    {
+     "term": "accustomed",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "przyzwyczajony"
+    },
+    {
+     "term": "be stuck in a rut",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "popaść w rutynę, tkwić w marazmie"
+    },
+    {
+     "term": "hectic",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "gorączkowy, zabiegany, bardzo intensywny"
+    },
+    {
+     "term": "a tight schedule",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "napięty grafik, napięty harmonogram"
+    },
+    {
+     "term": "have a lot on your plate",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "mieć dużo na głowie"
+    },
+    {
+     "term": "juggle",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "godzić (wiele obowiązków naraz), żonglować"
+    },
+    {
+     "term": "prioritise",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "ustalać priorytety, traktować priorytetowo"
+    },
+    {
+     "term": "time-consuming",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "czasochłonny"
+    },
+    {
+     "term": "put sth off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "odkładać coś na później"
+    },
+    {
+     "term": "leave sth until the last minute",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "zostawiać coś na ostatnią chwilę"
+    },
+    {
+     "term": "get round to sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "zabrać się (w końcu) za coś, znaleźć na coś czas"
+    },
+    {
+     "term": "eventually",
+     "type": "word",
+     "pos": "adv",
+     "level": "B2",
+     "pl": "w końcu, ostatecznie"
+    },
+    {
+     "term": "a night owl",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "nocny marek, sowa"
+    },
+    {
+     "term": "unwind",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "odprężyć się, zrelaksować się"
+    },
+    {
+     "term": "yawn",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "ziewać"
+    },
+    {
+     "term": "drowsy",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "senny, ospały"
+    },
+    {
+     "term": "doze off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "przysnąć, zdrzemnąć się"
+    },
+    {
+     "term": "nap",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "drzemka"
+    },
+    {
+     "term": "fast asleep",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "pogrążony w głębokim śnie, śpiący jak kamień"
+    },
+    {
+     "term": "snore",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "chrapać"
+    },
+    {
+     "term": "wear sb out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "wykończyć kogoś, bardzo zmęczyć"
+    },
+    {
+     "term": "lie-in",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "dłuższe poleżenie w łóżku rano"
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "terms": [
+    {
+     "term": "thrilled",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "zachwycony, bardzo podekscytowany"
+    },
+    {
+     "term": "be over the moon",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "być wniebowziętym, być w siódmym niebie"
+    },
+    {
+     "term": "content",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "zadowolony (z tego, co się ma)"
+    },
+    {
+     "term": "relieved",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "pełen ulgi, odczuwający ulgę"
+    },
+    {
+     "term": "cheer sb up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "pocieszyć kogoś, poprawić komuś humor"
+    },
+    {
+     "term": "amused",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "rozbawiony"
+    },
+    {
+     "term": "burst out laughing",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "wybuchnąć śmiechem"
+    },
+    {
+     "term": "moving",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "wzruszający, poruszający"
+    },
+    {
+     "term": "astonished",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "zdumiony"
+    },
+    {
+     "term": "get carried away",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "dać się ponieść (emocjom)"
+    },
+    {
+     "term": "anxious",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "niespokojny, pełen obaw"
+    },
+    {
+     "term": "concerned",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "zaniepokojony, zatroskany"
+    },
+    {
+     "term": "worried sick",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "śmiertelnie zmartwiony, zamartwiający się"
+    },
+    {
+     "term": "be under pressure",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "być pod presją"
+    },
+    {
+     "term": "overwhelmed",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "przytłoczony"
+    },
+    {
+     "term": "frustrated",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "sfrustrowany, zniechęcony (niepowodzeniem)"
+    },
+    {
+     "term": "dread",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "bać się (czegoś, co ma nastąpić), myśleć o czymś z przerażeniem"
+    },
+    {
+     "term": "have butterflies in your stomach",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "mieć tremę, denerwować się (przed czymś ważnym)"
+    },
+    {
+     "term": "freak out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "spanikować, wpaść w panikę"
+    },
+    {
+     "term": "calm down",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "uspokoić się"
+    },
+    {
+     "term": "irritating",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "irytujący, drażniący"
+    },
+    {
+     "term": "get on sb's nerves",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "B2",
+     "pl": "działać komuś na nerwy"
+    },
+    {
+     "term": "drive sb mad",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "doprowadzać kogoś do szału"
+    },
+    {
+     "term": "grumpy",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "zrzędliwy, w złym humorze"
+    },
+    {
+     "term": "offended",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "urażony, obrażony"
+    },
+    {
+     "term": "disgusted",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "zniesmaczony, pełen obrzydzenia"
+    },
+    {
+     "term": "furious",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "wściekły"
+    },
+    {
+     "term": "lose your temper",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "stracić panowanie nad sobą, wpaść w złość"
+    },
+    {
+     "term": "tell sb off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zbesztać kogoś, skrzyczeć"
+    },
+    {
+     "term": "take sth out on sb",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wyładowywać coś na kimś"
+    },
+    {
+     "term": "terrified",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "przerażony"
+    },
+    {
+     "term": "daunting",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "budzący obawy, przytłaczający (o zadaniu)"
+    },
+    {
+     "term": "self-conscious",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "skrępowany, zakłopotany"
+    },
+    {
+     "term": "ashamed",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "zawstydzony, pełen wstydu"
+    },
+    {
+     "term": "miserable",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "nieszczęśliwy, przygnębiony"
+    },
+    {
+     "term": "get sb down",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "przygnębiać kogoś, dołować"
+    },
+    {
+     "term": "devastated",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "zdruzgotany, załamany"
+    },
+    {
+     "term": "bitterly disappointed",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "gorzko rozczarowany, głęboko zawiedziony"
+    },
+    {
+     "term": "bottle sth up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "tłumić coś w sobie, dusić w sobie"
+    },
+    {
+     "term": "pull yourself together",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "wziąć się w garść"
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "terms": [
+    {
+     "term": "vacancy",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "wolne stanowisko, wakat"
+    },
+    {
+     "term": "applicant",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "kandydat, osoba ubiegająca się (o pracę)"
+    },
+    {
+     "term": "take sb on",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zatrudnić kogoś, przyjąć do pracy"
+    },
+    {
+     "term": "recruit",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "rekrutować, zatrudniać (nowych pracowników)"
+    },
+    {
+     "term": "reference",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "referencje, list polecający"
+    },
+    {
+     "term": "a proven track record",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "udokumentowane osiągnięcia, potwierdzone doświadczenie"
+    },
+    {
+     "term": "shortlist",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "zakwalifikować do kolejnego etapu, umieścić na krótkiej liście"
+    },
+    {
+     "term": "internship",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "staż, praktyka zawodowa"
+    },
+    {
+     "term": "turn sth down",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "odrzucić (ofertę, propozycję)"
+    },
+    {
+     "term": "get your foot in the door",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "zrobić pierwszy krok (w firmie, branży), zaczepić się"
+    },
+    {
+     "term": "workload",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "obciążenie pracą, ilość obowiązków"
+    },
+    {
+     "term": "shift",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "zmiana (w pracy)"
+    },
+    {
+     "term": "overtime",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "nadgodziny"
+    },
+    {
+     "term": "pile up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "piętrzyć się, nawarstwiać się"
+    },
+    {
+     "term": "paperwork",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "papierkowa robota, dokumenty"
+    },
+    {
+     "term": "meet a deadline",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "dotrzymać terminu, zdążyć przed terminem"
+    },
+    {
+     "term": "delegate",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "delegować, przekazywać (zadania innym)"
+    },
+    {
+     "term": "supervise",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "nadzorować, kierować (pracą)"
+    },
+    {
+     "term": "fill in for sb",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "zastąpić kogoś (tymczasowo)"
+    },
+    {
+     "term": "be snowed under",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "być zawalonym pracą"
+    },
+    {
+     "term": "wage",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "płaca, stawka (godzinowa, tygodniowa)"
+    },
+    {
+     "term": "pay rise",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "podwyżka"
+    },
+    {
+     "term": "perk",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "dodatkowa korzyść, benefit pracowniczy"
+    },
+    {
+     "term": "rewarding",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "dający satysfakcję, satysfakcjonujący"
+    },
+    {
+     "term": "self-employed",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "samozatrudniony, pracujący na własny rachunek"
+    },
+    {
+     "term": "juggle",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "godzić (pracę z innymi obowiązkami), łączyć"
+    },
+    {
+     "term": "take time off",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "wziąć wolne"
+    },
+    {
+     "term": "switch off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "wyłączyć się, przestać myśleć o pracy"
+    },
+    {
+     "term": "burn out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wypalić się (zawodowo)"
+    },
+    {
+     "term": "call it a day",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "skończyć na dziś, dać sobie spokój"
+    },
+    {
+     "term": "promotion",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "awans"
+    },
+    {
+     "term": "prospects",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "perspektywy (zawodowe), widoki na przyszłość"
+    },
+    {
+     "term": "pursue a career",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "robić karierę, rozwijać karierę (w jakiejś dziedzinie)"
+    },
+    {
+     "term": "appraisal",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "ocena okresowa (pracownika)"
+    },
+    {
+     "term": "step down",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "ustąpić ze stanowiska"
+    },
+    {
+     "term": "resign",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "zrezygnować ze stanowiska, złożyć rezygnację"
+    },
+    {
+     "term": "hand in your notice",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "złożyć wypowiedzenie"
+    },
+    {
+     "term": "lay sb off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "zwolnić kogoś (z powodu redukcji etatów)"
+    },
+    {
+     "term": "pension",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "emerytura (świadczenie)"
+    },
+    {
+     "term": "a dead-end job",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "praca bez perspektyw"
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "terms": [
+    {
+     "term": "curriculum",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "program nauczania"
+    },
+    {
+     "term": "compulsory",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "obowiązkowy"
+    },
+    {
+     "term": "attendance",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "obecność, frekwencja"
+    },
+    {
+     "term": "skip school",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "wagarować, opuścić lekcje"
+    },
+    {
+     "term": "bully",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "znęcać się nad kimś, dręczyć"
+    },
+    {
+     "term": "fall behind",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zostawać w tyle, mieć zaległości"
+    },
+    {
+     "term": "catch up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "nadrobić zaległości, dogonić (resztę)"
+    },
+    {
+     "term": "vocational",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "zawodowy (o szkole, kształceniu)"
+    },
+    {
+     "term": "literacy",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "umiejętność czytania i pisania"
+    },
+    {
+     "term": "learn sth by heart",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "B2",
+     "pl": "nauczyć się czegoś na pamięć"
+    },
+    {
+     "term": "revise",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "powtarzać (materiał przed egzaminem)"
+    },
+    {
+     "term": "cram",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "wkuwać, zakuwać (na ostatnią chwilę)"
+    },
+    {
+     "term": "go over sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "powtórzyć coś, przejrzeć jeszcze raz"
+    },
+    {
+     "term": "sit an exam",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "przystąpić do egzaminu, zdawać egzamin"
+    },
+    {
+     "term": "assess",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "oceniać (wiedzę, postępy)"
+    },
+    {
+     "term": "assignment",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "zadanie, praca zaliczeniowa"
+    },
+    {
+     "term": "draft",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "wersja robocza, szkic"
+    },
+    {
+     "term": "feedback",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "informacja zwrotna, uwagi"
+    },
+    {
+     "term": "sail through sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "zdać coś bez trudu, poradzić sobie z łatwością"
+    },
+    {
+     "term": "pass with flying colours",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "zdać śpiewająco"
+    },
+    {
+     "term": "enrol",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "zapisać się (na kurs, studia)"
+    },
+    {
+     "term": "get into sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "dostać się (na studia, do szkoły)"
+    },
+    {
+     "term": "tuition fees",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "czesne"
+    },
+    {
+     "term": "scholarship",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "stypendium (naukowe)"
+    },
+    {
+     "term": "lecturer",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "wykładowca"
+    },
+    {
+     "term": "do a degree",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "studiować (jakiś kierunek), robić dyplom"
+    },
+    {
+     "term": "thesis",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "praca dyplomowa (magisterska, doktorska)"
+    },
+    {
+     "term": "drop out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "rzucić (studia, szkołę)"
+    },
+    {
+     "term": "graduate",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "absolwent (uczelni)"
+    },
+    {
+     "term": "pull an all-nighter",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "zarwać noc (ucząc się lub pracując)"
+    },
+    {
+     "term": "master",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "opanować (umiejętność, język)"
+    },
+    {
+     "term": "pick sth up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "nauczyć się czegoś przy okazji, podłapać"
+    },
+    {
+     "term": "proficient",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "biegły, wprawny"
+    },
+    {
+     "term": "have a good grasp of sth",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "dobrze coś rozumieć, mieć dobrą znajomość czegoś"
+    },
+    {
+     "term": "hands-on",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "praktyczny (o doświadczeniu, szkoleniu)"
+    },
+    {
+     "term": "self-taught",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "będący samoukiem, nauczony samodzielnie"
+    },
+    {
+     "term": "brush up on sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "odświeżyć (wiedzę), podszlifować"
+    },
+    {
+     "term": "retrain",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "przekwalifikować się, przeszkolić (kogoś)"
+    },
+    {
+     "term": "room for improvement",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "pole do poprawy"
+    },
+    {
+     "term": "know sth inside out",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "znać coś na wylot"
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "terms": [
+    {
+     "term": "bargain",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "okazja, korzystny zakup"
+    },
+    {
+     "term": "shop around",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "porównywać ceny, rozglądać się za najlepszą ofertą"
+    },
+    {
+     "term": "affordable",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "przystępny cenowo, w przystępnej cenie"
+    },
+    {
+     "term": "overpriced",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "zbyt drogi, o zawyżonej cenie"
+    },
+    {
+     "term": "value for money",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "dobry stosunek jakości do ceny"
+    },
+    {
+     "term": "purchase",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "zakup"
+    },
+    {
+     "term": "voucher",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "bon, kupon"
+    },
+    {
+     "term": "haggle",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "targować się"
+    },
+    {
+     "term": "snap sth up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "kupić coś od ręki, rozchwytać"
+    },
+    {
+     "term": "break the bank",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "kosztować majątek, zrujnować kogoś (finansowo)"
+    },
+    {
+     "term": "income",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "dochód, dochody"
+    },
+    {
+     "term": "expense",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "wydatek, koszt"
+    },
+    {
+     "term": "cost of living",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "koszty utrzymania, koszty życia"
+    },
+    {
+     "term": "savings",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "oszczędności"
+    },
+    {
+     "term": "put sth aside",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "odłożyć (pieniądze)"
+    },
+    {
+     "term": "on a tight budget",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "z ograniczonym budżetem"
+    },
+    {
+     "term": "broke",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "spłukany, bez grosza"
+    },
+    {
+     "term": "extravagant",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "rozrzutny, zbyt kosztowny"
+    },
+    {
+     "term": "splash out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "zaszaleć, wydać dużo (na coś)"
+    },
+    {
+     "term": "make ends meet",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "wiązać koniec z końcem"
+    },
+    {
+     "term": "withdraw",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "wypłacić (pieniądze z konta)"
+    },
+    {
+     "term": "contactless",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "zbliżeniowy (o płatności, karcie)"
+    },
+    {
+     "term": "take out a loan",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "wziąć pożyczkę, zaciągnąć kredyt"
+    },
+    {
+     "term": "interest",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "odsetki, oprocentowanie"
+    },
+    {
+     "term": "instalment",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "rata"
+    },
+    {
+     "term": "pay sth off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "spłacić (dług, kredyt)"
+    },
+    {
+     "term": "owe",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "być winnym (pieniądze)"
+    },
+    {
+     "term": "get into debt",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "popaść w długi, zadłużyć się"
+    },
+    {
+     "term": "run up sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "narobić (długów), nabić (rachunek)"
+    },
+    {
+     "term": "be in the red",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "być na minusie, mieć debet"
+    },
+    {
+     "term": "receipt",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "paragon, pokwitowanie"
+    },
+    {
+     "term": "faulty",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "wadliwy, uszkodzony"
+    },
+    {
+     "term": "take sth back",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zwrócić coś (do sklepu)"
+    },
+    {
+     "term": "refund",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "zwrot pieniędzy"
+    },
+    {
+     "term": "warranty",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "gwarancja"
+    },
+    {
+     "term": "entitled",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "uprawniony (do czegoś)"
+    },
+    {
+     "term": "overcharge",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "policzyć (komuś) za dużo, zawyżyć rachunek"
+    },
+    {
+     "term": "rip sb off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "zedrzeć z kogoś, oskubać kogoś"
+    },
+    {
+     "term": "make a complaint",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "złożyć skargę, złożyć reklamację"
+    },
+    {
+     "term": "the small print",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "tekst drobnym drukiem, drobny druk (w umowie)"
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "terms": [
+    {
+     "term": "device",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "urządzenie"
+    },
+    {
+     "term": "feature",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "funkcja, cecha (produktu)"
+    },
+    {
+     "term": "user-friendly",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "łatwy w obsłudze, przyjazny dla użytkownika"
+    },
+    {
+     "term": "battery life",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "czas pracy na baterii, żywotność baterii"
+    },
+    {
+     "term": "plug sth in",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "podłączyć coś (do prądu, do gniazdka)"
+    },
+    {
+     "term": "upgrade",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "ulepszyć, wymienić na nowszy model"
+    },
+    {
+     "term": "outdated",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "przestarzały"
+    },
+    {
+     "term": "back sth up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zrobić kopię zapasową czegoś"
+    },
+    {
+     "term": "state-of-the-art",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "najnowocześniejszy"
+    },
+    {
+     "term": "a game changer",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "przełom, coś, co zmienia reguły gry"
+    },
+    {
+     "term": "browse",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "przeglądać (strony internetowe, ofertę)"
+    },
+    {
+     "term": "scroll",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "przewijać (ekran, stronę)"
+    },
+    {
+     "term": "notification",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "powiadomienie"
+    },
+    {
+     "term": "sign up for sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zarejestrować się, zapisać się na coś"
+    },
+    {
+     "term": "catch on",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "przyjąć się, zyskać popularność"
+    },
+    {
+     "term": "subscription",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "subskrypcja, abonament"
+    },
+    {
+     "term": "glitch",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "usterka, drobny błąd (techniczny)"
+    },
+    {
+     "term": "crash",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "zawiesić się, przestać działać (o programie, komputerze)"
+    },
+    {
+     "term": "go viral",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "stać się viralem, błyskawicznie rozejść się w sieci"
+    },
+    {
+     "term": "at your fingertips",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "na wyciągnięcie ręki, pod ręką"
+    },
+    {
+     "term": "privacy",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "prywatność"
+    },
+    {
+     "term": "personal data",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "dane osobowe"
+    },
+    {
+     "term": "secure",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "bezpieczny, zabezpieczony"
+    },
+    {
+     "term": "anonymous",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "anonimowy"
+    },
+    {
+     "term": "scam",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "oszustwo, przekręt"
+    },
+    {
+     "term": "hack into sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "włamać się do czegoś (systemu, konta)"
+    },
+    {
+     "term": "breach",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "naruszenie (bezpieczeństwa, przepisów), wyciek"
+    },
+    {
+     "term": "digital footprint",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "ślad cyfrowy"
+    },
+    {
+     "term": "opt out of sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "zrezygnować z czegoś, wypisać się"
+    },
+    {
+     "term": "fall into the wrong hands",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "wpaść w niepowołane ręce"
+    },
+    {
+     "term": "artificial",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "sztuczny"
+    },
+    {
+     "term": "automate",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "automatyzować"
+    },
+    {
+     "term": "roll sth out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wprowadzać (nowy produkt, usługę, funkcję)"
+    },
+    {
+     "term": "pop up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "wyskakiwać, pojawiać się nagle (na ekranie)"
+    },
+    {
+     "term": "tech-savvy",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "obeznany z technologią"
+    },
+    {
+     "term": "addictive",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "uzależniający, wciągający"
+    },
+    {
+     "term": "distract",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "rozpraszać, odwracać uwagę"
+    },
+    {
+     "term": "screen time",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "czas spędzany przed ekranem"
+    },
+    {
+     "term": "attention span",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "zdolność koncentracji, czas skupienia uwagi"
+    },
+    {
+     "term": "be glued to sth",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "być przyklejonym do czegoś, nie odrywać się (od ekranu, telefonu)"
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "terms": [
+    {
+     "term": "itinerary",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "plan podróży, trasa z programem"
+    },
+    {
+     "term": "board",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "wchodzić na pokład, wsiadać"
+    },
+    {
+     "term": "aisle",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "przejście (między fotelami, rzędami)"
+    },
+    {
+     "term": "long-haul",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "długodystansowy (o locie)"
+    },
+    {
+     "term": "stopover",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "międzylądowanie, przerwa w podróży"
+    },
+    {
+     "term": "get away",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "wyjechać na urlop, wyrwać się"
+    },
+    {
+     "term": "see sb off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "odprowadzić kogoś (na lotnisko, dworzec)"
+    },
+    {
+     "term": "miss a connection",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "nie zdążyć na przesiadkę"
+    },
+    {
+     "term": "travel light",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "podróżować z małym bagażem"
+    },
+    {
+     "term": "live out of a suitcase",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "żyć na walizkach"
+    },
+    {
+     "term": "turbulence",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "turbulencje"
+    },
+    {
+     "term": "stranded",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "uziemiony, pozostawiony bez możliwości dalszej podróży"
+    },
+    {
+     "term": "disruption",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "zakłócenia, utrudnienia (w ruchu)"
+    },
+    {
+     "term": "jet-lagged",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "zmęczony po zmianie stref czasowych"
+    },
+    {
+     "term": "divert",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "skierować inną trasą, przekierować (lot, ruch)"
+    },
+    {
+     "term": "hassle",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "kłopot, zawracanie głowy"
+    },
+    {
+     "term": "hold sb up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zatrzymać kogoś, spowodować czyjeś opóźnienie"
+    },
+    {
+     "term": "put sb up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "przenocować kogoś, zapewnić komuś nocleg"
+    },
+    {
+     "term": "claim compensation",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "ubiegać się o odszkodowanie"
+    },
+    {
+     "term": "in the middle of nowhere",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "B2",
+     "pl": "na odludziu, w szczerym polu"
+    },
+    {
+     "term": "commute",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "dojeżdżać (do pracy, szkoły)"
+    },
+    {
+     "term": "congestion",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "korki, zatory na drogach"
+    },
+    {
+     "term": "overtake",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "wyprzedzać"
+    },
+    {
+     "term": "detour",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "objazd, okrężna droga"
+    },
+    {
+     "term": "carriage",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "wagon (pasażerski)"
+    },
+    {
+     "term": "pull over",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zjechać na pobocze, zatrzymać się (samochodem)"
+    },
+    {
+     "term": "drop sb off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "podrzucić kogoś, wysadzić kogoś (z samochodu)"
+    },
+    {
+     "term": "be stuck in traffic",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "utknąć w korku, stać w korku"
+    },
+    {
+     "term": "run late",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "być spóźnionym, mieć opóźnienie"
+    },
+    {
+     "term": "hit the road",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "ruszać w drogę"
+    },
+    {
+     "term": "scenic",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "malowniczy, widokowy"
+    },
+    {
+     "term": "unspoilt",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "nieskażony, dziewiczy (o krajobrazie)"
+    },
+    {
+     "term": "breathtaking",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "zapierający dech w piersiach"
+    },
+    {
+     "term": "wander",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "włóczyć się, spacerować bez celu"
+    },
+    {
+     "term": "landmark",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "charakterystyczny obiekt, punkt orientacyjny"
+    },
+    {
+     "term": "self-catering",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "z własnym wyżywieniem (o zakwaterowaniu)"
+    },
+    {
+     "term": "get around",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "poruszać się, przemieszczać się (po mieście)"
+    },
+    {
+     "term": "soak sth up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "chłonąć coś (atmosferę, słońce)"
+    },
+    {
+     "term": "fully booked",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "bez wolnych miejsc, w całości zarezerwowany"
+    },
+    {
+     "term": "off the beaten track",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "z dala od utartych szlaków, na uboczu"
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "terms": [
+    {
+     "term": "bland",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "mdły, bez wyrazu (w smaku)"
+    },
+    {
+     "term": "savoury",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "wytrawny, słony (nie słodki)"
+    },
+    {
+     "term": "tender",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "miękki, kruchy (o mięsie)"
+    },
+    {
+     "term": "crispy",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "chrupiący"
+    },
+    {
+     "term": "stale",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "czerstwy, nieświeży"
+    },
+    {
+     "term": "ripe",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "dojrzały (o owocach)"
+    },
+    {
+     "term": "go off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zepsuć się (o jedzeniu)"
+    },
+    {
+     "term": "tuck in",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "zabierać się do jedzenia, zajadać"
+    },
+    {
+     "term": "an acquired taste",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "coś, w czym trzeba się rozsmakować"
+    },
+    {
+     "term": "make sb's mouth water",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "sprawiać, że komuś cieknie ślinka"
+    },
+    {
+     "term": "simmer",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "gotować na wolnym ogniu"
+    },
+    {
+     "term": "stir",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "mieszać (łyżką)"
+    },
+    {
+     "term": "peel",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "obierać (ze skórki)"
+    },
+    {
+     "term": "grate",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "trzeć (na tarce)"
+    },
+    {
+     "term": "sprinkle",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "posypać, skropić"
+    },
+    {
+     "term": "use sth up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zużyć coś do końca, wykorzystać"
+    },
+    {
+     "term": "whip sth up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "przyrządzić coś na szybko"
+    },
+    {
+     "term": "finely chopped",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "drobno posiekany"
+    },
+    {
+     "term": "bring sth to the boil",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "doprowadzić coś do wrzenia, zagotować"
+    },
+    {
+     "term": "make sth from scratch",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "zrobić coś od podstaw (bez gotowych półproduktów)"
+    },
+    {
+     "term": "cuisine",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "kuchnia (danego kraju lub regionu)"
+    },
+    {
+     "term": "speciality",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "specjalność (lokalu, regionu)"
+    },
+    {
+     "term": "complimentary",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "gratisowy, na koszt firmy"
+    },
+    {
+     "term": "lukewarm",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "letni, ledwo ciepły"
+    },
+    {
+     "term": "overcooked",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "rozgotowany, przesmażony"
+    },
+    {
+     "term": "send sth back",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "odesłać coś (do kuchni), zwrócić danie"
+    },
+    {
+     "term": "polish sth off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "spałaszować coś, zjeść do ostatniego kęsa"
+    },
+    {
+     "term": "generous portion",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "duża porcja, solidna porcja"
+    },
+    {
+     "term": "split the bill",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "podzielić rachunek, zapłacić po równo"
+    },
+    {
+     "term": "grab a bite (to eat)",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "B2",
+     "pl": "przekąsić coś, zjeść coś na szybko"
+    },
+    {
+     "term": "organic",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "ekologiczny, z upraw ekologicznych"
+    },
+    {
+     "term": "preservative",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "konserwant"
+    },
+    {
+     "term": "nutritious",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "pożywny, odżywczy"
+    },
+    {
+     "term": "dairy",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "nabiał, produkty mleczne"
+    },
+    {
+     "term": "leftovers",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "resztki (jedzenia)"
+    },
+    {
+     "term": "cut down on sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "ograniczyć coś (spożycie czegoś)"
+    },
+    {
+     "term": "wolf sth down",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "pochłaniać coś, jeść łapczywie"
+    },
+    {
+     "term": "skip a meal",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "opuścić posiłek, nie zjeść posiłku"
+    },
+    {
+     "term": "fussy eater",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "niejadek, osoba wybredna w jedzeniu"
+    },
+    {
+     "term": "have a sweet tooth",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "B2",
+     "pl": "lubić słodycze, być łasuchem"
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "terms": [
+    {
+     "term": "dizzy",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "mający zawroty głowy"
+    },
+    {
+     "term": "swollen",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "spuchnięty, opuchnięty"
+    },
+    {
+     "term": "rash",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "wysypka"
+    },
+    {
+     "term": "contagious",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "zaraźliwy, zakaźny"
+    },
+    {
+     "term": "fatal",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "śmiertelny (o chorobie, wypadku)"
+    },
+    {
+     "term": "condition",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "schorzenie, dolegliwość"
+    },
+    {
+     "term": "come down with sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "zachorować na coś, złapać coś"
+    },
+    {
+     "term": "throw up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "wymiotować"
+    },
+    {
+     "term": "a runny nose",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "katar, cieknący nos"
+    },
+    {
+     "term": "under the weather",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "B2",
+     "pl": "lekko chory, nie w formie"
+    },
+    {
+     "term": "prescription",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "recepta"
+    },
+    {
+     "term": "referral",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "skierowanie (do specjalisty)"
+    },
+    {
+     "term": "medication",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "leki, lekarstwa"
+    },
+    {
+     "term": "surgery",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "operacja, zabieg chirurgiczny"
+    },
+    {
+     "term": "check-up",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "badanie kontrolne, wizyta kontrolna"
+    },
+    {
+     "term": "wear off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "przestawać działać, mijać (o leku, bólu)"
+    },
+    {
+     "term": "pass out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zemdleć, stracić przytomność"
+    },
+    {
+     "term": "side effect",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "skutek uboczny, działanie niepożądane"
+    },
+    {
+     "term": "make a full recovery",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "całkowicie wyzdrowieć, w pełni wrócić do zdrowia"
+    },
+    {
+     "term": "on the mend",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "wracający do zdrowia, na dobrej drodze do wyzdrowienia"
+    },
+    {
+     "term": "stamina",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "wytrzymałość, kondycja"
+    },
+    {
+     "term": "workout",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "trening, sesja ćwiczeń"
+    },
+    {
+     "term": "strenuous",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "forsowny, wyczerpujący"
+    },
+    {
+     "term": "stiff",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "sztywny, zesztywniały"
+    },
+    {
+     "term": "sprain",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "skręcić (kostkę, nadgarstek)"
+    },
+    {
+     "term": "cramp",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "skurcz (mięśnia)"
+    },
+    {
+     "term": "warm up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "rozgrzewać się (przed wysiłkiem)"
+    },
+    {
+     "term": "burn sth off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "spalić coś (kalorie, tłuszcz)"
+    },
+    {
+     "term": "pull a muscle",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "naciągnąć mięsień"
+    },
+    {
+     "term": "be out of shape",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "B2",
+     "pl": "nie mieć kondycji, być bez formy"
+    },
+    {
+     "term": "sedentary",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "siedzący (o trybie życia, pracy)"
+    },
+    {
+     "term": "well-being",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "dobre samopoczucie, dobrostan"
+    },
+    {
+     "term": "obesity",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "otyłość"
+    },
+    {
+     "term": "fatigue",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "zmęczenie, wyczerpanie"
+    },
+    {
+     "term": "immune",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "odporny, odpornościowy"
+    },
+    {
+     "term": "cut sth out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wyeliminować coś (z diety), zrezygnować z czegoś"
+    },
+    {
+     "term": "wind down",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wyciszyć się, odprężyć się"
+    },
+    {
+     "term": "put on weight",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "przytyć, przybrać na wadze"
+    },
+    {
+     "term": "relieve stress",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "rozładować stres, złagodzić stres"
+    },
+    {
+     "term": "take its toll",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "odbijać się (na zdrowiu), zbierać żniwo"
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "terms": [
+    {
+     "term": "humid",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "wilgotny, parny"
+    },
+    {
+     "term": "chilly",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "chłodny, zimnawy"
+    },
+    {
+     "term": "overcast",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "pochmurny, zachmurzony"
+    },
+    {
+     "term": "downpour",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "ulewa"
+    },
+    {
+     "term": "drenched",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "przemoczony do suchej nitki"
+    },
+    {
+     "term": "heatwave",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "fala upałów"
+    },
+    {
+     "term": "clear up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "przejaśnić się, wypogodzić się"
+    },
+    {
+     "term": "let up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "zelżeć, ustawać (o deszczu, wietrze)"
+    },
+    {
+     "term": "bitterly cold",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "przeraźliwie zimny, przenikliwie zimno"
+    },
+    {
+     "term": "come rain or shine",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "bez względu na pogodę, niezależnie od okoliczności"
+    },
+    {
+     "term": "species",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "gatunek (zwierząt, roślin)"
+    },
+    {
+     "term": "habitat",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "siedlisko, środowisko naturalne"
+    },
+    {
+     "term": "endangered",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "zagrożony wyginięciem"
+    },
+    {
+     "term": "extinct",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "wymarły"
+    },
+    {
+     "term": "conservation",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "ochrona przyrody, ochrona środowiska"
+    },
+    {
+     "term": "deforestation",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "wylesianie, wycinka lasów"
+    },
+    {
+     "term": "die out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "wymrzeć, wyginąć"
+    },
+    {
+     "term": "wipe sth out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wytępić coś, zniszczyć doszczętnie"
+    },
+    {
+     "term": "nature reserve",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "rezerwat przyrody"
+    },
+    {
+     "term": "in the wild",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "B2",
+     "pl": "na wolności, w naturalnym środowisku"
+    },
+    {
+     "term": "sustainable",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "zrównoważony, nieszkodzący środowisku"
+    },
+    {
+     "term": "renewable",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "odnawialny"
+    },
+    {
+     "term": "emissions",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "emisje (gazów, spalin)"
+    },
+    {
+     "term": "eco-friendly",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "ekologiczny, przyjazny dla środowiska"
+    },
+    {
+     "term": "litter",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "śmieci (porzucone w miejscu publicznym)"
+    },
+    {
+     "term": "dispose of sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "pozbyć się czegoś, zutylizować coś"
+    },
+    {
+     "term": "phase sth out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "stopniowo wycofywać coś"
+    },
+    {
+     "term": "carbon footprint",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "ślad węglowy"
+    },
+    {
+     "term": "fossil fuels",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "paliwa kopalne"
+    },
+    {
+     "term": "do your bit",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "dołożyć swoją cegiełkę, zrobić, co do nas należy"
+    },
+    {
+     "term": "drought",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "susza"
+    },
+    {
+     "term": "erupt",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "wybuchnąć (o wulkanie)"
+    },
+    {
+     "term": "evacuate",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "ewakuować"
+    },
+    {
+     "term": "devastating",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "niszczycielski, druzgocący"
+    },
+    {
+     "term": "hazard",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "zagrożenie, niebezpieczeństwo"
+    },
+    {
+     "term": "wash sth away",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "zmyć coś, porwać coś (o wodzie)"
+    },
+    {
+     "term": "put sth out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "ugasić coś (ogień, pożar)"
+    },
+    {
+     "term": "rising sea levels",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "podnoszący się poziom mórz"
+    },
+    {
+     "term": "cause widespread damage",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "spowodować rozległe zniszczenia"
+    },
+    {
+     "term": "a drop in the ocean",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "kropla w morzu"
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "terms": [
+    {
+     "term": "coverage",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "relacja (medialna), sposób relacjonowania"
+    },
+    {
+     "term": "editor",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "redaktor, redaktor naczelny"
+    },
+    {
+     "term": "quote",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "cytować, przytaczać"
+    },
+    {
+     "term": "footage",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "materiał filmowy, nagranie"
+    },
+    {
+     "term": "mainstream",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "głównego nurtu"
+    },
+    {
+     "term": "flick through sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "przerzucać (strony, kanały), przeglądać pobieżnie"
+    },
+    {
+     "term": "switch over",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "przełączyć (na inny kanał)"
+    },
+    {
+     "term": "breaking news",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "wiadomości z ostatniej chwili"
+    },
+    {
+     "term": "current affairs",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "bieżące wydarzenia (polityczne i społeczne)"
+    },
+    {
+     "term": "hit the headlines",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "trafić na pierwsze strony gazet, stać się głośnym"
+    },
+    {
+     "term": "allegation",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "zarzut, (niepotwierdzone) oskarżenie"
+    },
+    {
+     "term": "claim",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "twierdzić, utrzymywać"
+    },
+    {
+     "term": "deny",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "zaprzeczać, wypierać się"
+    },
+    {
+     "term": "reveal",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "ujawnić, wyjawić"
+    },
+    {
+     "term": "leak",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "ujawnić (poufne informacje), dopuścić do przecieku"
+    },
+    {
+     "term": "scandal",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "skandal, afera"
+    },
+    {
+     "term": "come out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "wyjść na jaw"
+    },
+    {
+     "term": "blow over",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "ucichnąć, rozejść się po kościach"
+    },
+    {
+     "term": "issue a statement",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "wydać oświadczenie"
+    },
+    {
+     "term": "off the record",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "nieoficjalnie, nie do publikacji"
+    },
+    {
+     "term": "rumour",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "pogłoska, plotka"
+    },
+    {
+     "term": "gossip",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "plotki, plotkowanie"
+    },
+    {
+     "term": "exaggerate",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "przesadzać, wyolbrzymiać"
+    },
+    {
+     "term": "tabloid",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "tabloid, brukowiec"
+    },
+    {
+     "term": "misleading",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "mylący, wprowadzający w błąd"
+    },
+    {
+     "term": "misinformation",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "nieprawdziwe informacje, dezinformacja"
+    },
+    {
+     "term": "take sb in",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "nabrać kogoś, oszukać"
+    },
+    {
+     "term": "pass sth on",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "przekazać dalej (wiadomość, informację)"
+    },
+    {
+     "term": "conspiracy theory",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "teoria spiskowa"
+    },
+    {
+     "term": "take sth with a pinch of salt",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "podchodzić do czegoś z rezerwą, z przymrużeniem oka"
+    },
+    {
+     "term": "publicity",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "rozgłos, reklama"
+    },
+    {
+     "term": "commercial",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "reklama (telewizyjna lub radiowa)"
+    },
+    {
+     "term": "catchy",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "chwytliwy, wpadający w ucho"
+    },
+    {
+     "term": "host",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "prowadzący (program), gospodarz"
+    },
+    {
+     "term": "feature",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "przedstawiać (jako główny element), występować"
+    },
+    {
+     "term": "tune in",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "włączyć (program, stację), oglądać, słuchać"
+    },
+    {
+     "term": "aim sth at sb",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "kierować coś do kogoś (reklamę, program)"
+    },
+    {
+     "term": "broadcast sth live",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "transmitować coś na żywo"
+    },
+    {
+     "term": "product placement",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "lokowanie produktu"
+    },
+    {
+     "term": "in the spotlight",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "w centrum uwagi, w świetle reflektorów"
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "terms": [
+    {
+     "term": "plot",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "fabuła, akcja"
+    },
+    {
+     "term": "genre",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "gatunek (filmowy, literacki, muzyczny)"
+    },
+    {
+     "term": "sequel",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "kontynuacja, dalsza część"
+    },
+    {
+     "term": "twist",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "zwrot akcji, nieoczekiwany obrót wydarzeń"
+    },
+    {
+     "term": "script",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "scenariusz"
+    },
+    {
+     "term": "cast",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "obsada"
+    },
+    {
+     "term": "give sth away",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zdradzić (zakończenie, tajemnicę)"
+    },
+    {
+     "term": "revolve around sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "obracać się wokół czegoś, koncentrować się na"
+    },
+    {
+     "term": "be set in",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "rozgrywać się w (miejscu, czasie)"
+    },
+    {
+     "term": "behind the scenes",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "za kulisami"
+    },
+    {
+     "term": "gripping",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "wciągający, trzymający w napięciu"
+    },
+    {
+     "term": "moving",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "wzruszający, poruszający"
+    },
+    {
+     "term": "predictable",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "przewidywalny"
+    },
+    {
+     "term": "overrated",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "przereklamowany, przeceniany"
+    },
+    {
+     "term": "far-fetched",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "naciągany, mało prawdopodobny"
+    },
+    {
+     "term": "live up to sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "sprostać (oczekiwaniom), dorównać czemuś"
+    },
+    {
+     "term": "drag on",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "dłużyć się, ciągnąć się"
+    },
+    {
+     "term": "rave review",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "entuzjastyczna recenzja"
+    },
+    {
+     "term": "box-office hit",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "kasowy przebój, hit kinowy"
+    },
+    {
+     "term": "on the edge of your seat",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "w wielkim napięciu, z zapartym tchem"
+    },
+    {
+     "term": "audience",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "publiczność, widownia"
+    },
+    {
+     "term": "lyrics",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "tekst piosenki, słowa piosenki"
+    },
+    {
+     "term": "gig",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "koncert (rockowy, jazzowy), występ"
+    },
+    {
+     "term": "rehearsal",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "próba (przed występem)"
+    },
+    {
+     "term": "audition",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "przesłuchanie (do roli, do zespołu)"
+    },
+    {
+     "term": "venue",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "miejsce (koncertu, wydarzenia)"
+    },
+    {
+     "term": "put sth on",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "wystawić (sztukę), zorganizować (koncert, wystawę)"
+    },
+    {
+     "term": "sell out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "wyprzedać się (o biletach, koncercie)"
+    },
+    {
+     "term": "stage fright",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "trema"
+    },
+    {
+     "term": "steal the show",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "skraść show, przyćmić wszystkich"
+    },
+    {
+     "term": "masterpiece",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "arcydzieło"
+    },
+    {
+     "term": "contemporary",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "współczesny"
+    },
+    {
+     "term": "priceless",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "bezcenny"
+    },
+    {
+     "term": "iconic",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "kultowy"
+    },
+    {
+     "term": "portray",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "przedstawiać, ukazywać, grać (postać)"
+    },
+    {
+     "term": "grow on sb",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "coraz bardziej się komuś podobać"
+    },
+    {
+     "term": "draw on sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "czerpać z czegoś (z doświadczeń, inspiracji)"
+    },
+    {
+     "term": "a work of art",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "dzieło sztuki"
+    },
+    {
+     "term": "be on display",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "być wystawionym, być pokazywanym na wystawie"
+    },
+    {
+     "term": "have an eye for sth",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "mieć oko do czegoś, mieć wyczucie"
+    }
+   ]
+  },
+  {
+   "week": 15,
+   "terms": [
+    {
+     "term": "suburb",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "przedmieście"
+    },
+    {
+     "term": "outskirts",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "obrzeża, peryferie (miasta)"
+    },
+    {
+     "term": "resident",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "mieszkaniec"
+    },
+    {
+     "term": "posh",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "elegancki, ekskluzywny, z wyższych sfer"
+    },
+    {
+     "term": "run-down",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "zaniedbany, podupadły"
+    },
+    {
+     "term": "up-and-coming",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "zyskujący na popularności, obiecujący"
+    },
+    {
+     "term": "spring up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wyrastać jak grzyby po deszczu, pojawiać się"
+    },
+    {
+     "term": "knock sth down",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "wyburzyć, zburzyć"
+    },
+    {
+     "term": "densely populated",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "gęsto zaludniony"
+    },
+    {
+     "term": "the hustle and bustle",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "zgiełk, gwar (wielkiego miasta)"
+    },
+    {
+     "term": "landlord",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "właściciel wynajmowanego mieszkania, wynajmujący"
+    },
+    {
+     "term": "tenant",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "najemca, lokator"
+    },
+    {
+     "term": "property",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "nieruchomość, własność"
+    },
+    {
+     "term": "utilities",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "media (prąd, gaz, woda)"
+    },
+    {
+     "term": "furnished",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "umeblowany"
+    },
+    {
+     "term": "rent sth out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "wynajmować coś (komuś)"
+    },
+    {
+     "term": "fall through",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "nie dojść do skutku"
+    },
+    {
+     "term": "take out a mortgage",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "wziąć kredyt hipoteczny"
+    },
+    {
+     "term": "put down a deposit",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "wpłacić zaliczkę, wkład własny, kaucję"
+    },
+    {
+     "term": "a roof over your head",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "dach nad głową"
+    },
+    {
+     "term": "spacious",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "przestronny"
+    },
+    {
+     "term": "cramped",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "ciasny"
+    },
+    {
+     "term": "damp",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "wilgotny, zawilgocony"
+    },
+    {
+     "term": "storey",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "piętro, kondygnacja"
+    },
+    {
+     "term": "high-rise",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "wielopiętrowy, wysoki (o budynku)"
+    },
+    {
+     "term": "overlook",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "wychodzić na (o oknie, budynku)"
+    },
+    {
+     "term": "do sth up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wyremontować, odnowić"
+    },
+    {
+     "term": "put sb up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "przenocować kogoś"
+    },
+    {
+     "term": "within walking distance",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "w odległości krótkiego spaceru, niedaleko pieszo"
+    },
+    {
+     "term": "a stone's throw from",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "o rzut kamieniem od, tuż obok"
+    },
+    {
+     "term": "rural",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "wiejski"
+    },
+    {
+     "term": "vibrant",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "tętniący życiem, pełen energii"
+    },
+    {
+     "term": "amenities",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "udogodnienia (sklepy, usługi w okolicy)"
+    },
+    {
+     "term": "council",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "rada miasta, samorząd lokalny"
+    },
+    {
+     "term": "pedestrian",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "pieszy"
+    },
+    {
+     "term": "settle in",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zadomowić się, zaaklimatyzować się"
+    },
+    {
+     "term": "cut sb/sth off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "odciąć (od świata, od prądu), odizolować"
+    },
+    {
+     "term": "the pace of life",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "tempo życia"
+    },
+    {
+     "term": "affordable housing",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "mieszkania w przystępnej cenie"
+    },
+    {
+     "term": "in the middle of nowhere",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "B2",
+     "pl": "na odludziu, na końcu świata"
+    }
+   ]
+  },
+  {
+   "week": 16,
+   "terms": [
+    {
+     "term": "offence",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "wykroczenie, przestępstwo"
+    },
+    {
+     "term": "theft",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "kradzież"
+    },
+    {
+     "term": "burglary",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "włamanie (z kradzieżą)"
+    },
+    {
+     "term": "mugging",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "napad rabunkowy (na ulicy)"
+    },
+    {
+     "term": "fraud",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "oszustwo (zwłaszcza finansowe)"
+    },
+    {
+     "term": "bribe",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "łapówka"
+    },
+    {
+     "term": "break into sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "włamać się do"
+    },
+    {
+     "term": "get away with sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "ujść (komuś) na sucho, uniknąć kary za"
+    },
+    {
+     "term": "commit a crime",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "popełnić przestępstwo"
+    },
+    {
+     "term": "catch sb red-handed",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "złapać kogoś na gorącym uczynku"
+    },
+    {
+     "term": "suspect",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "podejrzany"
+    },
+    {
+     "term": "witness",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "świadek"
+    },
+    {
+     "term": "clue",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "trop, wskazówka"
+    },
+    {
+     "term": "raid",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "nalot (policyjny), napad"
+    },
+    {
+     "term": "confess",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "przyznać się (do winy)"
+    },
+    {
+     "term": "look into sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zbadać (sprawę), przyjrzeć się czemuś"
+    },
+    {
+     "term": "track sb down",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wytropić kogoś, namierzyć"
+    },
+    {
+     "term": "launch an investigation",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "wszcząć śledztwo"
+    },
+    {
+     "term": "bring sb to justice",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "postawić kogoś przed sądem, pociągnąć do odpowiedzialności"
+    },
+    {
+     "term": "on the run",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "w ucieczce (przed policją), ścigany"
+    },
+    {
+     "term": "trial",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "proces (sądowy), rozprawa"
+    },
+    {
+     "term": "jury",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "ława przysięgłych"
+    },
+    {
+     "term": "accuse",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "oskarżać"
+    },
+    {
+     "term": "prosecutor",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "prokurator, oskarżyciel"
+    },
+    {
+     "term": "verdict",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "werdykt, orzeczenie"
+    },
+    {
+     "term": "convict",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "skazać, uznać za winnego"
+    },
+    {
+     "term": "let sb off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "darować komuś karę, puścić wolno"
+    },
+    {
+     "term": "lock sb up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zamknąć kogoś (w więzieniu)"
+    },
+    {
+     "term": "plead guilty",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "przyznać się do winy (w sądzie)"
+    },
+    {
+     "term": "behind bars",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "za kratkami"
+    },
+    {
+     "term": "sentence",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "wyrok, kara (więzienia)"
+    },
+    {
+     "term": "fine",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "grzywna, mandat"
+    },
+    {
+     "term": "ban",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "zakazać, zabronić"
+    },
+    {
+     "term": "enforce",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "egzekwować (prawo, przepisy)"
+    },
+    {
+     "term": "deterrent",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "środek odstraszający"
+    },
+    {
+     "term": "crack down on sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "rozprawić się z czymś, zaostrzyć walkę z"
+    },
+    {
+     "term": "bring sth in",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wprowadzić (przepis, ustawę)"
+    },
+    {
+     "term": "community service",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "prace społeczne"
+    },
+    {
+     "term": "bend the rules",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "naginać zasady"
+    },
+    {
+     "term": "take the law into your own hands",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "wymierzyć sprawiedliwość na własną rękę"
+    }
+   ]
+  },
+  {
+   "week": 17,
+   "terms": [
+    {
+     "term": "controversial",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "kontrowersyjny"
+    },
+    {
+     "term": "stance",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "stanowisko (w jakiejś sprawie)"
+    },
+    {
+     "term": "perspective",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "punkt widzenia, spojrzenie"
+    },
+    {
+     "term": "claim",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "twierdzić, utrzymywać"
+    },
+    {
+     "term": "reckon",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "sądzić, uważać"
+    },
+    {
+     "term": "convinced",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "przekonany"
+    },
+    {
+     "term": "put sth forward",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wysunąć, przedstawić (argument, propozycję)"
+    },
+    {
+     "term": "side with sb",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "stanąć po czyjejś stronie, poprzeć kogoś"
+    },
+    {
+     "term": "hold strong views",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "mieć zdecydowane poglądy"
+    },
+    {
+     "term": "sit on the fence",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "nie opowiadać się po żadnej stronie"
+    },
+    {
+     "term": "oppose",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "sprzeciwiać się, być przeciwnym"
+    },
+    {
+     "term": "contradict",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "zaprzeczać, być sprzecznym z"
+    },
+    {
+     "term": "dispute",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "kwestionować, podważać"
+    },
+    {
+     "term": "concede",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "przyznać (niechętnie), ustąpić"
+    },
+    {
+     "term": "dismiss",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "odrzucić, zbyć (pomysł, argument)"
+    },
+    {
+     "term": "objection",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "sprzeciw, zastrzeżenie"
+    },
+    {
+     "term": "go along with sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "przystać na coś, zgodzić się na coś"
+    },
+    {
+     "term": "back down",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "ustąpić, wycofać się (ze stanowiska)"
+    },
+    {
+     "term": "common ground",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "wspólna płaszczyzna, punkty wspólne"
+    },
+    {
+     "term": "agree to disagree",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "pozostać każdy przy swoim zdaniu"
+    },
+    {
+     "term": "persuasive",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "przekonujący"
+    },
+    {
+     "term": "justify",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "uzasadnić, usprawiedliwić"
+    },
+    {
+     "term": "undermine",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "podważać, osłabiać"
+    },
+    {
+     "term": "outweigh",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "przeważać nad"
+    },
+    {
+     "term": "drawback",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "wada, minus"
+    },
+    {
+     "term": "talk sb into sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "namówić kogoś do czegoś"
+    },
+    {
+     "term": "win sb over",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "przekonać kogoś, zjednać sobie"
+    },
+    {
+     "term": "a compelling argument",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "przekonujący, mocny argument"
+    },
+    {
+     "term": "a heated debate",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "gorąca, burzliwa dyskusja"
+    },
+    {
+     "term": "play devil's advocate",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "odgrywać adwokata diabła"
+    },
+    {
+     "term": "bias",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "stronniczość, uprzedzenie"
+    },
+    {
+     "term": "flawed",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "błędny, wadliwy (o rozumowaniu)"
+    },
+    {
+     "term": "irrelevant",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "nieistotny, bez związku z tematem"
+    },
+    {
+     "term": "assumption",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "założenie"
+    },
+    {
+     "term": "reconsider",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "rozważyć ponownie, przemyśleć jeszcze raz"
+    },
+    {
+     "term": "back sth up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "poprzeć, potwierdzić (dowodami)"
+    },
+    {
+     "term": "come round",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "dać się przekonać, zmienić zdanie"
+    },
+    {
+     "term": "a sweeping statement",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "zbyt daleko idące uogólnienie"
+    },
+    {
+     "term": "prove sb wrong",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "udowodnić komuś, że się myli"
+    },
+    {
+     "term": "have second thoughts",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "nabrać wątpliwości, rozmyślić się"
+    }
+   ]
+  },
+  {
+   "week": 18,
+   "terms": [
+    {
+     "term": "hypothesis",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "hipoteza"
+    },
+    {
+     "term": "findings",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "wyniki, ustalenia (badań)"
+    },
+    {
+     "term": "sample",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "próbka, próba"
+    },
+    {
+     "term": "random",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "losowy, przypadkowy"
+    },
+    {
+     "term": "accurate",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "dokładny, precyzyjny"
+    },
+    {
+     "term": "rigorous",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "rygorystyczny, skrupulatny"
+    },
+    {
+     "term": "carry sth out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "przeprowadzić (badanie, eksperyment)"
+    },
+    {
+     "term": "rule sth out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wykluczyć"
+    },
+    {
+     "term": "a rough estimate",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "przybliżony szacunek"
+    },
+    {
+     "term": "trial and error",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "metoda prób i błędów"
+    },
+    {
+     "term": "breakthrough",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "przełom"
+    },
+    {
+     "term": "phenomenon",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "zjawisko"
+    },
+    {
+     "term": "detect",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "wykryć"
+    },
+    {
+     "term": "speculate",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "spekulować, snuć domysły"
+    },
+    {
+     "term": "pioneering",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "pionierski, nowatorski"
+    },
+    {
+     "term": "curiosity",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "ciekawość"
+    },
+    {
+     "term": "stumble across sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "natknąć się na coś przypadkiem"
+    },
+    {
+     "term": "account for sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wyjaśniać coś, tłumaczyć coś"
+    },
+    {
+     "term": "make a discovery",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "dokonać odkrycia"
+    },
+    {
+     "term": "shed light on sth",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "rzucić światło na coś"
+    },
+    {
+     "term": "devise",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "opracować, wymyślić"
+    },
+    {
+     "term": "prototype",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "prototyp"
+    },
+    {
+     "term": "obsolete",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "przestarzały, wycofany z użycia"
+    },
+    {
+     "term": "feasible",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "wykonalny, możliwy do zrealizowania"
+    },
+    {
+     "term": "spacecraft",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "statek kosmiczny"
+    },
+    {
+     "term": "catch on",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "przyjąć się, zyskać popularność"
+    },
+    {
+     "term": "try sth out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "wypróbować, przetestować"
+    },
+    {
+     "term": "launch a satellite",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "wystrzelić satelitę, wynieść satelitę na orbitę"
+    },
+    {
+     "term": "push the boundaries",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "przesuwać granice (możliwości)"
+    },
+    {
+     "term": "it's not rocket science",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "to żadna filozofia, to nic trudnego"
+    },
+    {
+     "term": "genetic",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "genetyczny"
+    },
+    {
+     "term": "immune",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "odporny (na chorobę)"
+    },
+    {
+     "term": "eradicate",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "wyplenić, całkowicie zwalczyć"
+    },
+    {
+     "term": "ethical",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "etyczny"
+    },
+    {
+     "term": "verify",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "zweryfikować, potwierdzić"
+    },
+    {
+     "term": "wear off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "przestawać działać, mijać (o działaniu leku)"
+    },
+    {
+     "term": "point to sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wskazywać na coś"
+    },
+    {
+     "term": "develop a vaccine",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "opracować szczepionkę"
+    },
+    {
+     "term": "conclusive evidence",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "niezbite dowody, jednoznaczne dowody"
+    },
+    {
+     "term": "a guinea pig",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "królik doświadczalny"
+    }
+   ]
+  },
+  {
+   "week": 19,
+   "terms": [
+    {
+     "term": "recall",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "przypominać sobie, pamiętać"
+    },
+    {
+     "term": "vivid",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "żywy, wyrazisty (o wspomnieniu)"
+    },
+    {
+     "term": "forgetful",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "zapominalski"
+    },
+    {
+     "term": "retain",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "zapamiętywać, zachowywać (w pamięci)"
+    },
+    {
+     "term": "trigger",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "wywołać, wyzwolić"
+    },
+    {
+     "term": "subconscious",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "podświadomy"
+    },
+    {
+     "term": "bring sth back",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "przywoływać (wspomnienia)"
+    },
+    {
+     "term": "look back on sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "wspominać coś, wracać myślami do czegoś"
+    },
+    {
+     "term": "jog sb's memory",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "odświeżyć komuś pamięć"
+    },
+    {
+     "term": "ring a bell",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "brzmieć znajomo, coś komuś mówić"
+    },
+    {
+     "term": "tendency",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "skłonność, tendencja"
+    },
+    {
+     "term": "consistent",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "konsekwentny, systematyczny"
+    },
+    {
+     "term": "willpower",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "siła woli"
+    },
+    {
+     "term": "procrastinate",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "odkładać na później, zwlekać"
+    },
+    {
+     "term": "temptation",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "pokusa"
+    },
+    {
+     "term": "urge",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "nagła chęć, przemożna potrzeba"
+    },
+    {
+     "term": "grow out of sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wyrosnąć z czegoś"
+    },
+    {
+     "term": "give in to sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "ulec czemuś, poddać się (pokusie)"
+    },
+    {
+     "term": "get into the habit",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "wyrobić w sobie nawyk, nabrać zwyczaju"
+    },
+    {
+     "term": "second nature",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "druga natura, coś, co weszło w krew"
+    },
+    {
+     "term": "hindsight",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "spojrzenie z perspektywy czasu, mądrość po fakcie"
+    },
+    {
+     "term": "dilemma",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "dylemat"
+    },
+    {
+     "term": "rational",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "racjonalny, rozsądny"
+    },
+    {
+     "term": "deliberate",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "celowy, zamierzony"
+    },
+    {
+     "term": "hesitate",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "wahać się"
+    },
+    {
+     "term": "go through with sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "doprowadzić coś do końca, nie wycofać się z czegoś"
+    },
+    {
+     "term": "sleep on sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "przespać się z czymś (z decyzją)"
+    },
+    {
+     "term": "a gut feeling",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "przeczucie, intuicja"
+    },
+    {
+     "term": "common sense",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "zdrowy rozsądek"
+    },
+    {
+     "term": "be in two minds",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "wahać się, nie móc się zdecydować"
+    },
+    {
+     "term": "instinct",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "instynkt"
+    },
+    {
+     "term": "bright",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "bystry, zdolny"
+    },
+    {
+     "term": "alert",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "czujny, przytomny"
+    },
+    {
+     "term": "preoccupied",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "zaabsorbowany, pochłonięty myślami"
+    },
+    {
+     "term": "perceive",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "postrzegać, odbierać"
+    },
+    {
+     "term": "dwell on sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "rozpamiętywać coś, roztrząsać coś"
+    },
+    {
+     "term": "occur to sb",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "przyjść komuś do głowy"
+    },
+    {
+     "term": "attention span",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "zdolność koncentracji, czas skupienia uwagi"
+    },
+    {
+     "term": "peer pressure",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "presja otoczenia, presja rówieśników"
+    },
+    {
+     "term": "be miles away",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "być myślami gdzie indziej"
+    }
+   ]
+  },
+  {
+   "week": 20,
+   "terms": [
+    {
+     "term": "remark",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "uwaga, komentarz"
+    },
+    {
+     "term": "compliment",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "komplement"
+    },
+    {
+     "term": "overhear",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "usłyszeć przypadkiem"
+    },
+    {
+     "term": "mumble",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "mamrotać, mówić niewyraźnie"
+    },
+    {
+     "term": "articulate",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "elokwentny, wyrażający się jasno"
+    },
+    {
+     "term": "go on about sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "gadać o czymś bez końca"
+    },
+    {
+     "term": "butt in",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wtrącać się, wchodzić komuś w słowo"
+    },
+    {
+     "term": "make small talk",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "prowadzić niezobowiązującą rozmowę, gawędzić o niczym"
+    },
+    {
+     "term": "strike up a conversation",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "nawiązać rozmowę, zagadać"
+    },
+    {
+     "term": "beat about the bush",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "owijać w bawełnę"
+    },
+    {
+     "term": "ambiguous",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "dwuznaczny, niejednoznaczny"
+    },
+    {
+     "term": "vague",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "niejasny, mglisty, ogólnikowy"
+    },
+    {
+     "term": "misinterpret",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "źle zrozumieć, błędnie zinterpretować"
+    },
+    {
+     "term": "imply",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "sugerować, dawać do zrozumienia"
+    },
+    {
+     "term": "clarify",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "wyjaśnić, doprecyzować"
+    },
+    {
+     "term": "gist",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "ogólny sens, sedno"
+    },
+    {
+     "term": "get sth across",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "przekazać coś, jasno wytłumaczyć"
+    },
+    {
+     "term": "mix sth up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "pomylić, pomieszać"
+    },
+    {
+     "term": "take offence",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "obrazić się, poczuć się urażonym"
+    },
+    {
+     "term": "get the wrong end of the stick",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "źle coś zrozumieć, opacznie coś pojąć"
+    },
+    {
+     "term": "gesture",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "gest"
+    },
+    {
+     "term": "posture",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "postawa (ciała)"
+    },
+    {
+     "term": "frown",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "marszczyć brwi"
+    },
+    {
+     "term": "shrug",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "wzruszyć ramionami"
+    },
+    {
+     "term": "patronising",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "protekcjonalny"
+    },
+    {
+     "term": "snap at sb",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "warknąć na kogoś, odburknąć komuś"
+    },
+    {
+     "term": "answer back",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "pyskować, odszczekiwać się"
+    },
+    {
+     "term": "make eye contact",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "nawiązać kontakt wzrokowy"
+    },
+    {
+     "term": "facial expression",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "wyraz twarzy, mimika"
+    },
+    {
+     "term": "keep a straight face",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "zachować powagę, nie roześmiać się"
+    },
+    {
+     "term": "proficient",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "biegły"
+    },
+    {
+     "term": "rusty",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "zardzewiały (o dawno nieużywanej umiejętności)"
+    },
+    {
+     "term": "colloquial",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "potoczny"
+    },
+    {
+     "term": "bilingual",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "dwujęzyczny"
+    },
+    {
+     "term": "grasp",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "pojąć, zrozumieć"
+    },
+    {
+     "term": "pick sth up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "podłapać, nauczyć się (mimochodem)"
+    },
+    {
+     "term": "brush up on sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "podszlifować, odświeżyć (umiejętność)"
+    },
+    {
+     "term": "have a good command of sth",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "dobrze władać czymś, dobrze znać (język)"
+    },
+    {
+     "term": "mother tongue",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "język ojczysty"
+    },
+    {
+     "term": "a slip of the tongue",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "przejęzyczenie"
+    }
+   ]
+  },
+  {
+   "week": 21,
+   "terms": [
+    {
+     "term": "entrepreneur",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "przedsiębiorca"
+    },
+    {
+     "term": "venture",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "przedsięwzięcie (biznesowe)"
+    },
+    {
+     "term": "merger",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "fuzja, połączenie firm"
+    },
+    {
+     "term": "shareholder",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "akcjonariusz, udziałowiec"
+    },
+    {
+     "term": "revenue",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "przychody, wpływy"
+    },
+    {
+     "term": "headquarters",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "siedziba główna, centrala"
+    },
+    {
+     "term": "branch out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "rozszerzyć działalność, zająć się czymś nowym"
+    },
+    {
+     "term": "buy sb out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wykupić czyjeś udziały, spłacić wspólnika"
+    },
+    {
+     "term": "run a business",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "prowadzić firmę"
+    },
+    {
+     "term": "get sth off the ground",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "rozkręcić coś, uruchomić (projekt, firmę)"
+    },
+    {
+     "term": "rival",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "konkurent, rywal"
+    },
+    {
+     "term": "niche",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "nisza (rynkowa)"
+    },
+    {
+     "term": "lucrative",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "intratny, lukratywny"
+    },
+    {
+     "term": "commodity",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "towar, surowiec"
+    },
+    {
+     "term": "manufacturer",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "producent"
+    },
+    {
+     "term": "roll sth out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wprowadzać coś (na rynek), stopniowo wdrażać"
+    },
+    {
+     "term": "cash in on sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "zarobić na czymś, wykorzystać coś dla zysku"
+    },
+    {
+     "term": "launch a product",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "wprowadzić produkt na rynek"
+    },
+    {
+     "term": "a competitive edge",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "przewaga konkurencyjna"
+    },
+    {
+     "term": "a household name",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "powszechnie znana marka lub osoba"
+    },
+    {
+     "term": "negotiate",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "negocjować"
+    },
+    {
+     "term": "concession",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "ustępstwo"
+    },
+    {
+     "term": "leverage",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "siła przetargowa, możliwość nacisku"
+    },
+    {
+     "term": "executive",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "członek kierownictwa, dyrektor"
+    },
+    {
+     "term": "oversee",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "nadzorować"
+    },
+    {
+     "term": "delegate",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "delegować, przekazywać (zadania)"
+    },
+    {
+     "term": "draw sth up",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "sporządzić coś, przygotować (umowę, plan)"
+    },
+    {
+     "term": "fall through",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "nie dojść do skutku"
+    },
+    {
+     "term": "strike a deal",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "zawrzeć umowę, dobić targu"
+    },
+    {
+     "term": "call the shots",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "rządzić, podejmować decyzje"
+    },
+    {
+     "term": "downturn",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "spowolnienie (gospodarcze), pogorszenie koniunktury"
+    },
+    {
+     "term": "shrink",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "kurczyć się, maleć"
+    },
+    {
+     "term": "soar",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "gwałtownie rosnąć, szybować w górę"
+    },
+    {
+     "term": "plummet",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "gwałtownie spadać"
+    },
+    {
+     "term": "profitable",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "rentowny, dochodowy"
+    },
+    {
+     "term": "go under",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "zbankrutować, upaść"
+    },
+    {
+     "term": "bail sb out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "ratować kogoś finansowo, wyciągnąć z kłopotów"
+    },
+    {
+     "term": "supply and demand",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "podaż i popyt"
+    },
+    {
+     "term": "a sharp rise",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "gwałtowny wzrost"
+    },
+    {
+     "term": "the bottom line",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "wynik finansowy, sedno sprawy"
+    }
+   ]
+  },
+  {
+   "week": 22,
+   "terms": [
+    {
+     "term": "inequality",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "nierówność (społeczna)"
+    },
+    {
+     "term": "poverty",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "ubóstwo, bieda"
+    },
+    {
+     "term": "deprived",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "ubogi, zaniedbany (o dzielnicy, dzieciństwie)"
+    },
+    {
+     "term": "privileged",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "uprzywilejowany"
+    },
+    {
+     "term": "welfare",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "opieka społeczna, świadczenia socjalne"
+    },
+    {
+     "term": "hardship",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "niedostatek, ciężkie warunki życia"
+    },
+    {
+     "term": "go without sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "obywać się bez czegoś"
+    },
+    {
+     "term": "fall behind",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "zostawać w tyle"
+    },
+    {
+     "term": "bridge the gap",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "zmniejszyć przepaść, zniwelować różnicę"
+    },
+    {
+     "term": "a level playing field",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "równe szanse, jednakowe warunki dla wszystkich"
+    },
+    {
+     "term": "refugee",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "uchodźca"
+    },
+    {
+     "term": "flee",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "uciekać (z kraju, przed niebezpieczeństwem)"
+    },
+    {
+     "term": "citizenship",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "obywatelstwo"
+    },
+    {
+     "term": "minority",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "mniejszość"
+    },
+    {
+     "term": "prejudice",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "uprzedzenie"
+    },
+    {
+     "term": "turn sb away",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "odprawić kogoś, nie wpuścić"
+    },
+    {
+     "term": "stand up for sb/sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "stawać w obronie kogoś/czegoś"
+    },
+    {
+     "term": "seek asylum",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "ubiegać się o azyl"
+    },
+    {
+     "term": "violate human rights",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "łamać prawa człowieka"
+    },
+    {
+     "term": "a drop in the ocean",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "kropla w morzu (potrzeb)"
+    },
+    {
+     "term": "policy",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "polityka (w danej dziedzinie), kierunek działań"
+    },
+    {
+     "term": "legislation",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "ustawodawstwo, przepisy prawne"
+    },
+    {
+     "term": "scheme",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "program (np. rządowy), plan"
+    },
+    {
+     "term": "turnout",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "frekwencja (wyborcza)"
+    },
+    {
+     "term": "authorities",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "władze"
+    },
+    {
+     "term": "accountable",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "odpowiedzialny (przed kimś), rozliczany"
+    },
+    {
+     "term": "step in",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "interweniować, wkroczyć"
+    },
+    {
+     "term": "do away with sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "znieść coś, zlikwidować"
+    },
+    {
+     "term": "a landslide victory",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "miażdżące zwycięstwo (wyborcze)"
+    },
+    {
+     "term": "red tape",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "biurokracja, urzędnicze formalności"
+    },
+    {
+     "term": "activist",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "działacz, aktywista"
+    },
+    {
+     "term": "rally",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "wiec, manifestacja"
+    },
+    {
+     "term": "advocate",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "orędownik, rzecznik (jakiejś sprawy)"
+    },
+    {
+     "term": "grassroots",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "oddolny"
+    },
+    {
+     "term": "unrest",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "niepokoje (społeczne), zamieszki"
+    },
+    {
+     "term": "call for sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "domagać się czegoś, wzywać do czegoś"
+    },
+    {
+     "term": "bring sth about",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "doprowadzić do czegoś, spowodować coś"
+    },
+    {
+     "term": "raise awareness",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "zwiększać świadomość (społeczną)"
+    },
+    {
+     "term": "stage a protest",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "zorganizować protest"
+    },
+    {
+     "term": "take to the streets",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "wyjść na ulice (w proteście)"
+    }
+   ]
+  },
+  {
+   "week": 23,
+   "terms": [
+    {
+     "term": "drive",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "zapał, determinacja, energia do działania"
+    },
+    {
+     "term": "strive",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "dążyć (do czegoś), usilnie się starać"
+    },
+    {
+     "term": "pursue",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "dążyć do (celu), realizować (karierę, pasję)"
+    },
+    {
+     "term": "accomplish",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "osiągnąć, dokonać (czegoś)"
+    },
+    {
+     "term": "commitment",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "zaangażowanie, oddanie"
+    },
+    {
+     "term": "milestone",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "kamień milowy, ważny etap"
+    },
+    {
+     "term": "set out to do sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "postawić sobie za cel zrobienie czegoś"
+    },
+    {
+     "term": "pull sth off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "dokonać czegoś (trudnego), dopiąć swego"
+    },
+    {
+     "term": "fulfil your potential",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "w pełni wykorzystać swój potencjał"
+    },
+    {
+     "term": "have what it takes",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "mieć to, czego trzeba (żeby coś osiągnąć)"
+    },
+    {
+     "term": "setback",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "niepowodzenie, komplikacja (w realizacji planu)"
+    },
+    {
+     "term": "resilient",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "odporny (psychicznie), wytrzymały"
+    },
+    {
+     "term": "persevere",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "wytrwać, nie poddawać się"
+    },
+    {
+     "term": "obstacle",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "przeszkoda"
+    },
+    {
+     "term": "overcome",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "pokonać, przezwyciężyć"
+    },
+    {
+     "term": "bounce back",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "otrząsnąć się, szybko dojść do siebie (po porażce)"
+    },
+    {
+     "term": "face up to sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "stawić czemuś czoła, przyjąć coś do wiadomości"
+    },
+    {
+     "term": "fail miserably",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "ponieść sromotną porażkę"
+    },
+    {
+     "term": "admit defeat",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "przyznać się do porażki, dać za wygraną"
+    },
+    {
+     "term": "back to square one",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "z powrotem w punkcie wyjścia"
+    },
+    {
+     "term": "gamble",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "ryzykowne posunięcie, ryzyko"
+    },
+    {
+     "term": "bold",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "śmiały, odważny"
+    },
+    {
+     "term": "prospect",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "perspektywa, szansa (na coś)"
+    },
+    {
+     "term": "hesitate",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "wahać się"
+    },
+    {
+     "term": "worthwhile",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "wart zachodu, wart poświęconego czasu"
+    },
+    {
+     "term": "downside",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "minus, zła strona"
+    },
+    {
+     "term": "jump at sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "skwapliwie skorzystać z czegoś (z okazji, propozycji)"
+    },
+    {
+     "term": "pay off",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "B2",
+     "pl": "opłacić się, przynieść efekty"
+    },
+    {
+     "term": "seize an opportunity",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "wykorzystać okazję, chwycić szansę"
+    },
+    {
+     "term": "at stake",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "zagrożony, będący stawką"
+    },
+    {
+     "term": "transition",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "przejście (do nowego etapu), okres zmian"
+    },
+    {
+     "term": "profound",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "głęboki (o zmianie, wpływie)"
+    },
+    {
+     "term": "embrace",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "chętnie przyjąć, zaakceptować (zmianę, pomysł)"
+    },
+    {
+     "term": "thrive",
+     "type": "word",
+     "pos": "v",
+     "level": "C1",
+     "pl": "rozkwitać, świetnie się rozwijać"
+    },
+    {
+     "term": "eventually",
+     "type": "word",
+     "pos": "adv",
+     "level": "B2",
+     "pl": "w końcu, ostatecznie"
+    },
+    {
+     "term": "embark on sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "rozpocząć coś (nowego, ważnego)"
+    },
+    {
+     "term": "hold sb back",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "hamować czyjś rozwój, powstrzymywać kogoś"
+    },
+    {
+     "term": "a turning point",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "punkt zwrotny"
+    },
+    {
+     "term": "a fresh start",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "nowy początek"
+    },
+    {
+     "term": "come a long way",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "zajść daleko, zrobić ogromne postępy"
+    }
+   ]
+  },
+  {
+   "week": 24,
+   "terms": [
+    {
+     "term": "colloquial",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "potoczny"
+    },
+    {
+     "term": "regarding",
+     "type": "word",
+     "pos": "prep",
+     "level": "B2",
+     "pl": "w sprawie, odnośnie do"
+    },
+    {
+     "term": "obtain",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "uzyskać, otrzymać"
+    },
+    {
+     "term": "sufficient",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "wystarczający"
+    },
+    {
+     "term": "reckon",
+     "type": "word",
+     "pos": "v",
+     "level": "B2",
+     "pl": "sądzić, uważać (potocznie)"
+    },
+    {
+     "term": "hassle",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "kłopot, zawracanie głowy (potocznie)"
+    },
+    {
+     "term": "tone sth down",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "stonować coś, złagodzić (wypowiedź, krytykę)"
+    },
+    {
+     "term": "spell sth out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wyłożyć coś jasno, wytłumaczyć dokładnie"
+    },
+    {
+     "term": "greatly appreciate",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "być bardzo wdzięcznym za, ogromnie doceniać"
+    },
+    {
+     "term": "with all due respect",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "z całym szacunkiem"
+    },
+    {
+     "term": "presumably",
+     "type": "word",
+     "pos": "adv",
+     "level": "C1",
+     "pl": "przypuszczalnie, zapewne"
+    },
+    {
+     "term": "supposedly",
+     "type": "word",
+     "pos": "adv",
+     "level": "C1",
+     "pl": "podobno, rzekomo"
+    },
+    {
+     "term": "somewhat",
+     "type": "word",
+     "pos": "adv",
+     "level": "B2",
+     "pl": "nieco, w pewnym stopniu"
+    },
+    {
+     "term": "roughly",
+     "type": "word",
+     "pos": "adv",
+     "level": "B2",
+     "pl": "mniej więcej, z grubsza"
+    },
+    {
+     "term": "understatement",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "niedopowiedzenie, zbyt łagodne określenie"
+    },
+    {
+     "term": "play sth down",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "bagatelizować coś, umniejszać znaczenie czegoś"
+    },
+    {
+     "term": "hint at sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "sugerować coś, napomykać o czymś"
+    },
+    {
+     "term": "extent",
+     "type": "word",
+     "pos": "n",
+     "level": "B2",
+     "pl": "stopień, zakres"
+    },
+    {
+     "term": "an educated guess",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "przypuszczenie oparte na wiedzy lub doświadczeniu"
+    },
+    {
+     "term": "put it mildly",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "delikatnie mówiąc"
+    },
+    {
+     "term": "utterly",
+     "type": "word",
+     "pos": "adv",
+     "level": "C1",
+     "pl": "całkowicie, zupełnie"
+    },
+    {
+     "term": "sheer",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "czysty, istny (dla podkreślenia)"
+    },
+    {
+     "term": "whatsoever",
+     "type": "word",
+     "pos": "adv",
+     "level": "C1",
+     "pl": "w ogóle, absolutnie żaden (po przeczeniu)"
+    },
+    {
+     "term": "undoubtedly",
+     "type": "word",
+     "pos": "adv",
+     "level": "B2",
+     "pl": "niewątpliwie, bez wątpienia"
+    },
+    {
+     "term": "arguably",
+     "type": "word",
+     "pos": "adv",
+     "level": "C1",
+     "pl": "bodaj, można uznać, że"
+    },
+    {
+     "term": "rule sth out",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "wykluczyć coś"
+    },
+    {
+     "term": "boil down to sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "sprowadzać się do czegoś"
+    },
+    {
+     "term": "highly unlikely",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "bardzo mało prawdopodobny"
+    },
+    {
+     "term": "be bound to do sth",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "na pewno coś zrobić, musieć się zdarzyć"
+    },
+    {
+     "term": "by no means",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "bynajmniej nie, w żadnym razie"
+    },
+    {
+     "term": "tactful",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "taktowny"
+    },
+    {
+     "term": "blunt",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "bezceremonialny, mówiący bez ogródek"
+    },
+    {
+     "term": "subtle",
+     "type": "word",
+     "pos": "adj",
+     "level": "B2",
+     "pl": "subtelny, ledwo uchwytny"
+    },
+    {
+     "term": "patronising",
+     "type": "word",
+     "pos": "adj",
+     "level": "C1",
+     "pl": "protekcjonalny"
+    },
+    {
+     "term": "wording",
+     "type": "word",
+     "pos": "n",
+     "level": "C1",
+     "pl": "sformułowanie, dobór słów"
+    },
+    {
+     "term": "smooth sth over",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "załagodzić coś (spór, napiętą sytuację)"
+    },
+    {
+     "term": "touch on sth",
+     "type": "phrasal",
+     "pos": "phr v",
+     "level": "C1",
+     "pl": "poruszyć coś pokrótce, napomknąć o czymś"
+    },
+    {
+     "term": "a sensitive issue",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "B2",
+     "pl": "drażliwa kwestia, delikatny temat"
+    },
+    {
+     "term": "tread carefully",
+     "type": "collocation",
+     "pos": "phrase",
+     "level": "C1",
+     "pl": "postępować ostrożnie, działać z wyczuciem"
+    },
+    {
+     "term": "soften the blow",
+     "type": "idiom",
+     "pos": "idiom",
+     "level": "C1",
+     "pl": "złagodzić cios, osłodzić złą wiadomość"
+    }
+   ]
+  }
+ ]
+}
