@@ -79,7 +79,7 @@
       "level": "B2",
       "ipa": "/ˌrʌn ɪn ðə ˈfæməli/",
       "pl": "być rodzinne, powtarzać się w rodzinie",
-      "def": "if a quality, a talent or an illness does this, many people in the same family have it",
+      "def": "(of a quality, a talent or an illness) to be shared by many relatives, for example parents, children and grandparents",
       "example": "Both her parents and her brother are doctors, so medicine clearly {{runs in the family}}.",
       "examplePl": "Oboje jej rodzice i brat są lekarzami, więc medycyna to u nich najwyraźniej rodzinne.",
       "collocations": ["sth runs in the family", "it runs in my family"]
@@ -370,8 +370,8 @@
       "ipa": "/ˌsetl ˈdaʊn/",
       "pl": "ustatkować się",
       "def": "to start living a quieter life in one place, often with a partner and a regular job",
-      "example": "He spent his twenties moving from city to city, but now he wants to {{settle down}} and stop living out of a suitcase.",
-      "examplePl": "Jako dwudziestolatek przenosił się z miasta do miasta, ale teraz chce się ustatkować i przestać żyć na walizkach.",
+      "example": "After years of moving from city to city, he wants to {{settle down}} and stop living out of a suitcase.",
+      "examplePl": "Po latach przenoszenia się z miasta do miasta chce się ustatkować i przestać żyć na walizkach.",
       "collocations": ["settle down with sb", "get married and settle down", "be ready to settle down"]
     },
     {

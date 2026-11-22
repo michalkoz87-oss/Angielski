@@ -69,7 +69,8 @@
       "sessionMinutes": 40,
       "vocabPerWeek": 40,
       "availableWeeks": [
-        1
+        1,
+        2
       ]
     }
   ]
