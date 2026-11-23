@@ -265,6 +265,31 @@ function validateLessons(week, data, ids, L) {
       checkMarkedIds(file, 'reading', full, ids, relaxed ? 1 : RL.minTargets);
       checkBadText(file, 'reading.paragraphs', stripMarks(full).replace(/\n/g, ' '));
     }
+    if (isArr(r.paragraphs) && !relaxed) {
+      // Słowa tekstu poza znacznikami {{…}} (te mają pełne hasła): każde potrzebuje tłumaczenia w wordGloss.
+      const plain = r.paragraphs.filter(isStr).join('\n').replace(MARK, ' ');
+      const tokens = [...new Set((plain.match(/\p{L}+(?:[-'’]\p{L}+)*/gu) || []).map((w) => w.toLowerCase().replace(/’/g, "'")))];
+      const wg = r.wordGloss;
+      if (wg === undefined) err(file, `reading.wordGloss: brak. Potrzebne tłumaczenia ${tokens.length} słów: ${tokens.join(', ')}`);
+      else if (wg === null || typeof wg !== 'object' || Array.isArray(wg)) err(file, 'reading.wordGloss: obiekt {słowo: tłumaczenie}');
+      else {
+        const missing = tokens.filter((w) => !isStr(wg[w]));
+        if (missing.length) err(file, `reading.wordGloss: brak tłumaczeń ${missing.length} słów: ${missing.join(', ')}`);
+        const long = Object.entries(wg).filter(([, v]) => isStr(v) && v.length > 80).map(([k]) => k);
+        if (long.length) err(file, `reading.wordGloss: tłumaczenia dłuższe niż 80 znaków: ${long.join(', ')}`);
+      }
+      // Wyrażenia z tekstu (poza znacznikami), których nie da się zrozumieć słowo po słowie.
+      if (!isArr(r.phrases) || r.phrases.some((p) => !isStr(p?.text) || !isStr(p?.pl))) err(file, 'reading.phrases: lista {text, pl} (wyrażenia z tekstu z tłumaczeniem)');
+      else {
+        if (r.phrases.length < 3) err(file, `reading.phrases: ${r.phrases.length}, wymagane co najmniej 3`);
+        const low = plain.toLowerCase().replace(/’/g, "'");
+        for (const p of r.phrases) {
+          const n = words(p.text);
+          if (n < 2 || n > 7) err(file, `reading.phrases: „${p.text}” ma ${n} słów (dozwolone 2–7)`);
+          if (!low.includes(p.text.toLowerCase().replace(/’/g, "'").trim())) err(file, `reading.phrases: „${p.text}” nie występuje dosłownie w tekście (poza znacznikami {{…}})`);
+        }
+      }
+    }
     if (!isArr(r.glossary) || r.glossary.some((g) => !isStr(g?.term) || !isStr(g?.pl))) err(file, 'reading.glossary: lista {term, pl}');
     else if (!relaxed && !inRange(r.glossary.length, RL.glossary)) err(file, `reading.glossary: ${r.glossary.length} pozycji (dozwolone ${rangeText(RL.glossary)})`);
     if (!isArr(r.questions)) err(file, 'reading.questions: brak');

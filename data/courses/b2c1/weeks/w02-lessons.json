@@ -12,14 +12,38 @@
       "Clare rang three days later. It was not an easy call. There was real {{tension|w02-33}} at first, and she said several things that I needed to hear, but an hour on the phone {{cleared the air|w02-39}}. We have met twice since then. The old {{bond|w02-14}} hasn't fully returned yet, and perhaps it never will. Still, I have bought an address book of my own. It has twelve names in it so far, and I keep a pencil beside it."
     ],
     "glossary": [
-      { "term": "to clear a desk", "pl": "opróżnić biurko" },
-      { "term": "an elastic band", "pl": "gumka recepturka" },
-      { "term": "to go quiet", "pl": "ucichnąć; tu: (o znajomości) przygasnąć" },
-      { "term": "to make the effort", "pl": "zadać sobie trud, postarać się" },
-      { "term": "to blame sth", "pl": "zrzucać winę na coś" },
-      { "term": "once too often", "pl": "o jeden raz za dużo" },
-      { "term": "to admit sth", "pl": "przyznać się do czegoś" },
-      { "term": "pencilled", "pl": "zapisany ołówkiem" }
+      {
+        "term": "to clear a desk",
+        "pl": "opróżnić biurko"
+      },
+      {
+        "term": "an elastic band",
+        "pl": "gumka recepturka"
+      },
+      {
+        "term": "to go quiet",
+        "pl": "ucichnąć; tu: (o znajomości) przygasnąć"
+      },
+      {
+        "term": "to make the effort",
+        "pl": "zadać sobie trud, postarać się"
+      },
+      {
+        "term": "to blame sth",
+        "pl": "zrzucać winę na coś"
+      },
+      {
+        "term": "once too often",
+        "pl": "o jeden raz za dużo"
+      },
+      {
+        "term": "to admit sth",
+        "pl": "przyznać się do czegoś"
+      },
+      {
+        "term": "pencilled",
+        "pl": "zapisany ołówkiem"
+      }
     ],
     "questions": [
       {
@@ -93,6 +117,273 @@
       "Do you agree that people don't drift apart but simply stop making the effort? Why, or why not?",
       "Is there someone you have lost touch with and would like to contact again? What has stopped you so far?",
       "Does a handwritten letter mean more than a text message? In what situations?"
+    ],
+    "wordGloss": {
+      "when": "kiedy, gdy",
+      "my": "mój, moja",
+      "grandmother": "babcia",
+      "died": "zmarła (die)",
+      "last": "zeszłej",
+      "spring": "wiosna",
+      "i": "ja",
+      "was": "byłem, został",
+      "given": "powierzono (give)",
+      "the": "(przedimek określony: ten, ta, to)",
+      "job": "zadanie",
+      "of": "z, o",
+      "clearing": "opróżnianie (clear)",
+      "her": "jej",
+      "desk": "biurko",
+      "in": "w",
+      "bottom": "dolna",
+      "drawer": "szuflada",
+      "under": "pod",
+      "a": "(przedimek nieokreślony: jakiś)",
+      "pile": "sterta",
+      "seed": "nasiona",
+      "catalogues": "katalogi (catalogue)",
+      "found": "znalazłem (find)",
+      "red": "czerwony",
+      "address": "adresowy",
+      "book": "notes, książka",
+      "held": "spięty (hold)",
+      "together": "razem",
+      "with": "z",
+      "an": "(przedimek nieokreślony: jakiś)",
+      "elastic": "gumka",
+      "band": "opaska (elastic band: gumka)",
+      "it": "to, ono",
+      "contained": "zawierał (contain)",
+      "more": "więcej",
+      "than": "niż",
+      "four": "cztery",
+      "hundred": "sto",
+      "names": "nazwiska, imiona",
+      "canada": "Kanada",
+      "girls": "dziewczynki (girl)",
+      "she": "ona",
+      "had": "miała (have); (czas zaprzeszły)",
+      "sat": "siedziała (sit)",
+      "next": "obok (next to)",
+      "to": "do; (przed czasownikiem: żeby)",
+      "at": "w",
+      "primary": "podstawowa",
+      "school": "szkoła",
+      "beside": "obok",
+      "each": "każdy",
+      "name": "imię, nazwisko",
+      "written": "zapisała (write)",
+      "pencil": "ołówek",
+      "date": "data",
+      "letter": "list",
+      "sent": "wysłała (send)",
+      "as": "jak (as far as I can tell: o ile wiem)",
+      "far": "daleko (as far as: o ile)",
+      "can": "mogę",
+      "tell": "stwierdzić",
+      "never": "nigdy",
+      "anybody": "nikt, nikim",
+      "if": "jeśli",
+      "friendship": "przyjaźń",
+      "went": "stała się (go)",
+      "quiet": "cicha",
+      "wrote": "pisała (write)",
+      "there": "tam; (there is: był)",
+      "been": "było (be)",
+      "sooner": "wcześniej",
+      "people": "ludzie",
+      "don't": "nie (do not)",
+      "used": "miała w zwyczaju (use)",
+      "say": "mówić",
+      "they": "oni",
+      "stop": "przestają (stop)",
+      "making": "podejmować (make)",
+      "effort": "wysiłek",
+      "and": "i, a",
+      "then": "potem",
+      "blame": "obwiniają",
+      "drifting": "oddalanie się (drift)",
+      "have": "mam (have)",
+      "always": "zawsze",
+      "considered": "uważałem (consider)",
+      "myself": "siebie, sobie",
+      "good": "dobry",
+      "strangers": "nieznajomi",
+      "easily": "łatwo",
+      "several": "kilkaset, kilka",
+      "friends": "znajomi (friend)",
+      "online": "w internecie",
+      "but": "ale",
+      "that": "tamto, ten",
+      "afternoon": "popołudnie",
+      "tried": "próbowałem (try)",
+      "count": "policzyć",
+      "actually": "naprawdę",
+      "spoken": "rozmawiałem (speak)",
+      "past": "ostatni",
+      "year": "rok",
+      "stopped": "zatrzymałem się (stop)",
+      "eleven": "jedenaście",
+      "rest": "reszta",
+      "become": "stali się (become)",
+      "whose": "których",
+      "holiday": "wakacyjne",
+      "photos": "zdjęcia (photo)",
+      "occasionally": "czasami",
+      "like": "lajkuję; lubię",
+      "one": "jedno",
+      "missing": "brakowało (missing)",
+      "even": "nawet",
+      "from": "z",
+      "short": "krótka",
+      "list": "lista",
+      "clare": "Clare (imię)",
+      "met": "poznałyśmy się (meet)",
+      "on": "na",
+      "our": "nasz, nasza",
+      "first": "pierwszy",
+      "day": "dzień",
+      "university": "uniwersytet",
+      "for": "przez; dla",
+      "twenty": "dwadzieścia",
+      "years": "lata",
+      "person": "osoba",
+      "six": "sześć",
+      "ago": "temu",
+      "forgot": "zapomniałem (forget)",
+      "fortieth": "czterdzieste",
+      "birthday": "urodziny",
+      "not": "nie",
+      "card": "kartka",
+      "party": "impreza",
+      "told": "powiedziała (tell)",
+      "me": "mi, mnie",
+      "once": "raz",
+      "too": "zbyt; też",
+      "often": "często",
+      "right": "miała rację",
+      "proud": "dumny",
+      "admit": "przyznać",
+      "though": "jednak",
+      "so": "więc",
+      "best": "najlepszy",
+      "friend": "przyjaciółka",
+      "ever": "kiedykolwiek",
+      "we": "my",
+      "didn't": "nie (did not)",
+      "speak": "rozmawiać",
+      "all": "cały",
+      "time": "czas",
+      "who": "która, kto",
+      "grandmother's": "babci (grandmother)",
+      "pencilled": "zapisane ołówkiem (pencil)",
+      "dates": "daty (date)",
+      "suggested": "sugerowały (suggest)",
+      "less": "mniej",
+      "comfortable": "wygodne, komfortowe",
+      "explanation": "wyjaśnienie",
+      "simply": "po prostu",
+      "month": "miesiąc",
+      "did": "zrobiłem (do)",
+      "what": "to, co",
+      "would": "zrobiłaby (czas przeszły warunkowy)",
+      "done": "zrobiła (do)",
+      "send": "wysłać",
+      "text": "SMS",
+      "paper": "papier",
+      "saying": "pisząc (say)",
+      "sorry": "przepraszam",
+      "missed": "tęskniłem (miss)",
+      "rang": "zadzwoniła (ring)",
+      "three": "trzy",
+      "days": "dni",
+      "later": "później",
+      "easy": "łatwa",
+      "call": "rozmowa",
+      "real": "prawdziwe",
+      "said": "powiedziała (say)",
+      "things": "rzeczy (thing)",
+      "needed": "musiałem (need)",
+      "hear": "usłyszeć",
+      "hour": "godzina",
+      "phone": "telefon",
+      "twice": "dwa razy",
+      "since": "od",
+      "old": "stara",
+      "hasn't": "nie (has not)",
+      "fully": "w pełni",
+      "returned": "wróciła (return)",
+      "yet": "jeszcze",
+      "perhaps": "być może",
+      "will": "(czas przyszły)",
+      "still": "mimo to",
+      "bought": "kupiłem (buy)",
+      "own": "własny",
+      "has": "ma (have)",
+      "twelve": "dwanaście",
+      "keep": "trzymam (keep)"
+    },
+    "phrases": [
+      {
+        "text": "As far as I can tell",
+        "pl": "o ile mogę stwierdzić"
+      },
+      {
+        "text": "went quiet",
+        "pl": "ucichła, zamarła"
+      },
+      {
+        "text": "used to say",
+        "pl": "mawiała"
+      },
+      {
+        "text": "stop making the effort",
+        "pl": "przestają się starać"
+      },
+      {
+        "text": "in the past year",
+        "pl": "w ostatnim roku"
+      },
+      {
+        "text": "on our first day at university",
+        "pl": "pierwszego dnia na uniwersytecie"
+      },
+      {
+        "text": "once too often",
+        "pl": "o jeden raz za dużo"
+      },
+      {
+        "text": "too proud to admit it",
+        "pl": "zbyt dumny, żeby się do tego przyznać"
+      },
+      {
+        "text": "All that time",
+        "pl": "przez cały ten czas"
+      },
+      {
+        "text": "I told myself",
+        "pl": "powtarzałem sobie"
+      },
+      {
+        "text": "did what she would have done",
+        "pl": "zrobiłem to, co zrobiłaby ona"
+      },
+      {
+        "text": "three days later",
+        "pl": "trzy dni później"
+      },
+      {
+        "text": "an hour on the phone",
+        "pl": "godzina rozmowy przez telefon"
+      },
+      {
+        "text": "at first",
+        "pl": "na początku"
+      },
+      {
+        "text": "so far",
+        "pl": "jak dotąd"
+      }
     ]
   },
   "grammar": {
@@ -104,63 +395,144 @@
         "heading": "Czas zakończony a czas do teraz",
         "bodyPl": "**Past simple** (*met*, *got married*; pytania i przeczenia z *did*) umieszcza zdarzenie w czasie, który się skończył: *yesterday*, *last year*, *in 2015*, *two years ago*, *when I was a child*. Dlatego pytanie *When…?* o przeszłe zdarzenie zawsze wymaga past simple. **Present perfect** (*have/has* + trzecia forma czasownika) nie mówi, kiedy coś się stało. Pojawia się wtedy, gdy okres jeszcze trwa (*today*, *this month*, *so far*) albo gdy liczy się skutek widoczny teraz. Typowy schemat rozmowy: nowina w present perfect, szczegóły w past simple.",
         "examples": [
-          { "en": "We met at a friend's wedding in 2015.", "pl": "Poznaliśmy się na weselu znajomych w 2015 roku." },
-          { "en": "She has met his parents, so she knows what to expect.", "pl": "Poznała już jego rodziców, więc wie, czego się spodziewać." },
-          { "en": "My parents have visited us twice this month. Last month they didn't come at all.", "pl": "W tym miesiącu rodzice odwiedzili nas dwa razy. W zeszłym nie przyjechali ani razu." },
-          { "en": "They've split up. She moved out last weekend.", "pl": "Rozstali się. Ona wyprowadziła się w zeszły weekend." },
-          { "en": "When did they get engaged?", "pl": "Kiedy się zaręczyli?" }
+          {
+            "en": "We met at a friend's wedding in 2015.",
+            "pl": "Poznaliśmy się na weselu znajomych w 2015 roku."
+          },
+          {
+            "en": "She has met his parents, so she knows what to expect.",
+            "pl": "Poznała już jego rodziców, więc wie, czego się spodziewać."
+          },
+          {
+            "en": "My parents have visited us twice this month. Last month they didn't come at all.",
+            "pl": "W tym miesiącu rodzice odwiedzili nas dwa razy. W zeszłym nie przyjechali ani razu."
+          },
+          {
+            "en": "They've split up. She moved out last weekend.",
+            "pl": "Rozstali się. Ona wyprowadziła się w zeszły weekend."
+          },
+          {
+            "en": "When did they get engaged?",
+            "pl": "Kiedy się zaręczyli?"
+          }
         ]
       },
       {
         "heading": "For i since: od jak dawna coś trwa",
         "bodyPl": "Jeśli stan zaczął się w przeszłości i trwa do teraz, angielski używa present perfect, a polski czasu teraźniejszego: „znam ją od lat” to *I have known her for years*. **For** podaje długość okresu (*for ten years*, *for ages*), **since** jego początek (*since 2015*, *since Christmas*, *since we left school*). Po polsku jedno i drugie to „od”. Jeśli po *since* stoi całe zdanie, jest ono zwykle w past simple. O długość pyta się *How long have you…?*. Uwaga: *for* z past simple opisuje okres już zamknięty. Przy czynnościach (np. *wait*, *work*) częsty jest w tej sytuacji present perfect continuous (*I've been waiting for an hour*), ale zasada pozostaje ta sama: nie czas teraźniejszy.",
         "examples": [
-          { "en": "I've known my best friend since primary school.", "pl": "Znam swoją najlepszą przyjaciółkę od podstawówki." },
-          { "en": "They've been together for six years.", "pl": "Są razem od sześciu lat." },
-          { "en": "We haven't spoken since we fell out.", "pl": "Nie rozmawiamy ze sobą, odkąd się pokłóciliśmy." },
-          { "en": "How long have you been married?", "pl": "Od jak dawna jesteście małżeństwem?" },
-          { "en": "My grandparents were married for sixty years.", "pl": "Moi dziadkowie byli małżeństwem przez sześćdziesiąt lat (to już zamknięty okres)." }
+          {
+            "en": "I've known my best friend since primary school.",
+            "pl": "Znam swoją najlepszą przyjaciółkę od podstawówki."
+          },
+          {
+            "en": "They've been together for six years.",
+            "pl": "Są razem od sześciu lat."
+          },
+          {
+            "en": "We haven't spoken since we fell out.",
+            "pl": "Nie rozmawiamy ze sobą, odkąd się pokłóciliśmy."
+          },
+          {
+            "en": "How long have you been married?",
+            "pl": "Od jak dawna jesteście małżeństwem?"
+          },
+          {
+            "en": "My grandparents were married for sixty years.",
+            "pl": "Moi dziadkowie byli małżeństwem przez sześćdziesiąt lat (to już zamknięty okres)."
+          }
         ]
       },
       {
         "heading": "Just, already, yet",
         "bodyPl": "Te trzy słowa łączą przeszłe zdarzenie z chwilą obecną, więc w brytyjskiej angielszczyźnie towarzyszy im present perfect. **Just** (właśnie, dopiero co) i **already** (już, wcześniej niż się spodziewano) stoją między *have* a trzecią formą. **Yet** stoi na końcu pytań (już?) i przeczeń (jeszcze nie). W odmianie amerykańskiej często słychać tu past simple (*Did you call her yet?*); w tym kursie obowiązuje wersja brytyjska.",
         "examples": [
-          { "en": "They've just got engaged.", "pl": "Właśnie się zaręczyli." },
-          { "en": "We've already told our parents.", "pl": "Powiedzieliśmy już rodzicom." },
-          { "en": "Has he made up with his sister yet?", "pl": "Czy pogodził się już z siostrą?" },
-          { "en": "She hasn't replied to my message yet.", "pl": "Jeszcze nie odpisała na moją wiadomość." }
+          {
+            "en": "They've just got engaged.",
+            "pl": "Właśnie się zaręczyli."
+          },
+          {
+            "en": "We've already told our parents.",
+            "pl": "Powiedzieliśmy już rodzicom."
+          },
+          {
+            "en": "Has he made up with his sister yet?",
+            "pl": "Czy pogodził się już z siostrą?"
+          },
+          {
+            "en": "She hasn't replied to my message yet.",
+            "pl": "Jeszcze nie odpisała na moją wiadomość."
+          }
         ]
       },
       {
         "heading": "Ever, never i doświadczenia życiowe",
         "bodyPl": "O doświadczeniach z całego dotychczasowego życia mówi się w present perfect, bo życie to okres, który wciąż trwa. **Ever** (kiedykolwiek) pojawia się w pytaniach i po stopniu najwyższym (*the best friend I've ever had*), **never** w zdaniach o tym, co się dotąd nie zdarzyło. Gdy rozmowa przechodzi do konkretów (kiedy, gdzie, z kim), czas zmienia się na past simple. O osobach, które już nie żyją, mówi się w past simple, bo ich czas jest zamknięty.",
         "examples": [
-          { "en": "Have you ever been on a blind date?", "pl": "Czy zdarzyło ci się kiedyś pójść na randkę w ciemno?" },
-          { "en": "My mother has never met her cousins in Canada.", "pl": "Moja mama nigdy nie poznała swoich kuzynów z Kanady." },
-          { "en": "He's the most supportive person I've ever known.", "pl": "To najbardziej wspierająca osoba, jaką znam." },
-          { "en": "'Has your brother ever lived abroad?' 'Yes, he lived in Dublin for a year after university.'", "pl": "„Czy twój brat mieszkał kiedyś za granicą?” „Tak, po studiach przez rok mieszkał w Dublinie.”" },
-          { "en": "My grandmother never learnt to drive.", "pl": "Moja babcia nigdy nie nauczyła się prowadzić samochodu (babcia już nie żyje, stąd past simple)." }
+          {
+            "en": "Have you ever been on a blind date?",
+            "pl": "Czy zdarzyło ci się kiedyś pójść na randkę w ciemno?"
+          },
+          {
+            "en": "My mother has never met her cousins in Canada.",
+            "pl": "Moja mama nigdy nie poznała swoich kuzynów z Kanady."
+          },
+          {
+            "en": "He's the most supportive person I've ever known.",
+            "pl": "To najbardziej wspierająca osoba, jaką znam."
+          },
+          {
+            "en": "'Has your brother ever lived abroad?' 'Yes, he lived in Dublin for a year after university.'",
+            "pl": "„Czy twój brat mieszkał kiedyś za granicą?” „Tak, po studiach przez rok mieszkał w Dublinie.”"
+          },
+          {
+            "en": "My grandmother never learnt to drive.",
+            "pl": "Moja babcia nigdy nie nauczyła się prowadzić samochodu (babcia już nie żyje, stąd past simple)."
+          }
         ]
       },
       {
         "heading": "Been a gone",
         "bodyPl": "Czasownik *go* ma w present perfect dwie formy o różnym znaczeniu. **Have been to** znaczy, że ktoś gdzieś był i już wrócił; tak mówi się o doświadczeniach i odwiedzinach. **Have gone to** znaczy, że ktoś wyszedł albo wyjechał i jeszcze nie wrócił: jest na miejscu albo w drodze. Dlatego o sobie mówi się zwykle *I've been to…*: kto opowiada o podróży, ten już z niej wrócił.",
         "examples": [
-          { "en": "My parents have gone to my aunt's for the weekend.", "pl": "Rodzice pojechali na weekend do cioci (jeszcze tam są)." },
-          { "en": "My parents have been to my aunt's. They got back an hour ago.", "pl": "Rodzice byli u cioci. Wrócili godzinę temu." },
-          { "en": "Have you ever been to a Scottish wedding?", "pl": "Czy zdarzyło ci się być na szkockim weselu?" },
-          { "en": "'Where's Dad?' 'He's just gone to the station to meet Grandma.'", "pl": "„Gdzie tata?” „Właśnie pojechał na dworzec po babcię.”" }
+          {
+            "en": "My parents have gone to my aunt's for the weekend.",
+            "pl": "Rodzice pojechali na weekend do cioci (jeszcze tam są)."
+          },
+          {
+            "en": "My parents have been to my aunt's. They got back an hour ago.",
+            "pl": "Rodzice byli u cioci. Wrócili godzinę temu."
+          },
+          {
+            "en": "Have you ever been to a Scottish wedding?",
+            "pl": "Czy zdarzyło ci się być na szkockim weselu?"
+          },
+          {
+            "en": "'Where's Dad?' 'He's just gone to the station to meet Grandma.'",
+            "pl": "„Gdzie tata?” „Właśnie pojechał na dworzec po babcię.”"
+          }
         ]
       },
       {
         "heading": "Od, odkąd, temu: polskie pułapki",
         "bodyPl": "Trzy polskie konstrukcje prowadzą do najczęstszych błędów. Po pierwsze „od” z czasem teraźniejszym („mieszka u teściów od stycznia”): po angielsku present perfect, nigdy present simple. Po drugie samo „od”: przed długością okresu stoi *for*, przed punktem początkowym *since*, więc *since two years* to błąd. Po trzecie „temu”: **ago** wskazuje zakończony moment i łączy się wyłącznie z past simple. Warto też znać zwrot *It's two years since…*, po którym stoi past simple.",
         "examples": [
-          { "en": "She has lived with her in-laws since January.", "pl": "Mieszka u teściów od stycznia." },
-          { "en": "We've been friends for over twenty years.", "pl": "Przyjaźnimy się od ponad dwudziestu lat." },
-          { "en": "They got divorced three years ago.", "pl": "Rozwiedli się trzy lata temu." },
-          { "en": "It's two years since we last spoke.", "pl": "Minęły dwa lata, odkąd rozmawialiśmy po raz ostatni." }
+          {
+            "en": "She has lived with her in-laws since January.",
+            "pl": "Mieszka u teściów od stycznia."
+          },
+          {
+            "en": "We've been friends for over twenty years.",
+            "pl": "Przyjaźnimy się od ponad dwudziestu lat."
+          },
+          {
+            "en": "They got divorced three years ago.",
+            "pl": "Rozwiedli się trzy lata temu."
+          },
+          {
+            "en": "It's two years since we last spoke.",
+            "pl": "Minęły dwa lata, odkąd rozmawialiśmy po raz ostatni."
+          }
         ]
       }
     ],
@@ -195,67 +567,102 @@
       {
         "type": "mc",
         "prompt": "My parents ___ in 1989, a year after they met.",
-        "options": ["got married", "have got married", "have been married"],
+        "options": [
+          "got married",
+          "have got married",
+          "have been married"
+        ],
         "answer": 0,
         "explanationPl": "Rok 1989 to czas zakończony, więc past simple. Present perfect nie łączy się z określeniem zamkniętego momentu w przeszłości."
       },
       {
         "type": "mc",
         "prompt": "We ___ each other since we were five.",
-        "options": ["know", "knew", "have known"],
+        "options": [
+          "know",
+          "knew",
+          "have known"
+        ],
         "answer": 2,
         "explanationPl": "Znajomość zaczęła się w dzieciństwie i trwa do dziś, więc present perfect. Polskie „znamy się od…” kusi, żeby użyć *know*, ale to błąd."
       },
       {
         "type": "mc",
         "prompt": "They've been together ___ last summer, and they're already talking about moving in together.",
-        "options": ["for", "since", "from"],
+        "options": [
+          "for",
+          "since",
+          "from"
+        ],
         "answer": 1,
         "explanationPl": "*Last summer* to punkt początkowy, więc *since*. *For* stałoby przed długością okresu (*for a year*), a *from* nie łączy się w tym znaczeniu z present perfect."
       },
       {
         "type": "mc",
         "prompt": "'Is Laura in?' 'No, she's ___ to her mother-in-law's. She'll be back around six.'",
-        "options": ["been", "gone", "went"],
+        "options": [
+          "been",
+          "gone",
+          "went"
+        ],
         "answer": 1,
         "explanationPl": "Laura wyszła i jeszcze nie wróciła (*She'll be back around six*), więc *gone*. *Been* znaczyłoby, że jest już z powrotem, a *went* to forma past simple, która nie stoi po *has*."
       },
       {
         "type": "mc",
         "prompt": "I haven't met his family ___, but we're having lunch with them on Sunday.",
-        "options": ["already", "just", "yet"],
+        "options": [
+          "already",
+          "just",
+          "yet"
+        ],
         "answer": 2,
         "explanationPl": "W przeczeniach „jeszcze nie” to *yet* na końcu zdania. *Already* i *just* nie pasują do zdania przeczącego."
       },
       {
         "type": "mc",
         "prompt": "When ___ with her boyfriend?",
-        "options": ["has she split up", "did she split up", "she split up"],
+        "options": [
+          "has she split up",
+          "did she split up",
+          "she split up"
+        ],
         "answer": 1,
         "explanationPl": "Pytanie *When…?* dotyczy konkretnego, zakończonego momentu, więc zawsze past simple: *did* + podmiot + forma podstawowa czasownika."
       },
       {
         "type": "gap",
         "prompt": "My brother and I ___ (fall out) at our cousin's wedding two years ago.",
-        "answers": ["fell out"],
+        "answers": [
+          "fell out"
+        ],
         "explanationPl": "*Two years ago* wskazuje zakończony moment w przeszłości, więc past simple. *Fall* jest nieregularne: *fall, fell, fallen*."
       },
       {
         "type": "gap",
         "prompt": "I ___ (never / meet) my boyfriend's parents, so I'm a bit nervous about Sunday.",
-        "answers": ["have never met", "'ve never met"],
+        "answers": [
+          "have never met",
+          "'ve never met"
+        ],
         "explanationPl": "Mowa o całym okresie do teraz, więc present perfect; *never* stoi między *have* a trzecią formą."
       },
       {
         "type": "gap",
         "prompt": "They ___ (be) married for thirty years, and they still hold hands in the street.",
-        "answers": ["have been", "'ve been"],
+        "answers": [
+          "have been",
+          "'ve been"
+        ],
         "explanationPl": "Małżeństwo trwa do dziś (*they still hold hands*), więc present perfect z *for*. Past simple (*were married*) znaczyłoby, że już nie są małżeństwem."
       },
       {
         "type": "gap",
         "prompt": "Have you heard about Tom and Ania? They ___ (just / announce) their engagement.",
-        "answers": ["have just announced", "'ve just announced"],
+        "answers": [
+          "have just announced",
+          "'ve just announced"
+        ],
         "explanationPl": "Świeża nowina z *just*: present perfect, a *just* stoi między *have* a trzecią formą."
       },
       {
@@ -263,7 +670,10 @@
         "prompt": "The last time I saw my cousin was at Christmas.",
         "keyword": "SEEN",
         "gapped": "I ___ my cousin since Christmas.",
-        "answers": ["haven't seen", "have not seen"],
+        "answers": [
+          "haven't seen",
+          "have not seen"
+        ],
         "explanationPl": "Ostatnie spotkanie było w święta i od tamtej pory nic się nie zmieniło: present perfect w przeczeniu, a po nim *since* i punkt w czasie."
       },
       {
@@ -271,7 +681,12 @@
         "prompt": "We met ten years ago.",
         "keyword": "KNOWN",
         "gapped": "We ___ ten years.",
-        "answers": ["have known each other for", "'ve known each other for", "have known one another for", "'ve known one another for"],
+        "answers": [
+          "have known each other for",
+          "'ve known each other for",
+          "have known one another for",
+          "'ve known one another for"
+        ],
         "explanationPl": "Znajomość zaczęła się dziesięć lat temu i trwa nadal, więc present perfect czasownika *know* oraz *for* przed długością okresu. *Know* to czasownik stanu, dlatego nie *have been knowing*."
       }
     ],
@@ -279,33 +694,50 @@
       {
         "type": "mc",
         "prompt": "Julia isn't here. She ___ to the airport to pick up her in-laws.",
-        "options": ["has gone", "has been", "have gone"],
+        "options": [
+          "has gone",
+          "has been",
+          "have gone"
+        ],
         "answer": 0,
         "explanationPl": "Julii nie ma, bo pojechała i jeszcze nie wróciła, więc *has gone*. *Has been* znaczyłoby, że już jest z powrotem, a *have* nie pasuje do podmiotu *she*."
       },
       {
         "type": "gap",
         "prompt": "How long ___ (you / know) your best friend?",
-        "answers": ["have you known"],
+        "answers": [
+          "have you known"
+        ],
         "explanationPl": "Pytanie o stan trwający do teraz: *How long* + present perfect. Po polsku jest tu czas teraźniejszy („od jak dawna znasz…”)."
       },
       {
         "type": "mc",
         "prompt": "She ___ for her new boyfriend about six months ago.",
-        "options": ["has fallen", "fell", "falls"],
+        "options": [
+          "has fallen",
+          "fell",
+          "falls"
+        ],
         "answer": 1,
         "explanationPl": "*Ago* wskazuje zakończony moment w przeszłości i łączy się wyłącznie z past simple."
       },
       {
         "type": "gap",
         "prompt": "He ___ (not / speak) to his father since their row at Christmas.",
-        "answers": ["hasn't spoken", "has not spoken"],
+        "answers": [
+          "hasn't spoken",
+          "has not spoken"
+        ],
         "explanationPl": "Okres od kłótni do teraz, więc present perfect w przeczeniu; *since* podaje punkt początkowy. Trzecia forma *speak* to *spoken*."
       },
       {
         "type": "mc",
         "prompt": "'Shall I ring Grandma?' 'No need. I've ___ spoken to her.'",
-        "options": ["yet", "already", "ever"],
+        "options": [
+          "yet",
+          "already",
+          "ever"
+        ],
         "answer": 1,
         "explanationPl": "*Already* (już) stoi między *have* a trzecią formą. *Yet* stoi na końcu pytań i przeczeń, a *ever* znaczy „kiedykolwiek”."
       }
@@ -313,12 +745,24 @@
   },
   "listening": {
     "dictation": [
-      { "text": "We have known each other since we were at primary school." },
-      { "text": "She fell out with her sister over money two years ago." },
-      { "text": "Have you made up with your brother yet?" },
-      { "text": "My parents have been married for almost forty years." },
-      { "text": "They hit it off straight away and got engaged last summer." },
-      { "text": "We lost touch after university, but we have just met again." }
+      {
+        "text": "We have known each other since we were at primary school."
+      },
+      {
+        "text": "She fell out with her sister over money two years ago."
+      },
+      {
+        "text": "Have you made up with your brother yet?"
+      },
+      {
+        "text": "My parents have been married for almost forty years."
+      },
+      {
+        "text": "They hit it off straight away and got engaged last summer."
+      },
+      {
+        "text": "We lost touch after university, but we have just met again."
+      }
     ],
     "monologue": {
       "title": "The best man's speech",
@@ -455,94 +899,150 @@
       {
         "sentence": "His strict ___ taught him good manners, but it also left him afraid of making mistakes.",
         "answerId": "w02-08",
-        "answers": ["upbringing"]
+        "answers": [
+          "upbringing"
+        ]
       },
       {
         "sentence": "The dislike was ___: she couldn't stand him, and he couldn't stand her either.",
         "answerId": "w02-13",
-        "answers": ["mutual"]
+        "answers": [
+          "mutual"
+        ]
       },
       {
         "sentence": "With her long legs and her love of running, Zoe clearly ___ her grandmother, who was a champion sprinter.",
         "answerId": "w02-05",
-        "answers": ["takes after"]
+        "answers": [
+          "takes after"
+        ]
       },
       {
         "sentence": "I'm stuck in hospital until Friday. Could you come and ___ for an hour or two?",
         "answerId": "w02-17",
-        "answers": ["keep me company"]
+        "answers": [
+          "keep me company"
+        ]
       },
       {
         "sentence": "They ___ last year, but they still share the dog: he has it during the week and she takes it at weekends.",
         "answerId": "w02-30",
-        "answers": ["split up"]
+        "answers": [
+          "split up"
+        ]
       },
       {
         "sentence": "It's their wedding, not mine, so I've promised not to ___ in the arrangements.",
         "answerId": "w02-34",
-        "answers": ["interfere"]
+        "answers": [
+          "interfere"
+        ]
       },
       {
         "sentence": "I finally gave up smoking because my kids kept ___ me about it every single day.",
         "answerId": "w02-35",
-        "answers": ["nagging"]
+        "answers": [
+          "nagging"
+        ]
       },
       {
         "sentence": "As a teenager, she ___ having to look after her little brothers every weekend while her friends were out having fun.",
         "answerId": "w02-37",
-        "answers": ["resented"]
+        "answers": [
+          "resented"
+        ]
       },
       {
         "sentence": "Bad eyesight ___: my mother, both my uncles and all my cousins wear glasses.",
         "answerId": "w02-06",
-        "answers": ["runs in the family"]
+        "answers": [
+          "runs in the family"
+        ]
       },
       {
         "sentence": "The minister resigned after a newspaper revealed that he had had a secret ___ with his assistant.",
         "answerId": "w02-29",
-        "answers": ["affair"]
+        "answers": [
+          "affair"
+        ]
       }
     ],
     "matching": [
-      { "left": "tie", "right": "the knot" },
-      { "left": "clear", "right": "the air" },
-      { "left": "bear", "right": "a grudge" },
-      { "left": "lose", "right": "touch" },
-      { "left": "start", "right": "a family" },
-      { "left": "run", "right": "in the family" },
-      { "left": "take sb", "right": "for granted" },
-      { "left": "a distant", "right": "relative" }
+      {
+        "left": "tie",
+        "right": "the knot"
+      },
+      {
+        "left": "clear",
+        "right": "the air"
+      },
+      {
+        "left": "bear",
+        "right": "a grudge"
+      },
+      {
+        "left": "lose",
+        "right": "touch"
+      },
+      {
+        "left": "start",
+        "right": "a family"
+      },
+      {
+        "left": "run",
+        "right": "in the family"
+      },
+      {
+        "left": "take sb",
+        "right": "for granted"
+      },
+      {
+        "left": "a distant",
+        "right": "relative"
+      }
     ],
     "wordFormation": [
       {
         "sentence": "She still feels great ___ for the aunt who looked after her when she was little.",
         "base": "AFFECTIONATE",
-        "answers": ["affection"]
+        "answers": [
+          "affection"
+        ]
       },
       {
         "sentence": "There is still a lot of ___ in the family about the way Grandad's money was divided.",
         "base": "RESENT",
-        "answers": ["resentment"]
+        "answers": [
+          "resentment"
+        ]
       },
       {
         "sentence": "She accepted his ___ of marriage, and the wedding is planned for next spring.",
         "base": "PROPOSE",
-        "answers": ["proposal"]
+        "answers": [
+          "proposal"
+        ]
       },
       {
         "sentence": "He's tired of his ___ neighbours, who comment on everything from his garden to his girlfriends.",
         "base": "INTERFERE",
-        "answers": ["interfering"]
+        "answers": [
+          "interfering"
+        ]
       },
       {
         "sentence": "The atmosphere at dinner was so ___ that nobody dared to mention the wedding.",
         "base": "TENSION",
-        "answers": ["tense"]
+        "answers": [
+          "tense"
+        ]
       },
       {
         "sentence": "They are totally ___ to each other and plan to spend the rest of their lives together.",
         "base": "COMMITMENT",
-        "answers": ["committed"]
+        "answers": [
+          "committed"
+        ]
       }
     ]
   }

@@ -80,6 +80,68 @@
     "discussion": [
       "Who is in your family?",
       "Who is your best friend?"
+    ],
+    "wordGloss": {
+      "my": "mój, moja, moje",
+      "is": "jest",
+      "tom": "Tom (imię)",
+      "i": "ja",
+      "am": "jestem",
+      "ten": "dziesięć",
+      "poland": "Polska",
+      "and": "i, a",
+      "sister": "siostra",
+      "in": "w",
+      "a": "(przedimek nieokreślony: jakiś)",
+      "small": "mały",
+      "town": "miasto",
+      "very": "bardzo",
+      "funny": "zabawny",
+      "she": "ona",
+      "one": "jeden",
+      "year": "rok",
+      "old": "stary",
+      "at": "w, u",
+      "home": "dom (w domu)",
+      "are": "są, jesteśmy",
+      "not": "nie",
+      "here": "tutaj",
+      "today": "dzisiaj",
+      "they": "oni, one",
+      "their": "ich",
+      "house": "dom",
+      "but": "ale",
+      "always": "zawsze",
+      "ben": "Ben (imię)",
+      "best": "najlepszy",
+      "he": "on",
+      "from": "z",
+      "class": "klasa",
+      "we": "my",
+      "happy": "szczęśliwy, zadowolony",
+      "school": "szkoła"
+    },
+    "phrases": [
+      {
+        "text": "one year old",
+        "pl": "ma rok"
+      },
+      {
+        "text": "at home",
+        "pl": "w domu"
+      },
+      {
+        "text": "at their house",
+        "pl": "w ich domu"
+      },
+      {
+        "text": "from my class",
+        "pl": "z mojej klasy"
+      },
+      {
+        "text": "at school",
+        "pl": "w szkole"
+      }
     ]
   },
   "grammar": {

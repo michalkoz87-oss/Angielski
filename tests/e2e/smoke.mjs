@@ -66,6 +66,19 @@ try {
       }
       if (await visible('#dictation:not([readonly])')) { await page.fill('#dictation', 'I like music'); await page.click('#dictation-check'); continue; }
       if (await visible('#writing-text') && !(await page.inputValue('#writing-text'))) { await page.fill('#writing-text', 'This is my short text about my free time. I like it very much.'); await shot(`d${day}-writing`); }
+      if (await visible('#read-questions') && await visible('.read__w') && !page.__glossChecked) {
+        // every word of the reading text opens its translation; a word inside an expression also shows the expression
+        page.__glossChecked = true;
+        await page.locator('.read__w').first().click();
+        if (!(await visible('.read__pop .read__pop-pl'))) errors.push('reading: a tapped word shows no translation');
+        await page.keyboard.press('Escape');
+        if (await visible('.read__ph .read__w')) {
+          await page.locator('.read__ph .read__w').first().click();
+          if (!(await visible('.read__pop-phrase'))) errors.push('reading: a word inside an expression shows no expression translation');
+          await shot(`d${day}-reading-gloss`);
+          await page.keyboard.press('Escape');
+        } else errors.push('reading: no expression is marked in the text');
+      }
       let clicked = false;
       for (const id of ['#learn-next', '#read-questions', '#gram-exercises', '#test-start', '#dictation-next', '#listen-questions', '#shadow-next', '#speak-next', '#review-next', '#review-continue', '#step-done']) {
         if (await visible(id)) { await page.click(id); clicked = true; break; }

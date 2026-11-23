@@ -6,7 +6,7 @@ import { runQuestions, scoreSummary } from './exercise-ui.js';
 
 const { h } = ui;
 
-const WORD = /[A-Za-z]+(?:[-'’][A-Za-z]+)*/g;
+const WORD = /\p{L}+(?:[-'’]\p{L}+)*/gu;
 
 // A paragraph in which target words keep their highlighted gloss and every other word can be
 // tapped for its Polish meaning (from reading.wordGloss).
@@ -28,7 +28,7 @@ function phraseRanges(text, phrases) {
   const taken = [];
   const sorted = (phrases ?? []).map((p, index) => ({ ...p, index })).sort((a, b) => b.text.length - a.text.length);
   for (const p of sorted) {
-    const re = new RegExp(`(?<![A-Za-z])${escapeRe(p.text.trim()).replace(/['’]/g, "['’]").replace(/\s+/g, '\\s+')}(?![A-Za-z])`, 'gi');
+    const re = new RegExp(`(?<!\\p{L})${escapeRe(p.text.trim()).replace(/['’]/g, "['’]").replace(/\s+/g, '\\s+')}(?!\\p{L})`, 'giu');
     for (const m of text.matchAll(re)) {
       const from = m.index;
       const to = m.index + m[0].length;

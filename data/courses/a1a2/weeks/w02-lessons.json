@@ -79,6 +79,78 @@
     "discussion": [
       "What colour are the walls in your classroom?",
       "What have you got on your desk?"
+    ],
+    "wordGloss": {
+      "this": "to (tutaj)",
+      "is": "jest",
+      "my": "mój, moja, moje",
+      "it": "to, ono",
+      "big": "duży",
+      "and": "i, a",
+      "old": "stary",
+      "i": "ja",
+      "am": "jestem",
+      "in": "w",
+      "class": "klasa",
+      "our": "nasz",
+      "has": "ma (have)",
+      "got": "(have got: mieć)",
+      "twenty": "dwadzieścia",
+      "the": "(przedimek określony: ten, ta, to)",
+      "walls": "ściany (wall)",
+      "are": "są",
+      "door": "drzwi",
+      "mrs": "pani (Mrs)",
+      "hill": "Hill (nazwisko)",
+      "she": "ona",
+      "very": "bardzo",
+      "kind": "miła",
+      "a": "(przedimek nieokreślony: jakiś)",
+      "desk": "biurko, ławka",
+      "today": "dzisiaj",
+      "we": "my",
+      "have": "mamy (have)",
+      "an": "(przedimek nieokreślony: jakiś)",
+      "english": "angielski",
+      "lesson": "lekcja",
+      "look": "patrz",
+      "at": "na",
+      "two": "dwa, dwie",
+      "pencils": "ołówki (pencil)",
+      "but": "ale",
+      "haven't": "nie mam (have not)",
+      "friend": "koleżanka, przyjaciółka",
+      "ola": "Ola (imię)",
+      "rulers": "linijki (ruler)",
+      "next": "obok",
+      "to": "(next to: obok)",
+      "me": "mnie, mi"
+    },
+    "phrases": [
+      {
+        "text": "has got",
+        "pl": "ma"
+      },
+      {
+        "text": "have got",
+        "pl": "mam, mamy"
+      },
+      {
+        "text": "haven't got",
+        "pl": "nie mam"
+      },
+      {
+        "text": "Look at",
+        "pl": "spójrz na"
+      },
+      {
+        "text": "next to me",
+        "pl": "obok mnie"
+      },
+      {
+        "text": "in class 4",
+        "pl": "w klasie 4"
+      }
     ]
   },
   "grammar": {
