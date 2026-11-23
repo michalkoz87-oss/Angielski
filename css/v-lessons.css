@@ -20,3 +20,14 @@
 .match__item.is-wrong { border-color: var(--bad); background: var(--bad-soft); }
 .test__review li { padding-bottom: var(--s-3); border-bottom: 1px solid var(--line); }
 .test__review p { margin: 0; }
+
+.read__w { cursor: pointer; border-radius: var(--r-sm); }
+.read__w:hover { text-decoration: underline dotted; text-underline-offset: 3px; }
+.read__w.is-open { background: var(--accent-soft); }
+.read__pop { display: flex; flex-direction: column; gap: var(--s-1); min-width: 180px; }
+.read__pop p { margin: 0; }
+.read__pop-en { display: flex; align-items: center; gap: var(--s-2); font-size: var(--text-lg); font-weight: 600; }
+.read__pop-pl { font-size: var(--text-md); }
+.read__ph { text-decoration: underline dotted var(--line-strong); text-underline-offset: 4px; border-radius: var(--r-sm); }
+.read__ph.is-open { background: var(--accent-soft); }
+.read__pop-phrase { margin-top: var(--s-2); padding-top: var(--s-2); border-top: 1px solid var(--line); display: flex; flex-direction: column; gap: var(--s-1); }
