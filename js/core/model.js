@@ -132,6 +132,8 @@ export function getProfile() {
     maxReviews: p.maxReviews ?? DEFAULT_SETTINGS.maxReviews,
     accent: p.accent ?? DEFAULT_SETTINGS.accent,
     voice: p.voice ?? DEFAULT_SETTINGS.voice,
+    voiceName: p.voiceName ?? '',
+    speechRate: p.speechRate ?? 0.9,
     sessionMinutes: p.sessionMinutes ?? null,
     courseId: course,
     startDate: c.startDate ?? null,

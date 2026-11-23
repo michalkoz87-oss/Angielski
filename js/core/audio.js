@@ -9,7 +9,7 @@ let tts = null;
 let blocked = false;
 let webBroken = false;
 let state = 'idle';
-let prefs = { accent: 'en-GB', voice: 'auto' };
+let prefs = { accent: 'en-GB', voice: 'auto', voiceName: '', rate: 0.9 };
 let started = false;
 const listeners = new Set();
 
@@ -20,7 +20,38 @@ const synth = () => {
     return null;
   }
 };
-const webOk = () => !!synth() && !webBroken && typeof SpeechSynthesisUtterance !== 'undefined';
+const isEnglish = (v) => /^en([-_]|$)/i.test(v?.lang ?? '');
+// Voices that are known to be clear, and voices that are novelty effects or old robotic synthesisers.
+const GOOD = /(Google (UK|US) English|Natural|Online|Neural|Enhanced|Premium|Siri|Daniel|Arthur|Kate|Serena|Martha|Oliver|Stephanie|Samantha|Ava|Allison|Alex|Susan|Karen|Moira|Tessa|Libby|Sonia|Ryan|Aria|Jenny|Guy|Hazel|George|Zira|David)/i;
+const BAD = /(Albert|Bad News|Bahh|Bells|Boing|Bubbles|Cellos|Wobble|Good News|Jester|Organ|Superstar|Trinoids|Whisper|Zarvox|Deranged|Hysterical|Fred|Junior|Kathy|Ralph|Princess|Bruce|Agnes|Vicki|Eddy|Flo\b|Grandma|Grandpa|Reed|Rocko|Sandy|Shelley|eSpeak)/i;
+
+/** English voices of a voice list, best first (pure; exported for tests). */
+export function rankVoices(voices, accent = 'en-GB') {
+  const want = accent.toLowerCase();
+  const score = (v) => {
+    const lang = String(v.lang ?? '').replace('_', '-').toLowerCase();
+    let s = lang === want ? 100 : lang.slice(0, 2) === 'en' ? 40 : 0;
+    if (GOOD.test(v.name ?? '')) s += 50;
+    if (BAD.test(v.name ?? '')) s -= 300;
+    return s;
+  };
+  return (voices ?? []).filter(isEnglish).map((v, i) => ({ v, i, s: score(v) })).sort((a, b) => b.s - a.s || a.i - b.i).map((x) => x.v);
+}
+
+const allVoices = () => {
+  try {
+    return synth()?.getVoices?.() ?? [];
+  } catch {
+    return [];
+  }
+};
+// If the device lists voices but none of them is English, speaking would read English text with a
+// foreign voice (gibberish): then browser speech counts as unavailable.
+const webOk = () => {
+  if (!synth() || webBroken || typeof SpeechSynthesisUtterance === 'undefined') return false;
+  const all = allVoices();
+  return all.length === 0 || all.some(isEnglish);
+};
 
 function setState(next) {
   if (next === state) return;
@@ -35,9 +66,8 @@ function setState(next) {
 }
 
 function pickVoice() {
-  const voices = (synth()?.getVoices?.() ?? []).filter((v) => /^en[-_]/i.test(v.lang) || v.lang === 'en');
-  const want = prefs.accent.toLowerCase();
-  return voices.find((v) => v.lang.replace('_', '-').toLowerCase() === want) ?? voices[0] ?? null;
+  const ranked = rankVoices(allVoices(), prefs.accent);
+  return (prefs.voiceName && ranked.find((v) => v.name === prefs.voiceName)) || ranked[0] || null;
 }
 
 function webSpeak(text, rate) {
@@ -50,7 +80,7 @@ function webSpeak(text, rate) {
       const voice = pickVoice();
       if (voice) u.voice = voice;
       u.lang = voice?.lang ?? prefs.accent;
-      u.rate = rate;
+      u.rate = Math.min(1.5, Math.max(0.5, rate));
       u.onend = () => resolve(true);
       u.onerror = (e) => {
         if (e?.error && !['interrupted', 'canceled'].includes(e.error)) webBroken = true;
@@ -78,7 +108,8 @@ async function ttsSpeak(what, rate) {
   }
 }
 
-async function run(lines, { rate = 1, long = false } = {}) {
+async function run(lines, { rate: speed = 1, long = false } = {}) {
+  const rate = speed * prefs.rate;
   const texts = lines.map((t) => String(t ?? '').trim()).filter(Boolean);
   if (!texts.length || blocked) return;
   const preferTts = prefs.voice === 'claude' || (prefs.voice === 'auto' && (long || !webOk()));
@@ -115,10 +146,12 @@ export const audio = {
     });
   },
   setPrefs(next) {
-    prefs = { accent: next?.accent ?? 'en-GB', voice: next?.voice ?? 'auto' };
+    prefs = { accent: next?.accent ?? 'en-GB', voice: next?.voice ?? 'auto', voiceName: next?.voiceName ?? '', rate: Number(next?.speechRate) || 0.9 };
   },
   available,
   hasClaudeVoice: () => !!tts && !blocked,
+  /** English voices this device offers, best first: [{name, lang}] (empty when the browser lists none). */
+  voices: () => rankVoices(allVoices(), prefs.accent).map((v) => ({ name: v.name, lang: v.lang })),
   speak: (text, opts) => run([text], opts),
   speakLines: (lines, opts) => run(lines, { long: true, ...opts }),
   stop() {
