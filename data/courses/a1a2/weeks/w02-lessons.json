@@ -1,0 +1,550 @@
+{
+  "week": 2,
+  "intro": "W tym tygodniu poznasz słowa o szkole: rzeczy w klasie, kolory i liczby. Nauczysz się mówić, co masz, za pomocą have got, i opowiadać o wielu rzeczach naraz. Na koniec opiszesz swój plecak szkolny.",
+  "reading": {
+    "title": "Our classroom",
+    "paragraphs": [
+      "This is my {{school|w02-01}}. It is big and old. I am in class 4. Our {{classroom|w02-09}} has got {{twenty|w02-22}} {{desks|w02-07}} and twenty {{chairs|w02-08}}. The walls are {{yellow|w02-16}} and the door is {{green|w02-15}}.",
+      "Our {{teacher|w02-02}} is Mrs Hill. She is very kind. She has got a big desk and a {{red|w02-13}} {{pen|w02-04}}. Today we have got a {{maths|w02-20}} {{lesson|w02-19}} and an English lesson.",
+      "Look at my desk! I have got a {{book|w02-03}}, two {{notebooks|w02-10}} and a {{blue|w02-14}} {{pencil case|w02-18}}. I have got {{twelve|w02-21}} pencils in it, but I haven't got a {{ruler|w02-11}}. My friend Ola has got two rulers. She is next to me."
+    ],
+    "glossary": [
+      {
+        "term": "wall",
+        "pl": "ściana"
+      },
+      {
+        "term": "door",
+        "pl": "drzwi"
+      },
+      {
+        "term": "look at",
+        "pl": "popatrz na"
+      },
+      {
+        "term": "next to",
+        "pl": "obok"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "q": "How many desks are in the classroom?",
+        "options": [
+          "Two",
+          "Ten",
+          "Twelve",
+          "Twenty"
+        ],
+        "answer": 3,
+        "explanationPl": "W pierwszym akapicie: „Our classroom has got twenty desks”."
+      },
+      {
+        "type": "mc",
+        "q": "What colour is the door?",
+        "options": [
+          "Yellow",
+          "Green",
+          "Red",
+          "Blue"
+        ],
+        "answer": 1,
+        "explanationPl": "W pierwszym akapicie: „the door is green”. Żółte są ściany."
+      },
+      {
+        "type": "mc",
+        "q": "Who has got two rulers?",
+        "options": [
+          "Ola",
+          "Mrs Hill",
+          "The writer",
+          "The writer's sister"
+        ],
+        "answer": 0,
+        "explanationPl": "W trzecim akapicie: „My friend Ola has got two rulers”."
+      },
+      {
+        "type": "tf",
+        "q": "The writer has got a ruler.",
+        "answer": "false",
+        "explanationPl": "W trzecim akapicie: „I haven't got a ruler”."
+      },
+      {
+        "type": "tf",
+        "q": "Ola has got a blue pencil case.",
+        "answer": "not_given",
+        "explanationPl": "Niebieski piórnik ma osoba, która pisze tekst. O piórniku Oli nic nie wiemy."
+      }
+    ],
+    "discussion": [
+      "What colour are the walls in your classroom?",
+      "What have you got on your desk?"
+    ]
+  },
+  "grammar": {
+    "title": "have got and plural nouns",
+    "titlePl": "have got i liczba mnoga",
+    "summaryPl": "**Have got** znaczy „mieć”. Używamy go, gdy mówimy, co mamy. W tym tygodniu nauczysz się też mówić o wielu rzeczach (books, pens) i pokazywać rzeczy słowami this, that, these, those.",
+    "sections": [
+      {
+        "heading": "I have got, she has got",
+        "bodyPl": "Mówimy: **I have got**, **you have got**, **we have got**, **they have got**. Ale przy he, she, it mówimy **has got**: **he has got**, **she has got**, **it has got**. W mowie często skracamy: **I've got**, **she's got**.",
+        "examples": [
+          {
+            "en": "I have got a new pen.",
+            "pl": "Mam nowy długopis."
+          },
+          {
+            "en": "She has got a red school bag.",
+            "pl": "Ona ma czerwony plecak."
+          },
+          {
+            "en": "We have got twenty desks in our classroom.",
+            "pl": "Mamy w klasie dwadzieścia ławek."
+          },
+          {
+            "en": "He's got two pencils.",
+            "pl": "On ma dwa ołówki."
+          }
+        ]
+      },
+      {
+        "heading": "Nie mam i pytania",
+        "bodyPl": "Żeby powiedzieć, że czegoś nie masz, dodaj **not**: **I have not got** albo krócej **I haven't got**. Przy he, she, it: **hasn't got**. W pytaniu **have** albo **has** stoi na początku: **Have you got a pen?** Krótko odpowiadamy: **Yes, I have.** albo **No, I haven't.**",
+        "examples": [
+          {
+            "en": "I haven't got a ruler.",
+            "pl": "Nie mam linijki."
+          },
+          {
+            "en": "Tom hasn't got his notebook today.",
+            "pl": "Tom nie ma dziś swojego zeszytu."
+          },
+          {
+            "en": "Have you got a pencil? Yes, I have.",
+            "pl": "Czy masz ołówek? Tak, mam."
+          },
+          {
+            "en": "Has she got a blue pen? No, she hasn't.",
+            "pl": "Czy ona ma niebieski długopis? Nie, nie ma."
+          }
+        ]
+      },
+      {
+        "heading": "Jedna rzecz i wiele rzeczy",
+        "bodyPl": "Gdy rzeczy jest więcej niż jedna, do rzeczownika dodajemy **-s**: one book, two **books**. Gdy słowo kończy się na **-s**, **-x**, **-ch** albo **-sh**, dodajemy **-es**: one box, two **boxes**.",
+        "examples": [
+          {
+            "en": "I have got one pen. Ola has got three pens.",
+            "pl": "Mam jeden długopis. Ola ma trzy długopisy."
+          },
+          {
+            "en": "one box, two boxes",
+            "pl": "jedno pudełko, dwa pudełka"
+          },
+          {
+            "en": "one bus, three buses",
+            "pl": "jeden autobus, trzy autobusy"
+          },
+          {
+            "en": "one class, two classes",
+            "pl": "jedna klasa, dwie klasy"
+          }
+        ]
+      },
+      {
+        "heading": "this, that, these, those",
+        "bodyPl": "Gdy coś jest blisko, mówimy **this** (jedna rzecz) albo **these** (wiele rzeczy). Gdy coś jest daleko, mówimy **that** (jedna rzecz) albo **those** (wiele rzeczy).",
+        "examples": [
+          {
+            "en": "This is my pencil.",
+            "pl": "To jest mój ołówek. (mam go blisko)"
+          },
+          {
+            "en": "That is our school.",
+            "pl": "Tamto to nasza szkoła. (jest daleko)"
+          },
+          {
+            "en": "These pens are blue.",
+            "pl": "Te długopisy są niebieskie. (są blisko)"
+          },
+          {
+            "en": "Those books are old.",
+            "pl": "Tamte książki są stare. (są daleko)"
+          }
+        ]
+      }
+    ],
+    "pitfallsPl": [
+      {
+        "wrong": "She have got a pen.",
+        "right": "She has got a pen.",
+        "whyPl": "Przy **he, she, it** mówimy **has got**, a nie „have got”."
+      },
+      {
+        "wrong": "I have got two book.",
+        "right": "I have got two books.",
+        "whyPl": "Gdy rzeczy jest więcej niż jedna, dodajemy **-s**: two books."
+      },
+      {
+        "wrong": "I don't have got a ruler.",
+        "right": "I haven't got a ruler.",
+        "whyPl": "Z **have got** nie używamy „don't”. Mówimy **haven't got** albo **hasn't got**."
+      },
+      {
+        "wrong": "This pencils are red.",
+        "right": "These pencils are red.",
+        "whyPl": "**This** to jedna rzecz. Gdy rzeczy jest wiele, mówimy **these**."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "I ___ got a blue pen.",
+        "options": [
+          "has",
+          "have",
+          "am",
+          "is"
+        ],
+        "answer": 1,
+        "explanationPl": "Przy **I** mówimy **have got**."
+      },
+      {
+        "type": "mc",
+        "prompt": "My sister ___ got a new school bag.",
+        "options": [
+          "have",
+          "are",
+          "has",
+          "is"
+        ],
+        "answer": 2,
+        "explanationPl": "My sister to „she”, więc mówimy **has got**."
+      },
+      {
+        "type": "mc",
+        "prompt": "We ___ got twenty desks in our classroom.",
+        "options": [
+          "have",
+          "has",
+          "are",
+          "is"
+        ],
+        "answer": 0,
+        "explanationPl": "Przy **we** mówimy **have got**."
+      },
+      {
+        "type": "gap",
+        "prompt": "Tom ___ got a ruler. He has only got a pencil.",
+        "answers": [
+          "hasn't",
+          "has not"
+        ],
+        "explanationPl": "Tom ma tylko ołówek, więc nie ma linijki. Tom to „he”: **hasn't got** albo **has not got**."
+      },
+      {
+        "type": "gap",
+        "prompt": "___ you got a red pen? Yes, I have.",
+        "answers": [
+          "Have"
+        ],
+        "explanationPl": "Pytanie z **you** zaczynamy od **Have**: Have you got…?"
+      },
+      {
+        "type": "mc",
+        "prompt": "Has your teacher got a big desk? Yes, she ___.",
+        "options": [
+          "have",
+          "is",
+          "does",
+          "has"
+        ],
+        "answer": 3,
+        "explanationPl": "W krótkiej odpowiedzi powtarzamy **has**: Yes, she has."
+      },
+      {
+        "type": "gap",
+        "prompt": "I have got one book. Ola has got three ___. (book)",
+        "answers": [
+          "books"
+        ],
+        "explanationPl": "Trzy to więcej niż jedna rzecz, więc dodajemy **-s**: books."
+      },
+      {
+        "type": "gap",
+        "prompt": "One box, two ___. (box)",
+        "answers": [
+          "boxes"
+        ],
+        "explanationPl": "Słowo **box** kończy się na **-x**, więc dodajemy **-es**: boxes."
+      },
+      {
+        "type": "mc",
+        "prompt": "___ is my pencil here in my hand.",
+        "options": [
+          "These",
+          "Those",
+          "This",
+          "They"
+        ],
+        "answer": 2,
+        "explanationPl": "Jeden ołówek, który jest blisko (w ręce), to **this**."
+      },
+      {
+        "type": "mc",
+        "prompt": "Look at ___ books over there. They are very old.",
+        "options": [
+          "those",
+          "this",
+          "that",
+          "these"
+        ],
+        "answer": 0,
+        "explanationPl": "Książek jest wiele i są daleko (over there), więc mówimy **those**."
+      }
+    ],
+    "testItems": [
+      {
+        "type": "mc",
+        "prompt": "He ___ got two notebooks.",
+        "options": [
+          "have",
+          "has",
+          "are",
+          "am"
+        ],
+        "answer": 1,
+        "explanationPl": "Przy **he** mówimy **has got**."
+      },
+      {
+        "type": "gap",
+        "prompt": "We ___ got a maths lesson today. We have only got English.",
+        "answers": [
+          "haven't",
+          "have not"
+        ],
+        "explanationPl": "Dziś jest tylko angielski, więc matematyki nie ma. Przy **we**: **haven't got** albo **have not got**."
+      },
+      {
+        "type": "gap",
+        "prompt": "One class, two ___. (class)",
+        "answers": [
+          "classes"
+        ],
+        "explanationPl": "Słowo **class** kończy się na **-s**, więc dodajemy **-es**: classes."
+      },
+      {
+        "type": "mc",
+        "prompt": "___ pens here on my desk are blue.",
+        "options": [
+          "This",
+          "That",
+          "These",
+          "It"
+        ],
+        "answer": 2,
+        "explanationPl": "Długopisów jest wiele i są blisko (here), więc mówimy **these**."
+      }
+    ]
+  },
+  "listening": {
+    "dictation": [
+      {
+        "text": "I have got a green pencil case."
+      },
+      {
+        "text": "Our classroom has got twenty desks."
+      },
+      {
+        "text": "Have you got a ruler?"
+      },
+      {
+        "text": "These books are for our lesson."
+      },
+      {
+        "text": "She has not got a red pen."
+      }
+    ],
+    "monologue": {
+      "title": "My school things",
+      "speaker": "a ten-year-old boy talking about his school bag",
+      "script": [
+        "Hi! I am Adam. This is my school bag. It is big and blue. I have got three books and two notebooks in it. These books are for maths and English.",
+        "This is my pencil case. It is red. I have got a pen, four pencils and a short ruler in it. I haven't got a green pencil.",
+        "My sister Zosia has got a yellow school bag. She has got twelve pencils! Her favourite colour is yellow. My favourite colour is blue."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "What colour is Adam's school bag?",
+          "options": [
+            "Red",
+            "Yellow",
+            "Blue",
+            "Green"
+          ],
+          "answer": 2,
+          "explanationPl": "Adam mówi o swoim plecaku: „It is big and blue”."
+        },
+        {
+          "type": "mc",
+          "q": "How many notebooks has Adam got?",
+          "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Twelve"
+          ],
+          "answer": 0,
+          "explanationPl": "Adam mówi: „I have got three books and two notebooks”."
+        },
+        {
+          "type": "mc",
+          "q": "Who has got twelve pencils?",
+          "options": [
+            "Adam",
+            "Adam's teacher",
+            "Adam's friend",
+            "Adam's sister"
+          ],
+          "answer": 3,
+          "explanationPl": "Adam mówi o siostrze Zosi: „She has got twelve pencils”."
+        }
+      ]
+    }
+  },
+  "writing": {
+    "taskEn": "Write about your school bag. What colour is it? What have you got in it? Write four or five short sentences.",
+    "taskPl": "Napisz o swoim plecaku szkolnym. Jakiego jest koloru? Co w nim masz? Napisz cztery lub pięć krótkich zdań.",
+    "genre": "a short description of my school bag",
+    "minWords": 25,
+    "maxWords": 50,
+    "checklistPl": [
+      "Napisz, jakiego koloru jest plecak i czy jest duży, czy mały.",
+      "Napisz, co masz w plecaku (I have got …).",
+      "Napisz, czego nie masz (I haven't got …).",
+      "Sprawdź, czy przy wielu rzeczach jest końcówka -s."
+    ],
+    "usefulPhrases": [
+      "This is my school bag.",
+      "It is … and …",
+      "I have got … in it.",
+      "I haven't got …",
+      "My favourite colour is …"
+    ],
+    "modelAnswer": "This is my {{school bag|w02-06}}. It is big and {{green|w02-15}}. I have got two {{books|w02-03}} and a {{notebook|w02-10}} in it. I have got a {{yellow|w02-16}} {{pencil case|w02-18}}, too. I haven't got a {{ruler|w02-11}}. I like my bag!"
+  },
+  "speaking": {
+    "prompts": [
+      {
+        "q": "What have you got in your school bag?",
+        "followUp": "What colour is your bag?"
+      },
+      {
+        "q": "What is your favourite colour?",
+        "followUp": "What have you got in this colour?"
+      },
+      {
+        "q": "Have you got a pencil case?",
+        "followUp": "What is in it?"
+      },
+      {
+        "q": "What is your favourite lesson?",
+        "followUp": "Who is your teacher?"
+      }
+    ],
+    "shadowing": [
+      "I have got a blue pen.",
+      "Have you got a ruler?",
+      "These pencils are red and green.",
+      "She hasn't got her notebook today."
+    ],
+    "roleplay": {
+      "titlePl": "Czy masz ołówek?",
+      "scenarioPl": "Jesteś w klasie. Nie masz dziś ołówka ani linijki. Zapytaj kolegę lub koleżankę z ławki, czy może ci je pożyczyć.",
+      "yourRole": "You are at school. You haven't got a pencil or a ruler today. Ask your friend.",
+      "partnerRole": "You are a kind friend. You have got two pencils, but you haven't got a ruler.",
+      "opening": "Hi! What have you got in your pencil case today?",
+      "goalsPl": [
+        "Powiedz, co masz, i czego dziś nie masz.",
+        "Zapytaj, czy kolega lub koleżanka ma ołówek i linijkę.",
+        "Podziękuj za pomoc."
+      ]
+    }
+  },
+  "practice": {
+    "gapFill": [
+      {
+        "sentence": "Mrs Hill is our ___. She is in the classroom now.",
+        "answerId": "w02-02",
+        "answers": [
+          "teacher"
+        ]
+      },
+      {
+        "sentence": "What ___ is your school bag? It is green.",
+        "answerId": "w02-17",
+        "answers": [
+          "colour"
+        ]
+      },
+      {
+        "sentence": "I have got ___ pencils: ten red and two blue.",
+        "answerId": "w02-21",
+        "answers": [
+          "twelve"
+        ]
+      },
+      {
+        "sentence": "My ___ is long and flat. I draw lines with it.",
+        "answerId": "w02-11",
+        "answers": [
+          "ruler"
+        ]
+      },
+      {
+        "sentence": "This banana is not green. It is ___.",
+        "answerId": "w02-16",
+        "answers": [
+          "yellow"
+        ]
+      },
+      {
+        "sentence": "Our teacher gives us work for home. After school I ___.",
+        "answerId": "w02-23",
+        "answers": [
+          "do homework",
+          "do my homework"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "left": "desk",
+        "right": "ławka szkolna"
+      },
+      {
+        "left": "chair",
+        "right": "krzesło"
+      },
+      {
+        "left": "ruler",
+        "right": "linijka"
+      },
+      {
+        "left": "notebook",
+        "right": "zeszyt"
+      },
+      {
+        "left": "lesson",
+        "right": "lekcja"
+      },
+      {
+        "left": "pencil case",
+        "right": "piórnik"
+      }
+    ],
+    "wordFormation": []
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "week": 2,
+  "theme": "My school and my things",
+  "items": [
+    {
+      "id": "w02-01",
+      "term": "school",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/skuːl/",
+      "pl": "szkoła",
+      "def": "a place where children go to learn",
+      "example": "I go to {{school}} every day.",
+      "examplePl": "Codziennie chodzę do szkoły.",
+      "collocations": [
+        "go to school",
+        "at school"
+      ],
+      "note": "Wymowa: **sch** czytamy tu jak „sk”, a **oo** to długie „u”."
+    },
+    {
+      "id": "w02-02",
+      "term": "teacher",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈtiːtʃə/",
+      "pl": "nauczyciel, nauczycielka",
+      "def": "a person who helps children learn at school",
+      "example": "Mrs Smith is our English {{teacher}}.",
+      "examplePl": "Pani Smith jest naszą nauczycielką angielskiego.",
+      "collocations": [
+        "an English teacher",
+        "my teacher"
+      ]
+    },
+    {
+      "id": "w02-03",
+      "term": "book",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/bʊk/",
+      "pl": "książka",
+      "def": "a thing with many pages that you read",
+      "example": "This {{book}} has got a lot of pictures.",
+      "examplePl": "Ta książka ma dużo obrazków.",
+      "collocations": [
+        "read a book",
+        "open your book"
+      ]
+    },
+    {
+      "id": "w02-04",
+      "term": "pen",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/pen/",
+      "pl": "długopis, pióro",
+      "def": "a thing you write with; it has ink in it",
+      "example": "My {{pen}} has got blue ink in it.",
+      "examplePl": "Mój długopis ma w środku niebieski atrament.",
+      "collocations": [
+        "a blue pen",
+        "write with a pen"
+      ]
+    },
+    {
+      "id": "w02-05",
+      "term": "pencil",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈpensl/",
+      "pl": "ołówek",
+      "def": "a thin thing made of wood that you draw and write with",
+      "example": "I draw pictures with a {{pencil}}.",
+      "examplePl": "Rysuję obrazki ołówkiem.",
+      "collocations": [
+        "a short pencil",
+        "draw with a pencil"
+      ]
+    },
+    {
+      "id": "w02-06",
+      "term": "school bag",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A1",
+      "ipa": "/ˈskuːl bæɡ/",
+      "pl": "plecak szkolny, tornister",
+      "def": "a bag for your books and other things for school",
+      "example": "My books are in my {{school bag}}.",
+      "examplePl": "Moje książki są w plecaku szkolnym.",
+      "collocations": [
+        "a new school bag",
+        "in my school bag"
+      ]
+    },
+    {
+      "id": "w02-07",
+      "term": "desk",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/desk/",
+      "pl": "ławka (szkolna), biurko",
+      "def": "a table where you sit and write or do your work",
+      "example": "My books and pens are on my {{desk}}.",
+      "examplePl": "Moje książki i długopisy leżą na ławce.",
+      "collocations": [
+        "on my desk",
+        "sit at a desk"
+      ]
+    },
+    {
+      "id": "w02-08",
+      "term": "chair",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/tʃeə/",
+      "pl": "krzesło",
+      "def": "a thing for one person to sit on",
+      "example": "Please sit on this {{chair}}.",
+      "examplePl": "Usiądź, proszę, na tym krześle.",
+      "collocations": [
+        "sit on a chair",
+        "a small chair"
+      ]
+    },
+    {
+      "id": "w02-09",
+      "term": "classroom",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈklɑːsruːm/",
+      "pl": "klasa, sala lekcyjna",
+      "def": "a room in a school where children have lessons",
+      "example": "Our {{classroom}} has got twenty desks.",
+      "examplePl": "W naszej klasie jest dwadzieścia ławek.",
+      "collocations": [
+        "in the classroom",
+        "a big classroom"
+      ],
+      "note": "*Classroom* to pokój, w którym są lekcje. Grupa uczniów to *class*."
+    },
+    {
+      "id": "w02-10",
+      "term": "notebook",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈnəʊtbʊk/",
+      "pl": "zeszyt, notes",
+      "def": "a small book with empty pages that you write in",
+      "example": "I write new words in my {{notebook}}.",
+      "examplePl": "Zapisuję nowe słowa w zeszycie.",
+      "collocations": [
+        "a maths notebook",
+        "write in a notebook"
+      ]
+    },
+    {
+      "id": "w02-11",
+      "term": "ruler",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈruːlə/",
+      "pl": "linijka",
+      "def": "a long, flat thing that helps you draw a straight line",
+      "example": "I draw a long line with my {{ruler}}.",
+      "examplePl": "Rysuję długą linię za pomocą linijki.",
+      "collocations": [
+        "a short ruler",
+        "use a ruler"
+      ]
+    },
+    {
+      "id": "w02-12",
+      "term": "sit down",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "A1",
+      "ipa": "/ˌsɪt ˈdaʊn/",
+      "pl": "usiąść, siadać",
+      "def": "to move your body so that you are on a chair",
+      "example": "Please {{sit down}} on your chair.",
+      "examplePl": "Usiądź, proszę, na swoim krześle.",
+      "collocations": [
+        "sit down, please",
+        "sit down on a chair"
+      ]
+    },
+    {
+      "id": "w02-13",
+      "term": "red",
+      "type": "word",
+      "pos": "adj",
+      "level": "A1",
+      "ipa": "/red/",
+      "pl": "czerwony",
+      "def": "having the colour of a tomato",
+      "example": "This tomato is big and {{red}}.",
+      "examplePl": "Ten pomidor jest duży i czerwony.",
+      "collocations": [
+        "a red pen",
+        "a red apple"
+      ]
+    },
+    {
+      "id": "w02-14",
+      "term": "blue",
+      "type": "word",
+      "pos": "adj",
+      "level": "A1",
+      "ipa": "/bluː/",
+      "pl": "niebieski",
+      "def": "having the colour of the sky on a sunny day",
+      "example": "The sky is {{blue}} today.",
+      "examplePl": "Niebo jest dziś niebieskie.",
+      "collocations": [
+        "blue eyes",
+        "a blue bag"
+      ]
+    },
+    {
+      "id": "w02-15",
+      "term": "green",
+      "type": "word",
+      "pos": "adj",
+      "level": "A1",
+      "ipa": "/ɡriːn/",
+      "pl": "zielony",
+      "def": "having the colour of grass",
+      "example": "The grass in the park is {{green}}.",
+      "examplePl": "Trawa w parku jest zielona.",
+      "collocations": [
+        "green grass",
+        "a green door"
+      ]
+    },
+    {
+      "id": "w02-16",
+      "term": "yellow",
+      "type": "word",
+      "pos": "adj",
+      "level": "A1",
+      "ipa": "/ˈjeləʊ/",
+      "pl": "żółty",
+      "def": "having the colour of a banana or the sun",
+      "example": "This banana is long and {{yellow}}.",
+      "examplePl": "Ten banan jest długi i żółty.",
+      "collocations": [
+        "a yellow bus",
+        "yellow flowers"
+      ]
+    },
+    {
+      "id": "w02-17",
+      "term": "colour",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈkʌlə/",
+      "pl": "kolor",
+      "def": "red, blue, green and yellow are all this",
+      "example": "Red is my favourite {{colour}}.",
+      "examplePl": "Czerwony to mój ulubiony kolor.",
+      "collocations": [
+        "my favourite colour",
+        "What colour is it?"
+      ],
+      "note": "W Wielkiej Brytanii piszemy *colour*, a w Ameryce *color*. Wymowa jest taka sama."
+    },
+    {
+      "id": "w02-18",
+      "term": "pencil case",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A2",
+      "ipa": "/ˈpensl keɪs/",
+      "pl": "piórnik",
+      "def": "a small bag or box for your pens and pencils",
+      "example": "My pencils are in my {{pencil case}}, not in my bag.",
+      "examplePl": "Moje ołówki są w piórniku, a nie w plecaku.",
+      "collocations": [
+        "a new pencil case",
+        "in my pencil case"
+      ]
+    },
+    {
+      "id": "w02-19",
+      "term": "lesson",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈlesn/",
+      "pl": "lekcja",
+      "def": "a time at school when a teacher helps you learn one thing",
+      "example": "Our English {{lesson}} is at nine o'clock.",
+      "examplePl": "Lekcję angielskiego mamy o dziewiątej.",
+      "collocations": [
+        "an English lesson",
+        "have a lesson"
+      ]
+    },
+    {
+      "id": "w02-20",
+      "term": "maths",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/mæθs/",
+      "pl": "matematyka",
+      "def": "the school lesson about numbers",
+      "example": "Two and two is four. I like {{maths}}!",
+      "examplePl": "Dwa i dwa to cztery. Lubię matematykę!",
+      "collocations": [
+        "a maths lesson",
+        "good at maths"
+      ],
+      "note": "W Wielkiej Brytanii mówimy *maths*, a w Ameryce *math*."
+    },
+    {
+      "id": "w02-21",
+      "term": "twelve",
+      "type": "word",
+      "pos": "num",
+      "level": "A1",
+      "ipa": "/twelv/",
+      "pl": "dwanaście",
+      "def": "the number 12",
+      "example": "Ten and two is {{twelve}}.",
+      "examplePl": "Dziesięć i dwa to dwanaście.",
+      "collocations": [
+        "twelve pencils",
+        "twelve years old"
+      ]
+    },
+    {
+      "id": "w02-22",
+      "term": "twenty",
+      "type": "word",
+      "pos": "num",
+      "level": "A1",
+      "ipa": "/ˈtwenti/",
+      "pl": "dwadzieścia",
+      "def": "the number 20",
+      "example": "Ten and ten is {{twenty}}.",
+      "examplePl": "Dziesięć i dziesięć to dwadzieścia.",
+      "collocations": [
+        "twenty desks",
+        "twenty children"
+      ],
+      "note": "Nie mylić z *twelve* (dwanaście). *Twenty* to dwadzieścia."
+    },
+    {
+      "id": "w02-23",
+      "term": "do homework",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A1",
+      "ipa": "/ˌduː ˈhəʊmwɜːk/",
+      "pl": "odrabiać lekcje, odrabiać pracę domową",
+      "def": "to finish the tasks your teacher gives you for home",
+      "example": "We {{do homework}} together after school.",
+      "examplePl": "Po szkole razem odrabiamy lekcje.",
+      "collocations": [
+        "do my homework",
+        "do homework at home"
+      ],
+      "note": "Mówimy **do** homework, a nie „make homework”."
+    },
+    {
+      "id": "w02-24",
+      "term": "Well done!",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "A1",
+      "ipa": "/ˌwel ˈdʌn/",
+      "pl": "Brawo!, Dobra robota!",
+      "def": "something you say when a person does a thing very well",
+      "example": "{{Well done}}! Your picture is very nice.",
+      "examplePl": "Brawo! Twój obrazek jest bardzo ładny.",
+      "collocations": []
+    }
+  ]
+}

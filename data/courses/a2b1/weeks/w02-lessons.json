@@ -1,0 +1,589 @@
+{
+  "week": 2,
+  "intro": "W tym tygodniu porozmawiamy o rodzinie i przyjaciołach. Poznasz słowa potrzebne do opisywania ludzi, ich wyglądu i charakteru, oraz nauczysz się poprawnie zadawać pytania po angielsku. Na koniec opiszesz swojego przyjaciela lub swoją przyjaciółkę.",
+  "reading": {
+    "title": "An interview about friendship",
+    "paragraphs": [
+      "This week our school magazine talks to Zuzia, a thirteen-year-old student from class 7B. We asked her about her family and her best friend.",
+      "Who do you live with, Zuzia? \"I live with my parents and my little brother, Staś. I often {{look after|w02-06}} him when Mum and Dad are busy. My {{aunt|w02-02}} and {{uncle|w02-03}} live in the same street, so I see my {{cousin|w02-01}} Bartek almost every day. We {{grew up|w02-05}} together, and he is like a second brother to me.\"",
+      "Who is your best friend? \"Her name is Lena. She is my {{classmate|w02-17}} and also my {{neighbour|w02-07}}. When I first met her, she was very {{shy|w02-11}} and {{quiet|w02-21}}, but now she loves to {{tell jokes|w02-16}}. She is really {{funny|w02-10}}!\"",
+      "What do you two like doing? \"We {{have a lot in common|w02-23}}. We both love dogs, comics and swimming, and we {{spend time|w02-24}} together every weekend. Lena is also very {{honest|w02-19}}. She always tells me the truth, even when I don't want to hear it.\"",
+      "Do you ever argue? \"Not often. We {{fell out|w02-22}} once because I forgot her birthday. I said sorry the next day, and she just {{laughed|w02-32}}. I think a good friend is {{patient|w02-27}}, and Lena really is!\""
+    ],
+    "glossary": [
+      {
+        "term": "magazine",
+        "pl": "czasopismo, gazetka (szkolna)"
+      },
+      {
+        "term": "almost",
+        "pl": "prawie"
+      },
+      {
+        "term": "truth",
+        "pl": "prawda"
+      },
+      {
+        "term": "argue",
+        "pl": "kłócić się"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "q": "Who does Zuzia often look after?",
+        "options": [
+          "Her cousin Bartek",
+          "Her brother Staś",
+          "Her friend Lena",
+          "Her aunt and uncle"
+        ],
+        "answer": 1,
+        "explanationPl": "Drugi akapit: „my little brother, Staś. I often look after him when Mum and Dad are busy”."
+      },
+      {
+        "type": "mc",
+        "q": "Why does Zuzia see Bartek almost every day?",
+        "options": [
+          "Because he is in her class",
+          "Because he lives in her house",
+          "Because his parents live in the same street",
+          "Because they go swimming together"
+        ],
+        "answer": 2,
+        "explanationPl": "Drugi akapit: ciocia i wujek Zuzi, czyli rodzice Bartka, mieszkają na tej samej ulicy („My aunt and uncle live in the same street”)."
+      },
+      {
+        "type": "mc",
+        "q": "What was Lena like when Zuzia first met her?",
+        "options": [
+          "Shy and quiet",
+          "Funny and noisy",
+          "Lazy and bored",
+          "Angry and rude"
+        ],
+        "answer": 0,
+        "explanationPl": "Trzeci akapit: „When I first met her, she was very shy and quiet”. Zabawna stała się dopiero później."
+      },
+      {
+        "type": "tf",
+        "q": "The girls fell out because Lena forgot Zuzia's birthday.",
+        "answer": "false",
+        "explanationPl": "Ostatni akapit: to Zuzia zapomniała o urodzinach Leny („because I forgot her birthday”), a nie odwrotnie."
+      },
+      {
+        "type": "tf",
+        "q": "Lena has a dog at home.",
+        "answer": "not_given",
+        "explanationPl": "Tekst mówi tylko, że obie dziewczyny kochają psy. Nie wiemy, czy Lena ma psa."
+      }
+    ],
+    "discussion": [
+      "What do you and your best friend have in common?",
+      "What makes someone a good friend?"
+    ]
+  },
+  "grammar": {
+    "title": "Question forms",
+    "titlePl": "Tworzenie pytań w angielskim",
+    "summaryPl": "W angielskim pytaniu liczy się kolejność słów. Zwykle przed osobą lub rzeczą, o której mówimy, stoi słowo pomocnicze (*do, does, did, is, are, can*), a dopiero potem główny czasownik.",
+    "sections": [
+      {
+        "heading": "Pytania, na które odpowiadamy „tak” lub „nie”",
+        "bodyPl": "Jeśli w zdaniu jest **be** (am, is, are) albo **can**, przestawiamy je na początek zdania: *She is shy* → *Is she shy?* Przy innych czasownikach pytanie zaczynamy od **do** lub **does** (he, she, it), a w czasie przeszłym od **did**. Po *do / does / did* czasownik ma formę podstawową, bez **-s** i bez **-ed**.",
+        "examples": [
+          {
+            "en": "Are your cousins older than you?",
+            "pl": "Czy twoi kuzyni są starsi od ciebie?"
+          },
+          {
+            "en": "Do you get on with your brother?",
+            "pl": "Czy dogadujesz się z bratem?"
+          },
+          {
+            "en": "Does your aunt live near you?",
+            "pl": "Czy twoja ciocia mieszka blisko ciebie?"
+          },
+          {
+            "en": "Can your uncle play chess?",
+            "pl": "Czy twój wujek umie grać w szachy?"
+          }
+        ]
+      },
+      {
+        "heading": "Pytania ze słowem pytającym",
+        "bodyPl": "Słowa pytające to m.in. **what** (co), **where** (gdzie), **when** (kiedy), **why** (dlaczego), **who** (kto) i **how** (jak). Kolejność jest stała: **słowo pytające + do / does / is / are + osoba lub rzecz + czasownik**. Przyimek zwykle zostaje na końcu pytania: *Who do you live with?*",
+        "examples": [
+          {
+            "en": "Where does your best friend live?",
+            "pl": "Gdzie mieszka twój najlepszy przyjaciel?"
+          },
+          {
+            "en": "Why are you laughing?",
+            "pl": "Dlaczego się śmiejesz?"
+          },
+          {
+            "en": "What is your cousin like?",
+            "pl": "Jaki jest twój kuzyn? (pytanie o charakter)"
+          },
+          {
+            "en": "What does your cousin look like?",
+            "pl": "Jak wygląda twój kuzyn? (pytanie o wygląd)"
+          },
+          {
+            "en": "Who do you sit with at school?",
+            "pl": "Z kim siedzisz w szkole?"
+          }
+        ]
+      },
+      {
+        "heading": "Who called Tom? czy Who did Tom call?",
+        "bodyPl": "Kiedy **who** lub **what** pyta o to, **kto lub co wykonuje czynność**, nie używamy *do / does / did*, a szyk jest taki jak w zwykłym zdaniu: *Who called Tom?* Kiedy pytamy o osobę lub rzecz, **której czynność dotyczy**, potrzebujemy *do / does / did*: *Who did Tom call?* Porównaj odpowiedzi: *Anna called Tom.* i *Tom called Anna.*",
+        "examples": [
+          {
+            "en": "Who called Tom? – Anna did.",
+            "pl": "Kto zadzwonił do Toma? – Anna."
+          },
+          {
+            "en": "Who did Tom call? – He called Anna.",
+            "pl": "Do kogo zadzwonił Tom? – Zadzwonił do Anny."
+          },
+          {
+            "en": "Who looks after your little sister?",
+            "pl": "Kto opiekuje się twoją młodszą siostrą?"
+          },
+          {
+            "en": "What makes you laugh?",
+            "pl": "Co cię rozśmiesza?"
+          }
+        ]
+      },
+      {
+        "heading": "How often, how long, how many",
+        "bodyPl": "Ze słowem **how** tworzymy wiele przydatnych pytań: **how often** (jak często), **how long** (jak długo), **how many** (ile, z rzeczownikiem w liczbie mnogiej), **how old** (ile lat). Po takim wyrażeniu szyk jest taki sam jak w innych pytaniach.",
+        "examples": [
+          {
+            "en": "How often do you see your grandparents?",
+            "pl": "Jak często widujesz dziadków?"
+          },
+          {
+            "en": "How long does the journey to your aunt's house take?",
+            "pl": "Jak długo trwa podróż do domu twojej cioci?"
+          },
+          {
+            "en": "How many cousins do you have?",
+            "pl": "Ilu masz kuzynów?"
+          },
+          {
+            "en": "How old is your neighbour's son?",
+            "pl": "Ile lat ma syn twojego sąsiada?"
+          }
+        ]
+      }
+    ],
+    "pitfallsPl": [
+      {
+        "wrong": "Where you live?",
+        "right": "Where do you live?",
+        "whyPl": "Po polsku wystarczy „Gdzie mieszkasz?”, ale po angielsku przed osobą musi stać **do** lub **does**."
+      },
+      {
+        "wrong": "Does she likes dogs?",
+        "right": "Does she like dogs?",
+        "whyPl": "Końcówka **-s** jest już w słowie *does*, więc główny czasownik zostaje w formie podstawowej."
+      },
+      {
+        "wrong": "Who did call you?",
+        "right": "Who called you?",
+        "whyPl": "Gdy *who* pyta o osobę, która wykonała czynność, nie dodajemy *did*."
+      },
+      {
+        "wrong": "How does your friend look like?",
+        "right": "What does your friend look like?",
+        "whyPl": "Z *look like* pytamy **what**, a nie *how*. Błędne *How … look like?* to kalka z polskiego „Jak wygląda…?”."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "___ your cousin live near you?",
+        "options": [
+          "Do",
+          "Does",
+          "Is"
+        ],
+        "answer": 1,
+        "explanationPl": "*Your cousin* to jedna osoba (he / she), a czasownik to *live*, więc pytanie zaczynamy od **Does**."
+      },
+      {
+        "type": "mc",
+        "prompt": "___ you and your sister good friends?",
+        "options": [
+          "Do",
+          "Is",
+          "Are"
+        ],
+        "answer": 2,
+        "explanationPl": "W zdaniu nie ma innego czasownika, więc potrzebujemy **be**. *You and your sister* to liczba mnoga: **Are**."
+      },
+      {
+        "type": "mc",
+        "prompt": "Where ___ your grandparents live?",
+        "options": [
+          "do",
+          "does",
+          "are"
+        ],
+        "answer": 0,
+        "explanationPl": "*Your grandparents* to liczba mnoga (they), więc używamy **do**."
+      },
+      {
+        "type": "gap",
+        "prompt": "What time ___ (the lesson / start) every Monday?",
+        "answers": [
+          "does the lesson start"
+        ],
+        "explanationPl": "*Every Monday* oznacza coś regularnego, czyli present simple. *The lesson* to „it”, więc: **does** + *the lesson* + forma podstawowa."
+      },
+      {
+        "type": "gap",
+        "prompt": "Why ___ (you / laugh) now? Is my hat funny?",
+        "answers": [
+          "are you laughing"
+        ],
+        "explanationPl": "*Now* pokazuje, że czynność trwa w tej chwili, więc present continuous: **are** + osoba + czasownik z **-ing**."
+      },
+      {
+        "type": "mc",
+        "prompt": "Who ___ after your little brother when your parents are out?",
+        "options": [
+          "does look",
+          "looks",
+          "do look"
+        ],
+        "answer": 1,
+        "explanationPl": "*Who* pyta tu o osobę, która wykonuje czynność, więc nie używamy *does*. Czasownik dostaje końcówkę **-s**: *looks*."
+      },
+      {
+        "type": "mc",
+        "prompt": "Who ___ at the party? – I met Lena's cousins.",
+        "options": [
+          "met you",
+          "you met",
+          "did you meet"
+        ],
+        "answer": 2,
+        "explanationPl": "Z odpowiedzi wynika, że pytamy o osoby, które ktoś spotkał (*I met…*), więc potrzebujemy **did** + osoba + forma podstawowa."
+      },
+      {
+        "type": "gap",
+        "prompt": "___ often do you see your cousins? – About once a month.",
+        "answers": [
+          "How"
+        ],
+        "explanationPl": "O częstotliwość pytamy **How often…?**"
+      },
+      {
+        "type": "mc",
+        "prompt": "___ brothers and sisters do you have? – Two brothers.",
+        "options": [
+          "How much",
+          "How long",
+          "How many"
+        ],
+        "answer": 2,
+        "explanationPl": "O liczbę osób lub rzeczy, które można policzyć, pytamy **How many** + rzeczownik w liczbie mnogiej."
+      },
+      {
+        "type": "gap",
+        "prompt": "Who ___ (tell) the best jokes in your class? – Kuba does.",
+        "answers": [
+          "tells"
+        ],
+        "explanationPl": "*Who* pyta o osobę, która wykonuje czynność, więc bez *does*. Odpowiedź *Kuba does* pokazuje czas teraźniejszy: *tells*."
+      }
+    ],
+    "testItems": [
+      {
+        "type": "mc",
+        "prompt": "___ your best friend have any brothers or sisters?",
+        "options": [
+          "Is",
+          "Do",
+          "Does"
+        ],
+        "answer": 2,
+        "explanationPl": "*Your best friend* to jedna osoba, a czasownik to *have*, więc pytanie zaczynamy od **Does**."
+      },
+      {
+        "type": "gap",
+        "prompt": "Where ___ (your aunt / work)? – She works in a hospital.",
+        "answers": [
+          "does your aunt work"
+        ],
+        "explanationPl": "Odpowiedź jest w present simple (*She works*), więc pytanie też: **does** + osoba + forma podstawowa."
+      },
+      {
+        "type": "mc",
+        "prompt": "Who ___ you with your homework? – My dad helps me.",
+        "options": [
+          "helps",
+          "does help",
+          "do help"
+        ],
+        "answer": 0,
+        "explanationPl": "Pytamy o osobę, która wykonuje czynność (odpowiedź: *My dad*), więc bez *does*: *Who helps you?*"
+      },
+      {
+        "type": "gap",
+        "prompt": "How ___ cousins do you have? – Five.",
+        "answers": [
+          "many"
+        ],
+        "explanationPl": "O liczbę pytamy **How many** + rzeczownik w liczbie mnogiej."
+      }
+    ]
+  },
+  "listening": {
+    "dictation": [
+      {
+        "text": "Where does your best friend live?"
+      },
+      {
+        "text": "I get on well with my cousins."
+      },
+      {
+        "text": "Who looks after your little brother?"
+      },
+      {
+        "text": "My aunt is friendly and very patient."
+      },
+      {
+        "text": "How often do you spend time with your relatives?"
+      }
+    ],
+    "monologue": {
+      "title": "My favourite relative",
+      "speaker": "a boy giving a short talk to his class about his uncle",
+      "script": [
+        "Hi, I'm Olek, and today I want to tell you about my uncle Marek. He is my mum's brother, and he is my favourite relative. He has curly hair and a big beard, and people say that I look like him. Well, I don't have a beard yet!",
+        "Uncle Marek is very funny. He tells jokes all the time, and my little sister can't stop laughing. He is also really patient. Last year he taught me to ride a bike, and he never got angry when I fell off.",
+        "He lives in another city now, so we don't see him very often, but we keep in touch. He calls us every Sunday evening. Next month he is coming to stay with us, and we want to invite all our cousins. I can't wait!"
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Who is Marek?",
+          "options": [
+            "The brother of Olek's dad",
+            "Olek's older cousin",
+            "The brother of Olek's mum",
+            "Olek's neighbour"
+          ],
+          "answer": 2,
+          "explanationPl": "Olek mówi: „He is my mum's brother”."
+        },
+        {
+          "type": "mc",
+          "q": "What did Marek teach Olek last year?",
+          "options": [
+            "To ride a bike",
+            "To tell jokes",
+            "To play chess",
+            "To swim"
+          ],
+          "answer": 0,
+          "explanationPl": "Usłyszysz: „Last year he taught me to ride a bike”."
+        },
+        {
+          "type": "mc",
+          "q": "How does the family keep in touch with Marek?",
+          "options": [
+            "He visits them every weekend",
+            "He phones them every Sunday evening",
+            "He writes them a letter every month",
+            "He sends them photos every day"
+          ],
+          "answer": 1,
+          "explanationPl": "Usłyszysz: „we keep in touch. He calls us every Sunday evening”."
+        }
+      ]
+    }
+  },
+  "writing": {
+    "taskEn": "Write a short description of a friend. Say who your friend is, what he or she looks like, what he or she is like, and what you do together.",
+    "taskPl": "Napisz krótki opis przyjaciela lub przyjaciółki. Napisz, kim jest ta osoba, jak wygląda, jaki ma charakter i co razem robicie.",
+    "genre": "description",
+    "minWords": 60,
+    "maxWords": 100,
+    "checklistPl": [
+      "Przedstaw tę osobę: kim jest i skąd się znacie.",
+      "Opisz wygląd, na przykład włosy i wzrost.",
+      "Opisz charakter za pomocą dwóch lub trzech przymiotników.",
+      "Napisz, co robicie razem i dlaczego cenisz tę osobę."
+    ],
+    "usefulPhrases": [
+      "My best friend is …",
+      "He / She has … hair.",
+      "He / She is very … and …",
+      "We have a lot in common because …",
+      "We both love …",
+      "I think he / she is a great friend because …"
+    ],
+    "modelAnswer": "My best friend is Kuba. He is my {{classmate|w02-17}}, and I sit next to him in maths. He is tall and has short, {{curly|w02-25}} hair. Kuba is very {{funny|w02-10}} and {{friendly|w02-09}}, so everybody likes him. He is also {{honest|w02-19}}: he always tells me the truth. We {{have a lot in common|w02-23}} because we both love football and computer games. At weekends we {{spend time|w02-24}} in the park or at my house. We almost never argue. I think Kuba is a great friend because he always helps me."
+  },
+  "speaking": {
+    "prompts": [
+      {
+        "q": "Who do you get on with best in your family?",
+        "followUp": "Why do you get on so well?"
+      },
+      {
+        "q": "What does your best friend look like?",
+        "followUp": "What is he or she like?"
+      },
+      {
+        "q": "How often do you spend time with your relatives?",
+        "followUp": "What do you usually do together?"
+      },
+      {
+        "q": "What do you and your friends have in common?",
+        "followUp": "Is it important to have a lot in common with a friend?"
+      }
+    ],
+    "shadowing": [
+      "Who do you spend time with at weekends?",
+      "My cousin and I have a lot in common.",
+      "She is shy, but she is very friendly.",
+      "How often do you see your aunt and uncle?"
+    ],
+    "roleplay": {
+      "titlePl": "Rozmowa o najlepszym przyjacielu",
+      "scenarioPl": "Rozmawiasz z osobą z rodziny, która od dawna mieszka za granicą. Chce się dowiedzieć, z kim się teraz przyjaźnisz. Odpowiedz na pytania i zapytaj o jej znajomych.",
+      "yourRole": "You are talking to your cousin. Answer the questions about your best friend, then ask about your cousin's friends.",
+      "partnerRole": "You are a cousin who lives abroad. You are curious about your cousin's best friend. Ask at least four questions.",
+      "opening": "So, tell me, who is your best friend now?",
+      "goalsPl": [
+        "Opisz wygląd i charakter tej osoby.",
+        "Powiedz, co was łączy i co razem robicie.",
+        "Zadaj co najmniej dwa pytania o znajomych rozmówcy."
+      ]
+    }
+  },
+  "practice": {
+    "gapFill": [
+      {
+        "sentence": "It is ___ to say \"thank you\" when someone gives you a present.",
+        "answerId": "w02-13",
+        "answers": [
+          "polite"
+        ]
+      },
+      {
+        "sentence": "Don't be so ___! Get up and help me tidy the room.",
+        "answerId": "w02-20",
+        "answers": [
+          "lazy"
+        ]
+      },
+      {
+        "sentence": "Our new ___ is very friendly; he moved into the house next door last month.",
+        "answerId": "w02-07",
+        "answers": [
+          "neighbour"
+        ]
+      },
+      {
+        "sentence": "I'd like to ___ you to my party. Can you come on Friday?",
+        "answerId": "w02-29",
+        "answers": [
+          "invite"
+        ]
+      },
+      {
+        "sentence": "My dad stopped shaving in the summer, and now he has a long ___.",
+        "answerId": "w02-26",
+        "answers": [
+          "beard"
+        ]
+      },
+      {
+        "sentence": "There was only one pizza, so we ___ it between the four of us.",
+        "answerId": "w02-28",
+        "answers": [
+          "shared"
+        ]
+      },
+      {
+        "sentence": "The hotel is full this week; more than two hundred ___ are staying there.",
+        "answerId": "w02-30",
+        "answers": [
+          "guests"
+        ]
+      },
+      {
+        "sentence": "My mum ___ on a farm, so she knows a lot about animals.",
+        "answerId": "w02-05",
+        "answers": [
+          "grew up"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "left": "aunt",
+        "right": "the sister of your mother or father"
+      },
+      {
+        "left": "uncle",
+        "right": "the brother of your mother or father"
+      },
+      {
+        "left": "cousin",
+        "right": "the child of your aunt or uncle"
+      },
+      {
+        "left": "teenager",
+        "right": "a person between thirteen and nineteen years old"
+      },
+      {
+        "left": "classmate",
+        "right": "a person in the same class as you at school"
+      },
+      {
+        "left": "shy",
+        "right": "nervous about meeting and talking to new people"
+      }
+    ],
+    "wordFormation": [
+      {
+        "sentence": "Our ___ started in primary school, and we are still very close.",
+        "base": "FRIEND",
+        "answers": [
+          "friendship"
+        ]
+      },
+      {
+        "sentence": "She answered all my questions ___ and didn't hide anything.",
+        "base": "HONEST",
+        "answers": [
+          "honestly"
+        ]
+      },
+      {
+        "sentence": "Please wait ___; the teacher will help you in a minute.",
+        "base": "PATIENT",
+        "answers": [
+          "patiently"
+        ]
+      },
+      {
+        "sentence": "It is ___ to interrupt people when they are speaking.",
+        "base": "POLITE",
+        "answers": [
+          "impolite"
+        ]
+      }
+    ]
+  }
+}

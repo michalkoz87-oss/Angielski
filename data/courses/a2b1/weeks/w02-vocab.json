@@ -1,0 +1,581 @@
+{
+  "week": 2,
+  "theme": "Family & friends",
+  "items": [
+    {
+      "id": "w02-01",
+      "term": "cousin",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈkʌzn/",
+      "pl": "kuzyn, kuzynka",
+      "def": "a child of your aunt or uncle",
+      "example": "My {{cousin}} Ola is my aunt's daughter, and we are the same age.",
+      "examplePl": "Moja kuzynka Ola jest córką mojej cioci i jesteśmy w tym samym wieku.",
+      "collocations": [
+        "an older cousin",
+        "visit your cousins"
+      ],
+      "note": "Jedno słowo na kuzyna i kuzynkę. Wymowa: /ˈkʌzn/, pierwsza sylaba jak w *cup*."
+    },
+    {
+      "id": "w02-02",
+      "term": "aunt",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ɑːnt/",
+      "pl": "ciocia, ciotka",
+      "def": "the sister of your mother or father, or the wife of your uncle",
+      "example": "My mum's sister is my favourite {{aunt}}; she always remembers my birthday.",
+      "examplePl": "Siostra mojej mamy to moja ulubiona ciocia; zawsze pamięta o moich urodzinach.",
+      "collocations": [
+        "my aunt and uncle",
+        "stay with an aunt"
+      ]
+    },
+    {
+      "id": "w02-03",
+      "term": "uncle",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈʌŋkl/",
+      "pl": "wujek, stryj",
+      "def": "the brother of your mother or father, or the husband of your aunt",
+      "example": "My {{uncle}} is my dad's brother, and he teaches me to play chess.",
+      "examplePl": "Mój wujek jest bratem mojego taty i uczy mnie grać w szachy.",
+      "collocations": [
+        "my favourite uncle",
+        "Uncle Tom"
+      ]
+    },
+    {
+      "id": "w02-04",
+      "term": "relative",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˈrelətɪv/",
+      "pl": "krewny, krewna",
+      "def": "a person who is in your family",
+      "example": "All our {{relatives}} come to Grandma's house at Christmas, even my cousins from Canada.",
+      "examplePl": "Na Boże Narodzenie do babci przyjeżdżają wszyscy nasi krewni, nawet kuzyni z Kanady.",
+      "collocations": [
+        "a close relative",
+        "visit relatives",
+        "friends and relatives"
+      ],
+      "note": "Fałszywy przyjaciel: *parents* to tylko rodzice. Krewni to *relatives*."
+    },
+    {
+      "id": "w02-05",
+      "term": "grow up",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "A2",
+      "ipa": "/ˌɡrəʊ ˈʌp/",
+      "pl": "dorastać, wychowywać się",
+      "def": "to change from a child into an adult",
+      "example": "I was born in Gdańsk, but I {{grew up}} in a small village near Kraków.",
+      "examplePl": "Urodziłem się w Gdańsku, ale dorastałem w małej wsi pod Krakowem.",
+      "collocations": [
+        "grow up in a village",
+        "grow up together",
+        "when I grow up"
+      ]
+    },
+    {
+      "id": "w02-06",
+      "term": "look after",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "A2",
+      "ipa": "/ˌlʊk ˈɑːftə/",
+      "pl": "opiekować się, zajmować się",
+      "def": "to make sure that a person, animal or thing is safe and has what they need",
+      "example": "I {{look after}} my little brother when my parents are at work.",
+      "examplePl": "Opiekuję się młodszym bratem, kiedy rodzice są w pracy.",
+      "collocations": [
+        "look after a child",
+        "look after a pet",
+        "look after yourself"
+      ],
+      "note": "Nie mylić z *look for* (szukać) ani *look at* (patrzeć na)."
+    },
+    {
+      "id": "w02-07",
+      "term": "neighbour",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈneɪbə/",
+      "pl": "sąsiad, sąsiadka",
+      "def": "a person who lives very near you",
+      "example": "Our {{neighbour}} lives next door and waters our plants when we are away.",
+      "examplePl": "Nasz sąsiad mieszka tuż obok i podlewa nam kwiaty, kiedy wyjeżdżamy.",
+      "collocations": [
+        "a next-door neighbour",
+        "a friendly neighbour"
+      ],
+      "note": "Pisownia brytyjska: *neighbour*, amerykańska: *neighbor*. Liter **gh** nie wymawiamy."
+    },
+    {
+      "id": "w02-08",
+      "term": "make friends",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A2",
+      "ipa": "/ˌmeɪk ˈfrendz/",
+      "pl": "zaprzyjaźnić się, zawierać znajomości",
+      "def": "to start to know and like new people",
+      "example": "It was easy to {{make friends}} at my new school because everyone talked to me.",
+      "examplePl": "W nowej szkole łatwo było się zaprzyjaźnić, bo wszyscy ze mną rozmawiali.",
+      "collocations": [
+        "make friends with someone",
+        "make new friends",
+        "make friends easily"
+      ]
+    },
+    {
+      "id": "w02-09",
+      "term": "friendly",
+      "type": "word",
+      "pos": "adj",
+      "level": "A2",
+      "ipa": "/ˈfrendli/",
+      "pl": "przyjazny, życzliwy",
+      "def": "nice and kind to other people",
+      "example": "The new girl is very {{friendly}}; she smiles and wants to talk to everyone.",
+      "examplePl": "Nowa uczennica jest bardzo przyjazna; uśmiecha się i chce ze wszystkimi rozmawiać.",
+      "collocations": [
+        "a friendly smile",
+        "friendly to everyone",
+        "a friendly dog"
+      ],
+      "family": [
+        "friend (n)",
+        "friendship (n)",
+        "unfriendly (adj)"
+      ],
+      "note": "Mimo końcówki **-ly** to przymiotnik, a nie przysłówek: *a friendly teacher*."
+    },
+    {
+      "id": "w02-10",
+      "term": "funny",
+      "type": "word",
+      "pos": "adj",
+      "level": "A2",
+      "ipa": "/ˈfʌni/",
+      "pl": "zabawny, śmieszny",
+      "def": "making you smile or laugh",
+      "example": "My uncle is so {{funny}} that we laugh at everything he says.",
+      "examplePl": "Mój wujek jest tak zabawny, że śmiejemy się ze wszystkiego, co mówi.",
+      "collocations": [
+        "a funny story",
+        "a funny film",
+        "really funny"
+      ],
+      "note": "Nie mylić z *fun*: *The party was fun* (było fajnie), *The film was funny* (był śmieszny)."
+    },
+    {
+      "id": "w02-11",
+      "term": "shy",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ʃaɪ/",
+      "pl": "nieśmiały",
+      "def": "nervous and not comfortable when you meet and talk to new people",
+      "example": "My brother is {{shy}}, so he doesn't talk much when he meets new people.",
+      "examplePl": "Mój brat jest nieśmiały, więc mało mówi, kiedy poznaje nowych ludzi.",
+      "collocations": [
+        "a shy child",
+        "too shy to ask",
+        "a shy smile"
+      ]
+    },
+    {
+      "id": "w02-12",
+      "term": "clever",
+      "type": "word",
+      "pos": "adj",
+      "level": "A2",
+      "ipa": "/ˈklevə/",
+      "pl": "mądry, bystry, zdolny",
+      "def": "able to learn and understand things quickly",
+      "example": "Maja is very {{clever}}; she always understands maths problems before the rest of us.",
+      "examplePl": "Maja jest bardzo bystra; zawsze rozumie zadania z matematyki szybciej niż reszta z nas.",
+      "collocations": [
+        "a clever student",
+        "a clever idea",
+        "very clever"
+      ]
+    },
+    {
+      "id": "w02-13",
+      "term": "polite",
+      "type": "word",
+      "pos": "adj",
+      "level": "A2",
+      "ipa": "/pəˈlaɪt/",
+      "pl": "uprzejmy, grzeczny",
+      "def": "behaving in a nice way that shows you care about other people's feelings",
+      "example": "He is a {{polite}} boy who always says please and thank you.",
+      "examplePl": "To uprzejmy chłopiec, który zawsze mówi „proszę” i „dziękuję”.",
+      "collocations": [
+        "a polite question",
+        "polite to adults",
+        "It's polite to …"
+      ],
+      "family": [
+        "politely (adv)",
+        "impolite (adj)"
+      ]
+    },
+    {
+      "id": "w02-14",
+      "term": "get on with",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌɡet ˈɒn wɪð/",
+      "pl": "dogadywać się z, mieć dobre relacje z",
+      "def": "to have a friendly relationship with someone",
+      "example": "I {{get on with}} my sister really well, and we almost never argue.",
+      "examplePl": "Naprawdę dobrze dogaduję się z siostrą i prawie nigdy się nie kłócimy.",
+      "collocations": [
+        "get on well with someone",
+        "get on with your parents",
+        "not get on with someone"
+      ],
+      "note": "Często dodajemy *well*: *We get on well.* W amerykańskim angielskim częściej: *get along with*."
+    },
+    {
+      "id": "w02-15",
+      "term": "look like",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "A2",
+      "ipa": "/ˈlʊk laɪk/",
+      "pl": "wyglądać jak, być podobnym do",
+      "def": "to have a face or body that is similar to another person's",
+      "example": "People say I {{look like}} my dad because we have the same eyes and nose.",
+      "examplePl": "Ludzie mówią, że wyglądam jak tata, bo mamy takie same oczy i nos.",
+      "collocations": [
+        "look like your mother",
+        "What does he look like?"
+      ],
+      "note": "O wygląd pytamy: *What does she look like?* (nie: *How does she look like?*)."
+    },
+    {
+      "id": "w02-16",
+      "term": "tell a joke",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A2",
+      "ipa": "/ˌtel ə ˈdʒəʊk/",
+      "pl": "opowiedzieć dowcip, opowiedzieć kawał",
+      "def": "to say something short and funny to make people laugh",
+      "example": "Grandad always {{tells a joke}} at dinner, and then everybody laughs.",
+      "examplePl": "Dziadek zawsze opowiada przy obiedzie dowcip, a wtedy wszyscy się śmieją.",
+      "collocations": [
+        "tell jokes",
+        "tell someone a joke",
+        "tell a funny joke"
+      ],
+      "note": "Dowcipy się *tell*, nie *say*: *tell a joke*, *tell a story*."
+    },
+    {
+      "id": "w02-17",
+      "term": "classmate",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈklɑːsmeɪt/",
+      "pl": "kolega z klasy, koleżanka z klasy",
+      "def": "a person who is in the same class as you at school",
+      "example": "Kuba is my {{classmate}}; we sit together in every lesson.",
+      "examplePl": "Kuba jest moim kolegą z klasy; na każdej lekcji siedzimy razem.",
+      "collocations": [
+        "a new classmate",
+        "my classmates and I"
+      ]
+    },
+    {
+      "id": "w02-18",
+      "term": "teenager",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈtiːneɪdʒə/",
+      "pl": "nastolatek, nastolatka",
+      "def": "a person who is between thirteen and nineteen years old",
+      "example": "My sister is fifteen, so she is a {{teenager}} now.",
+      "examplePl": "Moja siostra ma piętnaście lat, więc jest już nastolatką.",
+      "collocations": [
+        "a typical teenager",
+        "a group of teenagers"
+      ],
+      "family": [
+        "teenage (adj)",
+        "teen (n)"
+      ]
+    },
+    {
+      "id": "w02-19",
+      "term": "honest",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈɒnɪst/",
+      "pl": "szczery, uczciwy",
+      "def": "always telling the truth and never taking things that are not yours",
+      "example": "Please be {{honest}} and tell me what you really think of my drawing.",
+      "examplePl": "Proszę o szczerość: powiedz mi, co naprawdę myślisz o moim rysunku.",
+      "collocations": [
+        "an honest answer",
+        "to be honest",
+        "honest with someone"
+      ],
+      "family": [
+        "honestly (adv)",
+        "honesty (n)",
+        "dishonest (adj)"
+      ],
+      "note": "Litery **h** nie wymawiamy, dlatego mówimy *an honest person*."
+    },
+    {
+      "id": "w02-20",
+      "term": "lazy",
+      "type": "word",
+      "pos": "adj",
+      "level": "A2",
+      "ipa": "/ˈleɪzi/",
+      "pl": "leniwy",
+      "def": "not wanting to work or do anything that needs effort",
+      "example": "My cat is very {{lazy}}; it sleeps on the sofa all day.",
+      "examplePl": "Mój kot jest bardzo leniwy; cały dzień śpi na kanapie.",
+      "collocations": [
+        "a lazy student",
+        "a lazy Sunday",
+        "too lazy to cook"
+      ]
+    },
+    {
+      "id": "w02-21",
+      "term": "quiet",
+      "type": "word",
+      "pos": "adj",
+      "level": "A2",
+      "ipa": "/ˈkwaɪət/",
+      "pl": "cichy, spokojny, małomówny",
+      "def": "not talking much or making much noise",
+      "example": "Please be {{quiet}}! The baby is sleeping in the next room.",
+      "examplePl": "Bądźcie cicho, proszę! W pokoju obok śpi niemowlę.",
+      "collocations": [
+        "a quiet person",
+        "be quiet",
+        "a quiet street"
+      ],
+      "family": [
+        "quietly (adv)"
+      ],
+      "note": "Nie mylić z *quite* /kwaɪt/ (dość, całkiem)."
+    },
+    {
+      "id": "w02-22",
+      "term": "fall out",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌfɔːl ˈaʊt/",
+      "pl": "pokłócić się, poróżnić się",
+      "def": "to argue with someone and stop being friendly with them",
+      "example": "Tom and Adam {{fell out}} last week, and now they don't speak to each other.",
+      "examplePl": "Tom i Adam pokłócili się w zeszłym tygodniu i teraz ze sobą nie rozmawiają.",
+      "collocations": [
+        "fall out with a friend",
+        "fall out over something"
+      ]
+    },
+    {
+      "id": "w02-23",
+      "term": "have in common",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B1",
+      "ipa": "/ˌhæv ɪn ˈkɒmən/",
+      "pl": "mieć wspólnego, mieć ze sobą coś wspólnego",
+      "def": "to share the same interests, ideas or experiences as another person",
+      "example": "What do you two {{have in common}}? We both love animals and football.",
+      "examplePl": "Co macie ze sobą wspólnego? Oboje kochamy zwierzęta i piłkę nożną.",
+      "collocations": [
+        "have a lot in common",
+        "have nothing in common",
+        "have something in common with someone"
+      ]
+    },
+    {
+      "id": "w02-24",
+      "term": "spend time",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A2",
+      "ipa": "/ˌspend ˈtaɪm/",
+      "pl": "spędzać czas",
+      "def": "to use your hours or days doing something or being with someone",
+      "example": "At weekends I {{spend time}} with my grandparents in their garden.",
+      "examplePl": "W weekendy spędzam czas z dziadkami w ich ogrodzie.",
+      "collocations": [
+        "spend time with family",
+        "spend time together",
+        "spend time doing something"
+      ]
+    },
+    {
+      "id": "w02-25",
+      "term": "curly",
+      "type": "word",
+      "pos": "adj",
+      "level": "A2",
+      "ipa": "/ˈkɜːli/",
+      "pl": "kręcony",
+      "def": "(of hair) growing in round shapes, not straight",
+      "example": "She has long, {{curly}} hair, but her sister's hair is straight.",
+      "examplePl": "Ona ma długie, kręcone włosy, a jej siostra ma proste.",
+      "collocations": [
+        "curly hair",
+        "short curly hair"
+      ]
+    },
+    {
+      "id": "w02-26",
+      "term": "beard",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/bɪəd/",
+      "pl": "broda (zarost)",
+      "def": "the hair that grows on a man's chin and the lower part of his face",
+      "example": "My grandad has a long white {{beard}}, just like Father Christmas.",
+      "examplePl": "Mój dziadek ma długą białą brodę, zupełnie jak Święty Mikołaj.",
+      "collocations": [
+        "have a beard",
+        "grow a beard",
+        "a long beard"
+      ],
+      "note": "*Beard* to zarost. Broda jako część twarzy to *chin*."
+    },
+    {
+      "id": "w02-27",
+      "term": "patient",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈpeɪʃnt/",
+      "pl": "cierpliwy",
+      "def": "able to stay calm and not get angry when you have to wait or when something is difficult",
+      "example": "Our teacher is very {{patient}}; she explains things again and never gets angry.",
+      "examplePl": "Nasza nauczycielka jest bardzo cierpliwa; tłumaczy wszystko jeszcze raz i nigdy się nie złości.",
+      "collocations": [
+        "be patient with someone",
+        "a patient teacher"
+      ],
+      "family": [
+        "patiently (adv)",
+        "patience (n)",
+        "impatient (adj)"
+      ],
+      "note": "Jako rzeczownik *patient* znaczy „pacjent”."
+    },
+    {
+      "id": "w02-28",
+      "term": "share",
+      "type": "word",
+      "pos": "v",
+      "level": "A2",
+      "ipa": "/ʃeə/",
+      "pl": "dzielić się, dzielić (z kimś)",
+      "def": "to give some of what you have to another person, or to use something together",
+      "example": "I always {{share}} my sandwiches with Ola when she forgets her lunch.",
+      "examplePl": "Zawsze dzielę się z Olą kanapkami, kiedy zapomni drugiego śniadania.",
+      "collocations": [
+        "share something with someone",
+        "share a room",
+        "share your toys"
+      ]
+    },
+    {
+      "id": "w02-29",
+      "term": "invite",
+      "type": "word",
+      "pos": "v",
+      "level": "A2",
+      "ipa": "/ɪnˈvaɪt/",
+      "pl": "zaprosić, zapraszać",
+      "def": "to ask someone to come to your home, a party or another event",
+      "example": "I want to {{invite}} all my classmates to my birthday party on Saturday.",
+      "examplePl": "Chcę zaprosić wszystkich z klasy na moje sobotnie przyjęcie urodzinowe.",
+      "collocations": [
+        "invite someone to a party",
+        "invite a friend for dinner"
+      ],
+      "family": [
+        "invitation (n)"
+      ]
+    },
+    {
+      "id": "w02-30",
+      "term": "guest",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ɡest/",
+      "pl": "gość",
+      "def": "a person who comes to your home or to an event because you asked them to",
+      "example": "We had twenty {{guests}} at my sister's birthday party last Sunday.",
+      "examplePl": "W zeszłą niedzielę na przyjęciu urodzinowym mojej siostry mieliśmy dwudziestu gości.",
+      "collocations": [
+        "a wedding guest",
+        "have guests",
+        "a hotel guest"
+      ]
+    },
+    {
+      "id": "w02-31",
+      "term": "keep in touch",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "B1",
+      "ipa": "/ˌkiːp ɪn ˈtʌtʃ/",
+      "pl": "być w kontakcie, utrzymywać kontakt",
+      "def": "to continue to write to or talk to someone who you do not often see",
+      "example": "My friend moved to Spain, but we {{keep in touch}} and send messages every week.",
+      "examplePl": "Moja przyjaciółka przeprowadziła się do Hiszpanii, ale jesteśmy w kontakcie i co tydzień do siebie piszemy.",
+      "collocations": [
+        "keep in touch with someone",
+        "Let's keep in touch!"
+      ]
+    },
+    {
+      "id": "w02-32",
+      "term": "laugh",
+      "type": "word",
+      "pos": "v",
+      "level": "A2",
+      "ipa": "/lɑːf/",
+      "pl": "śmiać się",
+      "def": "to make a happy sound with your voice because something is funny",
+      "example": "The clown was so funny that the children couldn't stop {{laughing}}.",
+      "examplePl": "Klaun był tak zabawny, że dzieci nie mogły przestać się śmiać.",
+      "collocations": [
+        "laugh at a joke",
+        "laugh out loud",
+        "make someone laugh"
+      ],
+      "note": "Wymowa: litery **gh** czytamy tu jak „f”: /lɑːf/."
+    }
+  ]
+}
