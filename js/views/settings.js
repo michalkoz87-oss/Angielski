@@ -76,9 +76,11 @@ export async function render(root, ctx) {
       h('div', { class: 'cluster' }, audio.available() ? ui.speakButton('This is how the lessons will sound.', { showLabel: true, label: 'Posłuchaj próbki' }) : h('p', { class: 'muted' }, 'Na tym urządzeniu dźwięk jest niedostępny. Ćwiczenia ze słuchu działają w wersji do czytania.'))),
     ui.section({ title: 'Zapis postępów' },
       h('div', { class: 'cluster' }, ui.syncIndicator({ label: true })),
-      h('p', { class: 'muted' }, isArtifact
-        ? 'Postęp zapisuje się na Twoim koncie Claude i synchronizuje między urządzeniami, na których otwierasz tę stronę.'
-        : 'Postęp zapisuje się tylko w tej przeglądarce. Kopię zapasową warto robić regularnie; można ją też wczytać na innym urządzeniu.'),
+      h('p', { class: 'muted' }, !isArtifact
+        ? 'Postęp zapisuje się tylko w tej przeglądarce. Kopię zapasową warto robić regularnie; można ją też wczytać na innym urządzeniu.'
+        : ['offline', 'local'].includes(store.syncStatus())
+          ? 'Zapis na koncie Claude jest teraz niedostępny, więc postęp zapisuje się tylko w tej przeglądarce. Jeśli ten stan się utrzymuje (na przykład strona jest udostępniona bez prawa zapisu), rób regularnie kopię zapasową.'
+          : 'Postęp zapisuje się na Twoim koncie Claude i synchronizuje między urządzeniami, na których otwierasz tę stronę.'),
       h('p', { class: 'muted small' }, ai.available() ? (model.isAdult() ? 'Sprawdzanie tekstów i rozmowy z Claude są dostępne.' : 'Funkcje korzystające z Claude są wyłączone w profilach dzieci i nastolatków.') : 'Sprawdzanie tekstów i rozmowy z Claude działają tylko po otwarciu aplikacji w Claude.'),
       h('div', { class: 'cluster' },
         ui.button({ label: 'Zapisz kopię zapasową', icon: 'download', id: 'set-export', onClick: async () => {
