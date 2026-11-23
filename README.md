@@ -2,6 +2,8 @@
 
 Aplikacja do samodzielnej nauki angielskiego dla kilku osób naraz. Każda osoba ma własny profil, poziom, plan nauki, powtórki i postępy.
 
+Kod i materiały są rozwijane w repozytorium `michalkoz87-oss/Angielski` (gałąź `main`). Wcześniejsza kopia na gałęzi `claude/english-learning-program-b1-b2-qamrc9` w repozytorium `Nauka` nie jest już aktualizowana.
+
 ## Poziomy
 
 | Poziom | Kurs | Sesja | Nowe słowa tygodniowo | Dla kogo |
@@ -18,7 +20,7 @@ Stan treści: plan 24 tygodni jest gotowy dla wszystkich poziomów; materiały l
 ## Jak korzystać
 
 - **W Claude:** opublikowana strona `https://claude.ai/artifact/J8G6SVDDMsNkSvUakot9Qv`. Postęp zapisuje się na koncie Claude i synchronizuje między urządzeniami. Dorosłe profile mogą korzystać ze sprawdzania tekstów i rozmów z Claude.
-- **Poza Claude (np. GitHub Pages):** repozytorium jest gotową stroną statyczną bez kroku budowania. W ustawieniach repozytorium: Settings → Pages → Deploy from a branch → gałąź i katalog `/`. Postęp zapisuje się wtedy tylko w przeglądarce; w Ustawieniach aplikacji jest kopia zapasowa do pliku.
+- **Bez konta (GitHub Pages):** `https://michalkoz87-oss.github.io/Angielski/`. Strona działa po włączeniu w ustawieniach repozytorium: Settings → Pages → Deploy from a branch → `main`, katalog `/`. Repozytorium jest gotową stroną statyczną bez kroku budowania. Postęp zapisuje się tylko w przeglądarce danego urządzenia; w Ustawieniach aplikacji jest kopia zapasowa do pliku. Funkcje korzystające z Claude są w tej wersji niedostępne.
 - **Lokalnie:** `npm install`, potem `npm run dev` i `http://localhost:5173/`.
 
 ## Budowa
