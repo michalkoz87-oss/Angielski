@@ -36,6 +36,15 @@ export async function render(root, ctx) {
   const limit = ui.select({ id: 'set-limit', value: String(p.maxReviews), options: [40, 60, 80, 120, 200].map((n) => ({ value: String(n), label: `${n} kart dziennie` })),
     onChange: (v) => { model.setProfile({ maxReviews: Number(v) }); saved(); } });
 
+  const diagText = () => {
+    const d = audio.diagnostics();
+    return `Diagnostyka: głosy w urządzeniu: ${d.voices}, angielskie: ${d.english}` + (d.chosen ? `, wybrany: ${d.chosen}` : '') + (d.claudeVoice ? ', głos Claude: dostępny' : '')
+      + (d.lastVoice ? `, ostatnio użyty: ${d.lastVoice}` : '') + (d.lastError ? `, ostatni błąd: ${d.lastError}` : '') + '.';
+  };
+  const diagEl = h('p', { class: 'muted small', id: 'audio-diag' }, diagText());
+  const offAudio = audio.onState(() => { diagEl.textContent = diagText(); });
+  const problem = audio.problem();
+
   const file = h('input', { type: 'file', accept: '.json,application/json', id: 'set-import', class: 'sr-only', onChange: async (e) => {
     const f = e.target.files?.[0];
     e.target.value = '';
@@ -69,6 +78,12 @@ export async function render(root, ctx) {
       ui.field({ label: 'Pora nauki', control: time }),
       ui.field({ label: 'Dzienny limit powtórek', control: limit })),
     ui.section({ title: 'Dźwięk' },
+      problem === 'no-english-voice' && ui.banner({ kind: 'warn', live: false, title: 'To urządzenie nie ma angielskiego głosu',
+        body: 'Dlatego wymowa jest wyłączona, a ćwiczenia ze słuchu działają w wersji do czytania. Android: Ustawienia telefonu → System → Języki → Zamiana tekstu na mowę → Usługi mowy Google → zainstaluj dane głosowe „angielski”. iPhone: Ustawienia → Dostępność → Zawartość mówiona → Głosy → Angielski. Windows: Ustawienia → Czas i język → Mowa → dodaj głos angielski. Potem odśwież tę stronę.' }),
+      problem === 'no-api' && ui.banner({ kind: 'warn', live: false, title: 'Ta przeglądarka nie potrafi czytać na głos',
+        body: 'Otwórz aplikację w Chrome (Android, komputer) albo w Safari (iPhone).' }),
+      problem === 'blocked' && ui.banner({ kind: 'info', live: false, title: 'Czytanie na głos jest wyłączone dla tej strony',
+        body: 'Można je włączyć ponownie w menu uprawnień tej strony w Claude.' }),
       ui.segmented({ id: 'set-accent', label: 'Wymowa', value: p.accent, options: [{ value: 'en-GB', label: 'Brytyjska' }, { value: 'en-US', label: 'Amerykańska' }],
         onChange: (v) => { model.setProfile({ accent: v }); audio.setPrefs(model.getProfile()); saved(); } }),
       audio.hasClaudeVoice() && ui.segmented({ id: 'set-voice', label: 'Głos', value: p.voice, options: [{ value: 'auto', label: 'Automatycznie' }, { value: 'browser', label: 'Przeglądarka' }, { value: 'claude', label: 'Claude' }],
@@ -79,7 +94,9 @@ export async function render(root, ctx) {
           onChange: (v) => { model.setProfile({ voiceName: v }); audio.setPrefs(model.getProfile()); saved(); } }) }),
       ui.segmented({ id: 'set-rate', label: 'Tempo mowy', value: String(p.speechRate), options: [{ value: '0.7', label: 'Wolno' }, { value: '0.9', label: 'Normalnie' }, { value: '1.05', label: 'Szybko' }],
         onChange: (v) => { model.setProfile({ speechRate: Number(v) }); audio.setPrefs(model.getProfile()); saved(); } }),
-      h('div', { class: 'cluster' }, audio.available() ? ui.speakButton('This is how the lessons will sound. I usually get up early and have breakfast with my family.', { showLabel: true, label: 'Posłuchaj próbki' }) : h('p', { class: 'muted' }, 'Na tym urządzeniu dźwięk jest niedostępny. Ćwiczenia ze słuchu działają w wersji do czytania.'))),
+      h('div', { class: 'cluster' }, audio.available() ? ui.speakButton('This is how the lessons will sound. I usually get up early and have breakfast with my family.', { showLabel: true, label: 'Posłuchaj próbki' }) : h('p', { class: 'muted' }, 'Na tym urządzeniu dźwięk jest niedostępny. Ćwiczenia ze słuchu działają w wersji do czytania.')),
+      h('p', { class: 'muted small' }, 'Jeśli po naciśnięciu „Posłuchaj próbki” nic nie słychać, sprawdź głośność multimediów i tryb cichy telefonu, a potem przepisz poniższą linijkę osobie, która pomaga z aplikacją.'),
+      diagEl),
     ui.section({ title: 'Zapis postępów' },
       h('div', { class: 'cluster' }, ui.syncIndicator({ label: true })),
       h('p', { class: 'muted' }, !isArtifact
@@ -99,4 +116,5 @@ export async function render(root, ctx) {
       ui.button({ label: `Usuń osobę: ${me?.name ?? ''}`, kind: 'danger', id: 'set-delete', onClick: async () => {
         if (await ui.confirmDialog({ title: `Usunąć osobę „${me?.name}”?`, body: 'Profil, plan i postępy tej osoby znikną z aplikacji. Tej operacji nie można cofnąć.', confirmLabel: 'Usuń', danger: true })) model.deleteProfile(me.id);
       } }))));
+  return offAudio;
 }

@@ -5,6 +5,7 @@ import * as schedule from '../core/schedule.js';
 import * as content from '../core/content.js';
 import { buildQueue } from '../core/srs.js';
 import { todayKey, toDayNumber } from '../core/platform.js';
+import { audio } from '../core/audio.js';
 import { makeIsDone, dueCount, weekMeta } from './common.js';
 
 const { h } = ui;
@@ -40,6 +41,10 @@ export async function render(root, ctx) {
     ui.stat({ value: due, label: 'powtórek na dziś' }));
 
   const blocks = [head, numbers];
+  if (audio.problem() === 'no-english-voice') {
+    blocks.push(ui.banner({ kind: 'warn', live: false, title: 'Wymowa jest wyłączona', body: 'To urządzenie nie ma angielskiego głosu, więc aplikacja nie odtwarza wymowy.',
+      action: ui.button({ label: 'Jak to naprawić', size: 'sm', id: 'audio-help', onClick: () => ctx.navigate('ustawienia') }) }));
+  }
 
   if (st.finished) {
     blocks.push(ui.banner({ kind: 'correct', title: 'Kurs ukończony', body: 'Wszystkie sesje tego poziomu są zaliczone. Powtórki nadal utrwalają słownictwo, a w Ustawieniach można przejść na wyższy poziom.' }));

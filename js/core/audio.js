@@ -2,15 +2,22 @@
 // Artifact, the `tts` capability. Short items use the browser voice when there is one; long texts
 // prefer the Claude voice. If the viewer switched reading aloud off (not_granted), audio is
 // treated as unavailable for this page load and no other voice is used instead.
+//
+// Browser speech is unreliable in the field, so: a voice that does not start within a few seconds
+// is replaced by the next best one; one failed utterance never switches audio off; and
+// diagnostics() says what this device offers, so a problem can be read off the Settings screen.
 
 import { cap } from './platform.js';
 
 let tts = null;
 let blocked = false;
-let webBroken = false;
 let state = 'idle';
 let prefs = { accent: 'en-GB', voice: 'auto', voiceName: '', rate: 0.9 };
 let started = false;
+let runId = 0;
+let lastError = '';
+let lastVoice = '';
+let keep = null; // the utterance being spoken: Chrome drops events of garbage-collected utterances
 const listeners = new Set();
 
 const synth = () => {
@@ -20,7 +27,9 @@ const synth = () => {
     return null;
   }
 };
+const hasApi = () => !!synth() && typeof SpeechSynthesisUtterance !== 'undefined';
 const isEnglish = (v) => /^en([-_]|$)/i.test(v?.lang ?? '');
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 // Voices that are known to be clear, and voices that are novelty effects or old robotic synthesisers.
 const GOOD = /(Google (UK|US) English|Natural|Online|Neural|Enhanced|Premium|Siri|Daniel|Arthur|Kate|Serena|Martha|Oliver|Stephanie|Samantha|Ava|Allison|Alex|Susan|Karen|Moira|Tessa|Libby|Sonia|Ryan|Aria|Jenny|Guy|Hazel|George|Zira|David)/i;
 const BAD = /(Albert|Bad News|Bahh|Bells|Boing|Bubbles|Cellos|Wobble|Good News|Jester|Organ|Superstar|Trinoids|Whisper|Zarvox|Deranged|Hysterical|Fred|Junior|Kathy|Ralph|Princess|Bruce|Agnes|Vicki|Eddy|Flo\b|Grandma|Grandpa|Reed|Rocko|Sandy|Shelley|eSpeak)/i;
@@ -45,53 +54,103 @@ const allVoices = () => {
     return [];
   }
 };
-// If the device lists voices but none of them is English, speaking would read English text with a
-// foreign voice (gibberish): then browser speech counts as unavailable.
-const webOk = () => {
-  if (!synth() || webBroken || typeof SpeechSynthesisUtterance === 'undefined') return false;
+
+/** Why browser speech cannot be used: '' (it can), 'no-api', or 'no-english-voice'. */
+function webProblem() {
+  if (!hasApi()) return 'no-api';
   const all = allVoices();
-  return all.length === 0 || all.some(isEnglish);
-};
+  // A device that lists voices but none in English would read English text with a foreign voice.
+  if (all.length > 0 && !all.some(isEnglish)) return 'no-english-voice';
+  return '';
+}
+const webOk = () => webProblem() === '';
 
 function setState(next) {
   if (next === state) return;
   state = next;
+  notify();
+}
+function notify() {
   for (const fn of [...listeners]) {
     try {
-      fn(state);
+      fn(available() ? state : 'unavailable');
     } catch (err) {
       console.error(err);
     }
   }
 }
 
-function pickVoice() {
-  const ranked = rankVoices(allVoices(), prefs.accent);
-  return (prefs.voiceName && ranked.find((v) => v.name === prefs.voiceName)) || ranked[0] || null;
-}
-
-function webSpeak(text, rate) {
+// One attempt with one voice. Resolves {ok, started, err}; never rejects.
+function speakOnce(text, rate, voice) {
   return new Promise((resolve) => {
     const s = synth();
-    if (!s) return resolve(false);
+    let settled = false;
+    let begun = false;
+    let watchdog = null;
+    const done = (ok, err) => {
+      if (settled) return;
+      settled = true;
+      clearTimeout(watchdog);
+      resolve({ ok, started: begun, err: err ?? '' });
+    };
     try {
-      s.cancel();
       const u = new SpeechSynthesisUtterance(text);
-      const voice = pickVoice();
       if (voice) u.voice = voice;
-      u.lang = voice?.lang ?? prefs.accent;
+      u.lang = String(voice?.lang ?? prefs.accent).replace('_', '-');
       u.rate = Math.min(1.5, Math.max(0.5, rate));
-      u.onend = () => resolve(true);
-      u.onerror = (e) => {
-        if (e?.error && !['interrupted', 'canceled'].includes(e.error)) webBroken = true;
-        resolve(false);
+      u.onstart = () => {
+        begun = true;
+        clearTimeout(watchdog);
+        // some browsers never fire `end`: do not leave the button stuck in "speaking"
+        watchdog = setTimeout(() => done(true), 8000 + text.length * 150);
       };
+      u.onend = () => done(true);
+      u.onerror = (e) => done(false, e?.error || 'error');
+      keep = u;
       s.speak(u);
-    } catch {
-      webBroken = true;
-      resolve(false);
+      watchdog = setTimeout(() => {
+        if (begun) return;
+        try {
+          s.cancel();
+        } catch {
+          /* nothing to cancel */
+        }
+        done(false, 'no-start');
+      }, 4000);
+    } catch (err) {
+      done(false, 'exception');
     }
   });
+}
+
+async function webSpeak(text, rate, myRun) {
+  const s = synth();
+  if (!s) return false;
+  if (s.speaking || s.pending) {
+    try {
+      s.cancel();
+    } catch {
+      /* nothing to cancel */
+    }
+    await sleep(80); // speaking right after cancel() is dropped by some browsers
+    if (myRun !== runId) return false;
+  }
+  const ranked = rankVoices(allVoices(), prefs.accent);
+  const chosen = (prefs.voiceName && ranked.find((v) => v.name === prefs.voiceName)) || ranked[0] || null;
+  const backup = ranked.find((v) => v !== chosen && v.localService !== false) ?? ranked.find((v) => v !== chosen) ?? null;
+  const candidates = [chosen, backup, null].filter((v, i, a) => a.indexOf(v) === i);
+  for (const voice of candidates) {
+    const result = await speakOnce(text, rate, voice);
+    if (myRun !== runId) return false; // stopped or replaced by a newer request
+    lastVoice = voice?.name ?? 'głos domyślny';
+    if (result.ok) {
+      lastError = '';
+      return true;
+    }
+    if (result.started || ['interrupted', 'canceled'].includes(result.err)) return false; // it was speaking and got cut off
+    lastError = `${lastVoice}: ${result.err}`;
+  }
+  return false;
 }
 
 async function ttsSpeak(what, rate) {
@@ -112,17 +171,19 @@ async function run(lines, { rate: speed = 1, long = false } = {}) {
   const rate = speed * prefs.rate;
   const texts = lines.map((t) => String(t ?? '').trim()).filter(Boolean);
   if (!texts.length || blocked) return;
+  const myRun = ++runId;
   const preferTts = prefs.voice === 'claude' || (prefs.voice === 'auto' && (long || !webOk()));
   setState('speaking');
   try {
     if (tts && (preferTts || !webOk())) {
       const what = texts.length === 1 ? texts[0].slice(0, 2000) : texts.map((text) => ({ text: text.slice(0, 2000) }));
-      const result = await ttsSpeak(what, rate);
-      if (result !== 'failed' || !webOk()) return;
+      const result = await ttsSpeak(what, Math.min(1.5, Math.max(0.7, rate)));
+      if (result !== 'failed' || !webOk() || myRun !== runId) return;
     }
-    if (webOk()) for (const text of texts) if (!(await webSpeak(text, rate))) break;
+    if (webOk()) for (const text of texts) if (!(await webSpeak(text, rate, myRun))) break;
   } finally {
-    setState(available() ? 'idle' : 'unavailable');
+    if (myRun === runId) setState('idle');
+    else notify();
   }
 }
 
@@ -136,13 +197,13 @@ export const audio = {
     started = true;
     try {
       synth()?.getVoices?.();
-      synth()?.addEventListener?.('voiceschanged', () => setState(state));
+      synth()?.addEventListener?.('voiceschanged', notify);
     } catch {
       /* no browser voices */
     }
     cap('tts').then((ns) => {
       tts = ns;
-      for (const fn of [...listeners]) fn(available() ? state : 'unavailable');
+      notify();
     });
   },
   setPrefs(next) {
@@ -152,16 +213,26 @@ export const audio = {
   hasClaudeVoice: () => !!tts && !blocked,
   /** English voices this device offers, best first: [{name, lang}] (empty when the browser lists none). */
   voices: () => rankVoices(allVoices(), prefs.accent).map((v) => ({ name: v.name, lang: v.lang })),
+  /** '' when speech can work; otherwise 'blocked', 'no-api' or 'no-english-voice'. */
+  problem: () => (blocked ? 'blocked' : tts ? '' : webProblem()),
+  /** What this device offers, for the Settings screen. */
+  diagnostics() {
+    const all = allVoices();
+    const ranked = rankVoices(all, prefs.accent);
+    const chosen = (prefs.voiceName && ranked.find((v) => v.name === prefs.voiceName)) || ranked[0] || null;
+    return { api: hasApi(), voices: all.length, english: ranked.length, chosen: chosen ? `${chosen.name} (${String(chosen.lang).replace('_', '-')})` : '', claudeVoice: !!tts && !blocked, lastVoice, lastError };
+  },
   speak: (text, opts) => run([text], opts),
   speakLines: (lines, opts) => run(lines, { long: true, ...opts }),
   stop() {
+    runId++;
     try {
       synth()?.cancel();
     } catch {
       /* nothing playing */
     }
     tts?.stop?.().catch?.(() => {});
-    setState(available() ? 'idle' : 'unavailable');
+    setState('idle');
   },
   onState(fn) {
     listeners.add(fn);
