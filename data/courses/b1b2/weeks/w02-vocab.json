@@ -1,0 +1,722 @@
+{
+  "week": 2,
+  "theme": "Family & friends",
+  "items": [
+    {
+      "id": "w02-01",
+      "term": "relative",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˈrelətɪv/",
+      "pl": "krewny, krewna",
+      "def": "a person who belongs to your family",
+      "example": "We invited all our {{relatives}} to the wedding, including some cousins we had never met.",
+      "examplePl": "Zaprosiliśmy na wesele wszystkich krewnych, w tym kuzynów, których nigdy wcześniej nie spotkaliśmy.",
+      "collocations": [
+        "a close relative",
+        "a distant relative"
+      ],
+      "family": [
+        "relation (n)",
+        "related (adj)"
+      ],
+      "note": "Uwaga: *parents* to tylko rodzice; krewni to *relatives* albo *relations*."
+    },
+    {
+      "id": "w02-02",
+      "term": "sibling",
+      "type": "word",
+      "pos": "n",
+      "level": "B2",
+      "ipa": "/ˈsɪblɪŋ/",
+      "pl": "brat lub siostra; (w l. mn.) rodzeństwo",
+      "def": "a brother or a sister",
+      "example": "I have three {{siblings}}: two older brothers and a younger sister.",
+      "examplePl": "Mam troje rodzeństwa: dwóch starszych braci i młodszą siostrę.",
+      "collocations": [
+        "older siblings",
+        "younger siblings"
+      ],
+      "note": "Słowo dość formalne; w rozmowie częściej mówimy *brothers and sisters*."
+    },
+    {
+      "id": "w02-03",
+      "term": "nephew",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˈnefjuː/",
+      "pl": "bratanek, siostrzeniec",
+      "def": "the son of your brother or sister",
+      "example": "My sister's son is my only {{nephew}}, and I look after him on Saturdays.",
+      "examplePl": "Syn mojej siostry to mój jedyny siostrzeniec i opiekuję się nim w soboty.",
+      "collocations": [
+        "my little nephew",
+        "nephews and nieces"
+      ]
+    },
+    {
+      "id": "w02-04",
+      "term": "only child",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B1",
+      "ipa": "/ˌəʊnli ˈtʃaɪld/",
+      "pl": "jedynak, jedynaczka",
+      "def": "a person who has no brothers or sisters",
+      "example": "As an {{only child}}, Marta never had to share her room with anyone.",
+      "examplePl": "Jako jedynaczka Marta nigdy nie musiała dzielić z nikim pokoju.",
+      "collocations": [
+        "be an only child"
+      ],
+      "note": "Nie mówimy *a single child* ani *an alone child*."
+    },
+    {
+      "id": "w02-05",
+      "term": "close",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/kləʊs/",
+      "pl": "bliski, zżyty",
+      "def": "knowing someone very well and liking them a lot",
+      "example": "My cousin and I are very {{close}}; we tell each other everything.",
+      "examplePl": "Jesteśmy z kuzynką bardzo zżyte; mówimy sobie wszystko.",
+      "collocations": [
+        "a close friend",
+        "be close to sb"
+      ],
+      "family": [
+        "closely (adv)",
+        "closeness (n)"
+      ],
+      "note": "Przymiotnik wymawiamy /kləʊs/, z *s* na końcu; czasownik *close* (zamykać) to /kləʊz/."
+    },
+    {
+      "id": "w02-06",
+      "term": "relationship",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/rɪˈleɪʃnʃɪp/",
+      "pl": "relacja, stosunki, związek",
+      "def": "the way two people feel about each other and behave towards each other",
+      "example": "She has a very good {{relationship}} with her parents and tells them about her problems.",
+      "examplePl": "Ma bardzo dobre relacje z rodzicami i opowiada im o swoich problemach.",
+      "collocations": [
+        "a good relationship with sb",
+        "a close relationship"
+      ]
+    },
+    {
+      "id": "w02-07",
+      "term": "bring up",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌbrɪŋ ˈʌp/",
+      "pl": "wychowywać",
+      "def": "to look after a child until he or she is an adult",
+      "example": "My grandparents {{brought up}} five children in a tiny flat in Kraków.",
+      "examplePl": "Moi dziadkowie wychowali pięcioro dzieci w maleńkim mieszkaniu w Krakowie.",
+      "collocations": [
+        "bring up a child",
+        "be brought up by sb"
+      ],
+      "family": [
+        "upbringing (n)"
+      ],
+      "note": "Nie mylić z *grow up* (dorastać): *My grandmother brought me up*, ale *I grew up in Gdańsk*."
+    },
+    {
+      "id": "w02-08",
+      "term": "fall out",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B2",
+      "ipa": "/ˌfɔːl ˈaʊt/",
+      "pl": "pokłócić się, poróżnić się",
+      "def": "to have an argument with someone and stop being friendly with them",
+      "example": "The two friends {{fell out}} over a borrowed bike and didn't speak for weeks.",
+      "examplePl": "Dwaj przyjaciele pokłócili się o pożyczony rower i nie rozmawiali ze sobą przez kilka tygodni.",
+      "collocations": [
+        "fall out with sb",
+        "fall out over sth"
+      ]
+    },
+    {
+      "id": "w02-09",
+      "term": "support",
+      "type": "word",
+      "pos": "v",
+      "level": "B1",
+      "ipa": "/səˈpɔːt/",
+      "pl": "wspierać",
+      "def": "to help someone and be kind to them when they are having a difficult time",
+      "example": "My parents always {{support}} me and help me when I have a difficult time at school.",
+      "examplePl": "Rodzice zawsze mnie wspierają i pomagają mi, gdy mam trudny okres w szkole.",
+      "collocations": [
+        "support each other",
+        "support sb's decision"
+      ],
+      "family": [
+        "support (n)",
+        "supportive (adj)",
+        "supporter (n)"
+      ]
+    },
+    {
+      "id": "w02-10",
+      "term": "run in the family",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "B2",
+      "ipa": "/ˌrʌn ɪn ðə ˈfæməli/",
+      "pl": "być rodzinne, być cechą rodzinną",
+      "def": "to be a quality or ability that many people in the same family have",
+      "example": "Red hair {{runs in the family}}: my mum, my uncle and both my sisters have it.",
+      "examplePl": "Rude włosy są u nas rodzinne: mają je mama, wujek i obie moje siostry.",
+      "collocations": []
+    },
+    {
+      "id": "w02-11",
+      "term": "niece",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/niːs/",
+      "pl": "bratanica, siostrzenica",
+      "def": "the daughter of your brother or sister",
+      "example": "My brother's daughter, my little {{niece}}, has just started to walk.",
+      "examplePl": "Córka mojego brata, moja mała bratanica, właśnie zaczęła chodzić.",
+      "collocations": [
+        "my little niece",
+        "nieces and nephews"
+      ]
+    },
+    {
+      "id": "w02-12",
+      "term": "generation",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˌdʒenəˈreɪʃn/",
+      "pl": "pokolenie",
+      "def": "all the people in a family or a society who are about the same age",
+      "example": "Three {{generations}} live in our house: my grandparents, my parents and us children.",
+      "examplePl": "W naszym domu mieszkają trzy pokolenia: dziadkowie, rodzice i my, dzieci.",
+      "collocations": [
+        "the younger generation",
+        "from generation to generation"
+      ]
+    },
+    {
+      "id": "w02-13",
+      "term": "argument",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˈɑːɡjumənt/",
+      "pl": "kłótnia, sprzeczka",
+      "def": "an angry discussion between people who do not agree",
+      "example": "They had a loud {{argument}} about whose turn it was to wash the dishes.",
+      "examplePl": "Głośno się pokłócili o to, czyja kolej na zmywanie naczyń.",
+      "collocations": [
+        "have an argument with sb",
+        "an argument about sth"
+      ],
+      "family": [
+        "argue (v)"
+      ],
+      "note": "Fałszywy przyjaciel: *argument* to najczęściej kłótnia. Pisownia bez *e* po *u* (nie *arguement*)."
+    },
+    {
+      "id": "w02-14",
+      "term": "apologise",
+      "type": "word",
+      "pos": "v",
+      "level": "B1",
+      "ipa": "/əˈpɒlədʒaɪz/",
+      "pl": "przepraszać",
+      "def": "to say that you are sorry for something you have done",
+      "example": "Olek {{apologised}} to his sister for reading her diary without permission.",
+      "examplePl": "Olek przeprosił siostrę za to, że bez pozwolenia przeczytał jej pamiętnik.",
+      "collocations": [
+        "apologise to sb",
+        "apologise for sth"
+      ],
+      "family": [
+        "apology (n)",
+        "apologetic (adj)"
+      ],
+      "note": "Wzorzec: *apologise to sb for sth*; nie mówimy *apologise him*. W AmE pisownia *apologize*."
+    },
+    {
+      "id": "w02-15",
+      "term": "forgive",
+      "type": "word",
+      "pos": "v",
+      "level": "B1",
+      "ipa": "/fəˈɡɪv/",
+      "pl": "wybaczać, przebaczać",
+      "def": "to stop being angry with someone who has done something wrong",
+      "example": "He was angry at first, but he decided to {{forgive}} her because she was truly sorry.",
+      "examplePl": "Z początku był zły, ale postanowił jej wybaczyć, bo naprawdę było jej przykro.",
+      "collocations": [
+        "forgive sb for sth",
+        "forgive and forget"
+      ],
+      "family": [
+        "forgiveness (n)",
+        "forgiving (adj)"
+      ],
+      "note": "Czasownik nieregularny: *forgive – forgave – forgiven*."
+    },
+    {
+      "id": "w02-16",
+      "term": "trust",
+      "type": "word",
+      "pos": "v",
+      "level": "B1",
+      "ipa": "/trʌst/",
+      "pl": "ufać",
+      "def": "to believe that someone is good and honest and will not hurt you",
+      "example": "You can tell Zuza your secret; I {{trust}} her completely.",
+      "examplePl": "Możesz zdradzić Zuzie swój sekret; ufam jej całkowicie.",
+      "collocations": [
+        "trust sb completely",
+        "trust sb with sth"
+      ],
+      "family": [
+        "trust (n)",
+        "trustworthy (adj)"
+      ]
+    },
+    {
+      "id": "w02-17",
+      "term": "make up",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B2",
+      "ipa": "/ˌmeɪk ˈʌp/",
+      "pl": "pogodzić się",
+      "def": "to become friends again after an argument",
+      "example": "They argued in the morning, but they {{made up}} before lunch and went home together.",
+      "examplePl": "Rano się pokłócili, ale przed obiadem się pogodzili i wrócili razem do domu.",
+      "collocations": [
+        "make up with sb",
+        "kiss and make up"
+      ],
+      "note": "*Make up* znaczy też „zmyślić” (*make up a story*); o znaczeniu decyduje kontekst."
+    },
+    {
+      "id": "w02-18",
+      "term": "tell off",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B2",
+      "ipa": "/ˌtel ˈɒf/",
+      "pl": "skarcić, zbesztać, nakrzyczeć na",
+      "def": "to speak angrily to someone because they have done something wrong",
+      "example": "The teacher {{told off}} two boys for talking during the test.",
+      "examplePl": "Nauczyciel skarcił dwóch chłopców za rozmawianie podczas sprawdzianu.",
+      "collocations": [
+        "tell sb off for doing sth",
+        "get told off"
+      ],
+      "note": "Z zaimkiem rozdzielamy: *tell him off*, nie *tell off him*. Zwrot potoczny, typowo brytyjski."
+    },
+    {
+      "id": "w02-19",
+      "term": "keep in touch",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B1",
+      "ipa": "/ˌkiːp ɪn ˈtʌtʃ/",
+      "pl": "być w kontakcie, utrzymywać kontakt",
+      "def": "to continue to talk or write to someone you do not see often",
+      "example": "We {{keep in touch}} by video call now that my best friend lives in Canada.",
+      "examplePl": "Odkąd moja najlepsza przyjaciółka mieszka w Kanadzie, utrzymujemy kontakt przez wideorozmowy.",
+      "collocations": [
+        "keep in touch with sb",
+        "stay in touch"
+      ]
+    },
+    {
+      "id": "w02-20",
+      "term": "see eye to eye",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "B2",
+      "ipa": "/ˌsiː ˌaɪ tu ˈaɪ/",
+      "pl": "zgadzać się, mieć takie samo zdanie",
+      "def": "to agree with someone or have the same opinion",
+      "example": "My dad and I don't {{see eye to eye}} on music; he hates everything I listen to.",
+      "examplePl": "Nie zgadzamy się z tatą w sprawie muzyki; on nie znosi niczego, czego słucham.",
+      "collocations": [
+        "not see eye to eye with sb on sth"
+      ],
+      "note": "Najczęściej używane w przeczeniach."
+    },
+    {
+      "id": "w02-21",
+      "term": "anniversary",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˌænɪˈvɜːsəri/",
+      "pl": "rocznica",
+      "def": "a day that is exactly one or more years after an important event",
+      "example": "My parents celebrate their wedding {{anniversary}} on the tenth of May every year.",
+      "examplePl": "Moi rodzice co roku dziesiątego maja obchodzą rocznicę ślubu.",
+      "collocations": [
+        "a wedding anniversary",
+        "celebrate an anniversary"
+      ],
+      "note": "Nie mylić z *birthday*: *anniversary* dotyczy wydarzeń, np. ślubu, a nie urodzin człowieka."
+    },
+    {
+      "id": "w02-22",
+      "term": "strict",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/strɪkt/",
+      "pl": "surowy, wymagający",
+      "def": "making people follow rules and do what you say",
+      "example": "My parents are so {{strict}} that I can't use my phone after eight in the evening.",
+      "examplePl": "Moi rodzice są tak surowi, że po ósmej wieczorem nie mogę korzystać z telefonu.",
+      "collocations": [
+        "strict parents",
+        "strict rules",
+        "be strict with sb"
+      ],
+      "family": [
+        "strictly (adv)",
+        "strictness (n)"
+      ]
+    },
+    {
+      "id": "w02-23",
+      "term": "ancestor",
+      "type": "word",
+      "pos": "n",
+      "level": "B2",
+      "ipa": "/ˈænsestə/",
+      "pl": "przodek",
+      "def": "a person in your family who lived a long time before you",
+      "example": "My {{ancestors}} came to this town more than two hundred years ago.",
+      "examplePl": "Moi przodkowie przybyli do tego miasta ponad dwieście lat temu.",
+      "collocations": [
+        "a distant ancestor",
+        "our ancestors"
+      ],
+      "family": [
+        "ancestry (n)"
+      ],
+      "note": "Przeciwieństwo: *descendant* (potomek)."
+    },
+    {
+      "id": "w02-24",
+      "term": "loyal",
+      "type": "word",
+      "pos": "adj",
+      "level": "B2",
+      "ipa": "/ˈlɔɪəl/",
+      "pl": "lojalny, wierny",
+      "def": "always supporting your friends or family, even in difficult times",
+      "example": "A {{loyal}} friend stays with you when everyone else walks away.",
+      "examplePl": "Lojalny przyjaciel zostaje przy tobie, gdy wszyscy inni odchodzą.",
+      "collocations": [
+        "a loyal friend",
+        "be loyal to sb"
+      ],
+      "family": [
+        "loyalty (n)",
+        "disloyal (adj)"
+      ]
+    },
+    {
+      "id": "w02-25",
+      "term": "behave",
+      "type": "word",
+      "pos": "v",
+      "level": "B1",
+      "ipa": "/bɪˈheɪv/",
+      "pl": "zachowywać się",
+      "def": "to act in a particular way, especially in a polite way",
+      "example": "The children {{behaved}} so well at the restaurant that the waiter gave them free ice cream.",
+      "examplePl": "Dzieci zachowywały się w restauracji tak dobrze, że kelner dał im darmowe lody.",
+      "collocations": [
+        "behave well",
+        "behave badly",
+        "behave yourself"
+      ],
+      "family": [
+        "behaviour (n)"
+      ],
+      "note": "*Behave yourself!* znaczy „Zachowuj się!”."
+    },
+    {
+      "id": "w02-26",
+      "term": "blame",
+      "type": "word",
+      "pos": "v",
+      "level": "B1",
+      "ipa": "/bleɪm/",
+      "pl": "obwiniać, winić",
+      "def": "to say that someone is responsible for something bad",
+      "example": "Don't {{blame}} your brother for the broken window; you were both playing with the ball.",
+      "examplePl": "Nie obwiniaj brata o zbite okno; razem bawiliście się piłką.",
+      "collocations": [
+        "blame sb for sth",
+        "be to blame"
+      ],
+      "family": [
+        "blame (n)"
+      ]
+    },
+    {
+      "id": "w02-27",
+      "term": "grow apart",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B2",
+      "ipa": "/ˌɡrəʊ əˈpɑːt/",
+      "pl": "oddalić się od siebie",
+      "def": "to slowly become less close to someone as time passes",
+      "example": "We were best friends at primary school, but we {{grew apart}} after she changed schools.",
+      "examplePl": "W podstawówce byłyśmy najlepszymi przyjaciółkami, ale oddaliłyśmy się od siebie, gdy zmieniła szkołę.",
+      "collocations": [
+        "grow apart from sb"
+      ]
+    },
+    {
+      "id": "w02-28",
+      "term": "let down",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B2",
+      "ipa": "/ˌlet ˈdaʊn/",
+      "pl": "zawieść, rozczarować",
+      "def": "to disappoint someone by not doing what you promised or what they expected",
+      "example": "I don't want to {{let down}} my team, so I train every single day.",
+      "examplePl": "Nie chcę zawieść swojej drużyny, więc trenuję codziennie.",
+      "collocations": [
+        "let sb down",
+        "feel let down"
+      ],
+      "note": "Z zaimkiem rozdzielamy: *let me down*, nie *let down me*."
+    },
+    {
+      "id": "w02-29",
+      "term": "keep a promise",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B1",
+      "ipa": "/ˌkiːp ə ˈprɒmɪs/",
+      "pl": "dotrzymać obietnicy",
+      "def": "to do what you said you would do",
+      "example": "If you can't {{keep a promise}}, it is better not to make it.",
+      "examplePl": "Jeśli nie możesz dotrzymać obietnicy, lepiej jej nie składać.",
+      "collocations": [
+        "keep your promise",
+        "break a promise"
+      ]
+    },
+    {
+      "id": "w02-30",
+      "term": "like two peas in a pod",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "B2",
+      "ipa": "/laɪk ˌtuː ˌpiːz ɪn ə ˈpɒd/",
+      "pl": "podobni jak dwie krople wody",
+      "def": "very similar, especially in the way they look or behave",
+      "example": "The sisters are {{like two peas in a pod}}; even their own aunt mixes them up.",
+      "examplePl": "Siostry są podobne jak dwie krople wody; myli je nawet własna ciocia.",
+      "collocations": []
+    },
+    {
+      "id": "w02-31",
+      "term": "twin",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/twɪn/",
+      "pl": "bliźniak, bliźniaczka",
+      "def": "one of two children born to the same mother at the same time",
+      "example": "Ala and her {{twin}} were born five minutes apart, but they look completely different.",
+      "examplePl": "Ala i jej bliźniaczka urodziły się w odstępie pięciu minut, ale wyglądają zupełnie inaczej.",
+      "collocations": [
+        "twin sister",
+        "twin brother",
+        "identical twins"
+      ]
+    },
+    {
+      "id": "w02-32",
+      "term": "elderly",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈeldəli/",
+      "pl": "starszy, w podeszłym wieku",
+      "def": "old (a polite word used about people)",
+      "example": "Our {{elderly}} neighbour is ninety, so we do her shopping every week.",
+      "examplePl": "Nasza starsza sąsiadka ma dziewięćdziesiąt lat, więc co tydzień robimy jej zakupy.",
+      "collocations": [
+        "an elderly relative",
+        "elderly people",
+        "the elderly"
+      ],
+      "note": "Grzeczniejsze niż *old*, gdy mówimy o ludziach."
+    },
+    {
+      "id": "w02-33",
+      "term": "respect",
+      "type": "word",
+      "pos": "v",
+      "level": "B1",
+      "ipa": "/rɪˈspekt/",
+      "pl": "szanować",
+      "def": "to think that someone is good or important and treat them politely",
+      "example": "I {{respect}} my grandfather because he worked hard all his life and never complained.",
+      "examplePl": "Szanuję dziadka, bo całe życie ciężko pracował i nigdy nie narzekał.",
+      "collocations": [
+        "respect sb's opinion",
+        "respect each other"
+      ],
+      "family": [
+        "respect (n)",
+        "respectful (adj)"
+      ]
+    },
+    {
+      "id": "w02-34",
+      "term": "friendship",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˈfrendʃɪp/",
+      "pl": "przyjaźń",
+      "def": "a relationship between people who like and trust each other",
+      "example": "Their {{friendship}} began at nursery school and has lasted for more than ten years.",
+      "examplePl": "Ich przyjaźń zaczęła się w przedszkolu i trwa już ponad dziesięć lat.",
+      "collocations": [
+        "a close friendship",
+        "a lasting friendship"
+      ],
+      "family": [
+        "friend (n)",
+        "friendly (adj)"
+      ]
+    },
+    {
+      "id": "w02-35",
+      "term": "childhood",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˈtʃaɪldhʊd/",
+      "pl": "dzieciństwo",
+      "def": "the early years of your life, before you become a teenager or an adult",
+      "example": "She spent most of her {{childhood}} on a farm, playing with animals.",
+      "examplePl": "Większość dzieciństwa spędziła na wsi, bawiąc się ze zwierzętami.",
+      "collocations": [
+        "a happy childhood",
+        "childhood memories"
+      ]
+    },
+    {
+      "id": "w02-36",
+      "term": "annoy",
+      "type": "word",
+      "pos": "v",
+      "level": "B1",
+      "ipa": "/əˈnɔɪ/",
+      "pl": "irytować, denerwować",
+      "def": "to make someone a little angry",
+      "example": "It really {{annoys}} me when my brother sings loudly while I am trying to study.",
+      "examplePl": "Naprawdę mnie irytuje, gdy brat głośno śpiewa, kiedy próbuję się uczyć.",
+      "collocations": [
+        "annoy sb",
+        "it annoys me when…"
+      ],
+      "family": [
+        "annoying (adj)",
+        "annoyed (adj)",
+        "annoyance (n)"
+      ]
+    },
+    {
+      "id": "w02-37",
+      "term": "get together",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌɡet təˈɡeðə/",
+      "pl": "spotykać się, zbierać się",
+      "def": "to meet in order to spend time with each other",
+      "example": "The whole family {{gets together}} at my aunt's house every Christmas Eve.",
+      "examplePl": "Cała rodzina zbiera się u cioci w każdą Wigilię.",
+      "collocations": [
+        "get together with friends",
+        "get together for a meal"
+      ],
+      "family": [
+        "get-together (n)"
+      ]
+    },
+    {
+      "id": "w02-38",
+      "term": "hang out",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌhæŋ ˈaʊt/",
+      "pl": "spędzać czas (ze znajomymi)",
+      "def": "to spend a lot of time in a place or with someone, in a relaxed way",
+      "example": "After school we usually {{hang out}} in the park and talk for hours.",
+      "examplePl": "Po szkole zwykle spędzamy czas w parku i rozmawiamy godzinami.",
+      "collocations": [
+        "hang out with friends",
+        "hang out together"
+      ],
+      "note": "Zwrot potoczny."
+    },
+    {
+      "id": "w02-39",
+      "term": "extended family",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B2",
+      "ipa": "/ɪkˌstendɪd ˈfæməli/",
+      "pl": "dalsza rodzina, rodzina wielopokoleniowa",
+      "def": "a family group that includes grandparents, aunts, uncles and cousins",
+      "example": "Her {{extended family}} is huge: she has eleven aunts and uncles and over thirty cousins.",
+      "examplePl": "Jej dalsza rodzina jest ogromna: ma jedenaścioro cioć i wujków oraz ponad trzydzieścioro kuzynów.",
+      "collocations": [
+        "a large extended family"
+      ],
+      "note": "Rodzice z dziećmi to *immediate family* albo *nuclear family*."
+    },
+    {
+      "id": "w02-40",
+      "term": "family gathering",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B1",
+      "ipa": "/ˌfæməli ˈɡæðərɪŋ/",
+      "pl": "spotkanie rodzinne, zjazd rodzinny",
+      "def": "an occasion when many relatives meet, for example to celebrate something",
+      "example": "We only see Uncle Marek at big {{family gatherings}}, such as weddings and birthdays.",
+      "examplePl": "Wujka Marka widujemy tylko na dużych spotkaniach rodzinnych, takich jak wesela i urodziny.",
+      "collocations": [
+        "a big family gathering",
+        "at a family gathering"
+      ]
+    }
+  ]
+}

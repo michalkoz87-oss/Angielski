@@ -16,7 +16,8 @@
       "vocabPerWeek": 24,
       "availableWeeks": [
         1,
-        2
+        2,
+        3
       ]
     },
     {
@@ -53,7 +54,8 @@
       "sessionMinutes": 35,
       "vocabPerWeek": 40,
       "availableWeeks": [
-        1
+        1,
+        2
       ]
     },
     {

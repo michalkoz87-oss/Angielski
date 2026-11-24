@@ -1,0 +1,396 @@
+{
+  "week": 3,
+  "theme": "My home",
+  "items": [
+    {
+      "id": "w03-01",
+      "term": "house",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/haʊs/",
+      "pl": "dom (budynek)",
+      "def": "a building where a family lives",
+      "example": "Our {{house}} has got a red roof and a garden.",
+      "examplePl": "Nasz dom ma czerwony dach i ogród.",
+      "collocations": [
+        "a big house",
+        "live in a house"
+      ],
+      "note": "**House** to budynek. **Home** to miejsce, w którym mieszkasz, także mieszkanie."
+    },
+    {
+      "id": "w03-02",
+      "term": "room",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ruːm/",
+      "pl": "pokój, pomieszczenie",
+      "def": "one part of a house, with walls and a door",
+      "example": "A kitchen and a bathroom are {{rooms}} in a house.",
+      "examplePl": "Kuchnia i łazienka to pomieszczenia w domu.",
+      "collocations": [
+        "my room",
+        "a big room"
+      ]
+    },
+    {
+      "id": "w03-03",
+      "term": "kitchen",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈkɪtʃɪn/",
+      "pl": "kuchnia",
+      "def": "the place in a house where you make food",
+      "example": "Dad makes breakfast in the {{kitchen}}.",
+      "examplePl": "Tata robi śniadanie w kuchni.",
+      "collocations": [
+        "in the kitchen",
+        "a kitchen table"
+      ],
+      "note": "Nie myl z **chicken** /ˈtʃɪkɪn/ (kurczak)."
+    },
+    {
+      "id": "w03-04",
+      "term": "bedroom",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈbedruːm/",
+      "pl": "sypialnia, pokój do spania",
+      "def": "a room where you sleep",
+      "example": "My bed and my desk are in my {{bedroom}}.",
+      "examplePl": "Moje łóżko i biurko są w moim pokoju.",
+      "collocations": [
+        "my bedroom",
+        "in the bedroom"
+      ]
+    },
+    {
+      "id": "w03-05",
+      "term": "bathroom",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈbɑːθruːm/",
+      "pl": "łazienka",
+      "def": "a room where you wash",
+      "example": "I wash my hands in the {{bathroom}}.",
+      "examplePl": "Myję ręce w łazience.",
+      "collocations": [
+        "in the bathroom",
+        "go to the bathroom"
+      ]
+    },
+    {
+      "id": "w03-06",
+      "term": "living room",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A1",
+      "ipa": "/ˈlɪvɪŋ ruːm/",
+      "pl": "salon, duży pokój",
+      "def": "the place in a house where the family sits together",
+      "example": "The sofa and the TV are in the {{living room}}.",
+      "examplePl": "Kanapa i telewizor są w salonie.",
+      "collocations": [
+        "in the living room"
+      ]
+    },
+    {
+      "id": "w03-07",
+      "term": "bed",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/bed/",
+      "pl": "łóżko",
+      "def": "a thing you sleep on",
+      "example": "My {{bed}} is soft and I sleep well in it.",
+      "examplePl": "Moje łóżko jest miękkie i dobrze mi się w nim śpi.",
+      "collocations": [
+        "go to bed",
+        "in bed"
+      ]
+    },
+    {
+      "id": "w03-08",
+      "term": "table",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈteɪbl/",
+      "pl": "stół",
+      "def": "a thing with four legs; you eat at it",
+      "example": "We eat dinner at the big {{table}}.",
+      "examplePl": "Jemy obiad przy dużym stole.",
+      "collocations": [
+        "at the table",
+        "on the table"
+      ]
+    },
+    {
+      "id": "w03-09",
+      "term": "sofa",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈsəʊfə/",
+      "pl": "kanapa, sofa",
+      "def": "a long, soft seat for two or three people",
+      "example": "We sit on the soft {{sofa}} and read books.",
+      "examplePl": "Siedzimy na miękkiej kanapie i czytamy książki.",
+      "collocations": [
+        "on the sofa",
+        "a big sofa"
+      ]
+    },
+    {
+      "id": "w03-10",
+      "term": "window",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈwɪndəʊ/",
+      "pl": "okno",
+      "def": "glass in a wall; you look out of it",
+      "example": "I look out of the {{window}} and see the garden.",
+      "examplePl": "Wyglądam przez okno i widzę ogród.",
+      "collocations": [
+        "open the window",
+        "next to the window"
+      ]
+    },
+    {
+      "id": "w03-11",
+      "term": "door",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/dɔː/",
+      "pl": "drzwi",
+      "def": "you open it and go into a room",
+      "example": "Please close the {{door}} when you go out of the room.",
+      "examplePl": "Proszę, zamknij drzwi, kiedy wychodzisz z pokoju.",
+      "collocations": [
+        "open the door",
+        "close the door"
+      ],
+      "note": "Po polsku „drzwi” to zawsze liczba mnoga, a po angielsku mówimy **a door** (jedne drzwi) i **two doors** (dwoje drzwi)."
+    },
+    {
+      "id": "w03-12",
+      "term": "at home",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A1",
+      "ipa": "/ət ˈhəʊm/",
+      "pl": "w domu",
+      "def": "in the place where you live",
+      "example": "I am not at school today. I am {{at home}}.",
+      "examplePl": "Nie jestem dziś w szkole. Jestem w domu.",
+      "collocations": [
+        "be at home",
+        "stay at home"
+      ],
+      "note": "Mówimy **at home**, bez „the”: I am at home."
+    },
+    {
+      "id": "w03-13",
+      "term": "garden",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈɡɑːdn/",
+      "pl": "ogród",
+      "def": "a place next to a house with grass, flowers and trees",
+      "example": "We play football in the {{garden}} behind our house.",
+      "examplePl": "Gramy w piłkę w ogrodzie za naszym domem.",
+      "collocations": [
+        "in the garden",
+        "a big garden"
+      ]
+    },
+    {
+      "id": "w03-14",
+      "term": "floor",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/flɔː/",
+      "pl": "podłoga",
+      "def": "the part of a room that you walk on",
+      "example": "My school bag is on the {{floor}} under my desk.",
+      "examplePl": "Mój plecak jest na podłodze pod biurkiem.",
+      "collocations": [
+        "on the floor",
+        "sit on the floor"
+      ]
+    },
+    {
+      "id": "w03-15",
+      "term": "wall",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/wɔːl/",
+      "pl": "ściana",
+      "def": "one of the sides of a room",
+      "example": "There is a big map on the {{wall}} in my room.",
+      "examplePl": "Na ścianie w moim pokoju jest duża mapa.",
+      "collocations": [
+        "on the wall",
+        "a white wall"
+      ]
+    },
+    {
+      "id": "w03-16",
+      "term": "lamp",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/læmp/",
+      "pl": "lampa, lampka",
+      "def": "a thing that gives light",
+      "example": "It is dark. Turn on the {{lamp}} on my desk, please.",
+      "examplePl": "Jest ciemno. Włącz, proszę, lampkę na moim biurku.",
+      "collocations": [
+        "a desk lamp",
+        "turn on the lamp"
+      ]
+    },
+    {
+      "id": "w03-17",
+      "term": "cupboard",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈkʌbəd/",
+      "pl": "szafka",
+      "def": "a thing with doors; you keep cups, plates or food in it",
+      "example": "The cups and plates are in the kitchen {{cupboard}}.",
+      "examplePl": "Kubki i talerze są w szafce kuchennej.",
+      "collocations": [
+        "a kitchen cupboard",
+        "in the cupboard"
+      ],
+      "note": "Wymowa: litery **p** nie słychać. Mówimy mniej więcej „kabyd”."
+    },
+    {
+      "id": "w03-18",
+      "term": "turn on",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "A2",
+      "ipa": "/ˌtɜːn ˈɒn/",
+      "pl": "włączać",
+      "def": "to make a lamp, a TV or a computer start working",
+      "example": "It is dark in here. Please {{turn on}} the light.",
+      "examplePl": "Ciemno tu. Włącz, proszę, światło.",
+      "collocations": [
+        "turn on the light",
+        "turn on the TV"
+      ],
+      "note": "Przeciwieństwo to **turn off** (wyłączać)."
+    },
+    {
+      "id": "w03-19",
+      "term": "flat",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/flæt/",
+      "pl": "mieszkanie",
+      "def": "a home in a big building with many other homes",
+      "example": "We live in a {{flat}} in a tall building.",
+      "examplePl": "Mieszkamy w mieszkaniu w wysokim budynku.",
+      "collocations": [
+        "live in a flat",
+        "a small flat"
+      ],
+      "note": "W Ameryce mówi się **apartment**."
+    },
+    {
+      "id": "w03-20",
+      "term": "picture",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈpɪktʃə/",
+      "pl": "obrazek, obraz, zdjęcie",
+      "def": "a drawing, a painting or a photo",
+      "example": "This {{picture}} of my cat is on my wall.",
+      "examplePl": "Ten obrazek z moim kotem wisi u mnie na ścianie.",
+      "collocations": [
+        "a picture of my family",
+        "draw a picture"
+      ]
+    },
+    {
+      "id": "w03-21",
+      "term": "clock",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/klɒk/",
+      "pl": "zegar",
+      "def": "a thing on a wall or a table that shows the time",
+      "example": "Look at the {{clock}}! It is eight o'clock.",
+      "examplePl": "Spójrz na zegar! Jest ósma.",
+      "collocations": [
+        "a clock on the wall"
+      ],
+      "note": "**Clock** to zegar na ścianie lub na stole. Zegarek na rękę to **watch**."
+    },
+    {
+      "id": "w03-22",
+      "term": "toy",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/tɔɪ/",
+      "pl": "zabawka",
+      "def": "a thing that children play with",
+      "example": "This teddy bear is my favourite {{toy}}.",
+      "examplePl": "Ten miś to moja ulubiona zabawka.",
+      "collocations": [
+        "play with toys",
+        "a box of toys"
+      ]
+    },
+    {
+      "id": "w03-23",
+      "term": "small",
+      "type": "word",
+      "pos": "adj",
+      "level": "A1",
+      "ipa": "/smɔːl/",
+      "pl": "mały",
+      "def": "not big",
+      "example": "Our kitchen is {{small}}. There is only one chair.",
+      "examplePl": "Nasza kuchnia jest mała. Jest w niej tylko jedno krzesło.",
+      "collocations": [
+        "a small room",
+        "a small house"
+      ]
+    },
+    {
+      "id": "w03-24",
+      "term": "watch TV",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A1",
+      "ipa": "/ˌwɒtʃ ˌtiː ˈviː/",
+      "pl": "oglądać telewizję",
+      "def": "to look at films and programmes on television",
+      "example": "In the evening we {{watch TV}} on the sofa.",
+      "examplePl": "Wieczorem oglądamy telewizję na kanapie.",
+      "collocations": [
+        "watch TV in the evening"
+      ],
+      "note": "Mówimy **watch TV**, bez „the”."
+    }
+  ]
+}

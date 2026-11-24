@@ -1,0 +1,621 @@
+{
+  "week": 3,
+  "intro": "W tym tygodniu poznasz słowa o domu: pokoje, meble i rzeczy, które są w mieszkaniu. Nauczysz się mówić, co gdzie jest, za pomocą there is i there are oraz słów in, on, under, next to i behind. Na koniec napiszesz wiadomość o swoim pokoju.",
+  "reading": {
+    "title": "My home",
+    "paragraphs": [
+      "Hi! I am Maja. I live in a {{small|w03-23}} {{house|w03-01}} with my parents and my brother. There are five {{rooms|w03-02}} in our house. There is a {{kitchen|w03-03}}, a {{living room|w03-06}}, a {{bathroom|w03-05}} and two {{bedrooms|w03-04}}.",
+      "My bedroom is my favourite room. There is a {{bed|w03-07}} next to the {{window|w03-10}}. There is a {{lamp|w03-16}} on my desk. There are three {{pictures|w03-20}} on the {{wall|w03-15}}. My {{toys|w03-22}} are in a big box under the bed.",
+      "There is a green {{sofa|w03-09}} in the living room. Our cat is always on it! There isn't a TV in my bedroom. The TV is in the living room. Behind the house there is a {{garden|w03-13}}. There are two old trees in it. I love my home!"
+    ],
+    "glossary": [
+      {
+        "term": "favourite",
+        "pl": "ulubiony"
+      },
+      {
+        "term": "box",
+        "pl": "pudełko"
+      },
+      {
+        "term": "always",
+        "pl": "zawsze"
+      },
+      {
+        "term": "tree",
+        "pl": "drzewo"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "q": "How many rooms are there in Maja's house?",
+        "options": [
+          "Three",
+          "Four",
+          "Five",
+          "Six"
+        ],
+        "answer": 2,
+        "explanationPl": "W pierwszym akapicie: „There are five rooms in our house”."
+      },
+      {
+        "type": "mc",
+        "q": "Where is Maja's bed?",
+        "options": [
+          "Under the desk",
+          "Next to the window",
+          "Behind the door",
+          "In the living room"
+        ],
+        "answer": 1,
+        "explanationPl": "W drugim akapicie: „There is a bed next to the window”."
+      },
+      {
+        "type": "mc",
+        "q": "Where are Maja's toys?",
+        "options": [
+          "On the sofa",
+          "In the garden",
+          "On her desk",
+          "In a box under the bed"
+        ],
+        "answer": 3,
+        "explanationPl": "W drugim akapicie: „My toys are in a big box under the bed”."
+      },
+      {
+        "type": "tf",
+        "q": "There is a TV in Maja's bedroom.",
+        "answer": "false",
+        "explanationPl": "W trzecim akapicie: „There isn't a TV in my bedroom”. Telewizor jest w salonie."
+      },
+      {
+        "type": "tf",
+        "q": "Maja's cat is black.",
+        "answer": "not_given",
+        "explanationPl": "Wiemy tylko, że kot zawsze jest na kanapie. O kolorze kota nic nie ma w tekście."
+      }
+    ],
+    "discussion": [
+      "How many rooms are there in your home?",
+      "What is there in your bedroom?"
+    ],
+    "wordGloss": {
+      "hi": "cześć",
+      "i": "ja",
+      "am": "jestem",
+      "maja": "Maja (imię)",
+      "live": "mieszkam",
+      "in": "w",
+      "a": "(przedimek nieokreślony: jakiś)",
+      "with": "z",
+      "my": "mój, moja, moje",
+      "parents": "rodzice",
+      "and": "i",
+      "brother": "brat",
+      "there": "(there is, there are: jest, są)",
+      "are": "są",
+      "five": "pięć",
+      "our": "nasz",
+      "house": "dom",
+      "is": "jest",
+      "two": "dwa, dwie",
+      "bedroom": "sypialnia, pokój do spania",
+      "favourite": "ulubiony",
+      "room": "pokój",
+      "next": "obok",
+      "to": "(next to: obok)",
+      "the": "(przedimek określony: ten, ta, to)",
+      "on": "na",
+      "desk": "biurko",
+      "three": "trzy",
+      "big": "duży",
+      "box": "pudełko",
+      "under": "pod",
+      "bed": "łóżko",
+      "green": "zielony",
+      "living": "(living room: salon)",
+      "cat": "kot",
+      "always": "zawsze",
+      "it": "to, ono; nim, niej",
+      "isn't": "nie ma (is not)",
+      "tv": "telewizor",
+      "behind": "za",
+      "old": "stary",
+      "trees": "drzewa (tree)",
+      "love": "kocham, bardzo lubię",
+      "home": "dom (miejsce, gdzie mieszkam)"
+    },
+    "phrases": [
+      {
+        "text": "There are",
+        "pl": "są, znajdują się"
+      },
+      {
+        "text": "There is",
+        "pl": "jest, znajduje się"
+      },
+      {
+        "text": "There isn't",
+        "pl": "nie ma"
+      },
+      {
+        "text": "next to",
+        "pl": "obok"
+      },
+      {
+        "text": "live in",
+        "pl": "mieszkam w"
+      },
+      {
+        "text": "the living room",
+        "pl": "salon"
+      }
+    ]
+  },
+  "grammar": {
+    "title": "There is / there are and prepositions of place",
+    "titlePl": "There is / there are i przyimki miejsca",
+    "summaryPl": "**There is** i **there are** mówią, że coś gdzieś jest. Małe słowa **in, on, under, next to, behind** mówią, gdzie dokładnie to jest.",
+    "sections": [
+      {
+        "heading": "There is, there are",
+        "bodyPl": "Gdy mówimy o jednej rzeczy, zaczynamy od **there is**: **There is a bed.** Gdy rzeczy jest więcej, mówimy **there are**: **There are two beds.** W mowie często skracamy **there is** do **there's**. Gdy wymieniamy kilka rzeczy i pierwsza jest jedna, też mówimy **there is**: **There is a sofa and a TV.**",
+        "examples": [
+          {
+            "en": "There is a table in the kitchen.",
+            "pl": "W kuchni jest stół."
+          },
+          {
+            "en": "There are four chairs in the kitchen.",
+            "pl": "W kuchni są cztery krzesła."
+          },
+          {
+            "en": "There's a clock on the wall.",
+            "pl": "Na ścianie jest zegar."
+          },
+          {
+            "en": "There are two bedrooms in our flat.",
+            "pl": "W naszym mieszkaniu są dwie sypialnie."
+          }
+        ]
+      },
+      {
+        "heading": "Nie ma: there isn't, there aren't",
+        "bodyPl": "Gdy czegoś nie ma, dodajemy **not**: **there is not** albo krócej **there isn't** (jedna rzecz), **there are not** albo krócej **there aren't** (wiele rzeczy). Po **there aren't** zwykle mówimy jeszcze **any**: **There aren't any toys.**",
+        "examples": [
+          {
+            "en": "There isn't a sofa in my bedroom.",
+            "pl": "W moim pokoju nie ma kanapy."
+          },
+          {
+            "en": "There isn't a garden behind our house.",
+            "pl": "Za naszym domem nie ma ogrodu."
+          },
+          {
+            "en": "There aren't any pictures on this wall.",
+            "pl": "Na tej ścianie nie ma żadnych obrazków."
+          }
+        ]
+      },
+      {
+        "heading": "Pytania: Is there…? Are there…?",
+        "bodyPl": "W pytaniu **is** albo **are** stoi na początku: **Is there a lamp?** **Are there two windows?** Krótko odpowiadamy: **Yes, there is.** / **No, there isn't.** albo **Yes, there are.** / **No, there aren't.**",
+        "examples": [
+          {
+            "en": "Is there a TV in your bedroom? No, there isn't.",
+            "pl": "Czy w twoim pokoju jest telewizor? Nie, nie ma."
+          },
+          {
+            "en": "Is there a cupboard in the kitchen? Yes, there is.",
+            "pl": "Czy w kuchni jest szafka? Tak, jest."
+          },
+          {
+            "en": "Are there two bathrooms in your house? Yes, there are.",
+            "pl": "Czy w twoim domu są dwie łazienki? Tak, są."
+          }
+        ]
+      },
+      {
+        "heading": "Gdzie to jest? in, on, under, next to, behind",
+        "bodyPl": "**In** znaczy „w”, **on** znaczy „na”, **under** znaczy „pod”, **next to** znaczy „obok”, a **behind** znaczy „za”. Te słowa stoją przed nazwą miejsca: **on the table**, **under the bed**.",
+        "examples": [
+          {
+            "en": "The toys are in the box.",
+            "pl": "Zabawki są w pudełku."
+          },
+          {
+            "en": "The lamp is on the desk.",
+            "pl": "Lampka jest na biurku."
+          },
+          {
+            "en": "The cat is under the table.",
+            "pl": "Kot jest pod stołem."
+          },
+          {
+            "en": "The garden is behind the house, next to the park.",
+            "pl": "Ogród jest za domem, obok parku."
+          }
+        ]
+      }
+    ],
+    "pitfallsPl": [
+      {
+        "wrong": "There is two beds in my room.",
+        "right": "There are two beds in my room.",
+        "whyPl": "Łóżka są dwa, czyli więcej niż jedno, więc mówimy **there are**."
+      },
+      {
+        "wrong": "It is a sofa in the living room.",
+        "right": "There is a sofa in the living room.",
+        "whyPl": "Gdy mówimy, że coś gdzieś jest, zaczynamy od **there is**, a nie od „it is”."
+      },
+      {
+        "wrong": "The cat is in the sofa.",
+        "right": "The cat is on the sofa.",
+        "whyPl": "Kot leży na kanapie, a nie w środku kanapy. „Na” to **on**."
+      },
+      {
+        "wrong": "The lamp is next the bed.",
+        "right": "The lamp is next to the bed.",
+        "whyPl": "„Obok” to dwa słowa: **next to**. Nie wolno zgubić **to**."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "There ___ a big table in the kitchen.",
+        "options": [
+          "are",
+          "is",
+          "am",
+          "have"
+        ],
+        "answer": 1,
+        "explanationPl": "Stół jest jeden, więc mówimy **there is**."
+      },
+      {
+        "type": "mc",
+        "prompt": "There ___ two bedrooms in our flat.",
+        "options": [
+          "are",
+          "is",
+          "has",
+          "be"
+        ],
+        "answer": 0,
+        "explanationPl": "Sypialnie są dwie, więc mówimy **there are**."
+      },
+      {
+        "type": "gap",
+        "prompt": "There ___ a clock on the wall. It is old and brown.",
+        "answers": [
+          "is"
+        ],
+        "explanationPl": "Zegar jest jeden, więc **there is**."
+      },
+      {
+        "type": "mc",
+        "prompt": "There ___ a TV in my bedroom. The TV is in the living room.",
+        "options": [
+          "aren't",
+          "haven't",
+          "isn't",
+          "am not"
+        ],
+        "answer": 2,
+        "explanationPl": "Telewizor jest w salonie, więc w sypialni go nie ma. Jedna rzecz: **there isn't**."
+      },
+      {
+        "type": "gap",
+        "prompt": "There ___ any chairs in this room. We sit on the floor.",
+        "answers": [
+          "aren't",
+          "are not"
+        ],
+        "explanationPl": "Siedzimy na podłodze, więc krzeseł nie ma. Wiele rzeczy: **there aren't** albo **there are not**."
+      },
+      {
+        "type": "mc",
+        "prompt": "___ there a lamp in your bedroom? Yes, there is.",
+        "options": [
+          "Are",
+          "Has",
+          "Do",
+          "Is"
+        ],
+        "answer": 3,
+        "explanationPl": "Pytamy o jedną lampkę, więc pytanie zaczynamy od **Is**."
+      },
+      {
+        "type": "gap",
+        "prompt": "___ there two windows in the kitchen? No, there aren't.",
+        "answers": [
+          "Are"
+        ],
+        "explanationPl": "Pytamy o dwa okna, czyli o wiele rzeczy, więc zaczynamy od **Are**."
+      },
+      {
+        "type": "mc",
+        "prompt": "Are there toys in the box? Yes, there ___.",
+        "options": [
+          "is",
+          "are",
+          "have",
+          "aren't"
+        ],
+        "answer": 1,
+        "explanationPl": "W krótkiej odpowiedzi powtarzamy **are**: Yes, there are."
+      },
+      {
+        "type": "mc",
+        "prompt": "The picture is ___ the wall.",
+        "options": [
+          "under",
+          "in",
+          "on",
+          "next"
+        ],
+        "answer": 2,
+        "explanationPl": "Obrazek wisi na ścianie. „Na” to **on**."
+      },
+      {
+        "type": "mc",
+        "prompt": "I sit ___ my brother at the table. We are together.",
+        "options": [
+          "next to",
+          "under",
+          "on",
+          "in"
+        ],
+        "answer": 0,
+        "explanationPl": "Siedzimy razem, więc siedzę obok brata. „Obok” to **next to**."
+      }
+    ],
+    "testItems": [
+      {
+        "type": "mc",
+        "prompt": "There ___ three pictures on the wall.",
+        "options": [
+          "is",
+          "am",
+          "has",
+          "are"
+        ],
+        "answer": 3,
+        "explanationPl": "Obrazki są trzy, więc mówimy **there are**."
+      },
+      {
+        "type": "gap",
+        "prompt": "There ___ a sofa in my bedroom. I sit on my bed.",
+        "answers": [
+          "isn't",
+          "is not"
+        ],
+        "explanationPl": "Siedzę na łóżku, bo kanapy nie ma. Jedna rzecz: **there isn't** albo **there is not**."
+      },
+      {
+        "type": "mc",
+        "prompt": "Is there a clock in the bathroom? Yes, there ___.",
+        "options": [
+          "is",
+          "are",
+          "has",
+          "isn't"
+        ],
+        "answer": 0,
+        "explanationPl": "W krótkiej odpowiedzi powtarzamy **is**: Yes, there is."
+      },
+      {
+        "type": "mc",
+        "prompt": "My bed is next ___ the window.",
+        "options": [
+          "on",
+          "to",
+          "in",
+          "at"
+        ],
+        "answer": 1,
+        "explanationPl": "„Obok” to zawsze **next to**."
+      }
+    ]
+  },
+  "listening": {
+    "dictation": [
+      {
+        "text": "There is a lamp on the table."
+      },
+      {
+        "text": "There are two bedrooms in our flat."
+      },
+      {
+        "text": "Is there a garden behind the house?"
+      },
+      {
+        "text": "The toys are under my bed."
+      },
+      {
+        "text": "There is not a sofa in the kitchen."
+      }
+    ],
+    "monologue": {
+      "title": "Our new flat",
+      "speaker": "a nine-year-old girl talking about her new flat",
+      "script": [
+        "Hello! I am Zuzia. We have got a new flat. It is small, but it is very nice. There are four rooms in it: a kitchen, a living room, a bathroom and a bedroom.",
+        "The kitchen is my favourite room. There is a big table next to the window. There are four chairs. There is a clock on the wall, too.",
+        "In the living room there is a sofa and a TV. In the evening we watch TV there. There isn't a garden, but there are flowers in the kitchen."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "How many rooms are there in the flat?",
+          "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "answer": 2,
+          "explanationPl": "Zuzia mówi: „There are four rooms in it”."
+        },
+        {
+          "type": "mc",
+          "q": "Where is the big table?",
+          "options": [
+            "In the living room",
+            "Next to the window",
+            "Behind the sofa",
+            "In the bedroom"
+          ],
+          "answer": 1,
+          "explanationPl": "Zuzia mówi o kuchni: „There is a big table next to the window”."
+        },
+        {
+          "type": "mc",
+          "q": "What is on the kitchen wall?",
+          "options": [
+            "A clock",
+            "A picture",
+            "A lamp",
+            "A TV"
+          ],
+          "answer": 0,
+          "explanationPl": "Zuzia mówi: „There is a clock on the wall, too”."
+        }
+      ]
+    }
+  },
+  "writing": {
+    "taskEn": "Write a message to a friend about your room. Is it big or small? What is there in it? Where are the things? Write four or five short sentences.",
+    "taskPl": "Napisz wiadomość do kolegi lub koleżanki o swoim pokoju. Czy jest duży, czy mały? Co w nim jest? Gdzie stoją rzeczy? Napisz cztery lub pięć krótkich zdań.",
+    "genre": "a message to a friend about my room",
+    "minWords": 25,
+    "maxWords": 50,
+    "checklistPl": [
+      "Zacznij od powitania, na przykład Hi i imię.",
+      "Napisz, czy pokój jest duży, czy mały.",
+      "Napisz, co jest w pokoju i gdzie (There is … / There are …).",
+      "Napisz, czego w pokoju nie ma (There isn't …)."
+    ],
+    "usefulPhrases": [
+      "This is my bedroom.",
+      "There is a … next to the …",
+      "There are … on the wall.",
+      "There isn't a …",
+      "What is in your room?"
+    ],
+    "modelAnswer": "Hi Tom! This is my {{bedroom|w03-04}}. It is {{small|w03-23}}, but I like it. There is a {{bed|w03-07}} next to the {{door|w03-11}}. There is a desk under the {{window|w03-10}}. There are two {{pictures|w03-20}} on the {{wall|w03-15}}. There isn't a TV. What is in your room? Bye, Kuba"
+  },
+  "speaking": {
+    "prompts": [
+      {
+        "q": "Do you live in a house or in a flat?",
+        "followUp": "How many rooms are there?"
+      },
+      {
+        "q": "What is there in your bedroom?",
+        "followUp": "Where is your bed?"
+      },
+      {
+        "q": "What is your favourite room at home?",
+        "followUp": "What is there in it?"
+      },
+      {
+        "q": "Is there a garden next to your home?",
+        "followUp": "What is in it?"
+      }
+    ],
+    "shadowing": [
+      "There is a sofa in the living room.",
+      "There are two pictures on the wall.",
+      "Is there a lamp on your desk?",
+      "My toys are in a box under the bed."
+    ],
+    "roleplay": {
+      "titlePl": "Mój pokój",
+      "scenarioPl": "Rozmawiasz z nowym kolegą lub nową koleżanką z klasy. Opowiadacie sobie o swoich pokojach.",
+      "yourRole": "You are talking to a new friend from school. Tell your friend about your bedroom and ask about your friend's room.",
+      "partnerRole": "You are a new friend. Your bedroom is small. There is a bed, a desk and a big window in it.",
+      "opening": "Hi! Tell me about your bedroom. Is it big or small?",
+      "goalsPl": [
+        "Powiedz, co jest w pokoju i gdzie stoi.",
+        "Powiedz, czego w pokoju nie ma.",
+        "Zapytaj o pokój kolegi lub koleżanki (Is there …? Are there …?)."
+      ]
+    }
+  },
+  "practice": {
+    "gapFill": [
+      {
+        "sentence": "We eat breakfast in the ___. Mum cooks there.",
+        "answerId": "w03-03",
+        "answers": [
+          "kitchen"
+        ]
+      },
+      {
+        "sentence": "Please open the ___. I want to come in.",
+        "answerId": "w03-11",
+        "answers": [
+          "door"
+        ]
+      },
+      {
+        "sentence": "There are flowers and trees in our ___.",
+        "answerId": "w03-13",
+        "answers": [
+          "garden"
+        ]
+      },
+      {
+        "sentence": "It is dark. Please ___ the lamp.",
+        "answerId": "w03-18",
+        "answers": [
+          "turn on"
+        ]
+      },
+      {
+        "sentence": "What time is it? Look at the ___ on the wall.",
+        "answerId": "w03-21",
+        "answers": [
+          "clock"
+        ]
+      },
+      {
+        "sentence": "There isn't a chair or a sofa in the room, so we sit on the ___.",
+        "answerId": "w03-14",
+        "answers": [
+          "floor"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "left": "bathroom",
+        "right": "łazienka"
+      },
+      {
+        "left": "cupboard",
+        "right": "szafka"
+      },
+      {
+        "left": "flat",
+        "right": "mieszkanie"
+      },
+      {
+        "left": "sofa",
+        "right": "kanapa"
+      },
+      {
+        "left": "toy",
+        "right": "zabawka"
+      },
+      {
+        "left": "wall",
+        "right": "ściana"
+      }
+    ],
+    "wordFormation": []
+  }
+}

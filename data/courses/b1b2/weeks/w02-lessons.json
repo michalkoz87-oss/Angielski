@@ -1,0 +1,945 @@
+{
+  "week": 2,
+  "intro": "W tym tygodniu mówimy o rodzinie i przyjaciołach: nauczysz się nazywać krewnych, opowiadać o tym, z kim łączy Cię bliska więź, oraz o kłótniach i godzeniu się. Powtórzysz też różnicę między past simple a present perfect, czyli między tym, co wydarzyło się w zakończonej przeszłości, a tym, co trwa lub liczy się do teraz. Na koniec napiszesz nieformalny e-mail z nowinami.",
+  "reading": {
+    "title": "The Sunday Lunch Rule",
+    "paragraphs": [
+      "My grandmother has always had one rule: every Sunday the whole family eats lunch at her house. Last Sunday there were fourteen of us around the table, from my {{elderly|w02-32}} great-uncle to my cousin's baby daughter. When I was younger, I thought these {{family gatherings|w02-40}} were boring. I have changed my mind since then.",
+      "I am an {{only child|w02-04}}, so my cousins have always been like {{siblings|w02-02}} to me. Kuba and I were born in the same month, and people say we are {{like two peas in a pod|w02-30}}. We have known each other all our lives, and we still {{hang out|w02-38}} every weekend. Of course, we don't always {{see eye to eye|w02-20}}. Two years ago we {{fell out|w02-08}} badly over a football match and didn't speak for a month. In the end Kuba {{apologised|w02-14}}, I {{forgave|w02-15}} him, and we {{made up|w02-17}}. We haven't had a serious {{argument|w02-13}} since.",
+      "My grandmother is quite {{strict|w02-22}}. She {{brought up|w02-07}} four children on her own, and she still {{tells us off|w02-18}} when we use our phones at the table. But she is also the person I {{trust|w02-16}} most. She has never {{let me down|w02-28}}, and she has {{supported|w02-09}} every crazy idea I have ever had. Last year, when I wanted to give up the violin, she didn't get angry. She just listened.",
+      "Some of my friends have {{grown apart|w02-27}} from their {{relatives|w02-01}} because they live far away or are simply too busy. I understand that, but I feel lucky. I have just looked at the photos from last Sunday, and everyone is laughing in every single one. Good cooking {{runs in the family|w02-10}}, and so does talking too loudly. I haven't told my grandmother yet, but her Sunday rule is the best thing about our family."
+    ],
+    "glossary": [
+      {
+        "term": "rule",
+        "pl": "zasada, reguła"
+      },
+      {
+        "term": "great-uncle",
+        "pl": "brat dziadka lub babci"
+      },
+      {
+        "term": "change your mind",
+        "pl": "zmienić zdanie"
+      },
+      {
+        "term": "on her own",
+        "pl": "sama, bez niczyjej pomocy"
+      },
+      {
+        "term": "give up",
+        "pl": "zrezygnować z czegoś, rzucić coś"
+      },
+      {
+        "term": "violin",
+        "pl": "skrzypce"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "q": "How did the writer feel about the Sunday lunches as a younger child?",
+        "options": [
+          "The writer loved them",
+          "The writer was too shy to speak",
+          "The writer found them boring",
+          "The writer was not allowed to come"
+        ],
+        "answer": 2,
+        "explanationPl": "W pierwszym akapicie: *When I was younger, I thought these family gatherings were boring*."
+      },
+      {
+        "type": "mc",
+        "q": "Why did the writer and Kuba stop speaking for a month?",
+        "options": [
+          "They argued about a football match",
+          "Kuba moved to another town",
+          "Their grandmother told them off",
+          "Kuba forgot the writer's birthday"
+        ],
+        "answer": 0,
+        "explanationPl": "W drugim akapicie: *we fell out badly over a football match and didn't speak for a month*."
+      },
+      {
+        "type": "mc",
+        "q": "What did the grandmother do when the writer wanted to stop playing the violin?",
+        "options": [
+          "She told the writer off",
+          "She bought a new violin",
+          "She made the writer continue",
+          "She listened without getting angry"
+        ],
+        "answer": 3,
+        "explanationPl": "W trzecim akapicie: *she didn't get angry. She just listened*."
+      },
+      {
+        "type": "tf",
+        "q": "The writer has brothers and sisters.",
+        "answer": "false",
+        "explanationPl": "W drugim akapicie: *I am an only child*, czyli autor tekstu nie ma rodzeństwa."
+      },
+      {
+        "type": "tf",
+        "q": "The writer still plays the violin.",
+        "answer": "not_given",
+        "explanationPl": "Tekst mówi tylko, że rok temu pojawił się pomysł rzucenia skrzypiec, a babcia spokojnie tego wysłuchała. Nie wiemy, jak to się skończyło."
+      },
+      {
+        "type": "mc",
+        "q": "According to the writer, why have some friends grown apart from their relatives?",
+        "options": [
+          "They had serious arguments",
+          "They live far away or have no time",
+          "Their grandparents are too strict",
+          "They prefer to spend time with friends"
+        ],
+        "answer": 1,
+        "explanationPl": "W czwartym akapicie: *because they live far away or are simply too busy*."
+      }
+    ],
+    "discussion": [
+      "Does your family have any rules or traditions like the Sunday lunch?",
+      "Have you ever fallen out with a friend or a relative? How did you make up?",
+      "Is it easier to stay close to friends or to relatives? Why?"
+    ],
+    "wordGloss": {
+      "my": "mój, moja, moje",
+      "grandmother": "babcia",
+      "has": "ma; (has + III forma: czas present perfect)",
+      "always": "zawsze",
+      "had": "miała; miałem, miałam; mieliśmy (have, II i III forma)",
+      "one": "jeden, jedna; (every single one: każde)",
+      "rule": "zasada",
+      "every": "każdy",
+      "sunday": "niedziela",
+      "the": "(przedimek określony)",
+      "whole": "cały",
+      "family": "rodzina",
+      "eats": "je (eat)",
+      "lunch": "obiad, lunch",
+      "at": "u, w, przy",
+      "her": "jej",
+      "house": "dom",
+      "last": "zeszły, ostatni",
+      "there": "(there were: było)",
+      "were": "byli, było (be)",
+      "fourteen": "czternaście",
+      "of": "z, spośród; (przyimek dopełniacza)",
+      "us": "nas",
+      "around": "wokół",
+      "table": "stół",
+      "from": "od",
+      "great-uncle": "brat dziadka lub babci",
+      "to": "do; dla; (przed czasownikiem: tworzy bezokolicznik)",
+      "baby": "malutki; niemowlę",
+      "cousin's": "kuzyna, kuzynki (cousin)",
+      "daughter": "córka",
+      "when": "kiedy, gdy",
+      "i": "ja",
+      "was": "byłem, byłam (be)",
+      "younger": "młodszy (young)",
+      "thought": "myślałem, myślałam (think)",
+      "these": "te, ci",
+      "boring": "nudny",
+      "have": "mam, mają; (have + III forma: czas present perfect)",
+      "changed": "zmieniłem, zmieniłam (change)",
+      "mind": "zdanie, umysł",
+      "since": "od; od tamtej pory",
+      "then": "wtedy",
+      "am": "jestem",
+      "an": "(przedimek nieokreślony)",
+      "so": "więc; tak (samo)",
+      "cousins": "kuzyni (cousin)",
+      "been": "byli (be, III forma)",
+      "like": "jak, niczym",
+      "me": "mnie, mi",
+      "kuba": "Kuba (imię)",
+      "and": "i, a",
+      "born": "urodzony (were born: urodziliśmy się)",
+      "in": "w",
+      "same": "ten sam",
+      "month": "miesiąc",
+      "people": "ludzie",
+      "say": "mówią",
+      "we": "my",
+      "are": "jesteśmy, są",
+      "known": "znamy (know, III forma)",
+      "each": "każdy (each other: siebie nawzajem)",
+      "other": "inny, drugi (each other: siebie nawzajem)",
+      "all": "cały, wszystkie",
+      "our": "nasz, nasze",
+      "lives": "życie (life, l. mn.)",
+      "still": "nadal, wciąż",
+      "weekend": "weekend",
+      "course": "(of course: oczywiście)",
+      "don't": "nie (do not)",
+      "two": "dwa",
+      "years": "lata (year)",
+      "ago": "temu",
+      "badly": "poważnie, mocno",
+      "over": "o, z powodu",
+      "a": "(przedimek nieokreślony)",
+      "football": "piłka nożna",
+      "match": "mecz",
+      "didn't": "nie (did not, czas przeszły)",
+      "speak": "rozmawiać",
+      "for": "przez (jakiś czas)",
+      "end": "koniec (in the end: w końcu)",
+      "him": "mu, jemu, go",
+      "haven't": "nie (have not)",
+      "serious": "poważny",
+      "is": "jest",
+      "quite": "dość",
+      "she": "ona",
+      "four": "czworo, cztery",
+      "children": "dzieci (child)",
+      "on": "na; (on her own: sama)",
+      "own": "własny (on her own: sama)",
+      "use": "używamy",
+      "phones": "telefony (phone)",
+      "but": "ale",
+      "also": "także, również",
+      "person": "osoba",
+      "most": "najbardziej",
+      "never": "nigdy",
+      "crazy": "szalony",
+      "idea": "pomysł",
+      "ever": "kiedykolwiek",
+      "year": "rok",
+      "wanted": "chciałem, chciałam (want)",
+      "give": "dać (give up: zrezygnować, rzucić)",
+      "up": "(give up: zrezygnować, rzucić)",
+      "violin": "skrzypce",
+      "get": "stać się (get angry: zezłościć się)",
+      "angry": "zły, rozgniewany",
+      "just": "po prostu; właśnie, przed chwilą",
+      "listened": "słuchała (listen)",
+      "some": "niektórzy, kilku",
+      "friends": "przyjaciele, znajomi (friend)",
+      "their": "ich, swoich",
+      "because": "ponieważ, bo",
+      "they": "oni",
+      "live": "mieszkają",
+      "far": "daleko",
+      "away": "(far away: daleko stąd)",
+      "or": "albo, lub",
+      "simply": "po prostu",
+      "too": "zbyt, za",
+      "busy": "zajęty",
+      "understand": "rozumiem",
+      "that": "to",
+      "feel": "czuję się",
+      "lucky": "szczęściarz; mający szczęście",
+      "looked": "popatrzyłem, popatrzyłam (look)",
+      "photos": "zdjęcia (photo)",
+      "everyone": "wszyscy, każdy",
+      "laughing": "śmieje się (laugh)",
+      "single": "pojedynczy (every single: każdy bez wyjątku)",
+      "good": "dobry",
+      "cooking": "gotowanie",
+      "does": "(so does: tak samo jak)",
+      "talking": "mówienie, rozmawianie (talk)",
+      "loudly": "głośno",
+      "told": "powiedziałem, powiedziałam (tell)",
+      "yet": "jeszcze (w przeczeniu)",
+      "best": "najlepszy (good)",
+      "thing": "rzecz",
+      "about": "w, o; na temat"
+    },
+    "phrases": [
+      {
+        "text": "fourteen of us",
+        "pl": "nas czternaścioro"
+      },
+      {
+        "text": "changed my mind",
+        "pl": "zmienić zdanie (tu: zmieniłem, zmieniłam zdanie)"
+      },
+      {
+        "text": "since then",
+        "pl": "od tamtej pory"
+      },
+      {
+        "text": "were born",
+        "pl": "urodziliśmy się"
+      },
+      {
+        "text": "each other",
+        "pl": "siebie nawzajem"
+      },
+      {
+        "text": "all our lives",
+        "pl": "całe życie"
+      },
+      {
+        "text": "Of course",
+        "pl": "oczywiście"
+      },
+      {
+        "text": "In the end",
+        "pl": "w końcu"
+      },
+      {
+        "text": "on her own",
+        "pl": "sama, bez niczyjej pomocy"
+      },
+      {
+        "text": "give up",
+        "pl": "zrezygnować z, rzucić"
+      },
+      {
+        "text": "get angry",
+        "pl": "zezłościć się"
+      },
+      {
+        "text": "far away",
+        "pl": "daleko"
+      },
+      {
+        "text": "every single one",
+        "pl": "każde bez wyjątku"
+      },
+      {
+        "text": "so does",
+        "pl": "tak samo jak, podobnie"
+      },
+      {
+        "text": "the best thing about",
+        "pl": "to, co najlepsze w"
+      }
+    ]
+  },
+  "grammar": {
+    "title": "Past simple vs present perfect",
+    "titlePl": "Past simple a present perfect",
+    "summaryPl": "**Past simple** opisuje to, co wydarzyło się w zakończonym czasie (*yesterday, last year, in 2020*). **Present perfect** łączy przeszłość z teraźniejszością: mówi o doświadczeniach, o czymś, co trwa do teraz, albo o czymś, czego skutek widać w tej chwili.",
+    "sections": [
+      {
+        "heading": "Past simple: zakończony czas",
+        "bodyPl": "Używamy **past simple**, gdy wiemy lub mówimy, **kiedy** coś się stało, a ten czas już minął: *yesterday, last week, two years ago, in 2019, when I was a child*. Pytanie *When…?* też wymaga past simple. Pytania i przeczenia tworzymy z *did / didn't* i podstawową formą czasownika.",
+        "examples": [
+          {
+            "en": "We visited my grandparents last weekend.",
+            "pl": "W zeszły weekend odwiedziliśmy dziadków."
+          },
+          {
+            "en": "My sister was born in 2015.",
+            "pl": "Moja siostra urodziła się w 2015 roku."
+          },
+          {
+            "en": "When did you meet your best friend?",
+            "pl": "Kiedy poznaliście się z najlepszym przyjacielem?"
+          },
+          {
+            "en": "I didn't see my cousins at Christmas.",
+            "pl": "Nie widziałem kuzynów w Boże Narodzenie."
+          }
+        ]
+      },
+      {
+        "heading": "Present perfect: czas do teraz",
+        "bodyPl": "**Present perfect** (*have / has* + trzecia forma czasownika) stosujemy, gdy nie mówimy, kiedy dokładnie coś się stało, bo liczy się doświadczenie albo skutek teraz. Typowe słowa: *ever* (kiedykolwiek, w pytaniach), *never* (nigdy), *this week, today* (okres, który jeszcze trwa). Gdy dodajemy zakończony czas, wracamy do past simple.",
+        "examples": [
+          {
+            "en": "Have you ever had an argument with your best friend?",
+            "pl": "Czy zdarzyło Ci się kiedyś pokłócić z najlepszym przyjacielem?"
+          },
+          {
+            "en": "She has never let me down.",
+            "pl": "Nigdy mnie nie zawiodła."
+          },
+          {
+            "en": "I've met his parents. I met them last summer.",
+            "pl": "Poznałem jego rodziców. Poznałem ich zeszłego lata."
+          },
+          {
+            "en": "We have seen each other twice this week.",
+            "pl": "W tym tygodniu widzieliśmy się dwa razy."
+          }
+        ]
+      },
+      {
+        "heading": "For i since: coś trwa do teraz",
+        "bodyPl": "Gdy coś zaczęło się w przeszłości i trwa nadal, po angielsku używamy **present perfect**, a nie czasu teraźniejszego jak po polsku. **For** łączymy z długością okresu (*for five years, for a long time*), a **since** z momentem początkowym (*since 2019, since Monday, since I was a child*). Polskie „od” to raz *for* (od pięciu lat), raz *since* (od 2019 roku).",
+        "examples": [
+          {
+            "en": "I have known Kuba for ten years.",
+            "pl": "Znam Kubę od dziesięciu lat."
+          },
+          {
+            "en": "We have been friends since primary school.",
+            "pl": "Przyjaźnimy się od podstawówki."
+          },
+          {
+            "en": "My aunt has lived in Scotland since 2015.",
+            "pl": "Moja ciocia mieszka w Szkocji od 2015 roku."
+          },
+          {
+            "en": "They haven't spoken to each other for a month.",
+            "pl": "Nie rozmawiają ze sobą od miesiąca."
+          }
+        ]
+      },
+      {
+        "heading": "Just, already, yet",
+        "bodyPl": "Z present perfect często występują trzy słowa. **Just** (właśnie, przed chwilą) i **already** (już) stoją między *have / has* a czasownikiem. **Yet** stoi na końcu zdania: w przeczeniach znaczy „jeszcze (nie)”, a w pytaniach „już”.",
+        "examples": [
+          {
+            "en": "My sister has just had a baby.",
+            "pl": "Moja siostra właśnie urodziła dziecko."
+          },
+          {
+            "en": "I've already apologised to her.",
+            "pl": "Już ją przeprosiłem."
+          },
+          {
+            "en": "He hasn't called his grandmother yet.",
+            "pl": "Jeszcze nie zadzwonił do babci."
+          },
+          {
+            "en": "Have you made up with your brother yet?",
+            "pl": "Czy już pogodziliście się z bratem?"
+          }
+        ]
+      },
+      {
+        "heading": "Been czy gone?",
+        "bodyPl": "**Has been to** znaczy, że ktoś gdzieś był i już wrócił (doświadczenie). **Has gone to** znaczy, że ktoś gdzieś poszedł lub pojechał i jeszcze nie wrócił.",
+        "examples": [
+          {
+            "en": "My uncle has been to Canada twice.",
+            "pl": "Mój wujek był w Kanadzie dwa razy (i wrócił)."
+          },
+          {
+            "en": "Mum has gone to the shop. She'll be back soon.",
+            "pl": "Mama poszła do sklepu. Niedługo wróci."
+          },
+          {
+            "en": "Have you ever been to a big family wedding?",
+            "pl": "Czy zdarzyło Ci się być na dużym rodzinnym weselu?"
+          }
+        ]
+      }
+    ],
+    "pitfallsPl": [
+      {
+        "wrong": "I know her since 2019.",
+        "right": "I have known her since 2019.",
+        "whyPl": "Po polsku mówimy „znam ją od 2019 roku” w czasie teraźniejszym, ale po angielsku stan trwający do teraz wymaga present perfect."
+      },
+      {
+        "wrong": "I have seen my cousin yesterday.",
+        "right": "I saw my cousin yesterday.",
+        "whyPl": "*Yesterday* to zakończony czas, więc potrzebny jest past simple. Present perfect nie łączy się z określeniami typu *yesterday, last week, in 2020*."
+      },
+      {
+        "wrong": "We are friends since five years.",
+        "right": "We have been friends for five years.",
+        "whyPl": "Dwa błędy naraz: potrzebny jest present perfect, a z długością okresu (*five years*) używamy *for*, nie *since*."
+      },
+      {
+        "wrong": "When have you met your best friend?",
+        "right": "When did you meet your best friend?",
+        "whyPl": "Pytanie *When…?* dotyczy konkretnego momentu w przeszłości, więc wymaga past simple."
+      },
+      {
+        "wrong": "She has gone to London twice, and she loved it.",
+        "right": "She has been to London twice, and she loved it.",
+        "whyPl": "Skoro wróciła i opowiada o wrażeniach, mówimy *has been to*. *Has gone to* oznaczałoby, że nadal tam jest."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "We ___ our cousins in Gdańsk last summer.",
+        "options": [
+          "have visited",
+          "visited",
+          "visit",
+          "are visiting"
+        ],
+        "answer": 1,
+        "explanationPl": "*Last summer* to zakończony czas, więc past simple: *visited*."
+      },
+      {
+        "type": "mc",
+        "prompt": "I ___ my best friend since primary school.",
+        "options": [
+          "know",
+          "knew",
+          "am knowing",
+          "have known"
+        ],
+        "answer": 3,
+        "explanationPl": "Znajomość trwa do teraz, a *since* wskazuje jej początek, więc present perfect: *have known*."
+      },
+      {
+        "type": "mc",
+        "prompt": "Have you ___ had a serious argument with a friend?",
+        "options": [
+          "ever",
+          "ago",
+          "since",
+          "last"
+        ],
+        "answer": 0,
+        "explanationPl": "W pytaniach o doświadczenia życiowe używamy *ever* (kiedykolwiek)."
+      },
+      {
+        "type": "mc",
+        "prompt": "My aunt has lived in Scotland ___ 2015.",
+        "options": [
+          "for",
+          "ago",
+          "since",
+          "from"
+        ],
+        "answer": 2,
+        "explanationPl": "*2015* to moment początkowy, więc *since*. *For* łączy się z długością okresu."
+      },
+      {
+        "type": "gap",
+        "prompt": "My grandparents ___ (get) married in 1975.",
+        "answers": [
+          "got"
+        ],
+        "explanationPl": "*In 1975* to zakończony czas, więc past simple czasownika nieregularnego *get*: *got*."
+      },
+      {
+        "type": "gap",
+        "prompt": "I ___ (not / speak) to my cousin since our argument.",
+        "answers": [
+          "haven't spoken",
+          "have not spoken",
+          "'ve not spoken"
+        ],
+        "explanationPl": "*Since our argument* oznacza okres trwający do teraz, więc present perfect w przeczeniu: *haven't spoken*."
+      },
+      {
+        "type": "mc",
+        "prompt": "Dad isn't at home. He has ___ to the airport to pick up my uncle.",
+        "options": [
+          "been",
+          "went",
+          "go",
+          "gone"
+        ],
+        "answer": 3,
+        "explanationPl": "Taty nie ma w domu, bo pojechał i jeszcze nie wrócił, więc *has gone*."
+      },
+      {
+        "type": "mc",
+        "prompt": "'Shall I phone Grandma?' 'There's no need. I've ___ phoned her.'",
+        "options": [
+          "yet",
+          "already",
+          "ever",
+          "since"
+        ],
+        "answer": 1,
+        "explanationPl": "*Already* (już) stoi między *have* a czasownikiem. *Yet* stałoby na końcu zdania."
+      },
+      {
+        "type": "gap",
+        "prompt": "___ (you / ever / fall out) with a close friend?",
+        "answers": [
+          "Have you ever fallen out"
+        ],
+        "explanationPl": "Pytanie o doświadczenie: *Have you ever* + trzecia forma. *Fall – fell – fallen*."
+      },
+      {
+        "type": "gap",
+        "prompt": "We ___ (be) friends for ten years, and we still talk every day.",
+        "answers": [
+          "have been",
+          "'ve been"
+        ],
+        "explanationPl": "Przyjaźń trwa do teraz (*we still talk*), więc present perfect: *have been*."
+      },
+      {
+        "type": "transform",
+        "prompt": "I met Ola five years ago, and she is still my friend.",
+        "keyword": "KNOWN",
+        "gapped": "I ___ for five years.",
+        "answers": [
+          "have known Ola",
+          "'ve known Ola",
+          "have known her",
+          "'ve known her"
+        ],
+        "explanationPl": "Znajomość zaczęła się pięć lat temu i trwa nadal: present perfect z *for* i długością okresu."
+      },
+      {
+        "type": "transform",
+        "prompt": "The last time I saw my cousins was at Christmas.",
+        "keyword": "SEEN",
+        "gapped": "I ___ since Christmas.",
+        "answers": [
+          "haven't seen my cousins",
+          "have not seen my cousins",
+          "'ve not seen my cousins"
+        ],
+        "explanationPl": "Od świąt do teraz nie doszło do spotkania, więc present perfect w przeczeniu z *since*."
+      }
+    ],
+    "testItems": [
+      {
+        "type": "mc",
+        "prompt": "When ___ your parents meet?",
+        "options": [
+          "have",
+          "has",
+          "did",
+          "were"
+        ],
+        "answer": 2,
+        "explanationPl": "Pytanie *When…?* o moment w przeszłości wymaga past simple: *did … meet*."
+      },
+      {
+        "type": "gap",
+        "prompt": "She ___ (already / apologise), so please stop being angry with her.",
+        "answers": [
+          "has already apologised",
+          "'s already apologised",
+          "has already apologized",
+          "'s already apologized"
+        ],
+        "explanationPl": "Skutek jest ważny teraz, a *already* stoi między *has* a czasownikiem: *has already apologised*."
+      },
+      {
+        "type": "mc",
+        "prompt": "I haven't seen my nephew ___ three months.",
+        "options": [
+          "since",
+          "for",
+          "ago",
+          "yet"
+        ],
+        "answer": 1,
+        "explanationPl": "*Three months* to długość okresu, więc *for*."
+      },
+      {
+        "type": "gap",
+        "prompt": "We ___ (fall out) last week, but we made up the next day.",
+        "answers": [
+          "fell out"
+        ],
+        "explanationPl": "*Last week* to zakończony czas, więc past simple: *fell out*."
+      },
+      {
+        "type": "mc",
+        "prompt": "Have you told your sister the good news ___?",
+        "options": [
+          "since",
+          "ago",
+          "for",
+          "yet"
+        ],
+        "answer": 3,
+        "explanationPl": "W pytaniach *yet* (już) stoi na końcu zdania."
+      }
+    ]
+  },
+  "listening": {
+    "dictation": [
+      {
+        "text": "I have known my best friend since we were five."
+      },
+      {
+        "text": "We fell out last month, but we have already made up."
+      },
+      {
+        "text": "Have you ever had an argument with your sister?"
+      },
+      {
+        "text": "My grandmother brought up three children on her own."
+      },
+      {
+        "text": "He has just apologised, so I have decided to forgive him."
+      },
+      {
+        "text": "We have not seen our relatives in Canada for two years."
+      }
+    ],
+    "monologue": {
+      "title": "A friend who moved away",
+      "speaker": "a teenage girl speaking on a school radio show",
+      "script": [
+        "Hello, and welcome back to School Voices. I'm Hania, and today I want to talk about my best friend, Iga. We met on the first day of primary school, so we've known each other for nine years. For most of that time we lived on the same street, and we saw each other every single day.",
+        "Then, last August, Iga's family moved to Wrocław because of her mum's new job. At first I was really upset. I even blamed her a little, which wasn't fair, because it wasn't her decision. We had a silly argument on the phone, and we didn't talk for two weeks.",
+        "In the end I apologised, and since then we've kept in touch much better. We talk online every Sunday evening, and we've already seen each other twice. I went to Wrocław in October, and she came here for the winter holidays.",
+        "So, has our friendship changed? Yes, it has. We don't hang out after school any more. But I've learned that a real friend is someone you can trust, even from three hundred kilometres away. Thanks for listening!"
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "How long have Hania and Iga known each other?",
+          "options": [
+            "For two years",
+            "For five years",
+            "For nine years",
+            "Since last August"
+          ],
+          "answer": 2,
+          "explanationPl": "Hania mówi: *we've known each other for nine years*."
+        },
+        {
+          "type": "mc",
+          "q": "Why did Iga's family move to Wrocław?",
+          "options": [
+            "Because of her mother's new job",
+            "Because they wanted a bigger house",
+            "Because Iga changed schools",
+            "Because their relatives live there"
+          ],
+          "answer": 0,
+          "explanationPl": "W drugiej części: *because of her mum's new job*."
+        },
+        {
+          "type": "mc",
+          "q": "What happened after the argument on the phone?",
+          "options": [
+            "Iga apologised the next day",
+            "Hania went to Wrocław at once",
+            "The girls decided to stop being friends",
+            "The girls did not talk for two weeks"
+          ],
+          "answer": 3,
+          "explanationPl": "Hania mówi: *we didn't talk for two weeks*. Dopiero potem to ona przeprosiła."
+        },
+        {
+          "type": "mc",
+          "q": "How do the girls keep in touch now?",
+          "options": [
+            "They write letters every month",
+            "They talk online every Sunday evening",
+            "They meet every weekend",
+            "They phone each other every day after school"
+          ],
+          "answer": 1,
+          "explanationPl": "W trzeciej części: *We talk online every Sunday evening*."
+        }
+      ]
+    }
+  },
+  "writing": {
+    "taskEn": "Write an informal email to a friend you haven't seen for a while. Tell him or her your news: what has happened recently in your family or among your friends, and suggest meeting soon.",
+    "taskPl": "Napisz nieformalny e-mail do przyjaciela lub przyjaciółki, z którymi dawno nie było okazji się spotkać. Przekaż nowiny: co ostatnio wydarzyło się w Twojej rodzinie lub wśród znajomych, i zaproponuj spotkanie.",
+    "genre": "informal email",
+    "minWords": 90,
+    "maxWords": 130,
+    "checklistPl": [
+      "Zacznij od nieformalnego powitania i krótkich przeprosin za długie milczenie",
+      "Przekaż dwie lub trzy nowiny, używając present perfect (just, already) do samych nowin i past simple do szczegółów z datą",
+      "Użyj co najmniej pięciu wyrażeń z tego tygodnia",
+      "Zadaj przyjacielowi lub przyjaciółce pytanie i zaproponuj spotkanie",
+      "Zakończ nieformalnym zwrotem, na przykład Love albo See you soon"
+    ],
+    "usefulPhrases": [
+      "Sorry I haven't written for so long!",
+      "A lot has happened since we last spoke.",
+      "First, the big news: …",
+      "Do you remember …?",
+      "Have you heard from … yet?",
+      "Let's get together soon!",
+      "Write back soon and tell me your news."
+    ],
+    "modelAnswer": "Hi Marta,\n\nSorry I haven't written for so long! A lot has happened since we last spoke.\n\nFirst, the big news: my sister has just had a baby, so I am an aunt now! My {{nephew|w02-03}} was born two weeks ago, and I have already visited him three times. Last Saturday we had a {{family gathering|w02-40}} at my grandparents' house, and all our {{relatives|w02-01}} came to meet him.\n\nDo you remember my cousin Ania? We {{fell out|w02-08}} in the spring, but we have finally {{made up|w02-17}}. She {{apologised|w02-14}} there, and it feels great to be {{close|w02-05}} again.\n\nHave you heard from Zosia yet? Let's {{get together|w02-37}} soon!\n\nLove,\nEwa"
+  },
+  "speaking": {
+    "prompts": [
+      {
+        "q": "Who are you closest to in your family?",
+        "followUp": "What have you done together recently?"
+      },
+      {
+        "q": "Have you ever fallen out with a good friend?",
+        "followUp": "How did you make up?"
+      },
+      {
+        "q": "How long have you known your best friend?",
+        "followUp": "How did you meet?"
+      },
+      {
+        "q": "Is it better to be an only child or to have siblings?",
+        "followUp": "Why do you think so?"
+      },
+      {
+        "q": "How do you keep in touch with relatives or friends who live far away?",
+        "followUp": "When did you last see them?"
+      }
+    ],
+    "shadowing": [
+      "I've known my best friend since we were in primary school.",
+      "We fell out last year, but we made up a week later.",
+      "Have you ever had a serious argument with someone in your family?",
+      "My grandmother has never let me down, so I trust her completely.",
+      "We haven't seen each other for ages, but we keep in touch online."
+    ],
+    "roleplay": {
+      "titlePl": "Zgoda po kłótni",
+      "scenarioPl": "Tydzień temu doszło do kłótni z bliskim przyjacielem lub przyjaciółką, bo nie udało Ci się przyjść na ważne dla tej osoby wydarzenie. Od tamtej pory nie rozmawiacie. Dzisiaj spotykacie się przypadkiem i chcesz się pogodzić.",
+      "yourRole": "A week ago you fell out with a close friend because you didn't come to his or her birthday party. You haven't spoken since. Apologise, explain what happened and suggest doing something together.",
+      "partnerRole": "You are the friend. You felt let down, but you miss your friend. Listen, ask one or two questions, and decide whether to forgive him or her.",
+      "opening": "Oh, hi. We haven't spoken since my birthday, have we?",
+      "goalsPl": [
+        "Przeproś i wyjaśnij, co się stało w dniu przyjęcia",
+        "Powiedz, jak ważna jest dla Ciebie ta przyjaźń i od jak dawna się znacie",
+        "Zaproponuj wspólne wyjście, żeby się pogodzić"
+      ]
+    }
+  },
+  "practice": {
+    "gapFill": [
+      {
+        "sentence": "Our dog doesn't know how to ___ when guests arrive; it jumps on everyone.",
+        "answerId": "w02-25",
+        "answers": [
+          "behave"
+        ]
+      },
+      {
+        "sentence": "Everyone makes mistakes, so try to ___ your sister; she didn't break your headphones on purpose.",
+        "answerId": "w02-15",
+        "answers": [
+          "forgive"
+        ]
+      },
+      {
+        "sentence": "My parents are quite ___: I have to be home by eight and finish my homework before dinner.",
+        "answerId": "w02-22",
+        "answers": [
+          "strict"
+        ]
+      },
+      {
+        "sentence": "My grandparents celebrated their fiftieth wedding ___ with a big party in June.",
+        "answerId": "w02-21",
+        "answers": [
+          "anniversary"
+        ]
+      },
+      {
+        "sentence": "Tom and his brother are ___; they were born only ten minutes apart.",
+        "answerId": "w02-31",
+        "answers": [
+          "twins"
+        ]
+      },
+      {
+        "sentence": "Dad was furious and ___ my brother for coming home an hour late without phoning.",
+        "answerId": "w02-18",
+        "answers": [
+          "told off"
+        ]
+      },
+      {
+        "sentence": "We promised to ___ after she moved abroad, so we send each other messages every week.",
+        "answerId": "w02-19",
+        "answers": [
+          "keep in touch"
+        ]
+      },
+      {
+        "sentence": "It really ___ me when my sister borrows my clothes without asking.",
+        "answerId": "w02-36",
+        "answers": [
+          "annoys"
+        ]
+      },
+      {
+        "sentence": "Musical talent seems to ___: my mum, my aunt and my grandfather all play the piano.",
+        "answerId": "w02-10",
+        "answers": [
+          "run in the family"
+        ]
+      },
+      {
+        "sentence": "I had a very happy ___; we spent every summer on my grandparents' farm.",
+        "answerId": "w02-35",
+        "answers": [
+          "childhood"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "left": "sibling",
+        "right": "a brother or a sister"
+      },
+      {
+        "left": "nephew",
+        "right": "the son of your brother or sister"
+      },
+      {
+        "left": "niece",
+        "right": "the daughter of your brother or sister"
+      },
+      {
+        "left": "ancestor",
+        "right": "a family member who lived a long time before you"
+      },
+      {
+        "left": "only child",
+        "right": "a person with no brothers or sisters"
+      },
+      {
+        "left": "extended family",
+        "right": "grandparents, aunts, uncles and cousins together"
+      },
+      {
+        "left": "elderly",
+        "right": "a polite word for old"
+      },
+      {
+        "left": "loyal",
+        "right": "always supporting your friends, even in hard times"
+      }
+    ],
+    "wordFormation": [
+      {
+        "sentence": "She sent me a message with an ___ for missing my birthday.",
+        "base": "APOLOGISE",
+        "answers": [
+          "apology"
+        ]
+      },
+      {
+        "sentence": "After a serious argument, ___ is often the first step towards being friends again.",
+        "base": "FORGIVE",
+        "answers": [
+          "forgiveness"
+        ]
+      },
+      {
+        "sentence": "Thank you for being so ___ when I was ill; your messages really helped.",
+        "base": "SUPPORT",
+        "answers": [
+          "supportive"
+        ]
+      },
+      {
+        "sentence": "The teacher was pleased with the children's good ___ during the school trip.",
+        "base": "BEHAVE",
+        "answers": [
+          "behaviour",
+          "behavior"
+        ]
+      },
+      {
+        "sentence": "Her ___ to her old friends is amazing; she never forgets them.",
+        "base": "LOYAL",
+        "answers": [
+          "loyalty"
+        ]
+      },
+      {
+        "sentence": "My little brother can be really ___ when he repeats everything I say.",
+        "base": "ANNOY",
+        "answers": [
+          "annoying"
+        ]
+      }
+    ]
+  }
+}
