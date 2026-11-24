@@ -3,7 +3,7 @@ import * as ui from '../core/ui.js';
 import * as model from '../core/model.js';
 import * as schedule from '../core/schedule.js';
 import * as content from '../core/content.js';
-import { todayKey } from '../core/platform.js';
+import { todayKey, addDays } from '../core/platform.js';
 import { makeIsDone } from './common.js';
 
 const { h } = ui;
@@ -53,12 +53,25 @@ export async function render(root, ctx) {
       h('p', { class: 'muted' }, `Nauka w dni: ${profile.studyDays.map((d) => ['pon.', 'wt.', 'śr.', 'czw.', 'pt.', 'sob.', 'niedz.'][d - 1]).join(', ')} o ${profile.studyTime}. Dni i godzinę zmienisz w Ustawieniach.`),
       h('div', { class: 'cluster' },
         ui.linkButton({ label: 'Dodaj do Kalendarza Google', href: calendar, external: true, icon: 'calendar' }),
+        !st.finished && st.aheadSessions > 0 && ui.button({ label: 'Przyspiesz plan', id: 'plan-speed-up', onClick: async () => {
+          // The next session goes to the next study day (tomorrow when a session is already done today).
+          const from = model.dayStats(today).sessions > 0 ? addDays(today, 1) : today;
+          const startDate = schedule.realign(profile, isDone, from);
+          const endNow = schedule.plannedDate(profile, program.weeks, program.daysPerWeek);
+          const endNew = schedule.plannedDate({ ...profile, startDate }, program.weeks, program.daysPerWeek);
+          if (await ui.confirmDialog({ title: 'Przyspieszyć plan?', confirmLabel: 'Przyspiesz plan',
+            body: `Kolejne sesje przesuną się na najbliższe dni nauki, a zapas zniknie. Koniec kursu wypadnie ${ui.fmtDate(endNew, 'full')} zamiast ${ui.fmtDate(endNow, 'full')}. Wydarzenia już dodane do kalendarza się nie zmienią.` })) {
+            model.setProfile({ startDate });
+            ctx.rerender();
+          }
+        } }),
         !st.finished && st.behindSessions > 0 && ui.button({ label: 'Dopasuj plan do dzisiaj', id: 'plan-realign', onClick: async () => {
           if (await ui.confirmDialog({ title: 'Przesunąć plan?', body: 'Bieżąca sesja zostanie zaplanowana na najbliższy dzień nauki, a kolejne odpowiednio później.', confirmLabel: 'Przesuń plan' })) {
             model.setProfile({ startDate: schedule.realign(profile, isDone, today) });
             ctx.rerender();
           }
         } })),
+      !st.finished && st.aheadSessions > 0 && h('p', { id: 'plan-lead' }, `Zapas: ${ui.count(st.aheadSessions, 'sesja', 'sesje', 'sesji')} przed planem. Opuszczony dzień zużyje zapas, zamiast tworzyć zaległość. Przycisk „Przyspiesz plan” zamienia zapas na wcześniejszy koniec kursu.`),
       h('p', { class: 'muted small' }, `Przycisk otwiera Kalendarz Google z gotowym, powtarzającym się wydarzeniem${me ? ` dla: ${me.name}` : ''}. Wystarczy je zapisać.`)),
     program.modules.map((m) => ui.section({ title: `Moduł ${m.n}: ${m.titlePl}` }, h('div', { class: 'plan__weeks' }, program.weekList.filter((w) => m.weeks.includes(w.week)).map(weekRow))))));
 }

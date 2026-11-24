@@ -7,7 +7,7 @@ import * as content from './content.js';
 
 const ACTIVE_KEY = 'ang-active';
 const DEFAULT_SETTINGS = { studyDays: [1, 2, 3, 4, 5, 6], studyTime: '17:00', maxReviews: 80, accent: 'en-GB', voice: 'auto' };
-const COURSE_KEYS = ['startDate', 'newPerDay'];
+const COURSE_KEYS = ['startDate', 'newPerDay', 'levelHintTests'];
 
 let pid = null;
 let course = null;
@@ -138,6 +138,7 @@ export function getProfile() {
     courseId: course,
     startDate: c.startDate ?? null,
     newPerDay: c.newPerDay ?? null,
+    levelHintTests: c.levelHintTests ?? 0,
   };
 }
 
