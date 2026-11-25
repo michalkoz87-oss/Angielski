@@ -1,0 +1,689 @@
+{
+  "week": 3,
+  "theme": "Home & neighbourhood",
+  "items": [
+    {
+      "id": "w03-01",
+      "term": "detached",
+      "type": "word",
+      "pos": "adj",
+      "level": "B2",
+      "ipa": "/dɪˈtætʃt/",
+      "pl": "wolnostojący",
+      "def": "(of a house) standing alone, not joined to another building",
+      "example": "They sold their flat and bought a {{detached}} house with a garden on all four sides.",
+      "examplePl": "Sprzedali mieszkanie i kupili dom wolnostojący z ogrodem ze wszystkich czterech stron.",
+      "collocations": [
+        "a detached house",
+        "semi-detached"
+      ],
+      "note": "*Semi-detached house* to bliźniak, a *terraced house* to dom w zabudowie szeregowej."
+    },
+    {
+      "id": "w03-02",
+      "term": "block of flats",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B1",
+      "ipa": "/ˌblɒk əv ˈflæts/",
+      "pl": "blok mieszkalny",
+      "def": "a tall building with many separate homes inside",
+      "example": "We live on the ninth floor of a {{block of flats}}, so the lift is very important.",
+      "examplePl": "Mieszkamy na dziewiątym piętrze bloku, więc winda jest bardzo ważna.",
+      "collocations": [
+        "a ten-storey block of flats",
+        "live in a block of flats"
+      ],
+      "note": "Samo *block* rzadko wystarcza; najbezpieczniej mówić *block of flats*. W AmE mówi się *apartment building*."
+    },
+    {
+      "id": "w03-03",
+      "term": "cottage",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˈkɒtɪdʒ/",
+      "pl": "domek (na wsi), chata",
+      "def": "a small house, usually old and in the country",
+      "example": "They spent the holidays in a little stone {{cottage}} in the mountains, far from any town.",
+      "examplePl": "Spędzili wakacje w małym kamiennym domku w górach, z dala od miast.",
+      "collocations": [
+        "a country cottage",
+        "a holiday cottage"
+      ]
+    },
+    {
+      "id": "w03-04",
+      "term": "basement",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˈbeɪsmənt/",
+      "pl": "piwnica, suterena",
+      "def": "the part of a building that is below the level of the street",
+      "example": "We keep our bikes and old boxes downstairs in the {{basement}}, below the ground floor.",
+      "examplePl": "Rowery i stare pudła trzymamy na dole w piwnicy, pod parterem.",
+      "collocations": [
+        "a basement flat",
+        "in the basement"
+      ]
+    },
+    {
+      "id": "w03-05",
+      "term": "attic",
+      "type": "word",
+      "pos": "n",
+      "level": "B2",
+      "ipa": "/ˈætɪk/",
+      "pl": "strych, poddasze",
+      "def": "the space or room at the top of a house, just under the roof",
+      "example": "Grandma keeps her old photographs in boxes up in the {{attic}}, right under the roof.",
+      "examplePl": "Babcia trzyma stare fotografie w pudłach na strychu, pod samym dachem.",
+      "collocations": [
+        "an attic room",
+        "in the attic"
+      ]
+    },
+    {
+      "id": "w03-06",
+      "term": "spacious",
+      "type": "word",
+      "pos": "adj",
+      "level": "B2",
+      "ipa": "/ˈspeɪʃəs/",
+      "pl": "przestronny",
+      "def": "large, with a lot of room inside",
+      "example": "The living room is so {{spacious}} that twenty guests can sit there comfortably.",
+      "examplePl": "Salon jest tak przestronny, że dwudziestu gości może w nim wygodnie usiąść.",
+      "collocations": [
+        "a spacious flat",
+        "light and spacious"
+      ],
+      "family": [
+        "space (n)"
+      ]
+    },
+    {
+      "id": "w03-07",
+      "term": "cosy",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈkəʊzi/",
+      "pl": "przytulny",
+      "def": "warm, comfortable and pleasant, especially of a small place",
+      "example": "With a blanket, a lamp and a cup of tea, my little room feels really {{cosy}} in winter.",
+      "examplePl": "Z kocem, lampką i kubkiem herbaty mój mały pokój jest zimą naprawdę przytulny.",
+      "collocations": [
+        "a cosy room",
+        "warm and cosy"
+      ],
+      "note": "W AmE pisownia *cozy*."
+    },
+    {
+      "id": "w03-08",
+      "term": "move in",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌmuːv ˈɪn/",
+      "pl": "wprowadzić się",
+      "def": "to start living in a new home",
+      "example": "The flat is ready, so we can {{move in}} next weekend and bring all our boxes.",
+      "examplePl": "Mieszkanie jest gotowe, więc w przyszły weekend możemy się wprowadzić i przywieźć wszystkie pudła.",
+      "collocations": [
+        "move in with sb",
+        "move into a new flat"
+      ]
+    },
+    {
+      "id": "w03-09",
+      "term": "settle in",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B2",
+      "ipa": "/ˌsetl ˈɪn/",
+      "pl": "zadomowić się, zaaklimatyzować się",
+      "def": "to start to feel comfortable in a new home, school or job",
+      "example": "The new girl needed help to {{settle in}}, so the teacher asked us to look after her for the first weeks.",
+      "examplePl": "Nowa uczennica potrzebowała pomocy, żeby się zaaklimatyzować, więc nauczyciel poprosił nas, żebyśmy się nią zajęli przez pierwsze tygodnie.",
+      "collocations": [
+        "settle in quickly",
+        "help sb settle in"
+      ]
+    },
+    {
+      "id": "w03-10",
+      "term": "feel at home",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "B1",
+      "ipa": "/ˌfiːl ət ˈhəʊm/",
+      "pl": "czuć się jak u siebie",
+      "def": "to be comfortable and relaxed in a place",
+      "example": "Our hosts were so kind that they made us {{feel at home}} from the very first day.",
+      "examplePl": "Nasi gospodarze byli tak mili, że od pierwszego dnia czuliśmy się u nich jak u siebie.",
+      "collocations": [
+        "make sb feel at home"
+      ]
+    },
+    {
+      "id": "w03-11",
+      "term": "neighbourhood",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˈneɪbəhʊd/",
+      "pl": "okolica, sąsiedztwo, dzielnica",
+      "def": "the area around your home and the people who live there",
+      "example": "Everyone in our {{neighbourhood}} knows each other: the same few streets, the same shop, the same faces.",
+      "examplePl": "W naszej okolicy wszyscy się znają: te same kilka ulic, ten sam sklep, te same twarze.",
+      "collocations": [
+        "a quiet neighbourhood",
+        "a friendly neighbourhood"
+      ],
+      "family": [
+        "neighbour (n)",
+        "neighbouring (adj)"
+      ],
+      "note": "W AmE pisownia *neighborhood*."
+    },
+    {
+      "id": "w03-12",
+      "term": "suburb",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˈsʌbɜːb/",
+      "pl": "przedmieście",
+      "def": "an area where people live that is outside the centre of a city",
+      "example": "They left the city centre for a green {{suburb}} on the edge of the city and travel in by train every day.",
+      "examplePl": "Wyprowadzili się z centrum na zielone przedmieście na skraju miasta i codziennie dojeżdżają pociągiem.",
+      "collocations": [
+        "in the suburbs",
+        "a quiet suburb"
+      ],
+      "family": [
+        "suburban (adj)"
+      ]
+    },
+    {
+      "id": "w03-13",
+      "term": "landlord",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˈlændlɔːd/",
+      "pl": "właściciel wynajmowanego mieszkania",
+      "def": "a person who owns a house or flat and lets other people live there for money",
+      "example": "When the heating broke, we phoned the {{landlord}}, and he sent someone to repair it.",
+      "examplePl": "Gdy zepsuło się ogrzewanie, zadzwoniliśmy do właściciela mieszkania, a on przysłał kogoś do naprawy.",
+      "collocations": [
+        "pay the landlord",
+        "a friendly landlord"
+      ],
+      "note": "O kobiecie mówimy *landlady*. Osoba, która wynajmuje mieszkanie od właściciela, to *tenant*."
+    },
+    {
+      "id": "w03-14",
+      "term": "rent",
+      "type": "word",
+      "pos": "v",
+      "level": "B1",
+      "ipa": "/rent/",
+      "pl": "wynajmować (od kogoś)",
+      "def": "to pay money regularly to live in a home that belongs to someone else",
+      "example": "Three students {{rent}} the flat upstairs and share the cost between them.",
+      "examplePl": "Troje studentów wynajmuje mieszkanie piętro wyżej i dzieli się kosztami.",
+      "collocations": [
+        "rent a flat",
+        "rent a room from sb"
+      ],
+      "family": [
+        "rent (n)",
+        "rental (n)"
+      ],
+      "note": "Gdy właściciel wynajmuje mieszkanie komuś, mówimy *let* albo *rent out*."
+    },
+    {
+      "id": "w03-15",
+      "term": "wardrobe",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˈwɔːdrəʊb/",
+      "pl": "szafa (na ubrania)",
+      "def": "a tall cupboard where you hang your clothes",
+      "example": "Hang your coat in the {{wardrobe}} next to my dresses and jackets.",
+      "examplePl": "Powieś płaszcz w szafie obok moich sukienek i kurtek.",
+      "collocations": [
+        "a built-in wardrobe",
+        "a wardrobe full of clothes"
+      ]
+    },
+    {
+      "id": "w03-16",
+      "term": "chest of drawers",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B1",
+      "ipa": "/ˌtʃest əv ˈdrɔːz/",
+      "pl": "komoda",
+      "def": "a piece of furniture with several parts that slide out, used for keeping clothes",
+      "example": "I keep my socks and T-shirts folded in the {{chest of drawers}} beside my bed.",
+      "examplePl": "Skarpetki i koszulki trzymam poskładane w komodzie obok łóżka.",
+      "collocations": [
+        "a wooden chest of drawers"
+      ],
+      "note": "Liczba mnoga: *chests of drawers*. Słowo *drawers* wymawiamy /drɔːz/, jako jedną sylabę."
+    },
+    {
+      "id": "w03-17",
+      "term": "convenient",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/kənˈviːniənt/",
+      "pl": "dogodny, wygodny (praktyczny)",
+      "def": "easy to use or reach, saving you time or effort",
+      "example": "The flat is very {{convenient}} for the station: it takes two minutes to walk there.",
+      "examplePl": "Mieszkanie jest bardzo dogodnie położone względem dworca: idzie się tam dwie minuty.",
+      "collocations": [
+        "convenient for the shops",
+        "a convenient location"
+      ],
+      "family": [
+        "convenience (n)",
+        "inconvenient (adj)"
+      ],
+      "note": "O wygodnym fotelu czy butach mówimy *comfortable*, nie *convenient*."
+    },
+    {
+      "id": "w03-18",
+      "term": "do up",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B2",
+      "ipa": "/ˌduː ˈʌp/",
+      "pl": "odnowić, wyremontować",
+      "def": "to repair and decorate an old building or room so that it looks good again",
+      "example": "They bought an old farmhouse and spent two years {{doing up}} every room.",
+      "examplePl": "Kupili stary wiejski dom i przez dwa lata remontowali każde pomieszczenie.",
+      "collocations": [
+        "do up a house",
+        "do sth up"
+      ],
+      "note": "Zwrot potoczny, brytyjski; bardziej formalnie: *renovate*."
+    },
+    {
+      "id": "w03-19",
+      "term": "tidy up",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌtaɪdi ˈʌp/",
+      "pl": "posprzątać, uporządkować",
+      "def": "to make a place look neat by putting things where they belong",
+      "example": "Please {{tidy up}} your room before the guests arrive; there are clothes all over the floor.",
+      "examplePl": "Posprzątaj, proszę, swój pokój, zanim przyjdą goście; ubrania leżą na całej podłodze.",
+      "collocations": [
+        "tidy up your room",
+        "tidy up after sb"
+      ]
+    },
+    {
+      "id": "w03-20",
+      "term": "next door",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B1",
+      "ipa": "/ˌnekst ˈdɔː/",
+      "pl": "obok, po sąsiedzku, za ścianą",
+      "def": "in the house or flat that is beside yours",
+      "example": "The family who live {{next door}} have a dog that barks whenever we open our gate.",
+      "examplePl": "Rodzina, która mieszka obok, ma psa, który szczeka, ilekroć otwieramy furtkę.",
+      "collocations": [
+        "live next door to sb",
+        "the people next door",
+        "next-door neighbours"
+      ]
+    },
+    {
+      "id": "w03-21",
+      "term": "ceiling",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˈsiːlɪŋ/",
+      "pl": "sufit",
+      "def": "the top surface inside a room, above your head",
+      "example": "The room has such a high {{ceiling}} that we need a ladder to change the light bulb.",
+      "examplePl": "Pokój ma tak wysoki sufit, że do wymiany żarówki potrzebujemy drabiny.",
+      "collocations": [
+        "a high ceiling",
+        "a low ceiling"
+      ],
+      "note": "Wymowa: /ˈsiːlɪŋ/, na początku słychać /s/."
+    },
+    {
+      "id": "w03-22",
+      "term": "balcony",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˈbælkəni/",
+      "pl": "balkon",
+      "def": "a small outdoor area with a wall or bars around it, joined to the outside of a flat above the ground",
+      "example": "In summer we eat breakfast outside on the {{balcony}} and watch the street below.",
+      "examplePl": "Latem jemy śniadanie na balkonie i patrzymy na ulicę w dole.",
+      "collocations": [
+        "on the balcony",
+        "a flat with a balcony"
+      ],
+      "note": "Akcent pada na pierwszą sylabę: /ˈbælkəni/."
+    },
+    {
+      "id": "w03-23",
+      "term": "storey",
+      "type": "word",
+      "pos": "n",
+      "level": "B2",
+      "ipa": "/ˈstɔːri/",
+      "pl": "piętro, kondygnacja",
+      "def": "one level of a building",
+      "example": "The new library is three {{storeys}} high, with a café on the top level.",
+      "examplePl": "Nowa biblioteka ma trzy kondygnacje, a na najwyższej jest kawiarnia.",
+      "collocations": [
+        "a two-storey house",
+        "the top storey"
+      ],
+      "note": "W AmE pisownia *story*. Mówiąc, gdzie ktoś mieszka, używamy *floor*: *on the second floor*."
+    },
+    {
+      "id": "w03-24",
+      "term": "messy",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈmesi/",
+      "pl": "nieporządny, zabałaganiony",
+      "def": "untidy or dirty, with things in the wrong places",
+      "example": "His desk is so {{messy}} that he can never find a pen or his homework.",
+      "examplePl": "Jego biurko jest tak zabałaganione, że nigdy nie może znaleźć długopisu ani pracy domowej.",
+      "collocations": [
+        "a messy room",
+        "a messy desk"
+      ],
+      "family": [
+        "mess (n)"
+      ]
+    },
+    {
+      "id": "w03-25",
+      "term": "lively",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈlaɪvli/",
+      "pl": "tętniący życiem, ożywiony",
+      "def": "full of people, activity and energy",
+      "example": "It's a {{lively}} square, full of music, laughter and street performers, even late in the evening.",
+      "examplePl": "To tętniący życiem plac, pełen muzyki, śmiechu i ulicznych artystów, nawet późnym wieczorem.",
+      "collocations": [
+        "a lively street",
+        "a lively atmosphere"
+      ],
+      "note": "To przymiotnik, mimo końcówki *-ly*."
+    },
+    {
+      "id": "w03-26",
+      "term": "peaceful",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈpiːsfl/",
+      "pl": "spokojny, cichy",
+      "def": "quiet and calm, without noise or trouble",
+      "example": "After the noisy city, the village felt wonderfully {{peaceful}}; we could only hear the birds.",
+      "examplePl": "Po hałaśliwym mieście wieś wydawała się cudownie spokojna; słychać było tylko ptaki.",
+      "collocations": [
+        "a peaceful village",
+        "peaceful and quiet"
+      ],
+      "family": [
+        "peace (n)",
+        "peacefully (adv)"
+      ]
+    },
+    {
+      "id": "w03-27",
+      "term": "put up",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌpʊt ˈʌp/",
+      "pl": "powiesić, zamontować; rozstawić (namiot)",
+      "def": "to fix something to a wall, or to build something so that it stands",
+      "example": "We need to {{put up}} some shelves in the hall for all these books.",
+      "examplePl": "Musimy zamontować w przedpokoju kilka półek na wszystkie te książki.",
+      "collocations": [
+        "put up shelves",
+        "put up a picture",
+        "put up a tent"
+      ]
+    },
+    {
+      "id": "w03-28",
+      "term": "throw away",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌθrəʊ əˈweɪ/",
+      "pl": "wyrzucić",
+      "def": "to put something you no longer want in the bin",
+      "example": "Don't {{throw away}} that old chair; I can repair it and paint it.",
+      "examplePl": "Nie wyrzucaj tego starego krzesła; mogę je naprawić i pomalować.",
+      "collocations": [
+        "throw sth away",
+        "throw away rubbish"
+      ]
+    },
+    {
+      "id": "w03-29",
+      "term": "household chores",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B2",
+      "ipa": "/ˌhaʊshəʊld ˈtʃɔːz/",
+      "pl": "obowiązki domowe, prace domowe",
+      "def": "the regular jobs you do at home, such as cleaning, washing and cooking",
+      "example": "We share the {{household chores}}: I do the washing-up, and my sister vacuums the floors.",
+      "examplePl": "Dzielimy się obowiązkami domowymi: ja zmywam, a siostra odkurza podłogi.",
+      "collocations": [
+        "do household chores",
+        "share the household chores"
+      ],
+      "note": "*Chore* wymawiamy /tʃɔː/. Nie mylić z *homework*, czyli zadaniem domowym ze szkoły."
+    },
+    {
+      "id": "w03-30",
+      "term": "there's no place like home",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "B2",
+      "ipa": "/ðeəz ˌnəʊ pleɪs laɪk ˈhəʊm/",
+      "pl": "wszędzie dobrze, ale w domu najlepiej",
+      "def": "used to say that your own home is the best and most comfortable place to be",
+      "example": "The trip was wonderful, but as she opened her own front door she said, '{{There's no place like home}}.'",
+      "examplePl": "Wycieczka była cudowna, ale otwierając drzwi własnego domu, powiedziała: „Wszędzie dobrze, ale w domu najlepiej”.",
+      "collocations": []
+    },
+    {
+      "id": "w03-31",
+      "term": "pavement",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˈpeɪvmənt/",
+      "pl": "chodnik",
+      "def": "the hard path at the side of a road where people walk",
+      "example": "Cyclists should ride on the road, not on the {{pavement}}, where people are walking.",
+      "examplePl": "Rowerzyści powinni jeździć po jezdni, a nie po chodniku, gdzie chodzą ludzie.",
+      "collocations": [
+        "walk on the pavement",
+        "a narrow pavement"
+      ],
+      "note": "W AmE: *sidewalk*."
+    },
+    {
+      "id": "w03-32",
+      "term": "outskirts",
+      "type": "word",
+      "pos": "n",
+      "level": "B2",
+      "ipa": "/ˈaʊtskɜːts/",
+      "pl": "obrzeża, peryferie",
+      "def": "the parts of a town or city that are farthest from the centre",
+      "example": "The new shopping centre is on the {{outskirts}} of town, a long bus ride from the centre.",
+      "examplePl": "Nowe centrum handlowe jest na obrzeżach miasta, kawał drogi autobusem od centrum.",
+      "collocations": [
+        "on the outskirts of the city"
+      ],
+      "note": "Zawsze w liczbie mnogiej: *the outskirts*."
+    },
+    {
+      "id": "w03-33",
+      "term": "facilities",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/fəˈsɪlətiz/",
+      "pl": "udogodnienia, obiekty, zaplecze",
+      "def": "buildings, services and equipment that people can use in a place",
+      "example": "The town has excellent sports {{facilities}}, including a swimming pool and two football pitches.",
+      "examplePl": "Miasto ma świetne obiekty sportowe, w tym basen i dwa boiska piłkarskie.",
+      "collocations": [
+        "sports facilities",
+        "local facilities"
+      ],
+      "note": "W tym znaczeniu zwykle w liczbie mnogiej."
+    },
+    {
+      "id": "w03-34",
+      "term": "crowded",
+      "type": "word",
+      "pos": "adj",
+      "level": "B1",
+      "ipa": "/ˈkraʊdɪd/",
+      "pl": "zatłoczony",
+      "def": "full of people, with very little free room",
+      "example": "The bus was so {{crowded}} this morning that I had to stand all the way.",
+      "examplePl": "Autobus był dziś rano tak zatłoczony, że całą drogę trzeba było stać.",
+      "collocations": [
+        "a crowded street",
+        "crowded with tourists"
+      ],
+      "family": [
+        "crowd (n)",
+        "overcrowded (adj)"
+      ]
+    },
+    {
+      "id": "w03-35",
+      "term": "shabby",
+      "type": "word",
+      "pos": "adj",
+      "level": "B2",
+      "ipa": "/ˈʃæbi/",
+      "pl": "zaniedbany, odrapany",
+      "def": "old and in bad condition because it has not been looked after",
+      "example": "The hotel looked {{shabby}}: the paint was coming off the walls and the carpets were worn.",
+      "examplePl": "Hotel wyglądał na zaniedbany: farba schodziła ze ścian, a dywany były wytarte.",
+      "collocations": [
+        "a shabby building",
+        "shabby furniture"
+      ]
+    },
+    {
+      "id": "w03-36",
+      "term": "central heating",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B1",
+      "ipa": "/ˌsentrəl ˈhiːtɪŋ/",
+      "pl": "centralne ogrzewanie",
+      "def": "a system that warms a whole building by sending hot water or air to every room",
+      "example": "The cottage has no {{central heating}}, so we light a fire to keep warm in winter.",
+      "examplePl": "W domku nie ma centralnego ogrzewania, więc zimą palimy w kominku, żeby było ciepło.",
+      "collocations": [
+        "gas central heating",
+        "turn on the central heating"
+      ]
+    },
+    {
+      "id": "w03-37",
+      "term": "move out",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌmuːv ˈaʊt/",
+      "pl": "wyprowadzić się",
+      "def": "to leave the home where you live and go to live somewhere else",
+      "example": "My brother {{moved out}} when he started university, and now I have his room.",
+      "examplePl": "Mój brat wyprowadził się, gdy zaczął studia, i teraz mam jego pokój.",
+      "collocations": [
+        "move out of a flat",
+        "move out of your parents' house"
+      ]
+    },
+    {
+      "id": "w03-38",
+      "term": "show around",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌʃəʊ əˈraʊnd/",
+      "pl": "oprowadzić",
+      "def": "to walk with someone through a place they do not know and point out its parts",
+      "example": "The estate agent {{showed us around}} the flat and answered all our questions.",
+      "examplePl": "Agent nieruchomości oprowadził nas po mieszkaniu i odpowiedział na wszystkie pytania.",
+      "collocations": [
+        "show sb around",
+        "show sb around the house"
+      ],
+      "note": "Dopełnienie stoi w środku: *show us around*. W BrE mówi się też *show sb round*."
+    },
+    {
+      "id": "w03-39",
+      "term": "within walking distance",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B2",
+      "ipa": "/wɪˌðɪn ˈwɔːkɪŋ dɪstəns/",
+      "pl": "w odległości krótkiego spaceru; tak blisko, że można dojść pieszo",
+      "def": "near enough to reach on foot",
+      "example": "We don't need a car, because the shops and the school are all {{within walking distance}} of our house.",
+      "examplePl": "Nie potrzebujemy samochodu, bo do sklepów i szkoły można od nas dojść pieszo.",
+      "collocations": [
+        "within walking distance of the centre",
+        "within easy walking distance"
+      ]
+    },
+    {
+      "id": "w03-40",
+      "term": "a stone's throw",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "B2",
+      "ipa": "/ə ˌstəʊnz ˈθrəʊ/",
+      "pl": "rzut kamieniem, dwa kroki (od czegoś)",
+      "def": "a very short distance",
+      "example": "Their hotel was only {{a stone's throw}} from the beach, so they swam before breakfast.",
+      "examplePl": "Ich hotel był o rzut kamieniem od plaży, więc pływali przed śniadaniem.",
+      "collocations": [
+        "a stone's throw from sth",
+        "a stone's throw away"
+      ]
+    }
+  ]
+}

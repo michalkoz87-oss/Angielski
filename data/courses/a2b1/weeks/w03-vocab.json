@@ -1,0 +1,571 @@
+{
+  "week": 3,
+  "theme": "School & learning",
+  "items": [
+    {
+      "id": "w03-01",
+      "term": "subject",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈsʌbdʒɪkt/",
+      "pl": "przedmiot (szkolny)",
+      "def": "something you study at school, for example maths or art",
+      "example": "Maths is my favourite {{subject}}, but I also like art and music.",
+      "examplePl": "Matematyka to mój ulubiony przedmiot, ale lubię też plastykę i muzykę.",
+      "collocations": [
+        "school subjects",
+        "favourite subject"
+      ],
+      "note": "Przedmiot w znaczeniu „rzecz” to *object*."
+    },
+    {
+      "id": "w03-02",
+      "term": "timetable",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈtaɪmteɪbl/",
+      "pl": "plan lekcji",
+      "def": "a list that shows the days and times of your lessons",
+      "example": "According to the {{timetable}}, we have English at nine o'clock on Mondays.",
+      "examplePl": "Według planu lekcji w poniedziałki o dziewiątej mamy angielski.",
+      "collocations": [
+        "a school timetable",
+        "check the timetable"
+      ],
+      "note": "*Timetable* to także rozkład jazdy. W AmE: *schedule*."
+    },
+    {
+      "id": "w03-03",
+      "term": "science",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈsaɪəns/",
+      "pl": "przyroda, nauki przyrodnicze",
+      "def": "the study of nature and how things in the world work",
+      "example": "In {{science}} we did an experiment with plants and learned how they grow.",
+      "examplePl": "Na przyrodzie zrobiliśmy doświadczenie z roślinami i dowiedzieliśmy się, jak rosną.",
+      "collocations": [
+        "a science lesson",
+        "a science teacher"
+      ],
+      "family": [
+        "scientist (n)",
+        "scientific (adj)"
+      ],
+      "note": "Wymowa: /ˈsaɪəns/. Litery *c* po *s* nie słychać."
+    },
+    {
+      "id": "w03-04",
+      "term": "geography",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/dʒiˈɒɡrəfi/",
+      "pl": "geografia",
+      "def": "the study of countries, rivers, mountains and the people who live in different places",
+      "example": "In {{geography}} we learned the names of all the big rivers in Europe.",
+      "examplePl": "Na geografii nauczyliśmy się nazw wszystkich dużych rzek w Europie.",
+      "collocations": [
+        "a geography lesson",
+        "a geography test"
+      ]
+    },
+    {
+      "id": "w03-05",
+      "term": "history",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈhɪstri/",
+      "pl": "historia",
+      "def": "the study of things that happened in the past",
+      "example": "I like {{history}} because I enjoy learning about kings, queens and old castles.",
+      "examplePl": "Lubię historię, bo ciekawią mnie królowie, królowe i stare zamki.",
+      "collocations": [
+        "a history lesson",
+        "a history book"
+      ],
+      "family": [
+        "historical (adj)",
+        "historian (n)"
+      ],
+      "note": "Opowieść, opowiadanie to *story*, nie *history*."
+    },
+    {
+      "id": "w03-06",
+      "term": "break",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/breɪk/",
+      "pl": "przerwa",
+      "def": "a short time between lessons when you can rest, eat or play",
+      "example": "We played football during the {{break}} and came back to class tired.",
+      "examplePl": "Podczas przerwy graliśmy w piłkę i wróciliśmy do klasy zmęczeni.",
+      "collocations": [
+        "a lunch break",
+        "have a break",
+        "at break"
+      ]
+    },
+    {
+      "id": "w03-07",
+      "term": "take an exam",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A2",
+      "ipa": "/ˌteɪk ən ɪɡˈzæm/",
+      "pl": "zdawać egzamin, podchodzić do egzaminu",
+      "def": "to do an important test to show what you know",
+      "example": "Next June all the students in my class will {{take an exam}} in English.",
+      "examplePl": "W czerwcu przyszłego roku wszyscy uczniowie z mojej klasy będą zdawać egzamin z angielskiego.",
+      "collocations": [
+        "take an exam in maths",
+        "take an English exam"
+      ],
+      "note": "*Take an exam* znaczy tylko „podejść do egzaminu”. „Zdać” (z dobrym wynikiem) to *pass an exam*."
+    },
+    {
+      "id": "w03-08",
+      "term": "hand in",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌhænd ˈɪn/",
+      "pl": "oddać (pracę nauczycielowi)",
+      "def": "to give your finished work to a teacher",
+      "example": "Please {{hand in}} your finished projects to Mrs Brown by Friday.",
+      "examplePl": "Proszę oddać gotowe projekty pani Brown do piątku.",
+      "collocations": [
+        "hand in your homework",
+        "hand in a project"
+      ],
+      "note": "Z zaimkiem: *hand it in*, nie *hand in it*."
+    },
+    {
+      "id": "w03-09",
+      "term": "mark",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/mɑːk/",
+      "pl": "ocena, stopień",
+      "def": "a number or letter that shows how good your work is",
+      "example": "Ola got a very good {{mark}} in the maths test, so her parents were happy.",
+      "examplePl": "Ola dostała bardzo dobrą ocenę ze sprawdzianu z matematyki, więc jej rodzice byli zadowoleni.",
+      "collocations": [
+        "get a good mark",
+        "a bad mark",
+        "full marks"
+      ],
+      "note": "W AmE: *grade*."
+    },
+    {
+      "id": "w03-10",
+      "term": "test",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/test/",
+      "pl": "sprawdzian, test",
+      "def": "a set of questions that checks how much you know",
+      "example": "We have a vocabulary {{test}} every Friday, with twenty questions about new words.",
+      "examplePl": "W każdy piątek mamy sprawdzian ze słówek, z dwudziestoma pytaniami o nowe wyrazy.",
+      "collocations": [
+        "a maths test",
+        "have a test",
+        "do a test"
+      ]
+    },
+    {
+      "id": "w03-11",
+      "term": "pass",
+      "type": "word",
+      "pos": "v",
+      "level": "A2",
+      "ipa": "/pɑːs/",
+      "pl": "zdać",
+      "def": "to be successful in an exam or test",
+      "example": "You need fifty per cent to {{pass}} this exam, so it is not very hard.",
+      "examplePl": "Żeby zdać ten egzamin, trzeba mieć pięćdziesiąt procent, więc nie jest bardzo trudny.",
+      "collocations": [
+        "pass an exam",
+        "pass a test"
+      ],
+      "note": "Uwaga: *pass an exam* to „zdać egzamin” (z dobrym wynikiem), a nie „zdawać”. „Zdawać” to *take an exam*."
+    },
+    {
+      "id": "w03-12",
+      "term": "fail",
+      "type": "word",
+      "pos": "v",
+      "level": "A2",
+      "ipa": "/feɪl/",
+      "pl": "nie zdać, oblać",
+      "def": "to not be successful in an exam or test",
+      "example": "He didn't study at all, so nobody was surprised when he {{failed}} the test.",
+      "examplePl": "W ogóle się nie uczył, więc nikt się nie zdziwił, gdy oblał sprawdzian.",
+      "collocations": [
+        "fail an exam",
+        "fail a test"
+      ],
+      "family": [
+        "failure (n)"
+      ]
+    },
+    {
+      "id": "w03-13",
+      "term": "revise",
+      "type": "word",
+      "pos": "v",
+      "level": "B1",
+      "ipa": "/rɪˈvaɪz/",
+      "pl": "powtarzać (materiał), uczyć się do sprawdzianu",
+      "def": "to study something again before a test or an exam",
+      "example": "I need to {{revise}} for tomorrow's history test, so I can't go out tonight.",
+      "examplePl": "Muszę się pouczyć do jutrzejszego sprawdzianu z historii, więc nie mogę dziś wyjść.",
+      "collocations": [
+        "revise for a test",
+        "revise for an exam"
+      ],
+      "family": [
+        "revision (n)"
+      ],
+      "note": "W AmE mówi się *review*."
+    },
+    {
+      "id": "w03-14",
+      "term": "mistake",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/mɪˈsteɪk/",
+      "pl": "błąd",
+      "def": "something you do, say or write that is not correct",
+      "example": "She checked her essay twice and found only one spelling {{mistake}}.",
+      "examplePl": "Sprawdziła wypracowanie dwa razy i znalazła tylko jeden błąd ortograficzny.",
+      "collocations": [
+        "make a mistake",
+        "a spelling mistake",
+        "by mistake"
+      ],
+      "note": "Mówimy *make a mistake*, nie *do a mistake*."
+    },
+    {
+      "id": "w03-15",
+      "term": "be good at",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A2",
+      "ipa": "/bi ˈɡʊd ət/",
+      "pl": "być dobrym w czymś, dobrze sobie radzić z",
+      "def": "to be able to do something well",
+      "example": "My sister {{is good at}} languages; she speaks English, German and Spanish.",
+      "examplePl": "Moja siostra jest dobra z języków; mówi po angielsku, niemiecku i hiszpańsku.",
+      "collocations": [
+        "be good at maths",
+        "be good at drawing",
+        "be bad at sth"
+      ],
+      "note": "Zawsze z *at*: *good at maths*, nie *good in maths*. Czasownik po *at* ma końcówkę *-ing*: *good at drawing*."
+    },
+    {
+      "id": "w03-16",
+      "term": "look up",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌlʊk ˈʌp/",
+      "pl": "sprawdzić (w słowniku, w internecie)",
+      "def": "to try to find a piece of information in a book or on the internet",
+      "example": "If you don't know a word, {{look up}} the word in a dictionary.",
+      "examplePl": "Jeśli nie znasz jakiegoś słowa, sprawdź je w słowniku.",
+      "collocations": [
+        "look up a word",
+        "look sth up in a dictionary"
+      ],
+      "note": "Z zaimkiem: *look it up*."
+    },
+    {
+      "id": "w03-17",
+      "term": "dictionary",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈdɪkʃənri/",
+      "pl": "słownik",
+      "def": "a book or website that explains what words mean",
+      "example": "I use an online {{dictionary}} to check the meaning and pronunciation of new words.",
+      "examplePl": "Korzystam ze słownika internetowego, żeby sprawdzać znaczenie i wymowę nowych słów.",
+      "collocations": [
+        "an English dictionary",
+        "use a dictionary"
+      ]
+    },
+    {
+      "id": "w03-18",
+      "term": "explain",
+      "type": "word",
+      "pos": "v",
+      "level": "A2",
+      "ipa": "/ɪkˈspleɪn/",
+      "pl": "wyjaśnić, wytłumaczyć",
+      "def": "to make something clear or easy to understand by talking about it",
+      "example": "We didn't understand the exercise, so the teacher {{explained}} it again.",
+      "examplePl": "Nie rozumieliśmy ćwiczenia, więc nauczyciel wytłumaczył je jeszcze raz.",
+      "collocations": [
+        "explain sth to sb",
+        "explain the rules"
+      ],
+      "family": [
+        "explanation (n)"
+      ],
+      "note": "Mówimy *explain it to me*, nie *explain me it*."
+    },
+    {
+      "id": "w03-19",
+      "term": "term",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/tɜːm/",
+      "pl": "semestr, okres (część roku szkolnego)",
+      "def": "one of the parts of the school year",
+      "example": "The summer {{term}} ends in July, and then the summer holidays start.",
+      "examplePl": "Letni semestr kończy się w lipcu, a potem zaczynają się wakacje.",
+      "collocations": [
+        "the autumn term",
+        "the end of term"
+      ],
+      "note": "W brytyjskich szkołach rok dzieli się zwykle na trzy okresy (*terms*). W AmE używa się słowa *semester*."
+    },
+    {
+      "id": "w03-20",
+      "term": "uniform",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈjuːnɪfɔːm/",
+      "pl": "mundurek, mundur",
+      "def": "the same special clothes that everyone in one school or job wears",
+      "example": "At my cousin's school in England everybody wears a green {{uniform}} with a tie.",
+      "examplePl": "W szkole mojego kuzyna w Anglii wszyscy noszą zielony mundurek z krawatem.",
+      "collocations": [
+        "a school uniform",
+        "wear a uniform"
+      ]
+    },
+    {
+      "id": "w03-21",
+      "term": "pupil",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈpjuːpl/",
+      "pl": "uczeń, uczennica",
+      "def": "a child who goes to school",
+      "example": "Our school is small: there are only ninety {{pupils}} and eight teachers.",
+      "examplePl": "Nasza szkoła jest mała: jest w niej tylko dziewięćdziesięciu uczniów i ośmiu nauczycieli.",
+      "collocations": [
+        "a primary school pupil",
+        "a new pupil"
+      ],
+      "note": "*Pupil* to uczeń młodszych klas (BrE). O starszych uczniach i studentach mówimy *student*."
+    },
+    {
+      "id": "w03-22",
+      "term": "project",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈprɒdʒekt/",
+      "pl": "projekt",
+      "def": "a piece of school work in which you collect information about a topic and present it",
+      "example": "For our history {{project}}, we made a poster about life in old castles.",
+      "examplePl": "W ramach projektu z historii zrobiliśmy plakat o życiu w dawnych zamkach.",
+      "collocations": [
+        "a school project",
+        "do a project on sth"
+      ]
+    },
+    {
+      "id": "w03-23",
+      "term": "learn by heart",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "B1",
+      "ipa": "/ˌlɜːn baɪ ˈhɑːt/",
+      "pl": "nauczyć się na pamięć",
+      "def": "to learn something so well that you can say it without looking",
+      "example": "The poem is short, so it is easy to {{learn by heart}}.",
+      "examplePl": "Wiersz jest krótki, więc łatwo nauczyć się go na pamięć.",
+      "collocations": [
+        "learn a poem by heart",
+        "know sth by heart"
+      ],
+      "note": "Krótkie dopełnienie stoi zwykle w środku: *learn a poem by heart*."
+    },
+    {
+      "id": "w03-24",
+      "term": "find out",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B1",
+      "ipa": "/ˌfaɪnd ˈaʊt/",
+      "pl": "dowiedzieć się",
+      "def": "to get a piece of information that you did not know before",
+      "example": "Mum phoned the school to {{find out}} what time the trip starts.",
+      "examplePl": "Mama zadzwoniła do szkoły, żeby się dowiedzieć, o której zaczyna się wycieczka.",
+      "collocations": [
+        "find out about sth",
+        "find out the truth"
+      ],
+      "note": "Czasownik nieregularny: *find – found – found*."
+    },
+    {
+      "id": "w03-25",
+      "term": "library",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈlaɪbrəri/",
+      "pl": "biblioteka",
+      "def": "a place where you can read and borrow books",
+      "example": "You can borrow up to five books from the school {{library}} for two weeks.",
+      "examplePl": "Ze szkolnej biblioteki można wypożyczyć do pięciu książek na dwa tygodnie.",
+      "collocations": [
+        "the school library",
+        "a public library"
+      ],
+      "family": [
+        "librarian (n)"
+      ],
+      "note": "Fałszywy przyjaciel: księgarnia to *bookshop*."
+    },
+    {
+      "id": "w03-26",
+      "term": "improve",
+      "type": "word",
+      "pos": "v",
+      "level": "A2",
+      "ipa": "/ɪmˈpruːv/",
+      "pl": "poprawić (się), polepszyć (się)",
+      "def": "to become better or to make something better",
+      "example": "Her English started to {{improve}} when she began watching films without Polish subtitles.",
+      "examplePl": "Jej angielski zaczął się poprawiać, gdy zaczęła oglądać filmy bez polskich napisów.",
+      "collocations": [
+        "improve your English",
+        "improve a lot"
+      ],
+      "family": [
+        "improvement (n)"
+      ]
+    },
+    {
+      "id": "w03-27",
+      "term": "education",
+      "type": "word",
+      "pos": "n",
+      "level": "B1",
+      "ipa": "/ˌedʒuˈkeɪʃn/",
+      "pl": "edukacja, wykształcenie",
+      "def": "the process of teaching and learning, usually at school or university",
+      "example": "A good {{education}} helps young people to find interesting work later in life.",
+      "examplePl": "Dobre wykształcenie pomaga młodym ludziom znaleźć później ciekawą pracę.",
+      "collocations": [
+        "a good education",
+        "primary education"
+      ],
+      "family": [
+        "educate (v)",
+        "educational (adj)"
+      ]
+    },
+    {
+      "id": "w03-28",
+      "term": "take notes",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B1",
+      "ipa": "/ˌteɪk ˈnəʊts/",
+      "pl": "robić notatki",
+      "def": "to write the most important information while you listen or read",
+      "example": "I always {{take notes}} in class, because they help me to remember the lesson later.",
+      "examplePl": "Zawsze robię notatki na lekcji, bo pomagają mi później przypomnieć sobie lekcję.",
+      "collocations": [
+        "take notes in class",
+        "take notes on sth"
+      ],
+      "note": "Mówimy *take notes* albo *make notes*, nie *do notes*."
+    },
+    {
+      "id": "w03-29",
+      "term": "college",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˈkɒlɪdʒ/",
+      "pl": "szkoła policealna, uczelnia",
+      "def": "a place where people study after they finish secondary school",
+      "example": "After secondary school my brother went to {{college}} to study cooking.",
+      "examplePl": "Po szkole średniej mój brat poszedł do szkoły policealnej, żeby uczyć się gotowania.",
+      "collocations": [
+        "go to college",
+        "a college student"
+      ],
+      "note": "Fałszywy przyjaciel: *college* to rodzaj szkoły lub uczelni, a „kolega” to *friend* albo *classmate*."
+    },
+    {
+      "id": "w03-30",
+      "term": "pay attention",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B1",
+      "ipa": "/ˌpeɪ əˈtenʃn/",
+      "pl": "uważać, słuchać uważnie",
+      "def": "to listen and watch carefully",
+      "example": "Please {{pay attention}} to the board and stop talking; I will explain this rule only once.",
+      "examplePl": "Proszę patrzeć uważnie na tablicę i przestać rozmawiać; wytłumaczę tę zasadę tylko raz.",
+      "collocations": [
+        "pay attention to sth",
+        "pay attention in class"
+      ],
+      "note": "Mówimy *pay attention*, nie *give attention*. Dalej stoi *to*: *pay attention to the teacher*."
+    },
+    {
+      "id": "w03-31",
+      "term": "write down",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "A2",
+      "ipa": "/ˌraɪt ˈdaʊn/",
+      "pl": "zapisać",
+      "def": "to put words or numbers on paper so that you do not forget them",
+      "example": "{{Write down}} the new words in your notebook so you can learn them at home.",
+      "examplePl": "Zapisz nowe słowa w zeszycie, żeby móc się ich nauczyć w domu.",
+      "collocations": [
+        "write down a word",
+        "write sth down"
+      ]
+    },
+    {
+      "id": "w03-32",
+      "term": "head teacher",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/ˌhed ˈtiːtʃə/",
+      "pl": "dyrektor szkoły, dyrektorka szkoły",
+      "def": "the person who is in charge of a school",
+      "example": "The {{head teacher}} spoke to the whole school on the first day of term.",
+      "examplePl": "Pierwszego dnia semestru dyrektor przemówił do całej szkoły.",
+      "collocations": [
+        "the head teacher's office"
+      ],
+      "note": "Fałszywy przyjaciel: *director* to dyrektor firmy albo reżyser. W AmE dyrektor szkoły to *principal*."
+    }
+  ]
+}

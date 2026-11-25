@@ -1,0 +1,907 @@
+{
+  "week": 3,
+  "intro": "W tym tygodniu mówimy o domu i okolicy: nauczysz się opisywać rodzaje domów, pomieszczenia i meble, opowiadać o przeprowadzce i o tym, co jest w pobliżu. Poznasz też konstrukcje used to i would, którymi opisujemy dawne zwyczaje, oraz be / get used to, czyli „być przyzwyczajonym” i „przyzwyczajać się”. Na koniec opiszesz miejsce, które dobrze znasz.",
+  "reading": {
+    "title": "From the Fourth Floor to the Attic",
+    "paragraphs": [
+      "Until last year my family lived in a small flat on the fourth floor of a {{block of flats|w03-02}} in the city centre. It was {{crowded|w03-34}} and a bit {{shabby|w03-35}}, but I loved it. There used to be a bakery {{next door|w03-20}}, and every morning I would wake up to the smell of fresh bread. Everything was {{within walking distance|w03-39}}: my school, the cinema, even my grandmother's flat.",
+      "Then my parents decided that we needed more space. They found a {{detached|w03-01}} house in a quiet {{suburb|w03-12}}, and in August we {{moved out|w03-37}} of the flat. I didn't use to like change, and I was sure I would hate the new place.",
+      "The house is certainly {{spacious|w03-06}}. It has two {{storeys|w03-23}}, a {{basement|w03-04}} and an {{attic|w03-05}}, which is now my bedroom. It needed a lot of work, so we spent the autumn {{doing it up|w03-18}}. I painted the {{ceiling|w03-21}} myself and helped Dad {{put up|w03-27}} shelves. Slowly my new room became {{cosy|w03-07}}.",
+      "It took me a few months to {{settle in|w03-09}}. At first I couldn't get used to the silence; in the city I used to fall asleep to the sound of trams. I also wasn't used to taking a bus to school. But the {{neighbourhood|w03-11}} is friendly. On our first day a woman from across the road {{showed us around|w03-38}}, and now I know most people in the street.",
+      "I still miss the bakery. But last week, after a school trip, I walked into my room and thought: {{there's no place like home|w03-30}}. I finally {{feel at home|w03-10}} here."
+    ],
+    "glossary": [
+      {
+        "term": "bakery",
+        "pl": "piekarnia"
+      },
+      {
+        "term": "smell",
+        "pl": "zapach"
+      },
+      {
+        "term": "space",
+        "pl": "miejsce, przestrzeń"
+      },
+      {
+        "term": "shelves",
+        "pl": "półki (l. poj. shelf)"
+      },
+      {
+        "term": "silence",
+        "pl": "cisza"
+      },
+      {
+        "term": "tram",
+        "pl": "tramwaj"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "q": "What did the writer like about mornings in the old flat?",
+        "options": [
+          "The view from the fourth floor",
+          "The smell of fresh bread",
+          "The sound of the trams",
+          "Walking to school with a grandmother"
+        ],
+        "answer": 1,
+        "explanationPl": "W pierwszym akapicie: *every morning I would wake up to the smell of fresh bread*."
+      },
+      {
+        "type": "mc",
+        "q": "Why did the family move?",
+        "options": [
+          "The flat was too expensive",
+          "The bakery made too much noise",
+          "The school was too far away",
+          "The parents wanted more space"
+        ],
+        "answer": 3,
+        "explanationPl": "W drugim akapicie: *my parents decided that we needed more space*."
+      },
+      {
+        "type": "tf",
+        "q": "The writer's bedroom is in the basement.",
+        "answer": "false",
+        "explanationPl": "W trzecim akapicie: *an attic, which is now my bedroom*. Sypialnia jest na poddaszu, nie w piwnicy."
+      },
+      {
+        "type": "mc",
+        "q": "What was difficult for the writer at first in the new house?",
+        "options": [
+          "The silence",
+          "The noisy neighbours",
+          "The cold attic",
+          "Sharing a bedroom"
+        ],
+        "answer": 0,
+        "explanationPl": "W czwartym akapicie: *At first I couldn't get used to the silence*."
+      },
+      {
+        "type": "tf",
+        "q": "The writer's grandmother has also moved to the suburb.",
+        "answer": "not_given",
+        "explanationPl": "Wiemy tylko, że mieszkanie babci było blisko starego mieszkania. Tekst nie mówi, czy babcia się przeprowadziła."
+      },
+      {
+        "type": "mc",
+        "q": "How did the family start to get to know the new neighbourhood?",
+        "options": [
+          "They met people on a school trip",
+          "Dad invited everyone to a party",
+          "A neighbour showed them around on the first day",
+          "They met their neighbours at the bakery"
+        ],
+        "answer": 2,
+        "explanationPl": "W czwartym akapicie: *On our first day a woman from across the road showed us around*."
+      }
+    ],
+    "discussion": [
+      "Would you rather live in a flat in the city centre or in a house in the suburbs? Why?",
+      "What did your neighbourhood use to look like when you were younger?",
+      "What helps you to feel at home in a new place?"
+    ],
+    "wordGloss": {
+      "until": "aż do",
+      "last": "zeszły, ostatni",
+      "year": "rok",
+      "my": "mój, moja, moje",
+      "family": "rodzina",
+      "lived": "mieszkała (live)",
+      "in": "w",
+      "a": "(przedimek nieokreślony)",
+      "small": "mały",
+      "flat": "mieszkanie",
+      "on": "na",
+      "the": "(przedimek określony)",
+      "fourth": "czwarty",
+      "floor": "piętro",
+      "of": "(przyimek: czego?); z",
+      "city": "miasto",
+      "centre": "centrum",
+      "it": "to, ono",
+      "was": "był, była, było (be)",
+      "and": "i, a",
+      "bit": "(a bit: trochę)",
+      "but": "ale",
+      "i": "ja",
+      "loved": "uwielbiałem, uwielbiałam (love)",
+      "there": "tam; (there used to be: kiedyś był)",
+      "used": "(used to: kiedyś, dawniej; be used to: być przyzwyczajonym)",
+      "to": "do; (przed czasownikiem: tworzy bezokolicznik)",
+      "be": "być",
+      "bakery": "piekarnia",
+      "every": "każdy",
+      "morning": "rano, poranek",
+      "would": "(o dawnym zwyczaju: zwykle, zawsze); (po I was sure: że znienawidzę)",
+      "wake": "budzić się",
+      "up": "(wake up: budzić się)",
+      "smell": "zapach",
+      "fresh": "świeży",
+      "bread": "chleb",
+      "everything": "wszystko",
+      "school": "szkoła; szkolny",
+      "cinema": "kino",
+      "even": "nawet",
+      "grandmother's": "babci (grandmother)",
+      "then": "potem, wtedy",
+      "parents": "rodzice",
+      "decided": "zdecydowali (decide)",
+      "that": "że",
+      "we": "my",
+      "needed": "potrzebowaliśmy; wymagał (need)",
+      "more": "więcej",
+      "space": "miejsce, przestrzeń",
+      "they": "oni",
+      "found": "znaleźli (find)",
+      "house": "dom",
+      "quiet": "cichy, spokojny",
+      "august": "sierpień",
+      "didn't": "nie (did not, czas przeszły)",
+      "use": "(didn't use to: kiedyś nie)",
+      "like": "lubić",
+      "change": "zmiana",
+      "sure": "pewny",
+      "hate": "nienawidzić",
+      "new": "nowy",
+      "place": "miejsce",
+      "is": "jest",
+      "certainly": "z pewnością",
+      "has": "ma (have)",
+      "two": "dwa",
+      "an": "(przedimek nieokreślony)",
+      "which": "który, która",
+      "now": "teraz",
+      "bedroom": "sypialnia",
+      "lot": "(a lot of: dużo)",
+      "work": "praca",
+      "so": "więc",
+      "spent": "spędziliśmy (spend)",
+      "autumn": "jesień",
+      "painted": "pomalowałem, pomalowałam (paint)",
+      "myself": "sam, sama (własnoręcznie)",
+      "helped": "pomogłem, pomogłam (help)",
+      "dad": "tata",
+      "shelves": "półki (shelf)",
+      "slowly": "powoli",
+      "room": "pokój",
+      "became": "stał się (become)",
+      "took": "zajęło (take)",
+      "me": "mi, mnie",
+      "few": "(a few: kilka)",
+      "months": "miesiące (month)",
+      "at": "w, na; (at first: z początku)",
+      "first": "pierwszy; (at first: z początku)",
+      "couldn't": "nie mogłem, nie mogłam (could not)",
+      "get": "(get used to: przyzwyczaić się do)",
+      "silence": "cisza",
+      "fall": "(fall asleep: zasypiać)",
+      "asleep": "śpiący (fall asleep: zasypiać)",
+      "sound": "dźwięk, odgłos",
+      "trams": "tramwaje (tram)",
+      "also": "także, również",
+      "wasn't": "nie byłem, nie byłam (was not)",
+      "taking": "jeżdżenie (take a bus: jechać autobusem)",
+      "bus": "autobus",
+      "friendly": "przyjazny",
+      "our": "nasz",
+      "day": "dzień",
+      "woman": "kobieta",
+      "from": "z",
+      "across": "po drugiej stronie, naprzeciwko",
+      "road": "ulica, droga",
+      "know": "znam",
+      "most": "większość",
+      "people": "ludzie",
+      "street": "ulica",
+      "still": "nadal, wciąż",
+      "miss": "tęsknię za",
+      "week": "tydzień",
+      "after": "po",
+      "trip": "wycieczka",
+      "walked": "wszedłem, weszłam (walk)",
+      "into": "do (środka)",
+      "thought": "pomyślałem, pomyślałam (think)",
+      "finally": "w końcu, nareszcie",
+      "here": "tutaj"
+    },
+    "phrases": [
+      {
+        "text": "the city centre",
+        "pl": "centrum miasta"
+      },
+      {
+        "text": "a bit",
+        "pl": "trochę"
+      },
+      {
+        "text": "There used to be",
+        "pl": "kiedyś był, kiedyś była"
+      },
+      {
+        "text": "would wake up to",
+        "pl": "(zwykle) budziłem się, budziłam się przy (np. zapachu)"
+      },
+      {
+        "text": "more space",
+        "pl": "więcej miejsca"
+      },
+      {
+        "text": "didn't use to like",
+        "pl": "kiedyś nie lubiłem, kiedyś nie lubiłam"
+      },
+      {
+        "text": "a lot of work",
+        "pl": "dużo pracy"
+      },
+      {
+        "text": "It took me a few months to",
+        "pl": "potrzeba mi było kilku miesięcy, żeby"
+      },
+      {
+        "text": "At first",
+        "pl": "z początku"
+      },
+      {
+        "text": "get used to",
+        "pl": "przyzwyczaić się do"
+      },
+      {
+        "text": "used to fall asleep",
+        "pl": "kiedyś zasypiałem, kiedyś zasypiałam"
+      },
+      {
+        "text": "wasn't used to taking",
+        "pl": "nie byłem przyzwyczajony, nie byłam przyzwyczajona do jeżdżenia"
+      },
+      {
+        "text": "from across the road",
+        "pl": "z naprzeciwka"
+      },
+      {
+        "text": "walked into",
+        "pl": "wszedłem do, weszłam do"
+      }
+    ]
+  },
+  "grammar": {
+    "title": "Used to, would and be/get used to",
+    "titlePl": "Used to, would oraz be/get used to",
+    "summaryPl": "**Used to** i **would** opisują dawne zwyczaje, które już się skończyły. **Be used to** i **get used to** znaczą coś zupełnie innego: „być przyzwyczajonym” i „przyzwyczajać się”, i łączą się z formą *-ing*.",
+    "sections": [
+      {
+        "heading": "Used to + bezokolicznik: dawne zwyczaje i stany",
+        "bodyPl": "**Used to** + forma podstawowa mówi o tym, co dawniej robiliśmy regularnie albo co dawniej było prawdą, a teraz już nie jest. Forma jest taka sama dla wszystkich osób. Istnieje tylko w czasie przeszłym; o obecnych zwyczajach mówimy *usually* + present simple.",
+        "examples": [
+          {
+            "en": "We used to live in a block of flats.",
+            "pl": "Kiedyś mieszkaliśmy w bloku."
+          },
+          {
+            "en": "There used to be a bakery next door.",
+            "pl": "Obok była kiedyś piekarnia."
+          },
+          {
+            "en": "My mum used to walk to school.",
+            "pl": "Moja mama chodziła kiedyś do szkoły pieszo."
+          },
+          {
+            "en": "I used to hate tidying up, but now I don't mind it.",
+            "pl": "Kiedyś nie znosiłem sprzątania, ale teraz mi to nie przeszkadza."
+          }
+        ]
+      },
+      {
+        "heading": "Przeczenia i pytania: use to bez -d",
+        "bodyPl": "W przeczeniach i pytaniach pojawia się **did**, więc *used* wraca do formy **use**: *didn't use to*, *Did you use to…?* Zamiast *didn't use to* można też powiedzieć *never used to*. Pisownia *didn't used to* bywa spotykana, ale na egzaminach uchodzi za błąd.",
+        "examples": [
+          {
+            "en": "I didn't use to like our neighbourhood.",
+            "pl": "Kiedyś nie lubiłem naszej okolicy."
+          },
+          {
+            "en": "Did you use to share a room with your sister?",
+            "pl": "Czy mieliście kiedyś z siostrą wspólny pokój?"
+          },
+          {
+            "en": "There didn't use to be a park here.",
+            "pl": "Kiedyś nie było tu parku."
+          },
+          {
+            "en": "We never used to lock the front door.",
+            "pl": "Kiedyś nigdy nie zamykaliśmy drzwi wejściowych na klucz."
+          }
+        ]
+      },
+      {
+        "heading": "Would: powtarzane czynności, ale nie stany",
+        "bodyPl": "Opowiadając o przeszłości, możemy zamiast *used to* użyć **would** + forma podstawowa, ale tylko dla czynności, które się powtarzały. Dla stanów (*live, have, be, like, know*) *would* nie pasuje; wtedy zostaje *used to*. Zwykle zaczynamy opowieść od *used to*, a potem przechodzimy na *would*.",
+        "examples": [
+          {
+            "en": "Every morning I would wake up to the smell of bread.",
+            "pl": "Co rano budził mnie zapach chleba."
+          },
+          {
+            "en": "On Sundays we would visit my grandparents' cottage.",
+            "pl": "W niedziele jeździliśmy do domku dziadków."
+          },
+          {
+            "en": "We used to have a dog, and I would take it for a walk every evening.",
+            "pl": "Mieliśmy kiedyś psa i co wieczór chodziłem z nim na spacer."
+          }
+        ]
+      },
+      {
+        "heading": "Be used to + -ing: być przyzwyczajonym",
+        "bodyPl": "**Be used to** znaczy „być do czegoś przyzwyczajonym”: coś nie jest już dla nas nowe ani dziwne. Tutaj *to* jest przyimkiem, więc dalej stoi rzeczownik albo czasownik z **-ing**, nigdy forma podstawowa. Czas pokazuje czasownik *be*: *I am used to*, *I was used to*, *I'm not used to*.",
+        "examples": [
+          {
+            "en": "I'm used to living in a small flat.",
+            "pl": "Jestem przyzwyczajony do mieszkania w małym mieszkaniu."
+          },
+          {
+            "en": "She isn't used to the noise yet.",
+            "pl": "Ona jeszcze nie przywykła do hałasu."
+          },
+          {
+            "en": "We were used to walking everywhere.",
+            "pl": "Byliśmy przyzwyczajeni do chodzenia wszędzie pieszo."
+          }
+        ]
+      },
+      {
+        "heading": "Get used to + -ing: przyzwyczajać się",
+        "bodyPl": "**Get used to** opisuje proces: coś na początku jest dziwne lub trudne, ale stopniowo staje się normalne. Budowa jest taka sama jak przy *be used to*: rzeczownik albo **-ing**. *Get* odmienia się normalnie: *I'm getting used to*, *I got used to*, *I can't get used to*, *you'll get used to*.",
+        "examples": [
+          {
+            "en": "I'm slowly getting used to taking the bus.",
+            "pl": "Powoli przyzwyczajam się do jeżdżenia autobusem."
+          },
+          {
+            "en": "It took me months to get used to the silence.",
+            "pl": "Miesiące zajęło mi przyzwyczajenie się do ciszy."
+          },
+          {
+            "en": "Don't worry, you'll soon get used to the new school.",
+            "pl": "Nie martw się, szybko przyzwyczaisz się do nowej szkoły."
+          }
+        ]
+      }
+    ],
+    "pitfallsPl": [
+      {
+        "wrong": "I use to go to the gym on Mondays.",
+        "right": "I usually go to the gym on Mondays.",
+        "whyPl": "*Used to* dotyczy tylko przeszłości. O obecnym zwyczaju mówimy *usually* + present simple."
+      },
+      {
+        "wrong": "I didn't used to like vegetables.",
+        "right": "I didn't use to like vegetables.",
+        "whyPl": "Po *did / didn't* czasownik ma formę podstawową, więc piszemy *use to*, bez *-d*."
+      },
+      {
+        "wrong": "I'm used to get up early.",
+        "right": "I'm used to getting up early.",
+        "whyPl": "W *be used to* słowo *to* jest przyimkiem, więc dalej stoi forma *-ing*, a nie forma podstawowa."
+      },
+      {
+        "wrong": "When I was a child, we would live in a small cottage.",
+        "right": "When I was a child, we used to live in a small cottage.",
+        "whyPl": "*Live* opisuje tu stan, a nie powtarzaną czynność, więc *would* nie pasuje."
+      },
+      {
+        "wrong": "I used to living in the city, so the village felt strange.",
+        "right": "I was used to living in the city, so the village felt strange.",
+        "whyPl": "„Być przyzwyczajonym” to *be used to*; bez czasownika *be* zdanie jest niepoprawne."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "We ___ live in a block of flats, but now we have a house.",
+        "options": [
+          "use to",
+          "used to",
+          "are used to",
+          "would"
+        ],
+        "answer": 1,
+        "explanationPl": "Dawny stan, który się zmienił: *used to live*. *Would* nie łączy się ze stanami."
+      },
+      {
+        "type": "mc",
+        "prompt": "Did you ___ share a room with your brother?",
+        "options": [
+          "used to",
+          "using to",
+          "use to",
+          "be used to"
+        ],
+        "answer": 2,
+        "explanationPl": "Po *did* stoi forma podstawowa: *use to*, bez *-d*."
+      },
+      {
+        "type": "mc",
+        "prompt": "I didn't ___ like our neighbourhood, but now I love it.",
+        "options": [
+          "used to",
+          "get used to",
+          "would",
+          "use to"
+        ],
+        "answer": 3,
+        "explanationPl": "Po *didn't* stoi *use to*, bez *-d*."
+      },
+      {
+        "type": "mc",
+        "prompt": "When we were children, every summer we ___ visit our grandparents' cottage.",
+        "options": [
+          "would",
+          "use to",
+          "were used to",
+          "got used"
+        ],
+        "answer": 0,
+        "explanationPl": "Powtarzana czynność w przeszłości: *would visit*. *Use to* bez *-d* jest tu błędem, a *were used to* wymagałoby formy *visiting*."
+      },
+      {
+        "type": "gap",
+        "prompt": "My grandfather ___ (use to / have) a huge garden behind his house.",
+        "answers": [
+          "used to have"
+        ],
+        "explanationPl": "Dawny stan: *used to* + forma podstawowa."
+      },
+      {
+        "type": "gap",
+        "prompt": "___ (you / use to / walk) to school when you lived in the centre?",
+        "answers": [
+          "Did you use to walk"
+        ],
+        "explanationPl": "Pytanie: *Did* + osoba + *use to* + forma podstawowa."
+      },
+      {
+        "type": "mc",
+        "prompt": "I've lived next to the station for years, so I'm used to ___ trains at night.",
+        "options": [
+          "hear",
+          "heard",
+          "be hearing",
+          "hearing"
+        ],
+        "answer": 3,
+        "explanationPl": "Po *be used to* stoi forma *-ing*: *hearing*."
+      },
+      {
+        "type": "mc",
+        "prompt": "My aunt ___ have a cat called Felix when she lived in the cottage.",
+        "options": [
+          "would",
+          "used to",
+          "was used to",
+          "use to"
+        ],
+        "answer": 1,
+        "explanationPl": "*Have* w znaczeniu „mieć” to stan, więc tylko *used to*, nie *would*."
+      },
+      {
+        "type": "gap",
+        "prompt": "It was hard at first, but I slowly ___ (get used to / live) in a small town.",
+        "answers": [
+          "got used to living"
+        ],
+        "explanationPl": "Proces przyzwyczajania się w przeszłości: *got used to* + *-ing*."
+      },
+      {
+        "type": "gap",
+        "prompt": "We ___ (not / use to / have) central heating in our old house.",
+        "answers": [
+          "didn't use to have",
+          "did not use to have"
+        ],
+        "explanationPl": "Przeczenie: *didn't use to* + forma podstawowa."
+      },
+      {
+        "type": "transform",
+        "prompt": "In the past there was a cinema in our street, but it closed.",
+        "keyword": "USED",
+        "gapped": "There ___ a cinema in our street.",
+        "answers": [
+          "used to be"
+        ],
+        "explanationPl": "Dawny stan, który już nie trwa: *There used to be*."
+      },
+      {
+        "type": "transform",
+        "prompt": "Sharing a room is still strange for me.",
+        "keyword": "USED",
+        "gapped": "I'm still not ___ a room.",
+        "answers": [
+          "used to sharing"
+        ],
+        "explanationPl": "*Be used to* + forma *-ing*: *I'm not used to sharing*."
+      }
+    ],
+    "testItems": [
+      {
+        "type": "mc",
+        "prompt": "There ___ be a bakery on the corner, but now it's a phone shop.",
+        "options": [
+          "use to",
+          "would",
+          "used to",
+          "was used to"
+        ],
+        "answer": 2,
+        "explanationPl": "Dawny stan: *used to be*. *Would* nie łączy się z *be* w tym znaczeniu."
+      },
+      {
+        "type": "gap",
+        "prompt": "She ___ (not / use to / like) tidying up, but now she does it every day.",
+        "answers": [
+          "didn't use to like",
+          "did not use to like"
+        ],
+        "explanationPl": "Przeczenie: *didn't use to* + forma podstawowa."
+      },
+      {
+        "type": "mc",
+        "prompt": "After a month in the new flat, we finally got used to ___ the lift.",
+        "options": [
+          "use",
+          "using",
+          "used",
+          "be using"
+        ],
+        "answer": 1,
+        "explanationPl": "Po *get used to* stoi forma *-ing*."
+      },
+      {
+        "type": "gap",
+        "prompt": "Every evening Grandpa ___ (would / sit) on the balcony and watch the street.",
+        "answers": [
+          "would sit",
+          "'d sit"
+        ],
+        "explanationPl": "Powtarzana czynność w przeszłości: *would* + forma podstawowa."
+      },
+      {
+        "type": "mc",
+        "prompt": "He isn't used ___ in a noisy city yet.",
+        "options": [
+          "to live",
+          "living",
+          "live",
+          "to living"
+        ],
+        "answer": 3,
+        "explanationPl": "*Be used to* + *-ing*: *isn't used to living*."
+      }
+    ]
+  },
+  "listening": {
+    "dictation": [
+      {
+        "text": "We used to live in a small flat near the station."
+      },
+      {
+        "text": "Did you use to share a room with your sister?"
+      },
+      {
+        "text": "Every Saturday we would tidy up the whole house together."
+      },
+      {
+        "text": "I am still getting used to living in the suburbs."
+      },
+      {
+        "text": "The shops and the school are within walking distance."
+      },
+      {
+        "text": "There did not use to be a park in our neighbourhood."
+      }
+    ],
+    "monologue": {
+      "title": "My Street",
+      "speaker": "a young man talking on a local radio programme about the street where he grew up",
+      "script": [
+        "Hello, I'm Daniel, and for this week's 'My Street' I'm standing outside the house where I grew up. It's a small house on the outskirts of town, with a green door and a tiny balcony.",
+        "When I was a child, this was a very lively street. There used to be a little shop on the corner, and the owner would give us sweets on our way home from school. All the children used to play football in the street, because there were hardly any cars. Our neighbours next door had a huge dog, and I would take it for a walk every Sunday.",
+        "The street has changed a lot. The shop closed about ten years ago, and now it's a hairdresser's. There's a new block of flats where the playground used to be. It's more crowded, and people don't know each other so well.",
+        "But some things are the same. My parents still live here, and the facilities are much better now: there's a bus stop, a library and a sports centre within walking distance. I'm not used to the traffic yet, but it still feels like home."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Where is the house that Daniel grew up in?",
+          "options": [
+            "In the city centre",
+            "Next to a railway station",
+            "On the outskirts of town",
+            "In a village by a lake"
+          ],
+          "answer": 2,
+          "explanationPl": "Daniel mówi: *It's a small house on the outskirts of town*."
+        },
+        {
+          "type": "mc",
+          "q": "What did the shop owner use to do?",
+          "options": [
+            "Give the children sweets",
+            "Play football with the children",
+            "Take the neighbours' dog for a walk",
+            "Tell the children off"
+          ],
+          "answer": 0,
+          "explanationPl": "W drugiej części: *the owner would give us sweets on our way home from school*."
+        },
+        {
+          "type": "mc",
+          "q": "What is there now in the place of the old playground?",
+          "options": [
+            "A hairdresser's",
+            "A sports centre",
+            "A bus stop",
+            "A block of flats"
+          ],
+          "answer": 3,
+          "explanationPl": "W trzeciej części: *There's a new block of flats where the playground used to be*. Fryzjer jest tam, gdzie był sklep."
+        },
+        {
+          "type": "mc",
+          "q": "According to Daniel, what is better in the street now?",
+          "options": [
+            "There is less traffic",
+            "The facilities",
+            "People know each other better",
+            "There are more places to play football"
+          ],
+          "answer": 1,
+          "explanationPl": "W czwartej części: *the facilities are much better now*."
+        }
+      ]
+    }
+  },
+  "writing": {
+    "taskEn": "Write a description of a place you know well, for example a relative's home or the neighbourhood where you grew up. Say what it is like now, what it used to be like, and why it is special to you.",
+    "taskPl": "Opisz miejsce, które dobrze znasz, na przykład dom kogoś z rodziny albo okolicę, w której upłynęło Ci dzieciństwo. Napisz, jakie jest teraz, jakie było kiedyś i dlaczego jest dla Ciebie wyjątkowe.",
+    "genre": "description",
+    "minWords": 90,
+    "maxWords": 130,
+    "checklistPl": [
+      "Zacznij od tego, co to za miejsce i skąd je znasz",
+      "Opisz, jak wygląda: budynek, pokoje, okolica (użyj przymiotników z tego tygodnia)",
+      "Napisz, co działo się tam dawniej, używając used to i would",
+      "Wspomnij o jednej rzeczy, która się zmieniła",
+      "Zakończ zdaniem o tym, co czujesz w tym miejscu"
+    ],
+    "usefulPhrases": [
+      "I know every corner of …",
+      "It is not very …, but it is …",
+      "When I was little, I used to …",
+      "In the mornings we would …",
+      "There didn't use to be …, but now …",
+      "It is only a stone's throw from …",
+      "I always feel at home there."
+    ],
+    "modelAnswer": "My grandparents live in an old {{cottage|w03-03}} on the {{outskirts|w03-32}} of a small town, and I know every corner of it. It is not {{spacious|w03-06}}, but it is very {{cosy|w03-07}}: the {{ceilings|w03-21}} are low, and there is an old {{wardrobe|w03-15}} in every room. When I was little, I used to spend every summer there. In the mornings my grandmother would bake bread, and the whole house would smell wonderful. The {{neighbourhood|w03-11}} is {{peaceful|w03-26}}, and the lake is only {{a stone's throw|w03-40}} from the garden. There didn't use to be any shops nearby, but now there is a small supermarket {{within walking distance|w03-39}}. I always {{feel at home|w03-10}} there."
+  },
+  "speaking": {
+    "prompts": [
+      {
+        "q": "What is your home like?",
+        "followUp": "What would you like to change about it?"
+      },
+      {
+        "q": "What did your neighbourhood use to be like when you were younger?",
+        "followUp": "What has changed since then?"
+      },
+      {
+        "q": "Would you rather live in a lively city centre or in a peaceful suburb?",
+        "followUp": "What would you miss about the other place?"
+      },
+      {
+        "q": "Which household chores do you do at home?",
+        "followUp": "Which one did you use to hate when you were younger?"
+      },
+      {
+        "q": "Is there something new in your life that you are still getting used to?",
+        "followUp": "What makes it difficult?"
+      }
+    ],
+    "shadowing": [
+      "We used to live in a tiny flat near the station.",
+      "Every Sunday we would have lunch at my grandmother's house.",
+      "I'm still getting used to living so far from the centre.",
+      "There didn't use to be so much traffic in our street.",
+      "The shops are within walking distance, which is really convenient."
+    ],
+    "roleplay": {
+      "titlePl": "Nowi sąsiedzi",
+      "scenarioPl": "Do mieszkania obok właśnie wprowadziła się nowa osoba. Spotykacie się na klatce schodowej. Opowiedz o okolicy: co jest w pobliżu, jak tu było kiedyś i do czego trzeba się przyzwyczaić.",
+      "yourRole": "You have lived in this building for years. Welcome your new neighbour, describe the neighbourhood and its facilities, say how it used to be, and offer to show him or her around.",
+      "partnerRole": "You moved in yesterday and you are not used to the area yet. Ask about shops, transport, noise and the people next door.",
+      "opening": "Hello! You must be our new neighbour. Have you settled in yet?",
+      "goalsPl": [
+        "Powiedz, co znajduje się w pobliżu i jak daleko",
+        "Opowiedz, jak okolica wyglądała dawniej (used to, would)",
+        "Powiedz, do czego trzeba się tu przyzwyczaić",
+        "Zaproponuj oprowadzenie po okolicy"
+      ]
+    }
+  },
+  "practice": {
+    "gapFill": [
+      {
+        "sentence": "Our ___ lets us keep a cat in the flat, but we have to pay him on the first of every month.",
+        "answerId": "w03-13",
+        "answers": [
+          "landlord"
+        ]
+      },
+      {
+        "sentence": "The flat has no ___, so in winter we use small electric heaters in every room.",
+        "answerId": "w03-36",
+        "answers": [
+          "central heating"
+        ]
+      },
+      {
+        "sentence": "Could you help me ___ this mirror in the hall? I can't hold it and use the drill at the same time.",
+        "answerId": "w03-27",
+        "answers": [
+          "put up"
+        ]
+      },
+      {
+        "sentence": "Don't ___ those old magazines; I want to cut out the pictures for a school project.",
+        "answerId": "w03-28",
+        "answers": [
+          "throw away"
+        ]
+      },
+      {
+        "sentence": "The town centre is so ___ on Saturdays that you can hardly walk along the main street.",
+        "answerId": "w03-34",
+        "answers": [
+          "crowded"
+        ]
+      },
+      {
+        "sentence": "My room is so ___ that I can't find my shoes under all the clothes on the floor.",
+        "answerId": "w03-24",
+        "answers": [
+          "messy"
+        ]
+      },
+      {
+        "sentence": "In our family everyone shares the ___: I wash up, and my brother takes out the rubbish.",
+        "answerId": "w03-29",
+        "answers": [
+          "household chores"
+        ]
+      },
+      {
+        "sentence": "Living near the station is very ___: I can get to school in ten minutes.",
+        "answerId": "w03-17",
+        "answers": [
+          "convenient"
+        ]
+      },
+      {
+        "sentence": "Students often ___ a flat together because living alone is too expensive.",
+        "answerId": "w03-14",
+        "answers": [
+          "rent"
+        ]
+      },
+      {
+        "sentence": "Please walk on the ___, not in the road; the cars drive very fast here.",
+        "answerId": "w03-31",
+        "answers": [
+          "pavement"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "left": "attic",
+        "right": "the room at the top of a house, under the roof"
+      },
+      {
+        "left": "basement",
+        "right": "the part of a building that is under the ground"
+      },
+      {
+        "left": "cottage",
+        "right": "a small house, usually in the country"
+      },
+      {
+        "left": "suburb",
+        "right": "an area of homes outside the centre of a city"
+      },
+      {
+        "left": "wardrobe",
+        "right": "a tall cupboard for hanging clothes"
+      },
+      {
+        "left": "balcony",
+        "right": "an outdoor platform on the wall of a flat, where you can sit"
+      },
+      {
+        "left": "storey",
+        "right": "one level of a building"
+      },
+      {
+        "left": "ceiling",
+        "right": "the top inside surface of a room"
+      }
+    ],
+    "wordFormation": [
+      {
+        "sentence": "The best thing about this flat is the ___ of having shops right downstairs.",
+        "base": "CONVENIENT",
+        "answers": [
+          "convenience"
+        ]
+      },
+      {
+        "sentence": "The baby slept ___ in the garden all afternoon.",
+        "base": "PEACEFUL",
+        "answers": [
+          "peacefully"
+        ]
+      },
+      {
+        "sentence": "A large ___ gathered in the square to watch the concert.",
+        "base": "CROWDED",
+        "answers": [
+          "crowd"
+        ]
+      },
+      {
+        "sentence": "Your room is a complete ___; please tidy it up before dinner.",
+        "base": "MESSY",
+        "answers": [
+          "mess"
+        ]
+      },
+      {
+        "sentence": "Our ___ are very kind; they water our plants when we are away.",
+        "base": "NEIGHBOURHOOD",
+        "answers": [
+          "neighbours",
+          "neighbors"
+        ]
+      },
+      {
+        "sentence": "There isn't enough ___ in my room for a second bed.",
+        "base": "SPACIOUS",
+        "answers": [
+          "space"
+        ]
+      }
+    ]
+  }
+}

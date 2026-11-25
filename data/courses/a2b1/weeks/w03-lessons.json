@@ -1,0 +1,740 @@
+{
+  "week": 3,
+  "intro": "W tym tygodniu mówimy o szkole i nauce: poznasz nazwy przedmiotów, słowa związane ze sprawdzianami i egzaminami oraz zwroty przydatne przy nauce języka. Nauczysz się też opowiadać o tym, co już się wydarzyło, w czasie past simple. Na koniec napiszesz krótki e-mail o swoim dniu w szkole.",
+  "reading": {
+    "title": "The day I forgot everything",
+    "paragraphs": [
+      "Last Tuesday was the worst school day of the year. It started badly. I woke up late, so I didn't have time to check my {{timetable|w03-02}}. I put the wrong books in my bag and ran to school.",
+      "The first lesson was {{history|w03-05}}. Our teacher asked us to {{hand in|w03-08}} our {{projects|w03-22}}, and I {{found out|w03-24}} that mine was still on my desk at home. Then we had a {{geography|w03-04}} {{test|w03-10}}. I didn't {{revise|w03-13}} for it at the weekend, so I made a lot of {{mistakes|w03-14}}. I didn't expect a good {{mark|w03-09}}.",
+      "At {{break|w03-06}} I went to the {{library|w03-25}} because I wanted to be alone. Our {{head teacher|w03-32}}, Mrs Nowak, was there. She saw my face and asked what was wrong. I {{explained|w03-18}} everything. She smiled and said, \"Everybody has a bad day sometimes. What is your favourite {{subject|w03-01}}?\" \"{{Science|w03-03}},\" I said.",
+      "And then the day changed. In the last lesson, science, we did an experiment with water and salt. I {{paid attention|w03-30}}, {{took notes|w03-28}} and answered three questions. The teacher said my answers were excellent. When I got home, I {{wrote down|w03-31}} one thing in my notebook: \"Check your {{timetable|w03-02}} in the evening!\""
+    ],
+    "glossary": [
+      {
+        "term": "worst",
+        "pl": "najgorszy"
+      },
+      {
+        "term": "wrong",
+        "pl": "zły, niewłaściwy"
+      },
+      {
+        "term": "alone",
+        "pl": "sam, bez nikogo"
+      },
+      {
+        "term": "experiment",
+        "pl": "doświadczenie, eksperyment"
+      },
+      {
+        "term": "excellent",
+        "pl": "znakomity, świetny"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "q": "Why did the writer put the wrong books in the bag?",
+        "options": [
+          "The writer lost the timetable",
+          "The teacher changed the lessons",
+          "The writer woke up late and didn't check the timetable",
+          "The writer's bag was too small"
+        ],
+        "answer": 2,
+        "explanationPl": "Pierwszy akapit: „I woke up late, so I didn't have time to check my timetable. I put the wrong books in my bag”."
+      },
+      {
+        "type": "mc",
+        "q": "Where was the writer's history project?",
+        "options": [
+          "On the desk at home",
+          "In the school library",
+          "In the school bag",
+          "At a friend's house"
+        ],
+        "answer": 0,
+        "explanationPl": "Drugi akapit: „mine was still on my desk at home”."
+      },
+      {
+        "type": "mc",
+        "q": "Who did the writer talk to in the library?",
+        "options": [
+          "The history teacher",
+          "The head teacher",
+          "A classmate",
+          "The science teacher"
+        ],
+        "answer": 1,
+        "explanationPl": "Trzeci akapit: w bibliotece była dyrektorka, pani Nowak („Our head teacher, Mrs Nowak, was there”)."
+      },
+      {
+        "type": "tf",
+        "q": "The writer revised for the geography test at the weekend.",
+        "answer": "false",
+        "explanationPl": "Drugi akapit: „I didn't revise for it at the weekend”."
+      },
+      {
+        "type": "tf",
+        "q": "The writer got a bad mark in the geography test.",
+        "answer": "not_given",
+        "explanationPl": "Tekst mówi tylko, że było dużo błędów i że dobra ocena wydawała się mało prawdopodobna. Samej oceny nie poznajemy."
+      }
+    ],
+    "discussion": [
+      "What was your best or worst day at school? What happened?",
+      "What do you do when you have a bad day at school?"
+    ],
+    "wordGloss": {
+      "last": "zeszły, ostatni",
+      "tuesday": "wtorek",
+      "was": "był, była, było (be)",
+      "the": "(przedimek określony)",
+      "worst": "najgorszy (bad)",
+      "school": "szkoła; szkolny",
+      "day": "dzień",
+      "of": "(przyimek: czego?)",
+      "year": "rok",
+      "it": "to, on, ona",
+      "started": "zaczął się (start)",
+      "badly": "źle",
+      "i": "ja",
+      "woke": "obudziłem się, obudziłam się (wake)",
+      "up": "(woke up: obudzić się)",
+      "late": "późno",
+      "so": "więc",
+      "didn't": "nie (did not, czas przeszły)",
+      "have": "mieć",
+      "time": "czas",
+      "to": "do; (przed czasownikiem: tworzy bezokolicznik)",
+      "check": "sprawdzić",
+      "my": "mój, moja, moje",
+      "put": "włożyłem, włożyłam (put)",
+      "wrong": "zły, niewłaściwy; nie tak",
+      "books": "książki (book)",
+      "in": "w, do",
+      "bag": "plecak, torba",
+      "and": "i, a",
+      "ran": "pobiegłem, pobiegłam (run)",
+      "first": "pierwszy",
+      "lesson": "lekcja",
+      "our": "nasz, nasza",
+      "teacher": "nauczyciel, nauczycielka",
+      "asked": "poprosił(a), zapytał(a) (ask)",
+      "us": "nas",
+      "that": "że",
+      "mine": "mój (ten należący do mnie)",
+      "still": "nadal, wciąż",
+      "on": "na",
+      "desk": "biurko",
+      "at": "w, na, podczas",
+      "home": "dom; do domu",
+      "then": "potem, wtedy",
+      "we": "my",
+      "had": "mieliśmy (have)",
+      "a": "(przedimek nieokreślony)",
+      "for": "do, na",
+      "weekend": "weekend",
+      "made": "zrobiłem, zrobiłam (make)",
+      "lot": "(a lot of: dużo)",
+      "expect": "spodziewać się",
+      "good": "dobry",
+      "went": "poszedłem, poszłam (go)",
+      "because": "ponieważ, bo",
+      "wanted": "chciałem, chciałam (want)",
+      "be": "być",
+      "alone": "sam, bez nikogo",
+      "mrs": "pani (Mrs)",
+      "nowak": "Nowak (nazwisko)",
+      "there": "tam",
+      "she": "ona",
+      "saw": "zobaczyła (see)",
+      "face": "twarz",
+      "what": "co; jaki",
+      "everything": "wszystko",
+      "smiled": "uśmiechnęła się (smile)",
+      "said": "powiedziała, powiedział; powiedziałem, powiedziałam (say)",
+      "everybody": "każdy, wszyscy",
+      "has": "ma (have)",
+      "bad": "zły",
+      "sometimes": "czasami",
+      "is": "jest",
+      "your": "twój, twoja",
+      "favourite": "ulubiony",
+      "changed": "zmienił się (change)",
+      "science": "przyroda, nauki przyrodnicze",
+      "did": "zrobiliśmy (do)",
+      "an": "(przedimek nieokreślony)",
+      "experiment": "doświadczenie, eksperyment",
+      "with": "z",
+      "water": "woda",
+      "salt": "sól",
+      "answered": "odpowiedziałem, odpowiedziałam (answer)",
+      "three": "trzy",
+      "questions": "pytania (question)",
+      "answers": "odpowiedzi (answer)",
+      "were": "były (be)",
+      "excellent": "znakomity, świetny",
+      "when": "kiedy, gdy",
+      "got": "dotarłem, dotarłam (get)",
+      "one": "jeden, jedna",
+      "thing": "rzecz",
+      "notebook": "zeszyt, notes",
+      "evening": "wieczór"
+    },
+    "phrases": [
+      {
+        "text": "woke up",
+        "pl": "obudziłem się, obudziłam się"
+      },
+      {
+        "text": "didn't have time to",
+        "pl": "nie było czasu, żeby"
+      },
+      {
+        "text": "a lot of",
+        "pl": "dużo"
+      },
+      {
+        "text": "at the weekend",
+        "pl": "w weekend"
+      },
+      {
+        "text": "what was wrong",
+        "pl": "co się stało"
+      },
+      {
+        "text": "has a bad day",
+        "pl": "ma zły dzień"
+      },
+      {
+        "text": "got home",
+        "pl": "dotarłem do domu, dotarłam do domu"
+      },
+      {
+        "text": "in the evening",
+        "pl": "wieczorem"
+      }
+    ]
+  },
+  "grammar": {
+    "title": "Past simple",
+    "titlePl": "Past simple – czas przeszły prosty",
+    "summaryPl": "**Past simple** opisuje to, co wydarzyło się i skończyło w przeszłości: wczoraj, w zeszłym tygodniu, rok temu. Dla wszystkich osób czasownik ma tę samą formę, a wyjątkiem jest tylko *be* (*was / were*).",
+    "sections": [
+      {
+        "heading": "Was i were, czyli „być” w przeszłości",
+        "bodyPl": "Czasownik **be** ma w przeszłości dwie formy: **was** (I, he, she, it) i **were** (you, we, they). Przeczenie tworzymy przez dodanie *not*: **wasn't**, **weren't**. W pytaniu *was / were* stoi na początku: *Was the test difficult?*",
+        "examples": [
+          {
+            "en": "I was late for school yesterday.",
+            "pl": "Wczoraj spóźniłem się do szkoły."
+          },
+          {
+            "en": "The questions were easy.",
+            "pl": "Pytania były łatwe."
+          },
+          {
+            "en": "Our teacher wasn't at school last week.",
+            "pl": "W zeszłym tygodniu naszego nauczyciela nie było w szkole."
+          },
+          {
+            "en": "Were you good at maths last year?",
+            "pl": "Czy w zeszłym roku matematyka dobrze Ci szła?"
+          }
+        ]
+      },
+      {
+        "heading": "Czasowniki regularne: końcówka -ed",
+        "bodyPl": "Do większości czasowników dodajemy **-ed**: *play → played*, *explain → explained*. Gdy czasownik kończy się na *-e*, dodajemy samo **-d** (*revise → revised*). Gdy czasownik kończy się na spółgłoskę + *y*, zamiast *y* piszemy **-ied** (*study → studied*), a w krótkich czasownikach zakończonych na jedną samogłoskę i jedną spółgłoskę podwajamy tę spółgłoskę (*stop → stopped*, *plan → planned*). Wymowa: zwykle **-ed** to samo /d/ lub /t/ (*played* /pleɪd/, *asked* /ɑːskt/), bez dodatkowej sylaby. Dodatkową sylabę /ɪd/ słychać tylko po *t* i *d*: *wanted*, *started*, *needed*.",
+        "examples": [
+          {
+            "en": "We played football during the break.",
+            "pl": "Podczas przerwy graliśmy w piłkę."
+          },
+          {
+            "en": "She studied for the test all evening.",
+            "pl": "Cały wieczór uczyła się do sprawdzianu."
+          },
+          {
+            "en": "The lesson started at eight o'clock.",
+            "pl": "Lekcja zaczęła się o ósmej."
+          },
+          {
+            "en": "The teacher explained the rule twice.",
+            "pl": "Nauczyciel wyjaśnił zasadę dwa razy."
+          }
+        ]
+      },
+      {
+        "heading": "Czasowniki nieregularne",
+        "bodyPl": "Wiele bardzo częstych czasowników ma własną formę przeszłą, której trzeba się nauczyć na pamięć: *go → went*, *have → had*, *do → did*, *make → made*, *take → took*, *write → wrote*, *see → saw*, *get → got*, *find → found*, *forget → forgot*, *say → said*, *know → knew*.",
+        "examples": [
+          {
+            "en": "I went to the library after lunch.",
+            "pl": "Po obiedzie poszedłem do biblioteki."
+          },
+          {
+            "en": "We had a geography test on Monday.",
+            "pl": "W poniedziałek mieliśmy sprawdzian z geografii."
+          },
+          {
+            "en": "She made only one mistake.",
+            "pl": "Zrobiła tylko jeden błąd."
+          },
+          {
+            "en": "He took notes and wrote down every new word.",
+            "pl": "Robił notatki i zapisywał każde nowe słowo."
+          }
+        ]
+      },
+      {
+        "heading": "Przeczenia i pytania z did",
+        "bodyPl": "W przeczeniu używamy **didn't** (*did not*), a w pytaniu **did**. Po *did* i *didn't* czasownik wraca do formy podstawowej, bez *-ed* i bez formy nieregularnej: *I went* → *I didn't go* → *Did you go?* Krótkie odpowiedzi: *Yes, I did.* / *No, I didn't.*",
+        "examples": [
+          {
+            "en": "I didn't revise for the test.",
+            "pl": "Nie uczyłem się do sprawdzianu."
+          },
+          {
+            "en": "Did they hand in their projects? Yes, they did.",
+            "pl": "Czy oddali projekty? Tak, oddali."
+          },
+          {
+            "en": "What did the teacher say?",
+            "pl": "Co powiedział nauczyciel?"
+          },
+          {
+            "en": "She didn't pass the exam.",
+            "pl": "Nie zdała egzaminu."
+          }
+        ]
+      },
+      {
+        "heading": "Kiedy? Yesterday, last, ago",
+        "bodyPl": "Past simple często występuje z określeniami czasu: **yesterday** (wczoraj), **last** + okres (*last week, last year, last Monday*) oraz okres + **ago** (*two days ago* – dwa dni temu). **Ago** stoi zawsze na końcu, po okresie.",
+        "examples": [
+          {
+            "en": "We had a test yesterday.",
+            "pl": "Wczoraj mieliśmy sprawdzian."
+          },
+          {
+            "en": "I started this school three years ago.",
+            "pl": "Zacząłem naukę w tej szkole trzy lata temu."
+          },
+          {
+            "en": "Last term we did a project about rivers.",
+            "pl": "W zeszłym semestrze robiliśmy projekt o rzekach."
+          }
+        ]
+      }
+    ],
+    "pitfallsPl": [
+      {
+        "wrong": "I didn't went to school yesterday.",
+        "right": "I didn't go to school yesterday.",
+        "whyPl": "Po **didn't** czasownik ma formę podstawową. Przeszłość pokazuje już samo *did*."
+      },
+      {
+        "wrong": "Did you passed the test?",
+        "right": "Did you pass the test?",
+        "whyPl": "W pytaniu z **did** czasownik nie ma końcówki *-ed*."
+      },
+      {
+        "wrong": "I was go to the library.",
+        "right": "I went to the library.",
+        "whyPl": "*Was / were* to przeszła forma *be*. Nie łączymy jej z formą podstawową innego czasownika; trzeba użyć jego formy przeszłej."
+      },
+      {
+        "wrong": "We had a test ago two days.",
+        "right": "We had a test two days ago.",
+        "whyPl": "**Ago** stoi po okresie: *two days ago*, *a week ago*."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "We ___ at school yesterday.",
+        "options": [
+          "was",
+          "were",
+          "are"
+        ],
+        "answer": 1,
+        "explanationPl": "Przy *we* forma przeszła *be* to **were**. *Yesterday* wyklucza *are*."
+      },
+      {
+        "type": "mc",
+        "prompt": "The test ___ very difficult. Everybody passed.",
+        "options": [
+          "weren't",
+          "didn't",
+          "wasn't"
+        ],
+        "answer": 2,
+        "explanationPl": "*The test* to „it”, więc **wasn't**. Skoro wszyscy zdali, sprawdzian nie był trudny."
+      },
+      {
+        "type": "gap",
+        "prompt": "I ___ (study) for the history test all evening.",
+        "answers": [
+          "studied"
+        ],
+        "explanationPl": "Czasownik regularny: spółgłoska + *y* zmienia się w **-ied**: *study → studied*."
+      },
+      {
+        "type": "mc",
+        "prompt": "She ___ to the library after lunch yesterday.",
+        "options": [
+          "go",
+          "goed",
+          "went"
+        ],
+        "answer": 2,
+        "explanationPl": "*Go* jest nieregularne: **went**."
+      },
+      {
+        "type": "gap",
+        "prompt": "Our teacher ___ (explain) the exercise again yesterday.",
+        "answers": [
+          "explained"
+        ],
+        "explanationPl": "Czasownik regularny: *explain* + **-ed**."
+      },
+      {
+        "type": "mc",
+        "prompt": "I ___ my homework yesterday. I forgot!",
+        "options": [
+          "didn't did",
+          "didn't do",
+          "not did"
+        ],
+        "answer": 1,
+        "explanationPl": "Przeczenie: **didn't** + forma podstawowa (*do*)."
+      },
+      {
+        "type": "gap",
+        "prompt": "We ___ (not / have) a maths lesson last Friday.",
+        "answers": [
+          "didn't have",
+          "did not have"
+        ],
+        "explanationPl": "Przeczenie w past simple: **didn't** + forma podstawowa. Nie *didn't had*."
+      },
+      {
+        "type": "mc",
+        "prompt": "___ you pass the English exam last week?",
+        "options": [
+          "Were",
+          "Did",
+          "Do"
+        ],
+        "answer": 1,
+        "explanationPl": "Pytanie o przeszłość (*last week*) ze zwykłym czasownikiem zaczynamy od **Did**."
+      },
+      {
+        "type": "gap",
+        "prompt": "Where ___ (you / go) after school yesterday?",
+        "answers": [
+          "did you go"
+        ],
+        "explanationPl": "Pytanie: słowo pytające + **did** + osoba + forma podstawowa."
+      },
+      {
+        "type": "mc",
+        "prompt": "I started this school three years ___.",
+        "options": [
+          "ago",
+          "last",
+          "before"
+        ],
+        "answer": 0,
+        "explanationPl": "„Trzy lata temu” to *three years* **ago**."
+      }
+    ],
+    "testItems": [
+      {
+        "type": "mc",
+        "prompt": "My friends ___ late for the first lesson this morning.",
+        "options": [
+          "was",
+          "were",
+          "did"
+        ],
+        "answer": 1,
+        "explanationPl": "*My friends* to „they”, więc **were**."
+      },
+      {
+        "type": "gap",
+        "prompt": "He ___ (make) only one mistake in the test.",
+        "answers": [
+          "made"
+        ],
+        "explanationPl": "*Make* jest nieregularne: **made**."
+      },
+      {
+        "type": "mc",
+        "prompt": "She ___ the answer, so she asked the teacher.",
+        "options": [
+          "didn't knew",
+          "wasn't know",
+          "didn't know"
+        ],
+        "answer": 2,
+        "explanationPl": "Przeczenie: **didn't** + forma podstawowa (*know*)."
+      },
+      {
+        "type": "gap",
+        "prompt": "What ___ (the teacher / say) about your project?",
+        "answers": [
+          "did the teacher say"
+        ],
+        "explanationPl": "Pytanie: *What* + **did** + osoba + forma podstawowa (*say*)."
+      }
+    ]
+  },
+  "listening": {
+    "dictation": [
+      {
+        "text": "We had a geography test last Monday."
+      },
+      {
+        "text": "I did not revise, so I made many mistakes."
+      },
+      {
+        "text": "Did you hand in your project yesterday?"
+      },
+      {
+        "text": "She passed the exam and got a good mark."
+      },
+      {
+        "text": "Our teacher explained the new words two days ago."
+      }
+    ],
+    "monologue": {
+      "title": "My first English exam",
+      "speaker": "a girl telling her friends about her first language exam",
+      "script": [
+        "Hi, I'm Marta. Last month I took my first English exam. I was really nervous before it. For three weeks I revised every evening. I learned new words by heart and looked up the difficult ones in my dictionary.",
+        "The exam was on a Saturday morning at a language school. First we had a listening test, and then we wrote a short email. The listening part was easy, but I made two mistakes in my email. I forgot the past forms of some verbs!",
+        "The last part was speaking. A friendly teacher asked me about my hobbies and my school. I talked a lot, and she smiled.",
+        "Yesterday I found out my result. I passed, and my mark was eighty-five per cent! My parents were very proud. Now I want to improve my writing."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "How long did Marta revise for the exam?",
+          "options": [
+            "For three days",
+            "For three weeks",
+            "For one month",
+            "For one weekend"
+          ],
+          "answer": 1,
+          "explanationPl": "Marta mówi: „For three weeks I revised every evening”."
+        },
+        {
+          "type": "mc",
+          "q": "Which part of the exam was easy for Marta?",
+          "options": [
+            "The listening part",
+            "The email",
+            "The speaking part",
+            "The grammar part"
+          ],
+          "answer": 0,
+          "explanationPl": "Usłyszysz: „The listening part was easy, but I made two mistakes in my email”."
+        },
+        {
+          "type": "mc",
+          "q": "What does Marta want to improve now?",
+          "options": [
+            "Her speaking",
+            "Her listening",
+            "Her writing",
+            "Her marks at school"
+          ],
+          "answer": 2,
+          "explanationPl": "Na końcu Marta mówi: „Now I want to improve my writing”."
+        }
+      ]
+    }
+  },
+  "writing": {
+    "taskEn": "Write a short email to a friend about your school day yesterday. Say what lessons you had, what you did in them, and what was good or bad about the day.",
+    "taskPl": "Napisz krótki e-mail do kolegi lub koleżanki o swoim wczorajszym dniu w szkole. Napisz, jakie były lekcje, co się na nich działo i co było w tym dniu dobre, a co złe.",
+    "genre": "email",
+    "minWords": 60,
+    "maxWords": 100,
+    "checklistPl": [
+      "Zacznij od powitania i jednego zdania wstępu.",
+      "Opisz dwie lub trzy lekcje w czasie past simple.",
+      "Napisz, co było udane, a co poszło gorzej (użyj też przeczenia z didn't).",
+      "Zakończ pytaniem do kolegi lub koleżanki i pożegnaniem."
+    ],
+    "usefulPhrases": [
+      "I had a busy day at school yesterday.",
+      "In the morning we had …",
+      "After the break we …",
+      "It wasn't difficult because …",
+      "What did you do at school yesterday?",
+      "Write soon!"
+    ],
+    "modelAnswer": "Hi Kuba,\n\nHow are you? I had a busy day at school yesterday. In the morning we had a {{geography|w03-04}} {{test|w03-10}}. I {{revised|w03-13}} a lot at the weekend, so it wasn't difficult, and I didn't make many {{mistakes|w03-14}}. After the {{break|w03-06}} we had {{science|w03-03}}, my favourite {{subject|w03-01}}. We did an experiment and I {{took notes|w03-28}}. In the afternoon I went to the {{library|w03-25}} and started my {{history|w03-05}} {{project|w03-22}}.\n\nWhat did you do at school yesterday? Write soon!\n\nBest wishes,\nOla"
+  },
+  "speaking": {
+    "prompts": [
+      {
+        "q": "What lessons did you have yesterday?",
+        "followUp": "Which one did you like best?"
+      },
+      {
+        "q": "What was your favourite subject last year?",
+        "followUp": "Why did you like it?"
+      },
+      {
+        "q": "How did you revise for your last test?",
+        "followUp": "Was the test difficult?"
+      },
+      {
+        "q": "How do you learn new English words?",
+        "followUp": "Do you write them down or learn them by heart?"
+      }
+    ],
+    "shadowing": [
+      "I didn't have time to revise yesterday.",
+      "We had a history test last week.",
+      "Did you hand in your project on Monday?",
+      "She passed the exam and got a good mark."
+    ],
+    "roleplay": {
+      "titlePl": "Jak minął dzień w szkole?",
+      "scenarioPl": "Po powrocie ze szkoły rozmawiasz z osobą z rodziny, która pyta o Twój dzień. Opowiedz, jakie były lekcje, jak poszedł sprawdzian i co ciekawego się wydarzyło.",
+      "yourRole": "You are back from school. Tell your relative about your day: your lessons, a test you had and one interesting thing that happened.",
+      "partnerRole": "You are a relative who wants to know everything about the school day. Ask at least four questions in the past simple.",
+      "opening": "Hi! How was school today? What lessons did you have?",
+      "goalsPl": [
+        "Powiedz, jakie lekcje były tego dnia.",
+        "Opowiedz o sprawdzianie: jak wyglądała nauka przed nim i jak poszło.",
+        "Powiedz o jednej rzeczy, która się udała, i o jednej, która się nie udała."
+      ]
+    }
+  },
+  "practice": {
+    "gapFill": [
+      {
+        "sentence": "At my cousin's school everybody wears a blue ___: a jumper, a white shirt and dark trousers.",
+        "answerId": "w03-20",
+        "answers": [
+          "uniform"
+        ]
+      },
+      {
+        "sentence": "There are two hundred ___ in our school and fifteen teachers.",
+        "answerId": "w03-21",
+        "answers": [
+          "pupils"
+        ]
+      },
+      {
+        "sentence": "She didn't study at all, so she ___ the exam and has to take it again.",
+        "answerId": "w03-12",
+        "answers": [
+          "failed"
+        ]
+      },
+      {
+        "sentence": "The autumn ___ starts in September and ends in December.",
+        "answerId": "w03-19",
+        "answers": [
+          "term"
+        ]
+      },
+      {
+        "sentence": "Please ___ your homework on Monday morning; I want to check it.",
+        "answerId": "w03-08",
+        "answers": [
+          "hand in"
+        ]
+      },
+      {
+        "sentence": "My brother finished secondary school last year, and now he studies art at ___.",
+        "answerId": "w03-29",
+        "answers": [
+          "college"
+        ]
+      },
+      {
+        "sentence": "If you want to ___ your English, read and listen a little every day.",
+        "answerId": "w03-26",
+        "answers": [
+          "improve"
+        ]
+      },
+      {
+        "sentence": "Tomek ___ maths; he always gets the best marks in the class.",
+        "answerId": "w03-15",
+        "answers": [
+          "is good at",
+          "'s good at"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "left": "timetable",
+        "right": "a list of your lessons and their times"
+      },
+      {
+        "left": "dictionary",
+        "right": "a book that explains what words mean"
+      },
+      {
+        "left": "library",
+        "right": "a place where you can borrow books"
+      },
+      {
+        "left": "break",
+        "right": "a short rest between lessons"
+      },
+      {
+        "left": "head teacher",
+        "right": "the person who is in charge of a school"
+      },
+      {
+        "left": "geography",
+        "right": "the subject in which you learn about countries, rivers and mountains"
+      }
+    ],
+    "wordFormation": [
+      {
+        "sentence": "Mr Kowal gave us a clear ___ of the new grammar rule.",
+        "base": "EXPLAIN",
+        "answers": [
+          "explanation"
+        ]
+      },
+      {
+        "sentence": "There was a big ___ in her marks after she started to study every day.",
+        "base": "IMPROVE",
+        "answers": [
+          "improvement"
+        ]
+      },
+      {
+        "sentence": "My sister wants to be a ___ and do experiments in a laboratory.",
+        "base": "SCIENCE",
+        "answers": [
+          "scientist"
+        ]
+      },
+      {
+        "sentence": "Start your ___ a week before the exam; don't leave it until the last evening.",
+        "base": "REVISE",
+        "answers": [
+          "revision"
+        ]
+      }
+    ]
+  }
+}
