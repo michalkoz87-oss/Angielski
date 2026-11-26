@@ -17,7 +17,8 @@
       "availableWeeks": [
         1,
         2,
-        3
+        3,
+        4
       ]
     },
     {
@@ -76,7 +77,8 @@
       "vocabPerWeek": 40,
       "availableWeeks": [
         1,
-        2
+        2,
+        3
       ]
     }
   ]

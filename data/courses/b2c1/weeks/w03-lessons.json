@@ -1,0 +1,973 @@
+{
+  "week": 3,
+  "intro": "W tym tygodniu zajmiemy się domem i codziennymi nawykami: obowiązkami domowymi, organizacją czasu, odkładaniem spraw na później i snem. Powtórzysz konstrukcje used to i would, którymi opisujemy dawne zwyczaje, oraz be used to i get used to, czyli „być przyzwyczajonym” i „przyzwyczajać się”. Na koniec napiszesz wpis na bloga o tym, jak zmienił się Twój rytm dnia.",
+  "reading": {
+    "title": "Confessions of a reformed procrastinator",
+    "paragraphs": [
+      "Two years ago, anyone who visited my flat had to step over things. {{Laundry|w03-03}} used to {{pile up|w03-06}} on the bedroom chair until I ran out of clean socks. I would {{put off|w03-27}} every {{chore|w03-01}} for as long as possible and then {{leave it until the last minute|w03-28}}: I only {{vacuumed|w03-07}} when my mother announced a visit. My flatmate, Ola, complained that I didn't {{pull my weight|w03-02}}, and she was right. She was tired of {{picking up after|w03-14}} me.",
+      "My excuse was always the same: I {{had a lot on my plate|w03-23}}. I was {{juggling|w03-24}} a full-time job and an evening course, and my days were {{hectic|w03-21}}. I'm also {{a night owl|w03-31}}, so I used to stay up until two, {{doze off|w03-35}} on the tram the next morning and spend the afternoon {{yawning|w03-33}} at my desk. By Friday I was completely {{worn out|w03-39}}. I honestly believed that tidy people simply had more free time than I did.",
+      "Then Ola moved out, and I had to face the {{clutter|w03-13}} alone. One Saturday I couldn't find my passport under the mess, and something changed. I spent the weekend {{clearing out|w03-09}} cupboards. I filled nine bags. It was {{time-consuming|w03-26}} and deeply embarrassing, but when I had finished, the flat looked {{cosy|w03-12}} for the first time in years.",
+      "The harder part was keeping it that way. I decided to {{stick to|w03-18}} one small rule: ten minutes of housework before breakfast, {{on a daily basis|w03-16}}. At first it felt like a punishment. I wasn't used to getting up before eight, let alone {{wiping|w03-08}} kitchen surfaces at that hour. But slowly I {{got into the habit|w03-17}}, and after a couple of months I didn't even think about it.",
+      "I'm not a different person. I still {{tend|w03-15}} to leave my post unopened, and I haven't {{got round to|w03-29}} cleaning the oven since spring. But I've got used to living in a flat where I can find things, and I've learned that a routine isn't the same as {{being stuck in a rut|w03-20}}. {{Eventually|w03-30}} I even started going to bed before midnight. On Sundays I now have a long {{lie-in|w03-40}}, and I don't feel guilty about it at all."
+    ],
+    "glossary": [
+      {
+        "term": "step over sth",
+        "pl": "przechodzić nad czymś, przekraczać coś"
+      },
+      {
+        "term": "run out of sth",
+        "pl": "zużyć cały zapas czegoś, zostać bez czegoś"
+      },
+      {
+        "term": "excuse",
+        "pl": "wymówka"
+      },
+      {
+        "term": "mess",
+        "pl": "bałagan"
+      },
+      {
+        "term": "embarrassing",
+        "pl": "krępujący, wstydliwy"
+      },
+      {
+        "term": "punishment",
+        "pl": "kara"
+      },
+      {
+        "term": "let alone",
+        "pl": "a co dopiero, nie mówiąc już o"
+      },
+      {
+        "term": "guilty",
+        "pl": "winny; mający wyrzuty sumienia"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "q": "What finally made the writer change?",
+        "options": [
+          "A visit from the writer's mother",
+          "Not being able to find a passport in the mess",
+          "Ola's complaints about the housework",
+          "Feeling exhausted at work every Friday"
+        ],
+        "answer": 1,
+        "explanationPl": "Akapit 3: *One Saturday I couldn't find my passport under the mess, and something changed*. Skargi Oli i wizyty matki niczego wcześniej nie zmieniły."
+      },
+      {
+        "type": "mc",
+        "q": "What excuse did the writer use to give for not doing housework?",
+        "options": [
+          "Being too busy",
+          "Not knowing how to do it properly",
+          "Having a flatmate who enjoyed cleaning",
+          "Living in a flat that was too small"
+        ],
+        "answer": 0,
+        "explanationPl": "Akapit 2: *My excuse was always the same: I had a lot on my plate*, czyli nadmiar zajęć."
+      },
+      {
+        "type": "tf",
+        "q": "Ola moved out because the writer was so untidy.",
+        "answer": "not_given",
+        "explanationPl": "Wiemy, że Ola narzekała i że się wyprowadziła (akapity 1 i 3), ale tekst nie podaje powodu wyprowadzki."
+      },
+      {
+        "type": "mc",
+        "q": "What rule did the writer decide to follow?",
+        "options": [
+          "Cleaning the whole flat every weekend",
+          "Going to bed before midnight",
+          "Doing ten minutes of housework before breakfast every day",
+          "Never leaving laundry on the bedroom chair"
+        ],
+        "answer": 2,
+        "explanationPl": "Akapit 4: *one small rule: ten minutes of housework before breakfast, on a daily basis*."
+      },
+      {
+        "type": "tf",
+        "q": "The writer found the new rule easy to follow from the very beginning.",
+        "answer": "false",
+        "explanationPl": "Akapit 4: *At first it felt like a punishment*; nawyk wyrobił się dopiero po pewnym czasie (*slowly I got into the habit*)."
+      },
+      {
+        "type": "mc",
+        "q": "What does the writer say in the final paragraph?",
+        "options": [
+          "The writer has become a completely different person",
+          "Having a routine does not have to mean leading a dull, unchanging life",
+          "People with routines need less sleep",
+          "The flat is now perfectly clean in every way"
+        ],
+        "answer": 1,
+        "explanationPl": "Akapit 5: *a routine isn't the same as being stuck in a rut*. W tekście pada też przyznanie, że nic się nie zmieniło w samym charakterze i że piekarnik wciąż czeka."
+      }
+    ],
+    "discussion": [
+      "Which household chores do you tend to put off, and why?",
+      "Are you a night owl or an early bird? Has that changed over the years?",
+      "Is there a difference between having a routine and being stuck in a rut?"
+    ],
+    "wordGloss": {
+      "two": "dwa",
+      "years": "lata (year)",
+      "ago": "temu",
+      "anyone": "każdy, ktokolwiek",
+      "who": "kto, który",
+      "visited": "odwiedzał (visit)",
+      "my": "mój, moja, moje",
+      "flat": "mieszkanie",
+      "had": "musiał; miałem, miałam (have)",
+      "to": "do; (przed czasownikiem: tworzy bezokolicznik)",
+      "step": "stąpać (step over: przechodzić nad)",
+      "over": "nad, ponad",
+      "things": "rzeczy (thing)",
+      "used": "(used to: kiedyś, dawniej; be used to: być przyzwyczajonym)",
+      "on": "na; w",
+      "the": "(przedimek określony)",
+      "bedroom": "sypialnia",
+      "chair": "krzesło",
+      "until": "aż, dopóki; do",
+      "i": "ja",
+      "ran": "(ran out of: zabrakło mi; run)",
+      "out": "(ran out of: zabrakło; moved out: wyprowadziła się)",
+      "of": "(przyimek: czego?); z",
+      "clean": "czysty",
+      "socks": "skarpetki (sock)",
+      "would": "(o dawnym zwyczaju: zwykle, zawsze)",
+      "every": "każdy",
+      "for": "przez; na; dla",
+      "as": "tak, jak (as long as possible: jak najdłużej)",
+      "long": "długo; długi",
+      "possible": "możliwy",
+      "and": "i, a",
+      "then": "potem, wtedy",
+      "only": "tylko, dopiero",
+      "when": "kiedy, gdy",
+      "mother": "matka",
+      "announced": "zapowiadała (announce)",
+      "a": "(przedimek nieokreślony)",
+      "visit": "wizyta",
+      "flatmate": "współlokator, współlokatorka",
+      "ola": "Ola (imię)",
+      "complained": "narzekała (complain)",
+      "that": "że; ten, tamten",
+      "didn't": "nie (did not, czas przeszły)",
+      "she": "ona",
+      "was": "był, była, było; byłem, byłam (be)",
+      "right": "(be right: mieć rację)",
+      "tired": "zmęczony (be tired of: mieć dość)",
+      "me": "mnie, mi",
+      "excuse": "wymówka",
+      "always": "zawsze",
+      "same": "ten sam, taki sam",
+      "full-time": "na pełny etat",
+      "job": "praca",
+      "an": "(przedimek nieokreślony)",
+      "evening": "wieczorowy; wieczór",
+      "course": "kurs",
+      "days": "dni (day)",
+      "were": "były (be)",
+      "i'm": "jestem (I am)",
+      "also": "także, również",
+      "so": "więc",
+      "stay": "zostawać (stay up: nie kłaść się spać)",
+      "up": "(stay up: nie kłaść się; getting up: wstawanie)",
+      "tram": "tramwaj",
+      "next": "następny",
+      "morning": "rano, poranek",
+      "spend": "spędzać",
+      "afternoon": "popołudnie",
+      "at": "przy; o; w",
+      "desk": "biurko",
+      "by": "do (jakiegoś czasu), przed",
+      "friday": "piątek",
+      "completely": "całkowicie, zupełnie",
+      "honestly": "szczerze, naprawdę",
+      "believed": "wierzyłem, wierzyłam (believe)",
+      "tidy": "schludny, porządny",
+      "people": "ludzie",
+      "simply": "po prostu",
+      "more": "więcej",
+      "free": "wolny",
+      "time": "czas; raz",
+      "than": "niż",
+      "did": "(zastępuje had: niż ja miałem, miałam)",
+      "moved": "(moved out: wyprowadziła się; move)",
+      "face": "stawić czoła, zmierzyć się z",
+      "alone": "w pojedynkę, bez nikogo",
+      "one": "jeden; pewien",
+      "saturday": "sobota",
+      "couldn't": "nie mogłem, nie mogłam (could not)",
+      "find": "znaleźć",
+      "passport": "paszport",
+      "under": "pod",
+      "mess": "bałagan",
+      "something": "coś",
+      "changed": "zmieniło się (change)",
+      "spent": "spędziłem, spędziłam (spend)",
+      "weekend": "weekend",
+      "cupboards": "szafki (cupboard)",
+      "filled": "zapełniłem, zapełniłam (fill)",
+      "nine": "dziewięć",
+      "bags": "worki, torby (bag)",
+      "it": "to, ono; go, je",
+      "deeply": "głęboko, bardzo",
+      "embarrassing": "krępujący, wstydliwy",
+      "but": "ale",
+      "finished": "skończyłem, skończyłam (finish, III forma)",
+      "looked": "wyglądało (look)",
+      "first": "pierwszy (at first: z początku)",
+      "in": "w; od (in years: od lat)",
+      "harder": "trudniejszy (hard)",
+      "part": "część",
+      "keeping": "utrzymywanie (keep)",
+      "way": "sposób (that way: w takim stanie)",
+      "decided": "postanowiłem, postanowiłam (decide)",
+      "small": "mały, drobny",
+      "rule": "zasada",
+      "ten": "dziesięć",
+      "minutes": "minuty (minute)",
+      "housework": "prace domowe, sprzątanie",
+      "before": "przed",
+      "breakfast": "śniadanie",
+      "felt": "wydawało się, odczuwałem to (feel)",
+      "like": "jak, niczym",
+      "punishment": "kara",
+      "wasn't": "nie byłem, nie byłam (was not)",
+      "getting": "(getting up: wstawanie; get)",
+      "eight": "ósma; osiem",
+      "let": "(let alone: a co dopiero)",
+      "kitchen": "kuchenny; kuchnia",
+      "surfaces": "blaty, powierzchnie (surface)",
+      "hour": "godzina, pora",
+      "slowly": "powoli",
+      "after": "po",
+      "couple": "(a couple of: parę)",
+      "months": "miesiące (month)",
+      "even": "nawet",
+      "think": "myśleć",
+      "about": "o",
+      "not": "nie",
+      "different": "inny",
+      "person": "osoba, człowiek",
+      "still": "nadal, wciąż",
+      "leave": "zostawiać",
+      "post": "poczta, listy (BrE)",
+      "unopened": "nieotwarty",
+      "haven't": "nie (have not)",
+      "cleaning": "czyszczenie (clean)",
+      "oven": "piekarnik",
+      "since": "od (jakiegoś czasu)",
+      "spring": "wiosna",
+      "i've": "(I have + III forma: czas present perfect)",
+      "got": "(I've got used to: przyzwyczaiłem się, przyzwyczaiłam się)",
+      "living": "mieszkanie, życie (live)",
+      "where": "gdzie, w którym",
+      "can": "mogę, potrafię",
+      "learned": "nauczyłem się, nauczyłam się (learn)",
+      "routine": "stały rytm dnia, rutyna",
+      "isn't": "nie jest (is not)",
+      "started": "zacząłem, zaczęłam (start)",
+      "going": "(going to bed: kładzenie się spać; go)",
+      "bed": "łóżko",
+      "midnight": "północ",
+      "sundays": "niedziele (Sunday)",
+      "now": "teraz",
+      "have": "mam; (have + III forma: czas present perfect)",
+      "don't": "nie (do not)",
+      "feel": "czuć się",
+      "guilty": "winny (feel guilty: mieć wyrzuty sumienia)",
+      "all": "(at all: wcale)"
+    },
+    "phrases": [
+      {
+        "text": "step over",
+        "pl": "przechodzić nad, przekraczać"
+      },
+      {
+        "text": "ran out of",
+        "pl": "zabrakło mi"
+      },
+      {
+        "text": "for as long as possible",
+        "pl": "tak długo, jak się dało"
+      },
+      {
+        "text": "was tired of",
+        "pl": "miała dość"
+      },
+      {
+        "text": "stay up",
+        "pl": "nie kłaść się spać, siedzieć do późna"
+      },
+      {
+        "text": "moved out",
+        "pl": "wyprowadziła się"
+      },
+      {
+        "text": "for the first time in years",
+        "pl": "pierwszy raz od lat"
+      },
+      {
+        "text": "keeping it that way",
+        "pl": "utrzymanie tego stanu"
+      },
+      {
+        "text": "At first",
+        "pl": "z początku"
+      },
+      {
+        "text": "wasn't used to getting up",
+        "pl": "nie byłem przyzwyczajony, nie byłam przyzwyczajona do wstawania"
+      },
+      {
+        "text": "let alone",
+        "pl": "a co dopiero"
+      },
+      {
+        "text": "a couple of months",
+        "pl": "parę miesięcy"
+      },
+      {
+        "text": "got used to living",
+        "pl": "przyzwyczaiłem się, przyzwyczaiłam się do mieszkania"
+      },
+      {
+        "text": "isn't the same as",
+        "pl": "to nie to samo co"
+      },
+      {
+        "text": "at all",
+        "pl": "wcale, ani trochę"
+      }
+    ]
+  },
+  "grammar": {
+    "title": "Used to, would, be used to, get used to",
+    "titlePl": "Used to, would, be used to, get used to",
+    "summaryPl": "**Used to** opisuje dawne nawyki i stany, które już nie są aktualne, a **would** tylko powtarzające się dawne czynności. **Be used to** i **get used to** nie mają z nimi nic wspólnego poza brzmieniem: znaczą „być przyzwyczajonym” i „przyzwyczajać się”, a po nich stoi rzeczownik albo forma *-ing*.",
+    "sections": [
+      {
+        "heading": "Used to + bezokolicznik: dawne nawyki i stany",
+        "bodyPl": "**Used to** + forma podstawowa mówi o czymś, co w przeszłości powtarzało się regularnie albo po prostu było prawdą, a dziś już nie jest. Pasuje zarówno do czynności (*I used to stay up late*), jak i do stanów (*I used to live, have, be, like*). W pytaniach i przeczeniach jest *did*, więc znika *-d*: *Did you use to…?*, *I didn't use to…*. W starannym stylu spotyka się też *used not to*.",
+        "examples": [
+          {
+            "en": "Laundry used to pile up on my bedroom chair.",
+            "pl": "Pranie piętrzyło się kiedyś na krześle w mojej sypialni."
+          },
+          {
+            "en": "I used to be a night owl, but now I'm in bed by eleven.",
+            "pl": "Kiedyś byłem nocnym markiem, ale teraz o jedenastej jestem już w łóżku."
+          },
+          {
+            "en": "Did you use to share the chores with your flatmates?",
+            "pl": "Czy dzieliło się kiedyś obowiązki ze współlokatorami?"
+          },
+          {
+            "en": "We didn't use to have a dishwasher.",
+            "pl": "Kiedyś nie mieliśmy zmywarki."
+          }
+        ]
+      },
+      {
+        "heading": "Would: powtarzane czynności, nigdy stany",
+        "bodyPl": "W opowiadaniu o przeszłości zamiast *used to* można użyć **would** + forma podstawowa, ale tylko gdy chodzi o powtarzające się czynności. Stany (*be, have, live, know, like, believe*) wymagają *used to*. *Would* potrzebuje też ramy czasowej, podanej wcześniej albo w tym samym zdaniu (*when I was a student, every Sunday*); typowa narracja zaczyna się od *used to*, a dalej biegnie z *would*.",
+        "examples": [
+          {
+            "en": "I would put off every chore for as long as possible.",
+            "pl": "Każdy obowiązek odkładałem tak długo, jak się dało."
+          },
+          {
+            "en": "Every Sunday my father would vacuum the whole house.",
+            "pl": "Co niedzielę ojciec odkurzał cały dom."
+          },
+          {
+            "en": "We used to live by the sea, and in summer we would swim before breakfast.",
+            "pl": "Mieszkaliśmy kiedyś nad morzem i latem pływaliśmy przed śniadaniem."
+          }
+        ]
+      },
+      {
+        "heading": "Teraźniejszość: usually, tend to, a nie „use to”",
+        "bodyPl": "*Used to* nie ma czasu teraźniejszego. O obecnych nawykach mówimy **usually** + present simple albo **tend to** + forma podstawowa. Zdanie *I use to get up early* jest błędem; poprawnie: *I usually get up early* albo *I tend to get up early*.",
+        "examples": [
+          {
+            "en": "I usually do the laundry on Sundays.",
+            "pl": "Pranie robię zwykle w niedziele."
+          },
+          {
+            "en": "She tends to leave things until the last minute.",
+            "pl": "Ona ma w zwyczaju zostawiać wszystko na ostatnią chwilę."
+          },
+          {
+            "en": "I used to go to bed at two; now I usually go at eleven.",
+            "pl": "Kiedyś kładłem się o drugiej; teraz zwykle o jedenastej."
+          }
+        ]
+      },
+      {
+        "heading": "Be used to + rzeczownik / -ing: być przyzwyczajonym",
+        "bodyPl": "**Be used to** opisuje stan: coś jest dla nas normalne, bo robimy to lub znamy od dawna. *To* jest tu przyimkiem, więc dalej stoi rzeczownik, zaimek albo forma **-ing**, nigdy forma podstawowa. Czas wyraża czasownik *be*. Formalnym odpowiednikiem jest *be accustomed to*.",
+        "examples": [
+          {
+            "en": "I'm used to getting up at six.",
+            "pl": "Jestem przyzwyczajony do wstawania o szóstej."
+          },
+          {
+            "en": "She wasn't used to the noise.",
+            "pl": "Nie była przyzwyczajona do hałasu."
+          },
+          {
+            "en": "Nurses are used to working nights.",
+            "pl": "Pielęgniarki są przyzwyczajone do pracy na nocne zmiany."
+          }
+        ]
+      },
+      {
+        "heading": "Get used to + rzeczownik / -ing: przyzwyczajać się",
+        "bodyPl": "**Get used to** opisuje proces dochodzenia do tego stanu. Budowa jest ta sama (rzeczownik albo **-ing**), a *get* występuje w dowolnym czasie i po czasownikach modalnych: *I'm getting used to*, *I got used to*, *I've got used to*, *I'll never get used to*, *I can't get used to*.",
+        "examples": [
+          {
+            "en": "I'm slowly getting used to working from home.",
+            "pl": "Powoli przyzwyczajam się do pracy z domu."
+          },
+          {
+            "en": "It took me months to get used to the new schedule.",
+            "pl": "Miesiące zajęło mi przyzwyczajenie się do nowego grafiku."
+          },
+          {
+            "en": "I've got used to living on my own.",
+            "pl": "Przyzwyczaiłem się do mieszkania w pojedynkę."
+          },
+          {
+            "en": "I'll never get used to these early starts.",
+            "pl": "Nigdy nie przyzwyczaję się do tak wczesnego wstawania."
+          }
+        ]
+      }
+    ],
+    "pitfallsPl": [
+      {
+        "wrong": "I use to go jogging in the morning.",
+        "right": "I usually go jogging in the morning.",
+        "whyPl": "*Used to* dotyczy wyłącznie przeszłości. O obecnym nawyku mówimy *usually* + present simple albo *tend to*."
+      },
+      {
+        "wrong": "I'm used to get up early.",
+        "right": "I'm used to getting up early.",
+        "whyPl": "W *be used to* słowo *to* jest przyimkiem, więc dalej stoi forma *-ing*, a nie forma podstawowa."
+      },
+      {
+        "wrong": "When I was a child, I would have a dog.",
+        "right": "When I was a child, I used to have a dog.",
+        "whyPl": "*Have* w znaczeniu „mieć” to stan, a *would* opisuje tylko powtarzane czynności."
+      },
+      {
+        "wrong": "Did you used to live here?",
+        "right": "Did you use to live here?",
+        "whyPl": "Po *did* czasownik ma formę podstawową, więc w starannej pisowni *use to*, bez *-d*. Forma *did you used to* jest częsta, ale na egzaminach uchodzi za błąd."
+      },
+      {
+        "wrong": "I can't used to the noise.",
+        "right": "I can't get used to the noise.",
+        "whyPl": "„Przyzwyczaić się” to *get used to*; po *can't* potrzebny jest czasownik *get* w formie podstawowej."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "I ___ bite my nails when I was nervous, but I stopped years ago.",
+        "options": [
+          "use to",
+          "used to",
+          "am used to",
+          "was used to"
+        ],
+        "answer": 1,
+        "explanationPl": "Dawny nawyk, który się skończył: *used to* + forma podstawowa."
+      },
+      {
+        "type": "mc",
+        "prompt": "As a student, he ___ have a motorbike.",
+        "options": [
+          "would",
+          "was used to",
+          "used to",
+          "use to"
+        ],
+        "answer": 2,
+        "explanationPl": "*Have* w znaczeniu „mieć” to stan, więc tylko *used to*; *would* nie pasuje do stanów."
+      },
+      {
+        "type": "mc",
+        "prompt": "Nowadays I ___ go to bed before eleven.",
+        "options": [
+          "use to",
+          "usually",
+          "used to",
+          "am used to"
+        ],
+        "answer": 1,
+        "explanationPl": "*Nowadays* wskazuje teraźniejszość: *usually* + present simple. *Am used to* wymagałoby formy *going*."
+      },
+      {
+        "type": "mc",
+        "prompt": "Did your parents ___ make you do household chores?",
+        "options": [
+          "used to",
+          "be used to",
+          "would",
+          "use to"
+        ],
+        "answer": 3,
+        "explanationPl": "Po *did* stoi forma podstawowa: *use to*."
+      },
+      {
+        "type": "mc",
+        "prompt": "She's a nurse, so she ___ working nights.",
+        "options": [
+          "used to",
+          "is used to",
+          "uses to",
+          "would"
+        ],
+        "answer": 1,
+        "explanationPl": "Stan przyzwyczajenia w teraźniejszości: *is used to* + *-ing*."
+      },
+      {
+        "type": "mc",
+        "prompt": "It took me months to ___ driving on the left.",
+        "options": [
+          "be used",
+          "used to",
+          "get used to",
+          "getting used to"
+        ],
+        "answer": 2,
+        "explanationPl": "Proces przyzwyczajania się: po *to* forma podstawowa *get used to*, a dalej *-ing*."
+      },
+      {
+        "type": "gap",
+        "prompt": "When we were kids, we ___ (not / use to / have) a dishwasher.",
+        "answers": [
+          "didn't use to have",
+          "did not use to have",
+          "used not to have"
+        ],
+        "explanationPl": "Przeczenie: *didn't use to* + forma podstawowa (formalnie także *used not to*)."
+      },
+      {
+        "type": "gap",
+        "prompt": "I'm not used to ___ (get up) so early; I've been yawning all morning.",
+        "answers": [
+          "getting up"
+        ],
+        "explanationPl": "Po *be used to* stoi forma *-ing*."
+      },
+      {
+        "type": "gap",
+        "prompt": "Every Sunday my grandmother ___ (would / bake) a cake, and the whole house smelt of vanilla.",
+        "answers": [
+          "would bake",
+          "'d bake"
+        ],
+        "explanationPl": "Powtarzana czynność w przeszłości z ramą czasową (*every Sunday*): *would* + forma podstawowa."
+      },
+      {
+        "type": "gap",
+        "prompt": "Don't worry about the noise. You ___ (soon / get used to) it.",
+        "answers": [
+          "will soon get used to",
+          "'ll soon get used to"
+        ],
+        "explanationPl": "Przyszły proces: *will* + *get used to*; *soon* stoi po *will*."
+      },
+      {
+        "type": "transform",
+        "prompt": "I had a habit of putting things off, but I don't do it any more.",
+        "keyword": "USED",
+        "gapped": "I ___ things off.",
+        "answers": [
+          "used to put"
+        ],
+        "explanationPl": "Dawny nawyk, już nieaktualny: *used to* + forma podstawowa."
+      },
+      {
+        "type": "transform",
+        "prompt": "Sharing a kitchen is no longer strange to me.",
+        "keyword": "GOT",
+        "gapped": "I ___ a kitchen.",
+        "answers": [
+          "have got used to sharing",
+          "'ve got used to sharing",
+          "got used to sharing"
+        ],
+        "explanationPl": "Proces przyzwyczajania się już się zakończył: *have got used to* + *-ing*."
+      }
+    ],
+    "testItems": [
+      {
+        "type": "mc",
+        "prompt": "There ___ be a laundrette on this street, but it closed down.",
+        "options": [
+          "would",
+          "use to",
+          "used to",
+          "was used to"
+        ],
+        "answer": 2,
+        "explanationPl": "Dawny stan: *used to be*. *Would* nie łączy się ze stanami."
+      },
+      {
+        "type": "gap",
+        "prompt": "He ___ (not / be used to / cook) for himself, so he lives on sandwiches.",
+        "answers": [
+          "isn't used to cooking",
+          "is not used to cooking",
+          "'s not used to cooking"
+        ],
+        "explanationPl": "Stan w teraźniejszości (*lives*): *isn't used to* + *-ing*."
+      },
+      {
+        "type": "mc",
+        "prompt": "When I lived alone, I ___ leave the washing-up for days.",
+        "options": [
+          "use to",
+          "was used to",
+          "am used to",
+          "would"
+        ],
+        "answer": 3,
+        "explanationPl": "Powtarzana czynność w przeszłości, rama czasowa podana (*when I lived alone*): *would leave*."
+      },
+      {
+        "type": "gap",
+        "prompt": "___ (you / use to / share) a room when you were a child?",
+        "answers": [
+          "Did you use to share"
+        ],
+        "explanationPl": "Pytanie: *Did* + osoba + *use to* + forma podstawowa."
+      },
+      {
+        "type": "mc",
+        "prompt": "I can't get used ___ so little.",
+        "options": [
+          "to sleep",
+          "sleeping",
+          "to sleeping",
+          "sleep"
+        ],
+        "answer": 2,
+        "explanationPl": "*Get used to* + *-ing*: *to sleeping*."
+      }
+    ]
+  },
+  "listening": {
+    "dictation": [
+      {
+        "text": "I used to put off the laundry until I had nothing clean to wear."
+      },
+      {
+        "text": "We would lay the table together every evening before dinner."
+      },
+      {
+        "text": "She is not used to juggling a job and a family."
+      },
+      {
+        "text": "It took him months to get used to such a tight schedule."
+      },
+      {
+        "text": "He tends to doze off in front of the television after lunch."
+      },
+      {
+        "text": "I eventually got into the habit of going to bed earlier."
+      }
+    ],
+    "monologue": {
+      "title": "Small Changes: working from home",
+      "speaker": "a man talking on a podcast about how working from home changed his routine",
+      "script": [
+        "Welcome back to 'Small Changes'. This week I want to tell you what happened when I started working from home.",
+        "For twelve years I commuted for an hour and a half each way. I would leave the house at half past six, doze off on the train and arrive at the office already drowsy. I was used to it, so I never questioned it.",
+        "Then my company closed the office, and suddenly I had three extra hours a day. You'd think I'd become wonderfully productive. I didn't. I stayed in my pyjamas until noon, put off every difficult task and worked until midnight to catch up. The chores piled up, I stopped exercising, and after two months I was worn out. I'd swapped a hectic routine for no routine at all.",
+        "What saved me was a rule I borrowed from a friend: start and finish at the same time every single day, whatever happens. I get dressed, I walk round the block as if I were going to the office, and at six I close the laptop and unwind. It took me a few weeks to get used to stopping when there was still work to do, but I've stuck to it for a year now.",
+        "So here's my advice: freedom is great, but most of us need a little structure to enjoy it."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "How did the speaker feel about his long commute while he was doing it?",
+          "options": [
+            "He hated every minute of it",
+            "He accepted it without thinking about it",
+            "He enjoyed the time to read",
+            "He was planning to move closer to work"
+          ],
+          "answer": 1,
+          "explanationPl": "Mówi: *I was used to it, so I never questioned it*."
+        },
+        {
+          "type": "mc",
+          "q": "What happened during his first two months of working from home?",
+          "options": [
+            "He became far more productive",
+            "He started exercising every morning",
+            "His company asked him to come back",
+            "He lost all structure and ended up exhausted"
+          ],
+          "answer": 3,
+          "explanationPl": "Opisuje piżamę do południa, odkładanie zadań, pracę do północy i podsumowuje: *after two months I was worn out*."
+        },
+        {
+          "type": "mc",
+          "q": "What rule did he adopt?",
+          "options": [
+            "Starting and finishing work at the same time every day",
+            "Working only in the mornings",
+            "Never using his laptop at weekends",
+            "Going to an office once a week"
+          ],
+          "answer": 0,
+          "explanationPl": "Mówi: *start and finish at the same time every single day, whatever happens*."
+        },
+        {
+          "type": "mc",
+          "q": "What did he find difficult about the new rule?",
+          "options": [
+            "Getting dressed for work",
+            "Walking round the block",
+            "Stopping when there was still work to do",
+            "Getting up earlier than before"
+          ],
+          "answer": 2,
+          "explanationPl": "Mówi: *It took me a few weeks to get used to stopping when there was still work to do*."
+        }
+      ]
+    }
+  },
+  "writing": {
+    "taskEn": "Write a blog post (140–190 words) about how your daily routine has changed, for example after starting a new job or course, moving house or taking up a new habit. Describe what you used to do, what you do now, what was difficult to get used to, and whether the change has been for the better.",
+    "taskPl": "Napisz wpis na bloga (140–190 słów) o tym, jak zmienił się Twój rytm dnia, na przykład po rozpoczęciu nowej pracy lub kursu, przeprowadzce albo wyrobieniu nowego nawyku. Opisz, jak było kiedyś, jak jest teraz, do czego trudno było się przyzwyczaić i czy zmiana wyszła na dobre.",
+    "genre": "blog post",
+    "minWords": 140,
+    "maxWords": 190,
+    "checklistPl": [
+      "Krótki wstęp: co się zmieniło i kiedy",
+      "Dawny rytm dnia opisany za pomocą used to i would",
+      "Obecny rytm dnia: usually lub tend to + present simple",
+      "Co było trudne: be used to / get used to + -ing",
+      "Osobiste zakończenie, najlepiej z pytaniem do czytelników, i co najmniej pięć wyrażeń z tego tygodnia"
+    ],
+    "usefulPhrases": [
+      "My whole routine changed when …",
+      "I used to …, and I would often …",
+      "I was accustomed to …",
+      "For the first few months I couldn't get used to …",
+      "Slowly I got into the habit of …",
+      "I have stuck to it ever since.",
+      "What about you? Has your routine changed recently?"
+    ],
+    "modelAnswer": "Three years ago I changed jobs, and my whole routine changed with it.\n\nI used to work in a restaurant, so I was {{accustomed|w03-19}} to finishing at midnight. I would get home at one, watch a film to {{unwind|w03-32}} and sleep until ten. I was {{a night owl|w03-31}}, and I loved it.\n\nNow I work in an office, and I usually start at eight. For the first few months I {{yawned|w03-33}} through every morning meeting and felt {{drowsy|w03-34}} by three. I couldn't get used to going to bed at eleven; I just lay there, wide awake.\n\nSlowly, things improved. I {{got into the habit|w03-17}} of switching off my phone at ten, and I have {{stuck to|w03-18}} it ever since. My days are still {{hectic|w03-21}}, but my evenings are calmer, and I do the {{chores|w03-01}} before dinner instead of {{putting them off|w03-27}}.\n\nDo I miss my old life? Sometimes. But I've got used to mornings, and on Sundays I still allow myself a long {{lie-in|w03-40}}.\n\nWhat about you? Has your routine changed recently?"
+  },
+  "speaking": {
+    "prompts": [
+      {
+        "q": "How has your daily routine changed in the last five years?",
+        "followUp": "What did you use to do that you no longer do?"
+      },
+      {
+        "q": "Which household chores do you find most time-consuming?",
+        "followUp": "How are the chores shared out where you live?"
+      },
+      {
+        "q": "Do you tend to put things off or to get them done straight away?",
+        "followUp": "Can you give a recent example?"
+      },
+      {
+        "q": "Are you a night owl or an early bird?",
+        "followUp": "How does that fit in with your work or studies?"
+      },
+      {
+        "q": "What is something you found hard to get used to at first?",
+        "followUp": "How long did it take you?"
+      }
+    ],
+    "shadowing": [
+      "I used to leave everything until the last minute, but I've changed.",
+      "When I lived alone, I would let the washing-up pile up for days.",
+      "I'm still not used to getting up before six in the morning.",
+      "It took me a while to get used to working from home.",
+      "I tend to doze off on the sofa if I don't go to bed by eleven."
+    ],
+    "roleplay": {
+      "titlePl": "Podział obowiązków w mieszkaniu",
+      "scenarioPl": "Od roku dzielisz mieszkanie ze współlokatorem lub współlokatorką. Na początku obowiązki były dzielone po równo, ale od kilku miesięcy większość spada na Ciebie. Chcesz spokojnie o tym porozmawiać i ustalić nowy podział.",
+      "yourRole": "You share a flat. You feel that your flatmate hasn't been pulling their weight for months: the laundry piles up, and you are tired of picking up after them. Explain the problem calmly, say how things used to be, and suggest a fair way of sharing the chores.",
+      "partnerRole": "You are the flatmate. You have a lot on your plate at the moment: a new job with a tight schedule and an evening course. You know you have been putting things off, but you think your flatmate is too fussy about clutter. Explain your situation and try to agree on a plan you can stick to.",
+      "opening": "Have you got a minute? I'd like to talk about the housework.",
+      "goalsPl": [
+        "Opisz problem na konkretnych przykładach, bez oskarżeń",
+        "Powiedz, jak wyglądał podział obowiązków kiedyś, a jak wygląda teraz",
+        "Wysłuchaj drugiej strony i odnieś się do jej argumentów",
+        "Ustalcie podział, którego obie strony będą się trzymać"
+      ]
+    }
+  },
+  "practice": {
+    "gapFill": [
+      {
+        "sentence": "The red wine left a dark ___ on the carpet that no cleaning product could remove.",
+        "answerId": "w03-04",
+        "answers": [
+          "stain"
+        ]
+      },
+      {
+        "sentence": "Velvet is a beautiful ___, but it is expensive and difficult to clean.",
+        "answerId": "w03-05",
+        "answers": [
+          "fabric"
+        ]
+      },
+      {
+        "sentence": "It's your turn to ___; the knives and forks are in the top drawer.",
+        "answerId": "w03-10",
+        "answers": [
+          "lay the table"
+        ]
+      },
+      {
+        "sentence": "The average ___ in this country throws away a surprising amount of food every week.",
+        "answerId": "w03-11",
+        "answers": [
+          "household"
+        ]
+      },
+      {
+        "sentence": "With three projects due this week, we're working to ___ and can't afford any delays.",
+        "answerId": "w03-22",
+        "answers": [
+          "a tight schedule"
+        ]
+      },
+      {
+        "sentence": "Organising a wedding yourself is incredibly ___; it took us nearly a year.",
+        "answerId": "w03-26",
+        "answers": [
+          "time-consuming"
+        ]
+      },
+      {
+        "sentence": "Even the dog ___; you can hear him from the next room when he's asleep.",
+        "answerId": "w03-38",
+        "answers": [
+          "snores"
+        ]
+      },
+      {
+        "sentence": "A twenty-minute ___ after lunch can give you more energy than a cup of coffee.",
+        "answerId": "w03-36",
+        "answers": [
+          "nap"
+        ]
+      },
+      {
+        "sentence": "Don't try to do everything at once: ___ and start with what is most urgent.",
+        "answerId": "w03-25",
+        "answers": [
+          "prioritise",
+          "prioritize"
+        ]
+      },
+      {
+        "sentence": "The baby was ___ in her cot, so we crept quietly out of the room.",
+        "answerId": "w03-37",
+        "answers": [
+          "fast asleep"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "left": "pull",
+        "right": "your weight"
+      },
+      {
+        "left": "lay",
+        "right": "the table"
+      },
+      {
+        "left": "do",
+        "right": "the laundry"
+      },
+      {
+        "left": "a tight",
+        "right": "schedule"
+      },
+      {
+        "left": "fast",
+        "right": "asleep"
+      },
+      {
+        "left": "a night",
+        "right": "owl"
+      },
+      {
+        "left": "be stuck",
+        "right": "in a rut"
+      },
+      {
+        "left": "on a daily",
+        "right": "basis"
+      }
+    ],
+    "wordFormation": [
+      {
+        "sentence": "He has a ___ to leave everything until the last minute.",
+        "base": "TEND",
+        "answers": [
+          "tendency"
+        ]
+      },
+      {
+        "sentence": "Her desk is so ___ that she works at the kitchen table instead.",
+        "base": "CLUTTER",
+        "answers": [
+          "cluttered"
+        ]
+      },
+      {
+        "sentence": "Getting enough sleep should be your top ___ this month.",
+        "base": "PRIORITISE",
+        "answers": [
+          "priority"
+        ]
+      },
+      {
+        "sentence": "This medicine may cause ___, so avoid driving after you take it.",
+        "base": "DROWSY",
+        "answers": [
+          "drowsiness"
+        ]
+      },
+      {
+        "sentence": "Buy a ___ steel sink; it stays shiny for years.",
+        "base": "STAIN",
+        "answers": [
+          "stainless"
+        ]
+      },
+      {
+        "sentence": "___ to the heat, the tourists stayed indoors until the evening.",
+        "base": "ACCUSTOMED",
+        "answers": [
+          "unaccustomed"
+        ]
+      }
+    ]
+  }
+}

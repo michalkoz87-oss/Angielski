@@ -1,0 +1,619 @@
+{
+  "week": 4,
+  "intro": "W tym tygodniu poznasz nazwy zwierząt: tych domowych, tych z gospodarstwa i tych dzikich. Nauczysz się mówić, co ktoś umie, a czego nie umie robić, za pomocą can i can't. Na koniec napiszesz kilka zdań o swoim ulubionym zwierzęciu.",
+  "reading": {
+    "title": "Grandad's farm",
+    "paragraphs": [
+      "My grandad has got a {{farm|w04-11}}. There are a lot of {{animals|w04-01}} on it. There are six {{cows|w04-08}}, ten {{sheep|w04-09}} and a lot of {{chickens|w04-10}}. There is a big brown {{horse|w04-07}} too. Its name is Star.",
+      "I can {{ride a horse|w04-12}}, but my little brother Olek can't. He is only four. Olek likes the farm {{dog|w04-02}}, Reks. Reks can {{run fast|w04-24}} and {{jump|w04-22}} very high, but he can't {{climb|w04-23}} trees.",
+      "The farm {{cat|w04-03}} is called Luna. She can climb trees, and she can catch a mouse! Reks can {{swim|w04-20}}, but Luna hates water. I haven't got a {{pet|w04-05}} at home. Mum says no, because our flat is small."
+    ],
+    "glossary": [
+      {
+        "term": "brown",
+        "pl": "brązowy"
+      },
+      {
+        "term": "high",
+        "pl": "wysoko"
+      },
+      {
+        "term": "catch",
+        "pl": "złapać"
+      },
+      {
+        "term": "mouse",
+        "pl": "mysz"
+      },
+      {
+        "term": "hate",
+        "pl": "nie znosić, bardzo nie lubić"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "q": "How many cows are there on the farm?",
+        "options": [
+          "Four",
+          "Six",
+          "Ten",
+          "Twelve"
+        ],
+        "answer": 1,
+        "explanationPl": "W pierwszym akapicie: „There are six cows”. Owiec jest dziesięć."
+      },
+      {
+        "type": "mc",
+        "q": "Who can't ride a horse?",
+        "options": [
+          "Star",
+          "Grandad",
+          "Olek",
+          "Mum"
+        ],
+        "answer": 2,
+        "explanationPl": "W drugim akapicie: „I can ride a horse, but my little brother Olek can't”."
+      },
+      {
+        "type": "mc",
+        "q": "What can Luna do?",
+        "options": [
+          "She can climb trees",
+          "She can swim",
+          "She can fly",
+          "She can ride a horse"
+        ],
+        "answer": 0,
+        "explanationPl": "W trzecim akapicie: „She can climb trees”."
+      },
+      {
+        "type": "tf",
+        "q": "Reks can climb trees.",
+        "answer": "false",
+        "explanationPl": "W drugim akapicie: „he can't climb trees”."
+      },
+      {
+        "type": "tf",
+        "q": "Star is ten years old.",
+        "answer": "not_given",
+        "explanationPl": "Wiemy, że Star to duży brązowy koń. O tym, ile ma lat, nic nie ma w tekście."
+      }
+    ],
+    "discussion": [
+      "What animals can you see on a farm?",
+      "Have you got a pet? What can it do?"
+    ],
+    "wordGloss": {
+      "my": "mój, moja, moje",
+      "grandad": "dziadek",
+      "has": "ma (have)",
+      "got": "(have got: mieć)",
+      "a": "(przedimek nieokreślony: jakiś)",
+      "there": "(there is, there are: jest, są)",
+      "are": "są",
+      "lot": "(a lot of: dużo)",
+      "of": "(a lot of: dużo)",
+      "on": "na, w",
+      "it": "to, ono; nim",
+      "six": "sześć",
+      "ten": "dziesięć",
+      "and": "i",
+      "is": "jest",
+      "big": "duży",
+      "brown": "brązowy",
+      "too": "też",
+      "its": "jego, jej",
+      "name": "imię",
+      "star": "Star (imię konia; star: gwiazda)",
+      "i": "ja",
+      "can": "umiem, umie, potrafi",
+      "but": "ale",
+      "little": "mały, młodszy",
+      "brother": "brat",
+      "olek": "Olek (imię)",
+      "can't": "nie umie, nie potrafi (cannot)",
+      "haven't": "nie mam (have not)",
+      "he": "on",
+      "only": "tylko",
+      "four": "cztery",
+      "likes": "lubi (like)",
+      "the": "(przedimek określony: ten, ta, to)",
+      "farm": "gospodarstwo; z gospodarstwa",
+      "reks": "Reks (imię psa)",
+      "very": "bardzo",
+      "high": "wysoko",
+      "trees": "drzewa (tree)",
+      "called": "nazywa się (is called)",
+      "luna": "Luna (imię kotki)",
+      "she": "ona",
+      "climb": "wspinać się, wchodzić na",
+      "catch": "złapać",
+      "mouse": "mysz",
+      "hates": "nie znosi (hate)",
+      "water": "woda",
+      "have": "mieć",
+      "at": "w",
+      "home": "dom",
+      "mum": "mama",
+      "says": "mówi (say)",
+      "no": "nie",
+      "because": "bo, ponieważ",
+      "our": "nasz, nasza, nasze",
+      "flat": "mieszkanie",
+      "small": "mały"
+    },
+    "phrases": [
+      {
+        "text": "has got",
+        "pl": "ma"
+      },
+      {
+        "text": "There are",
+        "pl": "są, jest"
+      },
+      {
+        "text": "a lot of",
+        "pl": "dużo"
+      },
+      {
+        "text": "Its name is",
+        "pl": "ma na imię"
+      },
+      {
+        "text": "is called",
+        "pl": "nazywa się"
+      },
+      {
+        "text": "at home",
+        "pl": "w domu"
+      },
+      {
+        "text": "Mum says no",
+        "pl": "mama mówi, że nie"
+      }
+    ]
+  },
+  "grammar": {
+    "title": "can and can't",
+    "titlePl": "can i can't (umiejętności)",
+    "summaryPl": "**Can** znaczy „umiem, potrafię”. **Can't** znaczy „nie umiem, nie potrafię”. Tymi słowami mówimy, co ktoś umie robić, a czego nie umie.",
+    "sections": [
+      {
+        "heading": "Can: umiem, potrafię",
+        "bodyPl": "Po **can** stawiamy czasownik, czyli słowo, które mówi, co robimy: **I can swim.** Słowo **can** jest zawsze takie samo: **I can**, **you can**, **he can**, **she can**, **it can**, **we can**, **they can**. Nie dodajemy do niego **-s**.",
+        "examples": [
+          {
+            "en": "I can swim.",
+            "pl": "Umiem pływać."
+          },
+          {
+            "en": "My dog can run fast.",
+            "pl": "Mój pies umie szybko biegać."
+          },
+          {
+            "en": "Birds can fly.",
+            "pl": "Ptaki umieją latać."
+          },
+          {
+            "en": "She can ride a horse.",
+            "pl": "Ona umie jeździć konno."
+          }
+        ]
+      },
+      {
+        "heading": "Can't: nie umiem",
+        "bodyPl": "Gdy ktoś czegoś nie umie, mówimy **can't**. To krótka forma słowa **cannot**. Po **can't** też stoi czasownik: **I can't fly.**",
+        "examples": [
+          {
+            "en": "I can't fly.",
+            "pl": "Nie umiem latać."
+          },
+          {
+            "en": "A fish can't climb trees.",
+            "pl": "Ryba nie umie wspinać się na drzewa."
+          },
+          {
+            "en": "My cat can jump, but it can't fly.",
+            "pl": "Mój kot umie skakać, ale nie umie latać."
+          },
+          {
+            "en": "Cows cannot fly.",
+            "pl": "Krowy nie umieją latać."
+          }
+        ]
+      },
+      {
+        "heading": "Pytania z can i krótkie odpowiedzi",
+        "bodyPl": "W pytaniu **can** stoi na początku: **Can you swim?** Krótko odpowiadamy: **Yes, I can.** albo **No, I can't.**",
+        "examples": [
+          {
+            "en": "Can you swim? Yes, I can.",
+            "pl": "Czy umiesz pływać? Tak, umiem."
+          },
+          {
+            "en": "Can a horse jump? Yes, it can.",
+            "pl": "Czy koń umie skakać? Tak, umie."
+          },
+          {
+            "en": "Can elephants fly? No, they can't.",
+            "pl": "Czy słonie umieją latać? Nie, nie umieją."
+          }
+        ]
+      }
+    ],
+    "pitfallsPl": [
+      {
+        "wrong": "She cans swim.",
+        "right": "She can swim.",
+        "whyPl": "Do **can** nigdy nie dodajemy **-s**. Jest takie samo po I, you, he, she, it, we, they."
+      },
+      {
+        "wrong": "I can to ride a horse.",
+        "right": "I can ride a horse.",
+        "whyPl": "Po **can** nie ma słowa „to”. Od razu stoi czasownik: can ride."
+      },
+      {
+        "wrong": "Do you can swim?",
+        "right": "Can you swim?",
+        "whyPl": "Pytanie zaczynamy od **can**. Nie dodajemy „do”."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "A fish ___ swim.",
+        "options": [
+          "cans",
+          "can",
+          "is",
+          "has"
+        ],
+        "answer": 1,
+        "explanationPl": "Ryba umie pływać: **can swim**. Do can nie dodajemy -s."
+      },
+      {
+        "type": "mc",
+        "prompt": "A dog ___ fly.",
+        "options": [
+          "can",
+          "isn't",
+          "can't",
+          "haven't"
+        ],
+        "answer": 2,
+        "explanationPl": "Pies nie umie latać, więc **can't**."
+      },
+      {
+        "type": "gap",
+        "prompt": "Birds have got wings. They ___ fly.",
+        "answers": [
+          "can"
+        ],
+        "explanationPl": "Ptaki mają skrzydła, więc umieją latać: **can fly**."
+      },
+      {
+        "type": "mc",
+        "prompt": "My sister can ___ a horse.",
+        "options": [
+          "rides",
+          "to ride",
+          "riding",
+          "ride"
+        ],
+        "answer": 3,
+        "explanationPl": "Po **can** stoi sam czasownik, bez -s i bez „to”: can ride."
+      },
+      {
+        "type": "gap",
+        "prompt": "A cow is very big. It ___ climb trees.",
+        "answers": [
+          "can't",
+          "cannot",
+          "can not"
+        ],
+        "explanationPl": "Krowa jest bardzo duża, więc nie umie wchodzić na drzewa: **can't** albo **cannot**."
+      },
+      {
+        "type": "mc",
+        "prompt": "___ you swim? Yes, I can.",
+        "options": [
+          "Can",
+          "Do",
+          "Are",
+          "Have"
+        ],
+        "answer": 0,
+        "explanationPl": "Pytanie o to, co ktoś umie, zaczynamy od **Can**. W odpowiedzi też jest can."
+      },
+      {
+        "type": "mc",
+        "prompt": "Can a monkey climb trees? Yes, it ___.",
+        "options": [
+          "is",
+          "does",
+          "can't",
+          "can"
+        ],
+        "answer": 3,
+        "explanationPl": "W krótkiej odpowiedzi „tak” powtarzamy **can**: Yes, it can."
+      },
+      {
+        "type": "gap",
+        "prompt": "Can your cat fly? No, it ___.",
+        "answers": [
+          "can't",
+          "cannot",
+          "can not"
+        ],
+        "explanationPl": "W krótkiej odpowiedzi „nie” mówimy **can't** albo **cannot**."
+      },
+      {
+        "type": "mc",
+        "prompt": "Can elephants fly? No, ___ can't.",
+        "options": [
+          "it",
+          "they",
+          "he",
+          "we"
+        ],
+        "answer": 1,
+        "explanationPl": "Elephants to wiele słoni, czyli „one”: **they**."
+      },
+      {
+        "type": "gap",
+        "prompt": "___ horses run fast? Yes, they can.",
+        "answers": [
+          "Can"
+        ],
+        "explanationPl": "Pytanie zaczynamy od **Can**."
+      }
+    ],
+    "testItems": [
+      {
+        "type": "mc",
+        "prompt": "A lion ___ run fast.",
+        "options": [
+          "cans",
+          "are",
+          "can",
+          "have"
+        ],
+        "answer": 2,
+        "explanationPl": "Lew umie szybko biegać: **can run**. Bez -s."
+      },
+      {
+        "type": "gap",
+        "prompt": "A mouse is very small. It ___ ride a horse.",
+        "answers": [
+          "can't",
+          "cannot",
+          "can not"
+        ],
+        "explanationPl": "Mysz jest bardzo mała, więc nie umie jeździć konno: **can't** albo **cannot**."
+      },
+      {
+        "type": "mc",
+        "prompt": "Can your dog jump high? Yes, it ___.",
+        "options": [
+          "can",
+          "can't",
+          "is",
+          "has"
+        ],
+        "answer": 0,
+        "explanationPl": "W krótkiej odpowiedzi „tak” powtarzamy **can**."
+      },
+      {
+        "type": "mc",
+        "prompt": "My brother can ___ very well.",
+        "options": [
+          "swims",
+          "to swim",
+          "swim",
+          "swimming"
+        ],
+        "answer": 2,
+        "explanationPl": "Po **can** stoi sam czasownik: can swim."
+      }
+    ]
+  },
+  "listening": {
+    "dictation": [
+      {
+        "text": "My dog can run very fast."
+      },
+      {
+        "text": "Can your cat climb trees?"
+      },
+      {
+        "text": "Fish can swim, but they cannot fly."
+      },
+      {
+        "text": "There are ten sheep on the farm."
+      },
+      {
+        "text": "A lion is a wild animal."
+      }
+    ],
+    "monologue": {
+      "title": "At the zoo",
+      "speaker": "a nine-year-old boy talking about a school trip to the zoo",
+      "script": [
+        "Hello! I am Kuba. Today I am at the zoo with my class. There are a lot of wild animals here.",
+        "Look at the monkeys! They are small and brown. They can climb trees and jump very high. One monkey has got a banana.",
+        "The elephant is my favourite animal. It is very big and grey. It can't jump, but it can swim! The lions are next to the elephant. They can run fast, but today they are in the sun. They are very quiet."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Who is Kuba at the zoo with?",
+          "options": [
+            "His family",
+            "His brother",
+            "His grandad",
+            "His class"
+          ],
+          "answer": 3,
+          "explanationPl": "Kuba mówi: „I am at the zoo with my class”."
+        },
+        {
+          "type": "mc",
+          "q": "What is Kuba's favourite animal?",
+          "options": [
+            "The monkey",
+            "The elephant",
+            "The lion",
+            "The horse"
+          ],
+          "answer": 1,
+          "explanationPl": "Kuba mówi: „The elephant is my favourite animal”."
+        },
+        {
+          "type": "mc",
+          "q": "What can the elephant do?",
+          "options": [
+            "It can swim",
+            "It can jump",
+            "It can climb trees",
+            "It can fly"
+          ],
+          "answer": 0,
+          "explanationPl": "Kuba mówi o słoniu: „It can't jump, but it can swim”."
+        }
+      ]
+    }
+  },
+  "writing": {
+    "taskEn": "Write about your favourite animal. What is it like? What has it got? What can it do? What can't it do? Write four or five short sentences.",
+    "taskPl": "Napisz o swoim ulubionym zwierzęciu. Jakie jest? Co ma? Co umie robić, a czego nie umie? Napisz cztery lub pięć krótkich zdań.",
+    "genre": "a few sentences about my favourite animal",
+    "minWords": 25,
+    "maxWords": 50,
+    "checklistPl": [
+      "Napisz, jakie zwierzę lubisz najbardziej.",
+      "Napisz, jakie jest: duże czy małe, jakiego koloru.",
+      "Napisz, co umie robić (It can …).",
+      "Napisz, czego nie umie robić (It can't …)."
+    ],
+    "usefulPhrases": [
+      "My favourite animal is the …",
+      "It is … and …",
+      "It has got …",
+      "It can …",
+      "It can't …"
+    ],
+    "modelAnswer": "My favourite {{animal|w04-01}} is the {{horse|w04-07}}. It is big and strong. It has got four long legs and a long {{tail|w04-17}}. It can {{run fast|w04-24}} and {{jump|w04-22}}, but it can't {{climb|w04-23}} trees. Horses live on {{farms|w04-11}}. I can {{ride a horse|w04-12}}!"
+  },
+  "speaking": {
+    "prompts": [
+      {
+        "q": "What is your favourite animal?",
+        "followUp": "What can it do?"
+      },
+      {
+        "q": "Have you got a pet?",
+        "followUp": "What is its name?"
+      },
+      {
+        "q": "Can you swim?",
+        "followUp": "Can you ride a horse?"
+      },
+      {
+        "q": "What animals can you see at the zoo?",
+        "followUp": "What colour are they?"
+      }
+    ],
+    "shadowing": [
+      "I can swim, but I can't fly.",
+      "Can your dog run fast?",
+      "Monkeys can climb trees.",
+      "My cat has got a long tail."
+    ],
+    "roleplay": {
+      "titlePl": "Zgadnij, jakie to zwierzę",
+      "scenarioPl": "Grasz w zgadywankę z kolegą lub koleżanką. Myślisz o jednym zwierzęciu. Druga osoba zadaje pytania z can, a Ty odpowiadasz krótko: tak albo nie.",
+      "yourRole": "You are thinking of an animal. Your friend asks questions. Answer: Yes, it can. / No, it can't.",
+      "partnerRole": "You are a friend. Ask questions with can, for example: Can it fly? Can it swim? Then guess the animal.",
+      "opening": "I am thinking of an animal. Ask me a question!",
+      "goalsPl": [
+        "Odpowiadaj krótko: Yes, it can. albo No, it can't.",
+        "Gdy padnie dobra nazwa zwierzęcia, powiedz: Yes!",
+        "Potem zamieńcie się rolami. Zadaj trzy pytania z Can it …?"
+      ]
+    }
+  },
+  "practice": {
+    "gapFill": [
+      {
+        "sentence": "A ___ gives us milk. It is black and white.",
+        "answerId": "w04-08",
+        "answers": [
+          "cow"
+        ]
+      },
+      {
+        "sentence": "We can see lions and monkeys at the ___.",
+        "answerId": "w04-16",
+        "answers": [
+          "zoo"
+        ]
+      },
+      {
+        "sentence": "My cat has got a long black ___.",
+        "answerId": "w04-17",
+        "answers": [
+          "tail"
+        ]
+      },
+      {
+        "sentence": "Birds can ___ in the sky, but dogs can't.",
+        "answerId": "w04-21",
+        "answers": [
+          "fly"
+        ]
+      },
+      {
+        "sentence": "I have got a ___ at home. It is a small white mouse.",
+        "answerId": "w04-05",
+        "answers": [
+          "pet"
+        ]
+      },
+      {
+        "sentence": "An ___ is very big and grey. It has got a very long nose.",
+        "answerId": "w04-14",
+        "answers": [
+          "elephant"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "left": "horse",
+        "right": "koń"
+      },
+      {
+        "left": "sheep",
+        "right": "owca"
+      },
+      {
+        "left": "chicken",
+        "right": "kura"
+      },
+      {
+        "left": "bird",
+        "right": "ptak"
+      },
+      {
+        "left": "monkey",
+        "right": "małpa"
+      },
+      {
+        "left": "lion",
+        "right": "lew"
+      }
+    ],
+    "wordFormation": []
+  }
+}

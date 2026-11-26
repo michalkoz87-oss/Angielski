@@ -1,0 +1,395 @@
+{
+  "week": 4,
+  "theme": "Animals",
+  "items": [
+    {
+      "id": "w04-01",
+      "term": "animal",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈænɪml/",
+      "pl": "zwierzę",
+      "def": "a living thing that is not a person or a plant",
+      "example": "A dog is an {{animal}}, and a cat is too.",
+      "examplePl": "Pies to zwierzę i kot też.",
+      "collocations": [
+        "my favourite animal",
+        "farm animals"
+      ]
+    },
+    {
+      "id": "w04-02",
+      "term": "dog",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/dɒɡ/",
+      "pl": "pies",
+      "def": "a pet with four legs that says woof",
+      "example": "Our {{dog}} says woof and plays with a ball.",
+      "examplePl": "Nasz pies robi „hau” i bawi się piłką.",
+      "collocations": [
+        "a big dog",
+        "walk the dog"
+      ]
+    },
+    {
+      "id": "w04-03",
+      "term": "cat",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/kæt/",
+      "pl": "kot",
+      "def": "a small pet with soft fur that says miaow",
+      "example": "My {{cat}} says miaow and sleeps on the sofa.",
+      "examplePl": "Mój kot robi „miau” i śpi na kanapie.",
+      "collocations": [
+        "a black cat",
+        "a cat and a dog"
+      ]
+    },
+    {
+      "id": "w04-04",
+      "term": "bird",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/bɜːd/",
+      "pl": "ptak",
+      "def": "a living thing with two wings and two legs",
+      "example": "A {{bird}} has got two wings and sings in a tree.",
+      "examplePl": "Ptak ma dwa skrzydła i śpiewa na drzewie.",
+      "collocations": [
+        "a small bird",
+        "birds in the garden"
+      ]
+    },
+    {
+      "id": "w04-05",
+      "term": "pet",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/pet/",
+      "pl": "zwierzątko domowe",
+      "def": "an animal that lives with you at home, like a dog or a cat",
+      "example": "My {{pet}} is a small cat. It lives with me at home.",
+      "examplePl": "Moje zwierzątko to mały kot. Mieszka ze mną w domu.",
+      "collocations": [
+        "have got a pet",
+        "my pet"
+      ]
+    },
+    {
+      "id": "w04-06",
+      "term": "play with",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A1",
+      "ipa": "/ˈpleɪ wɪð/",
+      "pl": "bawić się (czymś, z kimś)",
+      "def": "to have fun with a toy or with a friend",
+      "example": "I {{play with}} my dog in the garden every day.",
+      "examplePl": "Codziennie bawię się z psem w ogrodzie.",
+      "collocations": [
+        "play with a ball",
+        "play with a friend"
+      ]
+    },
+    {
+      "id": "w04-07",
+      "term": "horse",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/hɔːs/",
+      "pl": "koń",
+      "def": "a big, strong animal with four long legs; people sit on it",
+      "example": "A {{horse}} is big and strong. People can ride it.",
+      "examplePl": "Koń jest duży i silny. Ludzie mogą na nim jeździć.",
+      "collocations": [
+        "a brown horse",
+        "a big horse"
+      ]
+    },
+    {
+      "id": "w04-08",
+      "term": "cow",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/kaʊ/",
+      "pl": "krowa",
+      "def": "a big farm animal that gives us milk",
+      "example": "A {{cow}} is black and white and gives us milk.",
+      "examplePl": "Krowa jest czarno-biała i daje nam mleko.",
+      "collocations": [
+        "a black and white cow",
+        "milk from a cow"
+      ]
+    },
+    {
+      "id": "w04-09",
+      "term": "sheep",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ʃiːp/",
+      "pl": "owca",
+      "def": "a white farm animal with a lot of soft wool",
+      "example": "A {{sheep}} is white and gives us warm wool.",
+      "examplePl": "Owca jest biała i daje nam ciepłą wełnę.",
+      "collocations": [
+        "a white sheep",
+        "ten sheep"
+      ],
+      "note": "Wiele owiec to też **sheep**: one sheep, ten sheep."
+    },
+    {
+      "id": "w04-10",
+      "term": "chicken",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈtʃɪkɪn/",
+      "pl": "kura, kurczak",
+      "def": "a farm bird that gives us eggs",
+      "example": "A {{chicken}} is a farm bird. It gives us eggs.",
+      "examplePl": "Kura to ptak z gospodarstwa. Daje nam jajka.",
+      "collocations": [
+        "a small chicken",
+        "chickens and eggs"
+      ],
+      "note": "Nie myl z **kitchen** /ˈkɪtʃɪn/ (kuchnia)."
+    },
+    {
+      "id": "w04-11",
+      "term": "farm",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/fɑːm/",
+      "pl": "gospodarstwo, farma",
+      "def": "a place in the country with fields, cows and sheep",
+      "example": "Cows and sheep live on a {{farm}}.",
+      "examplePl": "Krowy i owce żyją w gospodarstwie.",
+      "collocations": [
+        "on a farm",
+        "farm animals"
+      ],
+      "note": "Mówimy **on a farm**, a nie „in a farm”."
+    },
+    {
+      "id": "w04-12",
+      "term": "ride a horse",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A2",
+      "ipa": "/ˌraɪd ə ˈhɔːs/",
+      "pl": "jeździć konno, jechać na koniu",
+      "def": "to sit on a horse and go from place to place",
+      "example": "I go to my grandad's farm and {{ride a horse}} every Saturday.",
+      "examplePl": "Jeżdżę do gospodarstwa dziadka i w każdą sobotę jeżdżę konno.",
+      "collocations": [
+        "can ride a horse",
+        "ride a bike"
+      ]
+    },
+    {
+      "id": "w04-13",
+      "term": "lion",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈlaɪən/",
+      "pl": "lew",
+      "def": "a big, strong, yellow cat from Africa",
+      "example": "The {{lion}} is a big yellow cat from Africa.",
+      "examplePl": "Lew to duży żółty kot z Afryki.",
+      "collocations": [
+        "a big lion",
+        "a lion at the zoo"
+      ]
+    },
+    {
+      "id": "w04-14",
+      "term": "elephant",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈelɪfənt/",
+      "pl": "słoń",
+      "def": "a very big grey animal with a very long nose",
+      "example": "An {{elephant}} is very big and has got a very long nose.",
+      "examplePl": "Słoń jest bardzo duży i ma bardzo długi nos.",
+      "collocations": [
+        "a big elephant",
+        "a baby elephant"
+      ]
+    },
+    {
+      "id": "w04-15",
+      "term": "monkey",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/ˈmʌŋki/",
+      "pl": "małpa, małpka",
+      "def": "a funny animal that lives in trees and likes bananas",
+      "example": "A {{monkey}} likes bananas and lives in trees.",
+      "examplePl": "Małpa lubi banany i żyje na drzewach.",
+      "collocations": [
+        "a small monkey",
+        "a funny monkey"
+      ],
+      "note": "Wymowa: literę **o** czytamy tu jak krótkie „a”: „manki”."
+    },
+    {
+      "id": "w04-16",
+      "term": "zoo",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/zuː/",
+      "pl": "zoo, ogród zoologiczny",
+      "def": "a place where you can go and see lions, monkeys and elephants",
+      "example": "We see lions and monkeys at the {{zoo}}.",
+      "examplePl": "W zoo oglądamy lwy i małpy.",
+      "collocations": [
+        "at the zoo",
+        "go to the zoo"
+      ]
+    },
+    {
+      "id": "w04-17",
+      "term": "tail",
+      "type": "word",
+      "pos": "n",
+      "level": "A2",
+      "ipa": "/teɪl/",
+      "pl": "ogon",
+      "def": "the long part at the back of a dog, a cat or a horse",
+      "example": "My dog is happy. Its {{tail}} goes left and right.",
+      "examplePl": "Mój pies się cieszy. Macha ogonem w lewo i w prawo.",
+      "collocations": [
+        "a long tail",
+        "a short tail"
+      ]
+    },
+    {
+      "id": "w04-18",
+      "term": "wild animal",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A2",
+      "ipa": "/ˌwaɪld ˈænɪml/",
+      "pl": "dzikie zwierzę",
+      "def": "a lion, an elephant or another living thing that does not live with people",
+      "example": "A lion is a {{wild animal}}. It is not a pet.",
+      "examplePl": "Lew to dzikie zwierzę. Nie jest zwierzątkiem domowym.",
+      "collocations": [
+        "wild animals at the zoo"
+      ]
+    },
+    {
+      "id": "w04-19",
+      "term": "fish",
+      "type": "word",
+      "pos": "n",
+      "level": "A1",
+      "ipa": "/fɪʃ/",
+      "pl": "ryba",
+      "def": "a living thing with no legs that lives in water",
+      "example": "A {{fish}} lives in water and has got no legs.",
+      "examplePl": "Ryba żyje w wodzie i nie ma nóg.",
+      "collocations": [
+        "a small fish",
+        "a lot of fish"
+      ],
+      "note": "Wiele ryb to też **fish**: one fish, two fish."
+    },
+    {
+      "id": "w04-20",
+      "term": "swim",
+      "type": "word",
+      "pos": "v",
+      "level": "A1",
+      "ipa": "/swɪm/",
+      "pl": "pływać",
+      "def": "to go from place to place in water",
+      "example": "Fish {{swim}} in the sea all day.",
+      "examplePl": "Ryby cały dzień pływają w morzu.",
+      "collocations": [
+        "swim in the sea",
+        "can swim"
+      ]
+    },
+    {
+      "id": "w04-21",
+      "term": "fly",
+      "type": "word",
+      "pos": "v",
+      "level": "A1",
+      "ipa": "/flaɪ/",
+      "pl": "latać",
+      "def": "to go from place to place in the sky, like a bird",
+      "example": "Birds have got wings and {{fly}} in the sky.",
+      "examplePl": "Ptaki mają skrzydła i latają po niebie.",
+      "collocations": [
+        "fly in the sky",
+        "can fly"
+      ]
+    },
+    {
+      "id": "w04-22",
+      "term": "jump",
+      "type": "word",
+      "pos": "v",
+      "level": "A1",
+      "ipa": "/dʒʌmp/",
+      "pl": "skakać",
+      "def": "to go up from the floor with your two legs",
+      "example": "My dog can {{jump}} very high and catch a ball.",
+      "examplePl": "Mój pies umie skakać bardzo wysoko i łapać piłkę.",
+      "collocations": [
+        "jump high",
+        "jump up"
+      ]
+    },
+    {
+      "id": "w04-23",
+      "term": "climb",
+      "type": "word",
+      "pos": "v",
+      "level": "A2",
+      "ipa": "/klaɪm/",
+      "pl": "wspinać się, wchodzić na",
+      "def": "to go up a tree or a wall with your hands and legs",
+      "example": "Monkeys {{climb}} up trees every day.",
+      "examplePl": "Małpy codziennie wspinają się na drzewa.",
+      "collocations": [
+        "climb a tree",
+        "climb up"
+      ],
+      "note": "Wymowa: litery **b** na końcu nie słychać."
+    },
+    {
+      "id": "w04-24",
+      "term": "run fast",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "A1",
+      "ipa": "/ˌrʌn ˈfɑːst/",
+      "pl": "szybko biegać",
+      "def": "to go very quickly on your legs",
+      "example": "Horses have got long legs and can {{run fast}}.",
+      "examplePl": "Konie mają długie nogi i potrafią szybko biegać.",
+      "collocations": [
+        "can run fast",
+        "run very fast"
+      ]
+    }
+  ]
+}

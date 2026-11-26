@@ -1,0 +1,710 @@
+{
+  "week": 3,
+  "theme": "Home & daily routines",
+  "items": [
+    {
+      "id": "w03-01",
+      "term": "chore",
+      "type": "word",
+      "pos": "n",
+      "level": "B2",
+      "ipa": "/tʃɔː/",
+      "pl": "obowiązek domowy, nudny obowiązek",
+      "def": "a job at home that you have to do regularly, or any boring task",
+      "example": "Washing up is the {{chore}} I hate most, so I usually swap it with my flatmate for the ironing.",
+      "examplePl": "Zmywanie to obowiązek domowy, którego nie znoszę najbardziej, więc zwykle zamieniam się ze współlokatorem na prasowanie.",
+      "collocations": [
+        "household chores",
+        "do the chores",
+        "a daily chore"
+      ],
+      "note": "Wymowa: /tʃɔː/, rymuje się z *more*."
+    },
+    {
+      "id": "w03-02",
+      "term": "pull your weight",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "C1",
+      "ipa": "/ˌpʊl jɔː ˈweɪt/",
+      "pl": "robić swoje, przykładać się do wspólnych obowiązków",
+      "def": "to do your fair share of the work that a group has to do",
+      "example": "Everyone in this flat has to {{pull their weight}}; I'm not cleaning the bathroom on my own again.",
+      "examplePl": "W tym mieszkaniu każdy musi robić swoje; nie będę znowu w pojedynkę sprzątać łazienki.",
+      "collocations": [
+        "not pull your weight"
+      ]
+    },
+    {
+      "id": "w03-03",
+      "term": "laundry",
+      "type": "word",
+      "pos": "n",
+      "level": "B2",
+      "ipa": "/ˈlɔːndri/",
+      "pl": "pranie",
+      "def": "clothes and sheets that need to be washed or have just been washed; the job of washing them",
+      "example": "I do the {{laundry}} on Sundays, and by the evening every radiator is covered in wet socks.",
+      "examplePl": "Pranie robię w niedziele i wieczorem na każdym kaloryferze wiszą mokre skarpetki.",
+      "collocations": [
+        "do the laundry",
+        "a pile of laundry",
+        "a laundry basket"
+      ],
+      "note": "Rzeczownik niepoliczalny: *do the laundry*, nie *a laundry*."
+    },
+    {
+      "id": "w03-04",
+      "term": "stain",
+      "type": "word",
+      "pos": "n",
+      "level": "B2",
+      "ipa": "/steɪn/",
+      "pl": "plama",
+      "def": "a dirty mark that is difficult to remove",
+      "example": "He spilt coffee on his white shirt, and the brown {{stain}} wouldn't come out in the wash.",
+      "examplePl": "Wylał kawę na białą koszulę i brązowa plama nie chciała zejść w praniu.",
+      "collocations": [
+        "a coffee stain",
+        "remove a stain",
+        "a stubborn stain"
+      ],
+      "family": [
+        "stain (v)",
+        "stainless (adj)"
+      ]
+    },
+    {
+      "id": "w03-05",
+      "term": "fabric",
+      "type": "word",
+      "pos": "n",
+      "level": "B2",
+      "ipa": "/ˈfæbrɪk/",
+      "pl": "tkanina, materiał",
+      "def": "cloth used for making clothes, curtains and furniture covers",
+      "example": "This sofa is covered in a thick cotton {{fabric}} that is easy to wash.",
+      "examplePl": "Ta sofa jest obita grubą bawełnianą tkaniną, którą łatwo się pierze.",
+      "collocations": [
+        "cotton fabric",
+        "a delicate fabric"
+      ],
+      "note": "Fałszywy przyjaciel: fabryka to *factory*."
+    },
+    {
+      "id": "w03-06",
+      "term": "pile up",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B2",
+      "ipa": "/ˌpaɪl ˈʌp/",
+      "pl": "piętrzyć się, gromadzić się",
+      "def": "to increase in quantity until there is a lot to deal with",
+      "example": "I was away for a week, and the dirty dishes and unopened letters just {{piled up}}.",
+      "examplePl": "Nie było mnie przez tydzień, a brudne naczynia i nieotwarte listy po prostu się piętrzyły.",
+      "collocations": [
+        "work piles up",
+        "the bills pile up"
+      ],
+      "family": [
+        "pile (n)"
+      ]
+    },
+    {
+      "id": "w03-07",
+      "term": "vacuum",
+      "type": "word",
+      "pos": "v",
+      "level": "B2",
+      "ipa": "/ˈvækjuːm/",
+      "pl": "odkurzać (odkurzaczem)",
+      "def": "to clean a floor or carpet with an electric machine that sucks up dirt",
+      "example": "I {{vacuum}} the carpets twice a week because the dog leaves hair everywhere.",
+      "examplePl": "Odkurzam dywany dwa razy w tygodniu, bo pies wszędzie zostawia sierść.",
+      "collocations": [
+        "vacuum the carpet",
+        "vacuum the stairs"
+      ],
+      "family": [
+        "vacuum cleaner (n)"
+      ],
+      "note": "W BrE mówi się też *hoover*. Wymowa: /ˈvækjuːm/, dwie sylaby."
+    },
+    {
+      "id": "w03-08",
+      "term": "wipe",
+      "type": "word",
+      "pos": "v",
+      "level": "B2",
+      "ipa": "/waɪp/",
+      "pl": "wycierać, przecierać",
+      "def": "to rub a surface with a cloth to remove dirt or liquid",
+      "example": "Could you {{wipe}} the table with a damp cloth? Someone has spilt juice on it.",
+      "examplePl": "Czy możesz przetrzeć stół wilgotną ściereczką? Ktoś rozlał na nim sok.",
+      "collocations": [
+        "wipe the table",
+        "wipe your feet",
+        "wipe sth clean"
+      ]
+    },
+    {
+      "id": "w03-09",
+      "term": "clear sth out",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "C1",
+      "ipa": "/ˌklɪər ˈaʊt/",
+      "pl": "zrobić w czymś porządek, opróżnić coś z niepotrzebnych rzeczy",
+      "def": "to make a place tidy by removing things you no longer want",
+      "example": "We spent the whole weekend {{clearing out}} the garage and took six bags of rubbish to the tip.",
+      "examplePl": "Cały weekend robiliśmy porządek w garażu i wywieźliśmy sześć worków śmieci na wysypisko.",
+      "collocations": [
+        "clear out a cupboard",
+        "clear out the garage"
+      ],
+      "family": [
+        "clear-out (n)"
+      ]
+    },
+    {
+      "id": "w03-10",
+      "term": "lay the table",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B2",
+      "ipa": "/ˌleɪ ðə ˈteɪbl/",
+      "pl": "nakrywać do stołu",
+      "def": "to put plates, knives, forks and glasses out before a meal",
+      "example": "Dinner is nearly ready, so could you {{lay the table}} for six, please?",
+      "examplePl": "Kolacja jest prawie gotowa, więc czy możesz nakryć do stołu dla sześciu osób?",
+      "collocations": [
+        "lay the table for dinner"
+      ],
+      "note": "W AmE: *set the table*. Czasownik *lay – laid – laid*; nie mylić z *lie – lay – lain* (leżeć)."
+    },
+    {
+      "id": "w03-11",
+      "term": "household",
+      "type": "word",
+      "pos": "n",
+      "level": "B2",
+      "ipa": "/ˈhaʊshəʊld/",
+      "pl": "gospodarstwo domowe, domownicy",
+      "def": "all the people who live together in one home",
+      "example": "In most {{households}} with two working parents, the evenings are a race against the clock.",
+      "examplePl": "W większości domów, w których oboje rodzice pracują, wieczory to wyścig z czasem.",
+      "collocations": [
+        "a household of four",
+        "household chores",
+        "run a household"
+      ]
+    },
+    {
+      "id": "w03-12",
+      "term": "cosy",
+      "type": "word",
+      "pos": "adj",
+      "level": "B2",
+      "ipa": "/ˈkəʊzi/",
+      "pl": "przytulny",
+      "def": "warm, comfortable and pleasant, especially of a small room",
+      "example": "With the fire lit and the curtains drawn, the little living room felt wonderfully {{cosy}}.",
+      "examplePl": "Przy rozpalonym kominku i zaciągniętych zasłonach mały salon wydawał się cudownie przytulny.",
+      "collocations": [
+        "a cosy room",
+        "warm and cosy",
+        "a cosy evening in"
+      ],
+      "note": "W AmE pisownia *cozy*."
+    },
+    {
+      "id": "w03-13",
+      "term": "clutter",
+      "type": "word",
+      "pos": "n",
+      "level": "C1",
+      "ipa": "/ˈklʌtə/",
+      "pl": "graty, rupiecie, bałagan",
+      "def": "a lot of things lying around in an untidy way, especially things you do not need",
+      "example": "My desk is covered in {{clutter}}: old receipts, dead pens and cables for phones I no longer own.",
+      "examplePl": "Moje biurko jest zawalone gratami: stare paragony, wypisane długopisy i kable do telefonów, których już nie mam.",
+      "collocations": [
+        "get rid of clutter",
+        "a room full of clutter"
+      ],
+      "family": [
+        "clutter (v)",
+        "cluttered (adj)",
+        "declutter (v)"
+      ],
+      "note": "Rzeczownik niepoliczalny."
+    },
+    {
+      "id": "w03-14",
+      "term": "pick up after sb",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "C1",
+      "ipa": "/ˌpɪk ˈʌp ɑːftə/",
+      "pl": "sprzątać po kimś",
+      "def": "to tidy the things that someone else has left lying around",
+      "example": "I'm tired of {{picking up after}} you; put your own shoes and cups away.",
+      "examplePl": "Mam dość sprzątania po tobie; odkładaj swoje buty i kubki na miejsce.",
+      "collocations": [
+        "pick up after the children",
+        "pick up after yourself"
+      ]
+    },
+    {
+      "id": "w03-15",
+      "term": "tend",
+      "type": "word",
+      "pos": "v",
+      "level": "B2",
+      "ipa": "/tend/",
+      "pl": "mieć w zwyczaju, mieć skłonność (coś robić)",
+      "def": "to be likely to do something, or to do it often",
+      "example": "I {{tend}} to leave the washing-up until the morning, which drives my partner mad.",
+      "examplePl": "Mam w zwyczaju zostawiać zmywanie do rana, co doprowadza moją drugą połowę do szału.",
+      "collocations": [
+        "tend to do sth",
+        "tend to be late"
+      ],
+      "family": [
+        "tendency (n)"
+      ],
+      "note": "W tym znaczeniu zawsze z *to* i bezokolicznikiem: *tend to do*. Dobry zamiennik dla nadużywanego *usually*."
+    },
+    {
+      "id": "w03-16",
+      "term": "on a daily basis",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B2",
+      "ipa": "/ɒn ə ˌdeɪli ˈbeɪsɪs/",
+      "pl": "codziennie, na co dzień",
+      "def": "every day",
+      "example": "She has to deal with complaints {{on a daily basis}}, so nothing surprises her any more.",
+      "examplePl": "Codziennie ma do czynienia ze skargami, więc nic jej już nie dziwi.",
+      "collocations": [
+        "on a weekly basis",
+        "on a regular basis"
+      ],
+      "note": "Zwrot dość formalny; w rozmowie zwykle wystarczy *every day*."
+    },
+    {
+      "id": "w03-17",
+      "term": "get into the habit",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B2",
+      "ipa": "/ˌɡet ɪntə ðə ˈhæbɪt/",
+      "pl": "wyrobić w sobie nawyk, nabrać zwyczaju",
+      "def": "to start doing something regularly",
+      "example": "I've {{got into the habit}} of making my bed as soon as I get up.",
+      "examplePl": "Wyrobiłem w sobie nawyk ścielenia łóżka zaraz po wstaniu.",
+      "collocations": [
+        "get into the habit of doing sth",
+        "get out of the habit"
+      ],
+      "note": "Dalej *of* + *-ing*: *get into the habit of reading*."
+    },
+    {
+      "id": "w03-18",
+      "term": "stick to sth",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B2",
+      "ipa": "/ˈstɪk tə/",
+      "pl": "trzymać się czegoś (planu, rutyny)",
+      "def": "to continue doing or using something and not change it",
+      "example": "A new routine only works if you {{stick to}} it for more than a few days.",
+      "examplePl": "Nowy plan dnia działa tylko wtedy, gdy trzymasz się go dłużej niż kilka dni.",
+      "collocations": [
+        "stick to a plan",
+        "stick to a routine",
+        "stick to the point"
+      ],
+      "note": "Czasownik nieregularny: *stick – stuck – stuck*."
+    },
+    {
+      "id": "w03-19",
+      "term": "accustomed",
+      "type": "word",
+      "pos": "adj",
+      "level": "C1",
+      "ipa": "/əˈkʌstəmd/",
+      "pl": "przyzwyczajony",
+      "def": "familiar with something, so that it seems normal",
+      "example": "After ten years of night shifts, she is {{accustomed}} to sleeping during the day.",
+      "examplePl": "Po dziesięciu latach nocnych zmian jest przyzwyczajona do spania w dzień.",
+      "collocations": [
+        "be accustomed to sth",
+        "become accustomed to doing sth",
+        "grow accustomed to sth"
+      ],
+      "family": [
+        "unaccustomed (adj)"
+      ],
+      "note": "Bardziej formalny odpowiednik *be used to*: *be accustomed to* + rzeczownik lub *-ing*."
+    },
+    {
+      "id": "w03-20",
+      "term": "be stuck in a rut",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "C1",
+      "ipa": "/bi ˌstʌk ɪn ə ˈrʌt/",
+      "pl": "tkwić w rutynie, tkwić w marazmie",
+      "def": "to have a boring way of life that never changes and is hard to escape",
+      "example": "Same office, same lunch, same sofa every evening: I felt I {{was stuck in a rut}} and needed a change.",
+      "examplePl": "To samo biuro, ten sam lunch, ta sama kanapa co wieczór: czułem, że tkwię w rutynie i potrzebuję zmiany.",
+      "collocations": [
+        "get out of a rut"
+      ]
+    },
+    {
+      "id": "w03-21",
+      "term": "hectic",
+      "type": "word",
+      "pos": "adj",
+      "level": "B2",
+      "ipa": "/ˈhektɪk/",
+      "pl": "gorączkowy, zabiegany, bardzo intensywny",
+      "def": "very busy and full of activity",
+      "example": "Mornings in our house are {{hectic}}: three children, one bathroom and a bus at half past seven.",
+      "examplePl": "Poranki w naszym domu są gorączkowe: troje dzieci, jedna łazienka i autobus o wpół do ósmej.",
+      "collocations": [
+        "a hectic day",
+        "a hectic schedule",
+        "a hectic lifestyle"
+      ],
+      "note": "Nie chodzi o gorączkę jako chorobę (*fever*), tylko o gorączkowe tempo."
+    },
+    {
+      "id": "w03-22",
+      "term": "a tight schedule",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B2",
+      "ipa": "/ə ˌtaɪt ˈʃedjuːl/",
+      "pl": "napięty grafik, napięty harmonogram",
+      "def": "a plan with very little free time in it",
+      "example": "The builders are working to {{a tight schedule}}, so even a day of rain causes problems.",
+      "examplePl": "Budowlańcy pracują według napiętego harmonogramu, więc nawet jeden dzień deszczu sprawia kłopoty.",
+      "collocations": [
+        "work to a tight schedule",
+        "be on a tight schedule"
+      ],
+      "note": "Wymowa *schedule*: BrE /ˈʃedjuːl/, AmE /ˈskedʒuːl/."
+    },
+    {
+      "id": "w03-23",
+      "term": "have a lot on your plate",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "C1",
+      "ipa": "/hæv ə ˌlɒt ɒn jɔː ˈpleɪt/",
+      "pl": "mieć dużo na głowie",
+      "def": "to have a large amount of work or many problems to deal with",
+      "example": "I'd love to help with the move, but I {{have a lot on my plate}} at the moment with exams and a new job.",
+      "examplePl": "Chętnie pomógłbym przy przeprowadzce, ale mam teraz dużo na głowie: egzaminy i nową pracę.",
+      "collocations": [
+        "have enough on your plate",
+        "have too much on your plate"
+      ]
+    },
+    {
+      "id": "w03-24",
+      "term": "juggle",
+      "type": "word",
+      "pos": "v",
+      "level": "C1",
+      "ipa": "/ˈdʒʌɡl/",
+      "pl": "godzić (wiele obowiązków naraz), żonglować",
+      "def": "to try to deal with two or more important jobs or activities at the same time",
+      "example": "She {{juggles}} a full-time job, two small children and an evening course.",
+      "examplePl": "Godzi pracę na pełny etat, dwoje małych dzieci i kurs wieczorowy.",
+      "collocations": [
+        "juggle work and family",
+        "juggle several jobs"
+      ]
+    },
+    {
+      "id": "w03-25",
+      "term": "prioritise",
+      "type": "word",
+      "pos": "v",
+      "level": "C1",
+      "ipa": "/praɪˈɒrətaɪz/",
+      "pl": "ustalać priorytety, traktować priorytetowo",
+      "def": "to decide which things are most important and deal with them first",
+      "example": "You can't do everything today, so {{prioritise}}: what really has to be finished by five?",
+      "examplePl": "Nie da się dziś zrobić wszystkiego, więc ustal priorytety: co naprawdę musi być skończone do piątej?",
+      "collocations": [
+        "prioritise tasks",
+        "prioritise your health"
+      ],
+      "family": [
+        "priority (n)"
+      ],
+      "note": "W AmE pisownia *prioritize*."
+    },
+    {
+      "id": "w03-26",
+      "term": "time-consuming",
+      "type": "word",
+      "pos": "adj",
+      "level": "B2",
+      "ipa": "/ˈtaɪm kənsjuːmɪŋ/",
+      "pl": "czasochłonny",
+      "def": "taking a lot of time to do",
+      "example": "Ironing shirts is so {{time-consuming}} that I now only buy ones that don't need it.",
+      "examplePl": "Prasowanie koszul jest tak czasochłonne, że kupuję teraz tylko takie, które tego nie wymagają.",
+      "collocations": [
+        "a time-consuming task",
+        "a time-consuming process"
+      ]
+    },
+    {
+      "id": "w03-27",
+      "term": "put sth off",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B2",
+      "ipa": "/ˌpʊt ˈɒf/",
+      "pl": "odkładać coś na później",
+      "def": "to delay doing something until a later time",
+      "example": "I keep {{putting off}} the dentist, and now the tooth really hurts.",
+      "examplePl": "Ciągle odkładam wizytę u dentysty i teraz ząb naprawdę boli.",
+      "collocations": [
+        "put off doing sth",
+        "put sth off until tomorrow"
+      ],
+      "note": "Czasownik po *put off* ma formę *-ing*: *put off going*."
+    },
+    {
+      "id": "w03-28",
+      "term": "leave sth until the last minute",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B2",
+      "ipa": "/ˌliːv ənˌtɪl ðə ˌlɑːst ˈmɪnɪt/",
+      "pl": "zostawiać coś na ostatnią chwilę",
+      "def": "to not do something until just before it must be finished",
+      "example": "He always {{leaves everything until the last minute}} and then forgets his charger.",
+      "examplePl": "Zawsze zostawia wszystko na ostatnią chwilę, a potem zapomina ładowarki.",
+      "collocations": [
+        "leave everything until the last minute"
+      ],
+      "note": "Podobnie: *at the last minute* (w ostatniej chwili)."
+    },
+    {
+      "id": "w03-29",
+      "term": "get round to sth",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "C1",
+      "ipa": "/ˌɡet ˈraʊnd tə/",
+      "pl": "zabrać się (w końcu) do czegoś, znaleźć na coś czas",
+      "def": "to finally do something that you have intended to do for a long time",
+      "example": "I bought the paint in March, but I still haven't {{got round to}} painting the hall.",
+      "examplePl": "Farbę kupiłem w marcu, ale wciąż nie zabrałem się do malowania przedpokoju.",
+      "collocations": [
+        "get round to doing sth",
+        "never get round to it"
+      ],
+      "note": "Dalej forma *-ing*: *get round to doing*. W AmE: *get around to*."
+    },
+    {
+      "id": "w03-30",
+      "term": "eventually",
+      "type": "word",
+      "pos": "adv",
+      "level": "B2",
+      "ipa": "/ɪˈventʃuəli/",
+      "pl": "w końcu, ostatecznie",
+      "def": "in the end, after a long time or a lot of effort",
+      "example": "We got lost twice and argued about the map, but we {{eventually}} found the cottage.",
+      "examplePl": "Dwa razy zabłądziliśmy i pokłóciliśmy się o mapę, ale w końcu znaleźliśmy domek.",
+      "collocations": [
+        "eventually agree",
+        "eventually find"
+      ],
+      "note": "Fałszywy przyjaciel: *eventually* to „w końcu”, a nie „ewentualnie” (*possibly, if necessary*)."
+    },
+    {
+      "id": "w03-31",
+      "term": "a night owl",
+      "type": "idiom",
+      "pos": "idiom",
+      "level": "C1",
+      "ipa": "/ə ˈnaɪt aʊl/",
+      "pl": "nocny marek, sowa",
+      "def": "a person who likes to stay up and be active late at night",
+      "example": "I'm {{a night owl}}: I do my best work after midnight and can hardly speak before ten in the morning.",
+      "examplePl": "Jestem nocnym markiem: najlepiej pracuje mi się po północy, a przed dziesiątą rano ledwo mówię.",
+      "collocations": [],
+      "note": "Przeciwieństwo: *an early bird* (ranny ptaszek)."
+    },
+    {
+      "id": "w03-32",
+      "term": "unwind",
+      "type": "word",
+      "pos": "v",
+      "level": "C1",
+      "ipa": "/ˌʌnˈwaɪnd/",
+      "pl": "odprężyć się, zrelaksować się",
+      "def": "to relax after a period of work or worry",
+      "example": "After a long shift, I need an hour on the sofa with a book to {{unwind}} before I can even think about sleep.",
+      "examplePl": "Po długiej zmianie potrzebuję godziny na kanapie z książką, żeby się odprężyć, zanim w ogóle pomyślę o śnie.",
+      "collocations": [
+        "unwind after work",
+        "time to unwind"
+      ],
+      "note": "Czasownik nieregularny: *unwind – unwound – unwound*."
+    },
+    {
+      "id": "w03-33",
+      "term": "yawn",
+      "type": "word",
+      "pos": "v",
+      "level": "B2",
+      "ipa": "/jɔːn/",
+      "pl": "ziewać",
+      "def": "to open your mouth wide and breathe in deeply because you are tired or bored",
+      "example": "By the third hour of the meeting, half the room was {{yawning}} and looking at the clock.",
+      "examplePl": "W trzeciej godzinie zebrania pół sali ziewało i patrzyło na zegar.",
+      "collocations": [
+        "yawn loudly",
+        "try not to yawn"
+      ],
+      "family": [
+        "yawn (n)"
+      ]
+    },
+    {
+      "id": "w03-34",
+      "term": "drowsy",
+      "type": "word",
+      "pos": "adj",
+      "level": "C1",
+      "ipa": "/ˈdraʊzi/",
+      "pl": "senny, ospały",
+      "def": "tired and almost asleep",
+      "example": "These tablets can make you {{drowsy}}, so don't drive after taking them.",
+      "examplePl": "Te tabletki mogą powodować senność, więc po ich zażyciu nie należy prowadzić.",
+      "collocations": [
+        "feel drowsy",
+        "make sb drowsy"
+      ],
+      "family": [
+        "drowsiness (n)"
+      ]
+    },
+    {
+      "id": "w03-35",
+      "term": "doze off",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "C1",
+      "ipa": "/ˌdəʊz ˈɒf/",
+      "pl": "przysnąć, zdrzemnąć się",
+      "def": "to fall into a light sleep without meaning to",
+      "example": "The film was so slow that I {{dozed off}} on the sofa and missed the ending.",
+      "examplePl": "Film był tak powolny, że przysnąłem na kanapie i przegapiłem zakończenie.",
+      "collocations": [
+        "doze off in front of the TV"
+      ]
+    },
+    {
+      "id": "w03-36",
+      "term": "nap",
+      "type": "word",
+      "pos": "n",
+      "level": "B2",
+      "ipa": "/næp/",
+      "pl": "drzemka",
+      "def": "a short sleep during the day",
+      "example": "Grandad has a twenty-minute {{nap}} in his armchair after lunch every day.",
+      "examplePl": "Dziadek codziennie po obiedzie ucina sobie dwudziestominutową drzemkę w fotelu.",
+      "collocations": [
+        "have a nap",
+        "take a nap",
+        "an afternoon nap"
+      ]
+    },
+    {
+      "id": "w03-37",
+      "term": "fast asleep",
+      "type": "collocation",
+      "pos": "phrase",
+      "level": "B2",
+      "ipa": "/ˌfɑːst əˈsliːp/",
+      "pl": "pogrążony w głębokim śnie, śpiący jak kamień",
+      "def": "sleeping deeply",
+      "example": "By the time I'd finished the bedtime story, both children were {{fast asleep}}.",
+      "examplePl": "Zanim skończyłem czytać bajkę na dobranoc, oboje dzieci spało już głęboko.",
+      "collocations": [
+        "be fast asleep",
+        "fall fast asleep"
+      ],
+      "note": "Mówimy też *sound asleep*."
+    },
+    {
+      "id": "w03-38",
+      "term": "snore",
+      "type": "word",
+      "pos": "v",
+      "level": "B2",
+      "ipa": "/snɔː/",
+      "pl": "chrapać",
+      "def": "to breathe noisily while you are sleeping",
+      "example": "He {{snores}} so loudly that his wife sometimes moves to the spare room.",
+      "examplePl": "Chrapie tak głośno, że jego żona czasem przenosi się do pokoju gościnnego.",
+      "collocations": [
+        "snore loudly"
+      ],
+      "family": [
+        "snore (n)"
+      ]
+    },
+    {
+      "id": "w03-39",
+      "term": "wear sb out",
+      "type": "phrasal",
+      "pos": "phr v",
+      "level": "B2",
+      "ipa": "/ˌweər ˈaʊt/",
+      "pl": "wykończyć kogoś, bardzo zmęczyć",
+      "def": "to make someone extremely tired",
+      "example": "Looking after three toddlers all day really {{wears me out}}; I'm in bed by nine.",
+      "examplePl": "Opieka nad trójką maluchów przez cały dzień naprawdę mnie wykańcza; o dziewiątej jestem w łóżku.",
+      "collocations": [
+        "wear yourself out",
+        "be worn out"
+      ],
+      "family": [
+        "worn out (adj)"
+      ],
+      "note": "Czasownik nieregularny: *wear – wore – worn*."
+    },
+    {
+      "id": "w03-40",
+      "term": "lie-in",
+      "type": "word",
+      "pos": "n",
+      "level": "B2",
+      "ipa": "/ˌlaɪ ˈɪn/",
+      "pl": "dłuższe spanie, wylegiwanie się rano (w wolny dzień)",
+      "def": "a time when you stay in bed longer than usual in the morning",
+      "example": "After getting up at six all week, I really look forward to a {{lie-in}} on Saturday.",
+      "examplePl": "Po całym tygodniu wstawania o szóstej naprawdę czekam na sobotnie wylegiwanie się w łóżku.",
+      "collocations": [
+        "have a lie-in",
+        "a Sunday lie-in"
+      ],
+      "note": "Zwrot brytyjski; w AmE mówi się *sleep in*."
+    }
+  ]
+}
