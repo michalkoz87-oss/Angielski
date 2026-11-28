@@ -1,0 +1,1758 @@
+{
+  "id": "ppoz1",
+  "sets": [
+    {
+      "n": 1,
+      "titlePl": "Pożar i dym",
+      "titleEn": "Fire and smoke",
+      "items": [
+        {
+          "id": "ppoz1-001",
+          "term": "catch fire",
+          "type": "collocation",
+          "pos": "phrase",
+          "level": "B1",
+          "ipa": "/ˌkætʃ ˈfaɪə/",
+          "pl": "zapalić się, zająć się ogniem",
+          "def": "to start to burn",
+          "example": "The old curtains {{caught fire}} when a candle fell against them during the power cut.",
+          "examplePl": "Stare zasłony zajęły się ogniem, gdy podczas przerwy w dostawie prądu przewróciła się na nie świeca.",
+          "collocations": [
+            "catch fire easily",
+            "catch fire quickly"
+          ],
+          "note": "*Catch fire* nie ma dopełnienia: coś samo się zapala. Gdy ktoś podpala, mówimy *set fire to sth*."
+        },
+        {
+          "id": "ppoz1-002",
+          "term": "flame",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/fleɪm/",
+          "pl": "płomień",
+          "def": "the bright, hot, moving light that you see when something is burning",
+          "example": "After I turned the knob, a small blue {{flame}} appeared on the gas ring.",
+          "examplePl": "Po przekręceniu pokrętła na palniku pojawił się mały niebieski płomień.",
+          "collocations": [
+            "a candle flame",
+            "a flickering flame"
+          ]
+        },
+        {
+          "id": "ppoz1-003",
+          "term": "smoke",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/sməʊk/",
+          "pl": "dym",
+          "def": "grey or black gas that rises from something that is burning",
+          "example": "Thick black {{smoke}} was pouring out of the garage roof, and the neighbours called for help.",
+          "examplePl": "Z dachu garażu buchał gęsty czarny dym, a sąsiedzi wezwali pomoc.",
+          "collocations": [
+            "thick smoke",
+            "a cloud of smoke",
+            "smell smoke"
+          ],
+          "note": "W znaczeniu „dym” to rzeczownik niepoliczalny: *a lot of smoke*, nie *smokes*."
+        },
+        {
+          "id": "ppoz1-004",
+          "term": "spread",
+          "type": "word",
+          "pos": "v",
+          "level": "B1",
+          "ipa": "/spred/",
+          "pl": "rozprzestrzeniać się, szerzyć się",
+          "def": "to move to a bigger area and reach new places",
+          "example": "The fire quickly {{spread}} from the kitchen to the corridor because the door was open.",
+          "examplePl": "Pożar szybko rozprzestrzenił się z kuchni na korytarz, bo drzwi były otwarte.",
+          "collocations": [
+            "spread quickly",
+            "spread to the next room"
+          ],
+          "note": "Czasownik nieregularny: *spread – spread – spread* (bez końcówki *-ed*)."
+        },
+        {
+          "id": "ppoz1-005",
+          "term": "burn down",
+          "type": "phrasal",
+          "pos": "phr v",
+          "level": "B1",
+          "ipa": "/ˌbɜːn ˈdaʊn/",
+          "pl": "spłonąć doszczętnie, spalić się (o budynku)",
+          "def": "to be destroyed completely by fire, or to destroy a building in this way",
+          "example": "The old village school {{burnt down}} last winter, and now the children have lessons in the church hall.",
+          "examplePl": "Stara wiejska szkoła spłonęła zeszłej zimy, więc dzieci mają teraz lekcje w sali parafialnej.",
+          "collocations": [
+            "burn down a building",
+            "a house burnt down"
+          ],
+          "note": "W brytyjskim angielskim równie często *burnt*, jak *burned*; w amerykańskim zwykle *burned*."
+        },
+        {
+          "id": "ppoz1-006",
+          "term": "smoulder",
+          "type": "word",
+          "pos": "v",
+          "level": "B2",
+          "ipa": "/ˈsməʊldə/",
+          "pl": "tlić się",
+          "def": "to burn slowly with smoke but without a flame",
+          "example": "A cigarette left in the sofa {{smouldered}} for hours before anyone noticed the smell of smoke.",
+          "examplePl": "Papieros zostawiony w sofie tlił się przez wiele godzin, zanim ktokolwiek poczuł dym.",
+          "collocations": [
+            "smoulder for hours",
+            "a smouldering cigarette"
+          ],
+          "note": "Pisownia brytyjska *smoulder*, amerykańska *smolder*."
+        },
+        {
+          "id": "ppoz1-007",
+          "term": "fumes",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/fjuːmz/",
+          "pl": "opary, wyziewy (szkodliwe gazy i dym)",
+          "def": "strong, unpleasant and often harmful gas or smoke",
+          "example": "The warehouse was full of poisonous {{fumes}} from the burning plastic, so nobody could go inside.",
+          "examplePl": "Magazyn był pełen trujących oparów ze spalanego plastiku, więc nikt nie mógł wejść do środka.",
+          "collocations": [
+            "toxic fumes",
+            "petrol fumes"
+          ],
+          "note": "Zwykle w liczbie mnogiej, także przy spalinach: *exhaust fumes*."
+        },
+        {
+          "id": "ppoz1-008",
+          "term": "soot",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/sʊt/",
+          "pl": "sadza",
+          "def": "a black powder that smoke leaves on walls, ceilings and inside chimneys",
+          "example": "After the fire, every wall in the flat was covered with black {{soot}}.",
+          "examplePl": "Po pożarze każda ściana w mieszkaniu była pokryta czarną sadzą.",
+          "collocations": [
+            "covered in soot",
+            "soot stains"
+          ],
+          "note": "Wymowa z krótkim /ʊ/, nie /uː/."
+        },
+        {
+          "id": "ppoz1-009",
+          "term": "blaze",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/bleɪz/",
+          "pl": "duży pożar, szalejący ogień",
+          "def": "a large, strong fire that is hard to control",
+          "example": "It took firefighters six hours to bring the {{blaze}} at the furniture factory under control.",
+          "examplePl": "Strażacy potrzebowali sześciu godzin, żeby opanować pożar w fabryce mebli.",
+          "collocations": [
+            "a huge blaze",
+            "tackle a blaze"
+          ],
+          "note": "Słowo typowe dla relacji prasowych; mocniejsze niż zwykłe *fire*."
+        },
+        {
+          "id": "ppoz1-010",
+          "term": "go up in flames",
+          "type": "idiom",
+          "pos": "idiom",
+          "level": "B2",
+          "ipa": "/ɡəʊ ʌp ɪn ˈfleɪmz/",
+          "pl": "stanąć w płomieniach, spłonąć",
+          "def": "to start burning fiercely and be destroyed",
+          "example": "When the gas tank exploded, the whole petrol station seemed to {{go up in flames}} within seconds.",
+          "examplePl": "Gdy wybuchł zbiornik z gazem, cała stacja benzynowa w kilka sekund stanęła w płomieniach.",
+          "collocations": [
+            "a building goes up in flames",
+            "everything went up in flames"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titlePl": "Przyczyny pożarów",
+      "titleEn": "Causes of fire",
+      "items": [
+        {
+          "id": "ppoz1-011",
+          "term": "ignition source",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ɪɡˈnɪʃən sɔːs/",
+          "pl": "źródło zapłonu",
+          "def": "anything that gives enough heat or a spark to start a fire",
+          "example": "Sparks from the welding machine were the only possible {{ignition source}} in the paint store.",
+          "examplePl": "Iskry z urządzenia spawalniczego były jedynym możliwym źródłem zapłonu w magazynie farb.",
+          "collocations": [
+            "a possible ignition source",
+            "remove ignition sources"
+          ]
+        },
+        {
+          "id": "ppoz1-012",
+          "term": "short circuit",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˌʃɔːt ˈsɜːkɪt/",
+          "pl": "zwarcie",
+          "def": "a fault in an electrical system when the current takes a wrong, shorter path and can cause sparks",
+          "example": "Investigators think a {{short circuit}} in the old fridge started the fire.",
+          "examplePl": "Śledczy uważają, że pożar wywołało zwarcie w starej lodówce.",
+          "collocations": [
+            "cause a short circuit",
+            "a short circuit in the wiring"
+          ]
+        },
+        {
+          "id": "ppoz1-013",
+          "term": "overloaded socket",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˌəʊvəˈləʊdɪd ˈsɒkɪt/",
+          "pl": "przeciążone gniazdko",
+          "def": "a wall point for plugs that has too many devices connected to it",
+          "example": "Using one {{overloaded socket}} for the kettle, the heater and the computer is asking for trouble.",
+          "examplePl": "Podłączenie czajnika, grzejnika i komputera do jednego przeciążonego gniazdka to proszenie się o kłopoty.",
+          "collocations": [
+            "an overloaded socket gets hot",
+            "overload a socket"
+          ],
+          "note": "Gniazdko to w brytyjskim angielskim *socket*, w amerykańskim *outlet*."
+        },
+        {
+          "id": "ppoz1-014",
+          "term": "faulty wiring",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˌfɔːlti ˈwaɪərɪŋ/",
+          "pl": "wadliwa instalacja elektryczna",
+          "def": "electric cables in a building that are damaged or badly fitted",
+          "example": "The fire brigade said the old house had {{faulty wiring}} that nobody had checked for years.",
+          "examplePl": "Straż pożarna stwierdziła, że w starym domu instalacja elektryczna była wadliwa, a nikt nie sprawdzał jej od lat.",
+          "collocations": [
+            "old and faulty wiring",
+            "blame faulty wiring"
+          ]
+        },
+        {
+          "id": "ppoz1-015",
+          "term": "naked flame",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˌneɪkɪd ˈfleɪm/",
+          "pl": "otwarty ogień",
+          "def": "a flame that is not covered or protected, for example from a match",
+          "example": "Visitors must not bring any {{naked flames}}, such as candles or lighters, into the storage room.",
+          "examplePl": "Odwiedzający nie mogą wnosić do magazynu otwartego ognia, takiego jak świece czy zapalniczki.",
+          "collocations": [
+            "no naked flames",
+            "keep away from naked flames"
+          ],
+          "note": "Po polsku mówimy „otwarty ogień”; *naked* dosłownie znaczy „nagi”."
+        },
+        {
+          "id": "ppoz1-016",
+          "term": "arson",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈɑːsn/",
+          "pl": "podpalenie (przestępstwo)",
+          "def": "the crime of starting a fire on purpose to damage a building or property",
+          "example": "Police suspect {{arson}} because the fire started in two separate places during the night.",
+          "examplePl": "Policja podejrzewa podpalenie, ponieważ ogień zaczął się w nocy w dwóch oddzielnych miejscach.",
+          "collocations": [
+            "suspected arson",
+            "an arson attack",
+            "commit arson"
+          ],
+          "note": "Osoba, która podpala, to *arsonist*."
+        },
+        {
+          "id": "ppoz1-017",
+          "term": "spark",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/spɑːk/",
+          "pl": "iskra",
+          "def": "a tiny bright piece of fire that jumps out of something burning or from electrical equipment",
+          "example": "A single {{spark}} from the grinder set the dry sawdust alight.",
+          "examplePl": "Jedna iskra ze szlifierki podpaliła suche trociny.",
+          "collocations": [
+            "a shower of sparks",
+            "an electric spark"
+          ]
+        },
+        {
+          "id": "ppoz1-018",
+          "term": "flammable",
+          "type": "word",
+          "pos": "adj",
+          "level": "B1",
+          "ipa": "/ˈflæməbl/",
+          "pl": "łatwopalny",
+          "def": "able to catch fire and burn very easily",
+          "example": "Do not store paint or white spirit here, because both are highly {{flammable}}.",
+          "examplePl": "Nie przechowuj tu farby ani rozpuszczalnika, bo oba są wysoce łatwopalne.",
+          "collocations": [
+            "highly flammable",
+            "flammable material"
+          ],
+          "note": "Uwaga: *inflammable* też znaczy „łatwopalny”, a nie „niepalny”. Niepalny to *non-flammable*."
+        },
+        {
+          "id": "ppoz1-019",
+          "term": "combustible",
+          "type": "word",
+          "pos": "adj",
+          "level": "B2",
+          "ipa": "/kəmˈbʌstəbl/",
+          "pl": "palny",
+          "def": "able to burn; used especially for materials such as wood, paper and cloth",
+          "example": "Wood, paper and cardboard are {{combustible}} materials, so do not stack them against the boiler.",
+          "examplePl": "Drewno, papier i karton są materiałami palnymi, więc nie układaj ich przy kotle.",
+          "collocations": [
+            "combustible material",
+            "combustible dust"
+          ],
+          "note": "W ostrzeżeniach dla ogółu częściej spotkasz *flammable*; *combustible* jest bardziej fachowe."
+        },
+        {
+          "id": "ppoz1-020",
+          "term": "cigarette end",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˌsɪɡəˈret end/",
+          "pl": "niedopałek papierosa",
+          "def": "the small piece that is left when someone has finished smoking",
+          "example": "A {{cigarette end}} dropped into a bin full of paper may have started the fire in the office.",
+          "examplePl": "Niedopałek papierosa wrzucony do kosza pełnego papieru mógł wywołać pożar w biurze.",
+          "collocations": [
+            "a discarded cigarette end",
+            "put out a cigarette end"
+          ],
+          "note": "W amerykańskim angielskim częściej *cigarette butt*."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "titlePl": "Podniesienie alarmu",
+      "titleEn": "Raising the alarm",
+      "items": [
+        {
+          "id": "ppoz1-021",
+          "term": "fire alarm",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˈfaɪər əˌlɑːm/",
+          "pl": "alarm pożarowy, system alarmowy",
+          "def": "a loud signal or device that warns people that there is a fire in a building",
+          "example": "The {{fire alarm}} went off during the maths lesson, and the whole class walked out calmly.",
+          "examplePl": "Podczas lekcji matematyki zadzwonił alarm pożarowy i cała klasa spokojnie wyszła.",
+          "collocations": [
+            "a fire alarm goes off",
+            "test the fire alarm"
+          ]
+        },
+        {
+          "id": "ppoz1-022",
+          "term": "smoke alarm",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˈsməʊk əˌlɑːm/",
+          "pl": "czujka dymu (domowa), czujnik dymu",
+          "def": "a small device on a ceiling that makes a loud noise when it senses smoke",
+          "example": "The {{smoke alarm}} in our hall started beeping at 3 a.m. because its battery was nearly flat.",
+          "examplePl": "Czujka dymu w naszym przedpokoju zaczęła piszczeć o trzeciej w nocy, bo prawie wyczerpała się bateria.",
+          "collocations": [
+            "fit a smoke alarm",
+            "test the smoke alarm"
+          ],
+          "note": "Równie często używa się synonimu *smoke detector*."
+        },
+        {
+          "id": "ppoz1-023",
+          "term": "heat detector",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈhiːt dɪˌtektə/",
+          "pl": "czujka ciepła, czujka temperatury",
+          "def": "a device that senses a rise in temperature and starts an alarm",
+          "example": "Because of the steam and cooking fumes, the canteen kitchen has a {{heat detector}} instead of a smoke alarm.",
+          "examplePl": "Z powodu pary i oparów z gotowania w kuchni stołówki zamontowano czujkę ciepła zamiast czujki dymu.",
+          "collocations": [
+            "install a heat detector",
+            "a kitchen heat detector"
+          ],
+          "note": "Czujka ciepła reaguje na temperaturę, a nie na dym, dlatego często montuje się ją w kuchniach."
+        },
+        {
+          "id": "ppoz1-024",
+          "term": "raise the alarm",
+          "type": "collocation",
+          "pos": "phrase",
+          "level": "B2",
+          "ipa": "/ˌreɪz ði əˈlɑːm/",
+          "pl": "podnieść alarm, zaalarmować innych",
+          "def": "to warn other people that there is danger",
+          "example": "The night porter smelled smoke and ran along the corridors, knocking on doors to {{raise the alarm}}.",
+          "examplePl": "Nocny portier poczuł dym i przebiegł korytarzami, pukając do drzwi, żeby zaalarmować gości.",
+          "collocations": [
+            "raise the alarm quickly",
+            "fail to raise the alarm"
+          ]
+        },
+        {
+          "id": "ppoz1-025",
+          "term": "set off",
+          "type": "phrasal",
+          "pos": "phr v",
+          "level": "B1",
+          "ipa": "/ˌset ˈɒf/",
+          "pl": "uruchomić (alarm), wywołać",
+          "def": "to make something such as an alarm start working or making a noise",
+          "example": "Burnt toast in the staff kitchen {{set off}} the alarm again this morning.",
+          "examplePl": "Przypieczony tost w kuchni dla pracowników znowu uruchomił dziś rano alarm.",
+          "collocations": [
+            "set off an alarm",
+            "accidentally set off"
+          ],
+          "note": "*Set off* znaczy też „wyruszyć”. Gdy alarm włącza się sam, mówimy *the alarm goes off* (bez dopełnienia)."
+        },
+        {
+          "id": "ppoz1-026",
+          "term": "false alarm",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˌfɔːls əˈlɑːm/",
+          "pl": "fałszywy alarm",
+          "def": "a warning about danger that turns out to be a mistake",
+          "example": "It was a {{false alarm}}: steam from the shower had triggered the detector.",
+          "examplePl": "To był fałszywy alarm: para spod prysznica uruchomiła czujkę.",
+          "collocations": [
+            "turn out to be a false alarm",
+            "a false alarm call"
+          ],
+          "note": "Po angielsku *false alarm*, nie *fake alarm*."
+        },
+        {
+          "id": "ppoz1-027",
+          "term": "sound the alarm",
+          "type": "collocation",
+          "pos": "phrase",
+          "level": "B2",
+          "ipa": "/ˌsaʊnd ði əˈlɑːm/",
+          "pl": "uruchomić alarm, ogłosić alarm",
+          "def": "to make an alarm ring so that people are warned",
+          "example": "Someone pressed the button to {{sound the alarm}}, and a loud bell rang through the school corridors.",
+          "examplePl": "Ktoś nacisnął przycisk, żeby uruchomić alarm, i po szkolnych korytarzach rozległ się głośny dzwonek.",
+          "collocations": [
+            "sound the alarm early",
+            "sound the fire alarm"
+          ]
+        },
+        {
+          "id": "ppoz1-028",
+          "term": "siren",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈsaɪərən/",
+          "pl": "syrena alarmowa",
+          "def": "a device that makes a long, loud sound that rises and falls, to warn people",
+          "example": "The factory {{siren}} sounded twice, which meant everyone had to leave the production hall.",
+          "examplePl": "Syrena w fabryce zawyła dwa razy, co oznaczało, że wszyscy muszą opuścić halę produkcyjną.",
+          "collocations": [
+            "a siren wails",
+            "hear a siren"
+          ],
+          "note": "Nie mylić z *mermaid* (syrena morska)."
+        },
+        {
+          "id": "ppoz1-029",
+          "term": "call the fire service",
+          "type": "collocation",
+          "pos": "phrase",
+          "level": "B1",
+          "ipa": "/ˌkɔːl ðə ˈfaɪə ˌsɜːvɪs/",
+          "pl": "wezwać straż pożarną",
+          "def": "to telephone the people whose job is to stop fires and rescue people",
+          "example": "Do not try to fight a big fire on your own; leave the building and {{call the fire service}}.",
+          "examplePl": "Nie próbuj gasić dużego pożaru na własną rękę; opuść budynek i wezwij straż pożarną.",
+          "collocations": [
+            "call the fire service immediately",
+            "call the fire service from outside"
+          ],
+          "note": "W Wielkiej Brytanii *fire service* lub *fire brigade*, w USA *fire department*."
+        },
+        {
+          "id": "ppoz1-030",
+          "term": "emergency number",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ɪˈmɜːdʒənsi ˌnʌmbə/",
+          "pl": "numer alarmowy",
+          "def": "a telephone number that you can call free to get help from the police, fire or ambulance service",
+          "example": "Every child in our school learns the {{emergency number}} and what to say when someone answers.",
+          "examplePl": "W naszej szkole każde dziecko uczy się numeru alarmowego i tego, co mówić, gdy ktoś odbierze.",
+          "collocations": [
+            "dial the emergency number",
+            "a free emergency number"
+          ],
+          "note": "W Polsce działa ogólny numer 112, a straż pożarna ma też 998; w Wielkiej Brytanii numer alarmowy to 999 (także 112)."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "titlePl": "Ewakuacja",
+      "titleEn": "Evacuation",
+      "items": [
+        {
+          "id": "ppoz1-031",
+          "term": "evacuate",
+          "type": "word",
+          "pos": "v",
+          "level": "B2",
+          "ipa": "/ɪˈvækjueɪt/",
+          "pl": "ewakuować (się), opróżnić budynek",
+          "def": "to move people out of a dangerous place to somewhere safe",
+          "example": "The head teacher decided to {{evacuate}} the whole school after smoke was seen in the science block.",
+          "examplePl": "Dyrekcja zdecydowała o ewakuacji całej szkoły po tym, jak zauważono dym w skrzydle z pracowniami.",
+          "collocations": [
+            "evacuate a building",
+            "be evacuated"
+          ],
+          "note": "Po angielsku ewakuuje się ludzi lub budynek (*evacuate the building*); „ewakuować się” to *leave the building*."
+        },
+        {
+          "id": "ppoz1-032",
+          "term": "emergency exit",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ɪˈmɜːdʒənsi ˌeksɪt/",
+          "pl": "wyjście ewakuacyjne, wyjście awaryjne",
+          "def": "a door out of a building that people use only in a dangerous situation",
+          "example": "The cinema staff checked that the {{emergency exit}} next to the screen was not locked.",
+          "examplePl": "Obsługa kina sprawdziła, czy wyjście ewakuacyjne obok ekranu nie jest zamknięte na klucz.",
+          "collocations": [
+            "block the emergency exit",
+            "use the emergency exit"
+          ],
+          "note": "W przepisach polskich mówi się „wyjście ewakuacyjne”; „awaryjne” to wariant potoczny."
+        },
+        {
+          "id": "ppoz1-033",
+          "term": "fire exit sign",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˈfaɪər ˌeksɪt saɪn/",
+          "pl": "znak ewakuacyjny, oznakowanie wyjścia ewakuacyjnego",
+          "def": "a sign that shows people the way out of a building in a fire",
+          "example": "Follow the green {{fire exit signs}} on the walls if you hear the alarm.",
+          "examplePl": "Jeśli usłyszysz alarm, idź za zielonymi znakami ewakuacyjnymi na ścianach.",
+          "collocations": [
+            "follow the signs",
+            "an illuminated fire exit sign"
+          ]
+        },
+        {
+          "id": "ppoz1-034",
+          "term": "assembly point",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/əˈsembli ˌpɔɪnt/",
+          "pl": "miejsce zbiórki",
+          "def": "a safe place outside a building where people meet after they have left it",
+          "example": "After the alarm, we all walked to the {{assembly point}} in the car park and waited for instructions.",
+          "examplePl": "Po alarmie wszyscy poszliśmy na miejsce zbiórki na parkingu i czekaliśmy na polecenia.",
+          "collocations": [
+            "go to the assembly point",
+            "meet at the assembly point"
+          ],
+          "note": "W przemyśle spotkasz też *muster point*."
+        },
+        {
+          "id": "ppoz1-035",
+          "term": "fire drill",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˈfaɪə drɪl/",
+          "pl": "próbna ewakuacja, ćwiczenia ewakuacyjne",
+          "def": "a practice of what to do and how to leave a building when the alarm sounds",
+          "example": "We have a {{fire drill}} every term, so nobody panics when the alarm really rings.",
+          "examplePl": "Próbną ewakuację mamy w każdym semestrze, więc nikt nie wpada w panikę, gdy alarm rozlegnie się naprawdę.",
+          "collocations": [
+            "hold a fire drill",
+            "take part in a fire drill",
+            "carry out a fire drill"
+          ]
+        },
+        {
+          "id": "ppoz1-036",
+          "term": "roll call",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈrəʊl kɔːl/",
+          "pl": "apel, sprawdzanie obecności",
+          "def": "the reading of names aloud to check that everyone is there",
+          "example": "Outside, the teacher read out every name in a {{roll call}} to make sure no pupil was missing.",
+          "examplePl": "Na zewnątrz nauczycielka odczytała wszystkie nazwiska podczas apelu, żeby upewnić się, że nikogo nie brakuje.",
+          "collocations": [
+            "do a roll call",
+            "take a roll call"
+          ],
+          "note": "W brytyjskiej szkole lista obecności to zwykle *register*."
+        },
+        {
+          "id": "ppoz1-037",
+          "term": "stairwell",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈsteəweɪl/",
+          "pl": "klatka schodowa",
+          "def": "the space inside a building that contains the stairs",
+          "example": "The {{stairwell}} was full of people walking down calmly and holding the handrail.",
+          "examplePl": "Klatka schodowa była pełna ludzi, którzy spokojnie schodzili, trzymając się poręczy.",
+          "collocations": [
+            "a smoke-filled stairwell",
+            "the main stairwell"
+          ],
+          "note": "*Staircase* to same schody jako konstrukcja, a *stairwell* to cała przestrzeń klatki."
+        },
+        {
+          "id": "ppoz1-038",
+          "term": "do not use the lift",
+          "type": "collocation",
+          "pos": "phrase",
+          "level": "B1",
+          "ipa": "/duː nɒt juːz ðə ˈlɪft/",
+          "pl": "nie korzystać z windy",
+          "def": "an instruction to take the stairs because the machine that carries people between floors may stop",
+          "example": "Please {{do not use the lift}} during an evacuation; walk down the stairs instead.",
+          "examplePl": "Podczas ewakuacji nie korzystaj z windy; zejdź schodami.",
+          "collocations": [
+            "take the stairs instead",
+            "a lift out of order"
+          ],
+          "note": "W brytyjskim angielskim *lift*, w amerykańskim *elevator*: *Do not use the elevator*."
+        },
+        {
+          "id": "ppoz1-039",
+          "term": "leave belongings behind",
+          "type": "collocation",
+          "pos": "phrase",
+          "level": "B2",
+          "ipa": "/ˌliːv bɪˈlɒŋɪŋz bɪˈhaɪnd/",
+          "pl": "zostawić swoje rzeczy (podczas ewakuacji)",
+          "def": "to go away without taking your things with you",
+          "example": "In an evacuation you must {{leave your belongings behind}} and go straight to the nearest exit.",
+          "examplePl": "Podczas ewakuacji zostaw swoje rzeczy i idź prosto do najbliższego wyjścia.",
+          "collocations": [
+            "leave your bags behind",
+            "leave personal belongings"
+          ],
+          "note": "*Belongings* ma tylko liczbę mnogą."
+        },
+        {
+          "id": "ppoz1-040",
+          "term": "headcount",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈhedkaʊnt/",
+          "pl": "liczenie osób, sprawdzenie liczebności",
+          "def": "the act of counting how many people are present",
+          "example": "The fire warden did a quick {{headcount}} and reported that all twenty-three staff were safe.",
+          "examplePl": "Osoba odpowiedzialna za ewakuację szybko policzyła zebranych i zgłosiła, że wszystkie dwadzieścia trzy osoby z personelu są bezpieczne.",
+          "collocations": [
+            "do a headcount",
+            "take a headcount"
+          ],
+          "note": "*Headcount* liczy osoby, a *roll call* sprawdza je z imienia i nazwiska. W firmie *headcount* to też liczba pracowników."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "titlePl": "Drzwi, wyjścia i oznakowanie",
+      "titleEn": "Doors, exits and signs",
+      "items": [
+        {
+          "id": "ppoz1-041",
+          "term": "fire door",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˈfaɪə dɔː/",
+          "pl": "drzwi przeciwpożarowe",
+          "def": "a heavy door made to stop fire and smoke from passing through for some time",
+          "example": "The corridor is separated from the offices by a {{fire door}} that slows down smoke and flames.",
+          "examplePl": "Korytarz jest oddzielony od biur drzwiami przeciwpożarowymi, które spowalniają przenikanie dymu i płomieni.",
+          "collocations": [
+            "close the fire door",
+            "fit a fire door"
+          ],
+          "note": "Po polsku takie drzwi mają określoną klasę odporności ogniowej (np. EI)."
+        },
+        {
+          "id": "ppoz1-042",
+          "term": "self-closing",
+          "type": "word",
+          "pos": "adj",
+          "level": "B2",
+          "ipa": "/ˌself ˈkləʊzɪŋ/",
+          "pl": "samozamykający się",
+          "def": "made so that it shuts by itself after someone has opened it",
+          "example": "The doors on the escape stairs are {{self-closing}}, so they shut behind you without being pushed.",
+          "examplePl": "Drzwi na schodach ewakuacyjnych są samozamykające, więc zamykają się za tobą bez popychania.",
+          "collocations": [
+            "a self-closing door",
+            "a self-closing device"
+          ]
+        },
+        {
+          "id": "ppoz1-043",
+          "term": "keep shut",
+          "type": "collocation",
+          "pos": "phrase",
+          "level": "B1",
+          "ipa": "/ˌkiːp ˈʃʌt/",
+          "pl": "trzymać zamknięte, nie otwierać",
+          "def": "to make sure that something stays closed",
+          "example": "The door to the boiler room must be {{kept shut}} at all times.",
+          "examplePl": "Drzwi do kotłowni muszą być zawsze zamknięte.",
+          "collocations": [
+            "keep the door shut",
+            "kept shut at all times"
+          ],
+          "note": "Na tabliczkach: *Fire door – keep shut*. *Keep shut* znaczy to samo co *keep closed*."
+        },
+        {
+          "id": "ppoz1-044",
+          "term": "wedge open",
+          "type": "phrasal",
+          "pos": "phr v",
+          "level": "B2",
+          "ipa": "/ˌwedʒ ˈəʊpən/",
+          "pl": "zablokować w pozycji otwartej (klinem)",
+          "def": "to stop a door from closing by pushing a small piece of wood or rubber under it",
+          "example": "Someone had {{wedged open}} the fire door with a wooden block so that fresh air could come in.",
+          "examplePl": "Ktoś zablokował drzwi przeciwpożarowe drewnianym klockiem, żeby wpuścić świeże powietrze.",
+          "collocations": [
+            "wedge a door open",
+            "wedge open a fire door"
+          ],
+          "note": "*Wedge* to klin."
+        },
+        {
+          "id": "ppoz1-045",
+          "term": "emergency lighting",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ɪˈmɜːdʒənsi ˌlaɪtɪŋ/",
+          "pl": "oświetlenie awaryjne, oświetlenie ewakuacyjne",
+          "def": "lights that work from a battery when the normal electricity supply stops",
+          "example": "When the power failed, the {{emergency lighting}} came on and showed us the way to the stairs.",
+          "examplePl": "Gdy zabrakło prądu, włączyło się oświetlenie awaryjne i wskazało nam drogę do schodów.",
+          "collocations": [
+            "emergency lighting comes on",
+            "test the emergency lighting"
+          ],
+          "note": "Po angielsku jedno określenie obejmuje oświetlenie ewakuacyjne i zapasowe."
+        },
+        {
+          "id": "ppoz1-046",
+          "term": "panic bar",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈpænɪk bɑː/",
+          "pl": "belka antypaniczna, zamknięcie antypaniczne",
+          "def": "a horizontal bar on a door that opens it when you push it",
+          "example": "At the theatre you only have to push the {{panic bar}} and the exit doors swing open.",
+          "examplePl": "W teatrze wystarczy nacisnąć belkę antypaniczną, a drzwi wyjściowe się otwierają.",
+          "collocations": [
+            "push the panic bar",
+            "a panic bar on the door"
+          ],
+          "note": "Drzwi z takim zamknięciem otwierają się od wewnątrz bez klucza."
+        },
+        {
+          "id": "ppoz1-047",
+          "term": "keep clear",
+          "type": "collocation",
+          "pos": "phrase",
+          "level": "B1",
+          "ipa": "/ˌkiːp ˈklɪə/",
+          "pl": "nie zastawiać, zostawić wolne",
+          "def": "to make sure that nothing is in a place so that people or vehicles can use it",
+          "example": "The sign in the yard reads: '{{Keep clear}} – emergency vehicle access.'",
+          "examplePl": "Na tablicy na podwórku widnieje napis: „Nie zastawiać – dojazd dla pojazdów ratunkowych”.",
+          "collocations": [
+            "keep clear of the exit",
+            "keep the doorway clear"
+          ],
+          "note": "*Keep clear of sth* to „trzymać się z dala”, a *keep sth clear* to „nie zastawiać”."
+        },
+        {
+          "id": "ppoz1-048",
+          "term": "obstruct",
+          "type": "word",
+          "pos": "v",
+          "level": "B2",
+          "ipa": "/əbˈstrʌkt/",
+          "pl": "blokować, zastawiać, tarasować",
+          "def": "to block a path or door so that people cannot get past",
+          "example": "Boxes left in the corridor can {{obstruct}} the way out if people have to leave in a hurry.",
+          "examplePl": "Pudła zostawione na korytarzu mogą zablokować drogę wyjścia, jeśli ludzie będą musieli szybko opuścić budynek.",
+          "collocations": [
+            "obstruct an exit",
+            "obstruct access"
+          ]
+        },
+        {
+          "id": "ppoz1-049",
+          "term": "fire escape",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈfaɪər ɪˌskeɪp/",
+          "pl": "zewnętrzne schody pożarowe, schody ewakuacyjne",
+          "def": "a metal staircase on the outside of a building for leaving it in a fire",
+          "example": "The old hotel has an iron {{fire escape}} at the back, which guests can reach through a window.",
+          "examplePl": "Stary hotel ma z tyłu żelazne schody pożarowe, do których goście mogą dojść przez okno.",
+          "collocations": [
+            "an external fire escape",
+            "use the fire escape"
+          ],
+          "note": "W USA to typowe żelazne schody na fasadzie budynku."
+        },
+        {
+          "id": "ppoz1-050",
+          "term": "signage",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈsaɪnɪdʒ/",
+          "pl": "oznakowanie, znaki informacyjne",
+          "def": "signs and notices in a place, thought of together",
+          "example": "The inspector said the building needed clearer {{signage}} so that visitors could find the exits easily.",
+          "examplePl": "Inspektor stwierdził, że budynek wymaga czytelniejszego oznakowania, żeby odwiedzający łatwo znajdowali wyjścia.",
+          "collocations": [
+            "safety signage",
+            "clear signage"
+          ],
+          "note": "Rzeczownik niepoliczalny: nie *signages*."
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "titlePl": "Sprzęt gaśniczy",
+      "titleEn": "Firefighting equipment",
+      "items": [
+        {
+          "id": "ppoz1-051",
+          "term": "fire extinguisher",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˈfaɪər ɪkˌstɪŋɡwɪʃə/",
+          "pl": "gaśnica",
+          "def": "a metal container with a substance that you spray on a small fire to stop it",
+          "example": "There is a red {{fire extinguisher}} on the wall next to the lift on every floor.",
+          "examplePl": "Na każdym piętrze, obok windy, na ścianie wisi czerwona gaśnica.",
+          "collocations": [
+            "use a fire extinguisher",
+            "a hand-held fire extinguisher"
+          ],
+          "note": "W Wielkiej Brytanii wszystkie gaśnice są czerwone, a rodzaj środka gaśniczego oznacza kolorowy pasek."
+        },
+        {
+          "id": "ppoz1-052",
+          "term": "fire blanket",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˈfaɪə ˌblæŋkɪt/",
+          "pl": "koc gaśniczy",
+          "def": "a sheet of special material that you put over a small fire to stop air reaching it",
+          "example": "In the school kitchen, the teacher pulled a {{fire blanket}} out of its bag and laid it over the burning pan.",
+          "examplePl": "W szkolnej kuchni nauczyciel wyjął koc gaśniczy z pokrowca i położył go na płonącej patelni.",
+          "collocations": [
+            "use a fire blanket",
+            "a fire blanket in the kitchen"
+          ]
+        },
+        {
+          "id": "ppoz1-053",
+          "term": "hose reel",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈhəʊz riːl/",
+          "pl": "hydrant wewnętrzny, zwijadło z wężem",
+          "def": "a drum fixed to a wall with a long pipe that gives water to fight a fire",
+          "example": "Every floor of the warehouse has a {{hose reel}} fixed to the wall, with a long pipe coiled on a drum.",
+          "examplePl": "Na każdym piętrze magazynu na ścianie jest zamontowany hydrant wewnętrzny z długim wężem nawiniętym na bęben.",
+          "collocations": [
+            "unroll the hose reel",
+            "a hose reel cabinet"
+          ],
+          "note": "*Hose reel* to hydrant wewnętrzny (w budynku), a *fire hydrant* to hydrant zewnętrzny."
+        },
+        {
+          "id": "ppoz1-054",
+          "term": "fire hydrant",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈfaɪə ˌhaɪdrənt/",
+          "pl": "hydrant zewnętrzny, hydrant pożarowy",
+          "def": "an outside water point in the street where firefighters connect their hoses",
+          "example": "Never park in front of a {{fire hydrant}}, because firefighters may need to connect a hose there.",
+          "examplePl": "Nigdy nie parkuj przed hydrantem, bo strażacy mogą musieć tam podłączyć wąż.",
+          "collocations": [
+            "park near a fire hydrant",
+            "connect to a fire hydrant"
+          ],
+          "note": "W Wielkiej Brytanii hydranty są zwykle pod ziemią, a ich miejsce wskazuje tabliczka z literą H."
+        },
+        {
+          "id": "ppoz1-055",
+          "term": "sprinkler",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈsprɪŋklə/",
+          "pl": "tryskacz",
+          "def": "a device on a ceiling that sprays water by itself when it gets very hot",
+          "example": "When the temperature rose, a single {{sprinkler}} above the desk opened and sprayed water on the flames.",
+          "examplePl": "Gdy temperatura wzrosła, pojedynczy tryskacz nad biurkiem otworzył się i polał płomienie wodą.",
+          "collocations": [
+            "a sprinkler goes off",
+            "a ceiling sprinkler"
+          ],
+          "note": "*Sprinkler* to też zraszacz ogrodowy. Tryskacz otwiera się od ciepła, zwykle tylko ten w pobliżu ognia."
+        },
+        {
+          "id": "ppoz1-056",
+          "term": "CO2 extinguisher",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˌsiː əʊ ˈtuː ɪkˌstɪŋɡwɪʃə/",
+          "pl": "gaśnica CO2, gaśnica śniegowa",
+          "def": "a gas-filled extinguisher that makes a cold white cloud and leaves no mess",
+          "example": "The server room has a {{CO2 extinguisher}} because water or foam would damage the computers.",
+          "examplePl": "W serwerowni jest gaśnica CO2, ponieważ woda lub piana zniszczyłyby komputery.",
+          "collocations": [
+            "use a CO2 extinguisher",
+            "a CO2 extinguisher for electrical fires"
+          ],
+          "note": "Wylot takiej gaśnicy robi się bardzo zimny, więc nie chwyta się go gołą ręką."
+        },
+        {
+          "id": "ppoz1-057",
+          "term": "foam",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/fəʊm/",
+          "pl": "piana (gaśnicza)",
+          "def": "a mass of very small bubbles, which can cover a burning liquid",
+          "example": "The airport fire crew covered the spilled fuel with thick white {{foam}} to stop it burning.",
+          "examplePl": "Strażacy lotniskowi pokryli rozlane paliwo grubą białą pianą, żeby przestało płonąć.",
+          "collocations": [
+            "fire-fighting foam",
+            "a foam extinguisher"
+          ]
+        },
+        {
+          "id": "ppoz1-058",
+          "term": "powder",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈpaʊdə/",
+          "pl": "proszek gaśniczy",
+          "def": "a dry substance made of very small pieces, like fine flour",
+          "example": "Dry {{powder}} extinguishers work on many kinds of fire, but they make a terrible mess indoors.",
+          "examplePl": "Gaśnice proszkowe działają na wiele rodzajów pożarów, ale w pomieszczeniu strasznie brudzą.",
+          "collocations": [
+            "dry powder",
+            "a powder extinguisher"
+          ],
+          "note": "W Wielkiej Brytanii etykieta gaśnicy proszkowej jest niebieska."
+        },
+        {
+          "id": "ppoz1-059",
+          "term": "put out",
+          "type": "phrasal",
+          "pos": "phr v",
+          "level": "B1",
+          "ipa": "/ˌpʊt ˈaʊt/",
+          "pl": "ugasić, gasić",
+          "def": "to make a fire stop burning",
+          "example": "Two neighbours managed to {{put out}} the small fire in the garden before help arrived.",
+          "examplePl": "Dwaj sąsiedzi zdołali ugasić mały pożar w ogrodzie, zanim przyjechała pomoc.",
+          "collocations": [
+            "put out a fire",
+            "put out a cigarette"
+          ],
+          "note": "*Extinguish* znaczy to samo, ale jest bardziej formalne."
+        },
+        {
+          "id": "ppoz1-060",
+          "term": "pull the pin",
+          "type": "collocation",
+          "pos": "phrase",
+          "level": "B2",
+          "ipa": "/ˌpʊl ðə ˈpɪn/",
+          "pl": "wyciągnąć zawleczkę",
+          "def": "to take out the small metal piece that stops equipment from working by accident",
+          "example": "To use this extinguisher, first {{pull the pin}} and then point the nozzle at the base of the flames.",
+          "examplePl": "Aby użyć tej gaśnicy, najpierw wyciągnij zawleczkę, a potem skieruj dyszę na podstawę płomieni.",
+          "collocations": [
+            "pull the safety pin",
+            "remove the pin"
+          ],
+          "note": "Zawleczka to zabezpieczenie gaśnicy; kierujemy strumień na podstawę płomieni."
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "titlePl": "Ludzie i role",
+      "titleEn": "People and roles",
+      "items": [
+        {
+          "id": "ppoz1-061",
+          "term": "firefighter",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˈfaɪəˌfaɪtə/",
+          "pl": "strażak",
+          "def": "a person whose job is to put out fires and rescue people",
+          "example": "A {{firefighter}} in a heavy helmet carried the little girl out of the smoke.",
+          "examplePl": "Strażak w ciężkim hełmie wyniósł małą dziewczynkę z dymu.",
+          "collocations": [
+            "a volunteer firefighter",
+            "a firefighter's helmet"
+          ],
+          "note": "Dawniej *fireman*; dziś *firefighter* jest forma neutralna płciowo."
+        },
+        {
+          "id": "ppoz1-062",
+          "term": "fire brigade",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˈfaɪə brɪˌɡeɪd/",
+          "pl": "straż pożarna",
+          "def": "the organisation of trained people who fight fires",
+          "example": "Neighbours phoned the {{fire brigade}}, and the first crew arrived within minutes.",
+          "examplePl": "Sąsiedzi zadzwonili po straż pożarną i pierwsza załoga przyjechała w ciągu kilku minut.",
+          "collocations": [
+            "call the fire brigade",
+            "the local fire brigade"
+          ],
+          "note": "W Wielkiej Brytanii *fire brigade* lub *fire and rescue service*, w USA *fire department*."
+        },
+        {
+          "id": "ppoz1-063",
+          "term": "fire warden",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈfaɪə ˌwɔːdn/",
+          "pl": "osoba odpowiedzialna za ewakuację, koordynator ewakuacji",
+          "def": "a trained employee who helps everyone leave a building safely in a fire",
+          "example": "The {{fire warden}} on our floor wears a yellow vest and checks every room before leaving.",
+          "examplePl": "Osoba odpowiedzialna za ewakuację na naszym piętrze nosi żółtą kamizelkę i przed wyjściem sprawdza każde pomieszczenie.",
+          "collocations": [
+            "a trained fire warden",
+            "the floor fire warden"
+          ],
+          "note": "Nazwa stanowiska bywa różna; w Wielkiej Brytanii używa się też *fire marshal*."
+        },
+        {
+          "id": "ppoz1-064",
+          "term": "fire safety officer",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈfaɪə ˈseɪfti ˌɒfɪsə/",
+          "pl": "inspektor ochrony przeciwpożarowej, specjalista ds. ppoż.",
+          "def": "a person whose job is to check that a building follows fire rules and to advise on safety",
+          "example": "The company's {{fire safety officer}} runs the training and checks the extinguishers every month.",
+          "examplePl": "Inspektor ochrony przeciwpożarowej w firmie prowadzi szkolenia i co miesiąc sprawdza gaśnice.",
+          "collocations": [
+            "appoint a fire safety officer",
+            "report to the fire safety officer"
+          ],
+          "note": "Nazwa stanowiska różni się w zależności od kraju i firmy."
+        },
+        {
+          "id": "ppoz1-065",
+          "term": "first aider",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˌfɜːst ˈeɪdə/",
+          "pl": "osoba udzielająca pierwszej pomocy",
+          "def": "a person trained to give simple medical help to someone hurt before a doctor arrives",
+          "example": "While we waited for the ambulance, the office {{first aider}} stayed with the injured man.",
+          "examplePl": "Gdy czekaliśmy na karetkę, biurowa osoba udzielająca pierwszej pomocy została przy rannym mężczyźnie.",
+          "collocations": [
+            "a qualified first aider",
+            "the company first aider"
+          ],
+          "note": "To zwykle przeszkolony pracownik, a nie *paramedic* (ratownik medyczny)."
+        },
+        {
+          "id": "ppoz1-066",
+          "term": "casualty",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈkæʒuəlti/",
+          "pl": "poszkodowany, ofiara wypadku",
+          "def": "a person who is hurt or killed in an accident or an attack",
+          "example": "The fire was small, and the manager was relieved to hear that there were no {{casualties}}.",
+          "examplePl": "Pożar był niewielki, a kierownik z ulgą usłyszał, że nie ma poszkodowanych.",
+          "collocations": [
+            "heavy casualties",
+            "no casualties reported"
+          ],
+          "note": "*Casualty* to ranny albo zabity. W brytyjskim potocznym angielskim *Casualty* to także szpitalny oddział ratunkowy (*A&E*)."
+        },
+        {
+          "id": "ppoz1-067",
+          "term": "rescue",
+          "type": "word",
+          "pos": "v",
+          "level": "B1",
+          "ipa": "/ˈreskjuː/",
+          "pl": "ratować, uratować (z niebezpieczeństwa)",
+          "def": "to save someone from a dangerous place or situation",
+          "example": "Firefighters used a ladder to {{rescue}} two people from a balcony on the third floor.",
+          "examplePl": "Strażacy użyli drabiny, żeby uratować dwie osoby z balkonu na trzecim piętrze.",
+          "collocations": [
+            "rescue a child from",
+            "a rescue operation"
+          ],
+          "note": "Jako rzeczownik: *a rescue* (akcja ratunkowa)."
+        },
+        {
+          "id": "ppoz1-068",
+          "term": "fire engine",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˈfaɪər ˌendʒɪn/",
+          "pl": "wóz strażacki",
+          "def": "a large red vehicle that carries firefighters and equipment to a fire",
+          "example": "Two {{fire engines}} stopped outside the shopping centre with their blue lights flashing.",
+          "examplePl": "Dwa wozy strażackie zatrzymały się przed centrum handlowym z włączonymi niebieskimi światłami.",
+          "collocations": [
+            "a fire engine arrives",
+            "the crew of a fire engine"
+          ],
+          "note": "W amerykańskim angielskim *fire truck*."
+        },
+        {
+          "id": "ppoz1-069",
+          "term": "bystander",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈbaɪstændə/",
+          "pl": "przechodzień, świadek zdarzenia, osoba postronna",
+          "def": "a person who is present when something happens but is not involved",
+          "example": "A {{bystander}} dialled the emergency number and stayed with the woman until help arrived.",
+          "examplePl": "Przechodzień zadzwonił pod numer alarmowy i został z kobietą aż do przyjazdu pomocy.",
+          "collocations": [
+            "an innocent bystander",
+            "a helpful bystander"
+          ]
+        },
+        {
+          "id": "ppoz1-070",
+          "term": "trapped",
+          "type": "word",
+          "pos": "adj",
+          "level": "B1",
+          "ipa": "/træpt/",
+          "pl": "uwięziony, odcięty",
+          "def": "not able to escape from a place or situation",
+          "example": "Smoke filled the corridor, and three guests were {{trapped}} in their rooms on the top floor.",
+          "examplePl": "Dym wypełnił korytarz, a troje gości utknęło w pokojach na najwyższym piętrze.",
+          "collocations": [
+            "trapped inside",
+            "get trapped"
+          ],
+          "note": "Pisownia z podwójnym *p*: *trap – trapped*."
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "titlePl": "Obrażenia i pierwsza pomoc",
+      "titleEn": "Injuries and first aid",
+      "items": [
+        {
+          "id": "ppoz1-071",
+          "term": "burn",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/bɜːn/",
+          "pl": "oparzenie",
+          "def": "an injury to the skin caused by fire, heat or a hot object",
+          "example": "The cook was taken to hospital with a serious {{burn}} on his right arm.",
+          "examplePl": "Kucharz trafił do szpitala z poważnym oparzeniem prawego ramienia.",
+          "collocations": [
+            "a minor burn",
+            "a serious burn",
+            "treat a burn"
+          ],
+          "note": "Oparzenie gorącym płynem lub parą to *scald*."
+        },
+        {
+          "id": "ppoz1-072",
+          "term": "smoke inhalation",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˌsməʊk ˌɪnhəˈleɪʃn/",
+          "pl": "zatrucie dymem",
+          "def": "breathing in smoke and harmful gases, which can damage the lungs",
+          "example": "Most of the people taken to hospital were treated for {{smoke inhalation}}, not for burns.",
+          "examplePl": "Większość osób zabranych do szpitala leczono z powodu zatrucia dymem, a nie oparzeń.",
+          "collocations": [
+            "suffer from smoke inhalation",
+            "treated for smoke inhalation"
+          ]
+        },
+        {
+          "id": "ppoz1-073",
+          "term": "cool the burn",
+          "type": "collocation",
+          "pos": "phrase",
+          "level": "B1",
+          "ipa": "/ˌkuːl ðə ˈbɜːn/",
+          "pl": "schłodzić oparzenie",
+          "def": "to hold a burnt part of the skin under cold water",
+          "example": "First {{cool the burn}} under gently running cold water, and do not put ice or butter on it.",
+          "examplePl": "Najpierw schłodź oparzenie pod delikatnie płynącą zimną wodą i nie przykładaj do niego lodu ani masła.",
+          "collocations": [
+            "cool the burn with water",
+            "cool a burn quickly"
+          ],
+          "note": "Na oparzenie nie kładzie się lodu ani tłuszczu."
+        },
+        {
+          "id": "ppoz1-074",
+          "term": "blister",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈblɪstə/",
+          "pl": "pęcherz",
+          "def": "a small bubble on the skin filled with liquid, often caused by heat or rubbing",
+          "example": "A large {{blister}} formed on her hand where the hot oil had splashed her.",
+          "examplePl": "Na jej dłoni utworzył się duży pęcherz w miejscu, gdzie ochlapał ją gorący olej.",
+          "collocations": [
+            "a blister forms",
+            "a blister on the hand"
+          ],
+          "note": "Pęcherza po oparzeniu się nie przekłuwa."
+        },
+        {
+          "id": "ppoz1-075",
+          "term": "unconscious",
+          "type": "word",
+          "pos": "adj",
+          "level": "B2",
+          "ipa": "/ʌnˈkɒnʃəs/",
+          "pl": "nieprzytomny",
+          "def": "not awake and not able to see, hear or feel what is happening around you",
+          "example": "The man was {{unconscious}} when they carried him out of the smoke, but he was still breathing.",
+          "examplePl": "Mężczyzna był nieprzytomny, gdy wynoszono go z dymu, ale nadal oddychał.",
+          "collocations": [
+            "knocked unconscious",
+            "be found unconscious"
+          ],
+          "note": "*Unconscious* to „nieprzytomny”; „nieświadomy” to *unaware*."
+        },
+        {
+          "id": "ppoz1-076",
+          "term": "recovery position",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/rɪˈkʌvəri pəˌzɪʃn/",
+          "pl": "pozycja boczna ustalona, pozycja bezpieczna",
+          "def": "a way of laying an unconscious person on their side so that they can breathe and not choke",
+          "example": "The first aider put the unconscious woman into the {{recovery position}} and waited for the ambulance.",
+          "examplePl": "Osoba udzielająca pierwszej pomocy ułożyła nieprzytomną kobietę w pozycji bocznej ustalonej i czekała na karetkę.",
+          "collocations": [
+            "put someone in the recovery position",
+            "place in the recovery position"
+          ]
+        },
+        {
+          "id": "ppoz1-077",
+          "term": "first aid kit",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˌfɜːst ˈeɪd kɪt/",
+          "pl": "apteczka pierwszej pomocy",
+          "def": "a box or bag with bandages and other things for treating small injuries",
+          "example": "There is a green {{first aid kit}} on the kitchen wall, next to the staff noticeboard.",
+          "examplePl": "Na ścianie w kuchni, obok tablicy ogłoszeń dla pracowników, wisi zielona apteczka pierwszej pomocy.",
+          "collocations": [
+            "a well-stocked first aid kit",
+            "check the first aid kit"
+          ],
+          "note": "Apteczka to *first aid kit*; *chemist's* lub *pharmacy* to apteka."
+        },
+        {
+          "id": "ppoz1-078",
+          "term": "paramedic",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˌpærəˈmedɪk/",
+          "pl": "ratownik medyczny",
+          "def": "a person trained to give emergency medical treatment, who usually works in an ambulance",
+          "example": "The {{paramedic}} gave the injured man oxygen before they drove him to hospital.",
+          "examplePl": "Ratownik medyczny podał rannemu tlen, zanim zawieziono go do szpitala.",
+          "collocations": [
+            "an ambulance paramedic",
+            "paramedics arrive"
+          ],
+          "note": "*Paramedic* to nie lekarz; odpowiada polskiemu ratownikowi medycznemu."
+        },
+        {
+          "id": "ppoz1-079",
+          "term": "breathe in",
+          "type": "phrasal",
+          "pos": "phr v",
+          "level": "B1",
+          "ipa": "/ˌbriːð ˈɪn/",
+          "pl": "wdychać, wciągać powietrze",
+          "def": "to take air or another gas into your lungs",
+          "example": "Stay low, because it is dangerous to {{breathe in}} hot smoke.",
+          "examplePl": "Trzymaj się nisko, bo wdychanie gorącego dymu jest niebezpieczne.",
+          "collocations": [
+            "breathe in deeply",
+            "breathe in smoke"
+          ],
+          "note": "Czasownik *breathe* /briːð/ ma dźwięczne „th”, a rzeczownik *breath* /breθ/ bezdźwięczne."
+        },
+        {
+          "id": "ppoz1-080",
+          "term": "scald",
+          "type": "word",
+          "pos": "v",
+          "level": "B2",
+          "ipa": "/skɔːld/",
+          "pl": "oparzyć (gorącym płynem lub parą)",
+          "def": "to hurt the skin with very hot liquid or steam",
+          "example": "The boy was {{scalded}} when he pulled a pan of boiling water off the cooker.",
+          "examplePl": "Chłopiec został oparzony wrzątkiem, gdy ściągnął z kuchenki garnek z wrzącą wodą.",
+          "collocations": [
+            "scalded by boiling water",
+            "a scald on the leg"
+          ],
+          "note": "*Scald* to oparzenie płynem lub parą, a *burn* to oparzenie ogniem lub gorącym przedmiotem."
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "titlePl": "Zapobieganie w pracy i w domu",
+      "titleEn": "Prevention at work and at home",
+      "items": [
+        {
+          "id": "ppoz1-081",
+          "term": "hazard",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈhæzəd/",
+          "pl": "zagrożenie, źródło niebezpieczeństwa",
+          "def": "something that can cause harm or danger",
+          "example": "A pile of boxes in front of the exit is a serious fire {{hazard}}.",
+          "examplePl": "Stos pudeł przed wyjściem to poważne zagrożenie pożarowe.",
+          "collocations": [
+            "a fire hazard",
+            "a potential hazard"
+          ],
+          "note": "*Hazard* to źródło zagrożenia, a *risk* to prawdopodobieństwo, że dojdzie do szkody."
+        },
+        {
+          "id": "ppoz1-082",
+          "term": "fire safety training",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˈfaɪə ˈseɪfti ˌtreɪnɪŋ/",
+          "pl": "szkolenie z ochrony przeciwpożarowej, szkolenie ppoż.",
+          "def": "lessons that teach people how to prevent fires and what to do if one starts",
+          "example": "New employees must complete {{fire safety training}} in their first week and sign the attendance list.",
+          "examplePl": "Nowi pracownicy muszą w pierwszym tygodniu odbyć szkolenie z ochrony przeciwpożarowej i podpisać listę obecności.",
+          "collocations": [
+            "attend fire safety training",
+            "provide fire safety training"
+          ],
+          "note": "*Training* jest niepoliczalne: mówimy *a training session* lub *a training course*."
+        },
+        {
+          "id": "ppoz1-083",
+          "term": "store safely",
+          "type": "collocation",
+          "pos": "phrase",
+          "level": "B1",
+          "ipa": "/ˌstɔː ˈseɪfli/",
+          "pl": "bezpiecznie przechowywać",
+          "def": "to keep something in a place or way that does not cause danger",
+          "example": "Paint and cleaning chemicals must be {{stored safely}} in a locked cupboard, away from heat.",
+          "examplePl": "Farby i środki czyszczące trzeba bezpiecznie przechowywać w zamkniętej szafce, z dala od źródeł ciepła.",
+          "collocations": [
+            "store chemicals safely",
+            "store safely away from children"
+          ]
+        },
+        {
+          "id": "ppoz1-084",
+          "term": "no-smoking area",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˌnəʊ ˈsməʊkɪŋ ˌeəriə/",
+          "pl": "strefa zakazu palenia",
+          "def": "a place where people are not allowed to smoke",
+          "example": "The whole fuel store is a {{no-smoking area}}, and anyone with a cigarette will be asked to leave.",
+          "examplePl": "Cały skład paliw jest strefą zakazu palenia, a osoba z papierosem zostanie poproszona o wyjście.",
+          "collocations": [
+            "a strict no-smoking area",
+            "a no-smoking sign"
+          ],
+          "note": "Przeciwieństwo to *smoking area*, czyli wyznaczone miejsce do palenia."
+        },
+        {
+          "id": "ppoz1-085",
+          "term": "good housekeeping",
+          "type": "collocation",
+          "pos": "phrase",
+          "level": "B2",
+          "ipa": "/ˌɡʊd ˈhaʊskiːpɪŋ/",
+          "pl": "utrzymywanie porządku (w miejscu pracy), dobra organizacja miejsca pracy",
+          "def": "keeping a workplace tidy and clean so that waste cannot become a danger",
+          "example": "The inspector praised the warehouse for its {{good housekeeping}}: clear aisles and no piles of rubbish.",
+          "examplePl": "Inspektor pochwalił magazyn za porządek: wolne przejścia i brak stert śmieci.",
+          "collocations": [
+            "practise good housekeeping",
+            "poor housekeeping"
+          ],
+          "note": "Tu chodzi o porządek w miejscu pracy, nie o prowadzenie domu. W hotelu *housekeeping* to dział sprzątania."
+        },
+        {
+          "id": "ppoz1-086",
+          "term": "flammable liquid",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˌflæməbl ˈlɪkwɪd/",
+          "pl": "ciecz łatwopalna",
+          "def": "a liquid, such as petrol, that catches fire very easily",
+          "example": "Petrol, thinners and some glues are {{flammable liquids}} and need a special metal cabinet.",
+          "examplePl": "Benzyna, rozcieńczalnik i niektóre kleje to ciecze łatwopalne i wymagają specjalnej metalowej szafy.",
+          "collocations": [
+            "store flammable liquids",
+            "a flammable liquid cabinet"
+          ]
+        },
+        {
+          "id": "ppoz1-087",
+          "term": "PPE",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˌpiː piː ˈiː/",
+          "pl": "środki ochrony indywidualnej (ŚOI)",
+          "def": "special clothes and equipment, such as gloves and helmets, that protect workers from danger",
+          "example": "Before using the fire hose, the trainees put on their {{PPE}}: helmet, gloves and fireproof jacket.",
+          "examplePl": "Przed użyciem węża gaśniczego kursanci założyli środki ochrony indywidualnej: hełm, rękawice i ognioodporną kurtkę.",
+          "collocations": [
+            "wear PPE",
+            "provide PPE"
+          ],
+          "note": "Skrót od *personal protective equipment*. Czytamy go litera po literze: „pi-pi-i”."
+        },
+        {
+          "id": "ppoz1-088",
+          "term": "inspection",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ɪnˈspekʃn/",
+          "pl": "kontrola, przegląd",
+          "def": "an official check to see that something is in good condition and follows the rules",
+          "example": "The extinguishers are due for their yearly {{inspection}}, so please do not move them.",
+          "examplePl": "Gaśnice czeka coroczny przegląd, więc prosimy ich nie przestawiać.",
+          "collocations": [
+            "carry out an inspection",
+            "pass an inspection",
+            "a routine inspection"
+          ]
+        },
+        {
+          "id": "ppoz1-089",
+          "term": "unplug",
+          "type": "word",
+          "pos": "v",
+          "level": "B1",
+          "ipa": "/ʌnˈplʌɡ/",
+          "pl": "wyjąć wtyczkę z gniazdka, odłączyć od prądu",
+          "def": "to disconnect electrical equipment from the power supply by pulling out its plug",
+          "example": "Always {{unplug}} the iron when you finish, and never leave it on the board.",
+          "examplePl": "Zawsze wyjmij wtyczkę żelazka z gniazdka po zakończeniu prasowania i nigdy nie zostawiaj go na desce.",
+          "collocations": [
+            "unplug the heater",
+            "unplug appliances"
+          ],
+          "note": "Samo wyłączenie (*switch off*) to nie to samo co *unplug*, czyli wyjęcie wtyczki z gniazdka."
+        },
+        {
+          "id": "ppoz1-090",
+          "term": "clutter",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈklʌtə/",
+          "pl": "bałagan, zagracenie, graty",
+          "def": "a lot of things in a mess that fill a space",
+          "example": "The loft was full of old furniture and boxes, and this {{clutter}} made it a real fire risk.",
+          "examplePl": "Strych był pełen starych mebli i pudeł, a ten bałagan stwarzał realne ryzyko pożaru.",
+          "collocations": [
+            "clear the clutter",
+            "get rid of clutter"
+          ],
+          "note": "Rzeczownik niepoliczalny: *a lot of clutter*, nie *clutters*."
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "titlePl": "Kuchnia, elektryka i inne pożary",
+      "titleEn": "Kitchen, electrical and other fires",
+      "items": [
+        {
+          "id": "ppoz1-091",
+          "term": "chip pan fire",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈtʃɪp pæn ˌfaɪə/",
+          "pl": "pożar oleju do smażenia (np. w garnku lub frytkownicy)",
+          "def": "a fire that starts when hot cooking oil in a deep pan becomes too hot",
+          "example": "Never throw water on a {{chip pan fire}}, because it makes the burning oil flare up.",
+          "examplePl": "Nigdy nie polewaj wodą pożaru oleju do smażenia, bo płonący olej gwałtownie buchnie w górę.",
+          "collocations": [
+            "start a chip pan fire",
+            "prevent a chip pan fire"
+          ],
+          "note": "*Chip pan* to głęboki garnek do smażenia frytek (brytyjskie *chips*). W USA mówi się *grease fire*."
+        },
+        {
+          "id": "ppoz1-092",
+          "term": "unattended cooking",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˌʌnəˈtendɪd ˈkʊkɪŋ/",
+          "pl": "gotowanie bez nadzoru",
+          "def": "cooking food while nobody stays in the kitchen to watch it",
+          "example": "{{Unattended cooking}} is one of the most common causes of house fires, so stay in the kitchen.",
+          "examplePl": "Gotowanie bez nadzoru to jedna z najczęstszych przyczyn pożarów domów, więc zostań w kuchni.",
+          "collocations": [
+            "leave cooking unattended",
+            "avoid unattended cooking"
+          ]
+        },
+        {
+          "id": "ppoz1-093",
+          "term": "electrical fire",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ɪˈlektrɪkl ˈfaɪə/",
+          "pl": "pożar urządzeń elektrycznych, pożar instalacji elektrycznej",
+          "def": "a fire that starts because of a problem in electrical equipment or wires",
+          "example": "Do not pour water on an {{electrical fire}}; switch off the power first if it is safe.",
+          "examplePl": "Nie polewaj wodą pożaru urządzeń elektrycznych; jeśli to bezpieczne, najpierw wyłącz prąd.",
+          "collocations": [
+            "cause an electrical fire",
+            "prevent an electrical fire"
+          ]
+        },
+        {
+          "id": "ppoz1-094",
+          "term": "portable heater",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˌpɔːtəbl ˈhiːtə/",
+          "pl": "przenośny grzejnik, farelka",
+          "def": "a small machine that gives out heat and that you can carry from room to room",
+          "example": "Never put a {{portable heater}} next to curtains or leave it on while you sleep.",
+          "examplePl": "Nigdy nie stawiaj przenośnego grzejnika przy zasłonach ani nie zostawiaj go włączonego, kiedy śpisz.",
+          "collocations": [
+            "plug in a portable heater",
+            "keep a portable heater away from"
+          ],
+          "note": "Potocznie w Polsce „farelka”; w brytyjskim angielskim także *fan heater* lub *electric heater*."
+        },
+        {
+          "id": "ppoz1-095",
+          "term": "candle",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˈkændl/",
+          "pl": "świeca, świeczka",
+          "def": "a stick of wax with a string in the middle that gives light when it burns",
+          "example": "Please blow out the {{candle}} before you leave the room, even if you will only be away briefly.",
+          "examplePl": "Zgaś świeczkę, zanim wyjdziesz z pokoju, nawet jeśli wychodzisz tylko na chwilę.",
+          "collocations": [
+            "light a candle",
+            "blow out a candle",
+            "a scented candle"
+          ],
+          "note": "Nie mylić z *candy* (cukierki, w USA)."
+        },
+        {
+          "id": "ppoz1-096",
+          "term": "chimney fire",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈtʃɪmni ˌfaɪə/",
+          "pl": "pożar komina",
+          "def": "a fire inside the pipe that carries smoke away from a fireplace or stove",
+          "example": "The roaring noise and the sparks above the roof told us it was a {{chimney fire}}, so we left at once.",
+          "examplePl": "Huk i iskry nad dachem dały nam znać, że to pożar komina, więc od razu wyszliśmy z domu.",
+          "collocations": [
+            "have a chimney fire",
+            "prevent a chimney fire"
+          ],
+          "note": "Pożarowi komina zapobiega regularne czyszczenie przewodu kominowego."
+        },
+        {
+          "id": "ppoz1-097",
+          "term": "lithium-ion battery",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˌlɪθiəm ˈaɪən ˈbætəri/",
+          "pl": "akumulator litowo-jonowy",
+          "def": "a rechargeable battery used in phones, laptops, e-bikes and electric cars",
+          "example": "A damaged {{lithium-ion battery}} in the e-scooter overheated in the hallway and started a fire.",
+          "examplePl": "Uszkodzony akumulator litowo-jonowy w hulajnodze elektrycznej przegrzał się w korytarzu i wywołał pożar.",
+          "collocations": [
+            "charge a lithium-ion battery",
+            "a lithium-ion battery fire"
+          ],
+          "note": "Po polsku częściej „akumulator” niż „bateria”; angielskie *battery* obejmuje oba."
+        },
+        {
+          "id": "ppoz1-098",
+          "term": "charger",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˈtʃɑːdʒə/",
+          "pl": "ładowarka",
+          "def": "a device that you connect to something to put electricity into its battery",
+          "example": "Don't use a cheap, unbranded {{charger}} for your laptop, because poor ones can overheat and start a fire.",
+          "examplePl": "Nie używaj taniej ładowarki nieznanej marki do laptopa, bo kiepskie mogą się przegrzać i wywołać pożar.",
+          "collocations": [
+            "a phone charger",
+            "a laptop charger"
+          ]
+        },
+        {
+          "id": "ppoz1-099",
+          "term": "barbecue",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˈbɑːbɪkjuː/",
+          "pl": "grill (ogrodowy), grillowanie",
+          "def": "a metal frame with burning coal or gas for cooking food outside; also the party itself",
+          "example": "Keep the {{barbecue}} away from the fence and the shed, and never use petrol to light it.",
+          "examplePl": "Trzymaj grill z dala od płotu i szopy i nigdy nie rozpalaj go benzyną.",
+          "collocations": [
+            "light a barbecue",
+            "have a barbecue",
+            "a gas barbecue"
+          ],
+          "note": "W brytyjskim angielskim *grill* to też górna grzałka piekarnika, a nie grill ogrodowy."
+        },
+        {
+          "id": "ppoz1-100",
+          "term": "tumble dryer",
+          "type": "word",
+          "pos": "n",
+          "level": "B1",
+          "ipa": "/ˈtʌmbl ˌdraɪə/",
+          "pl": "suszarka bębnowa (do ubrań)",
+          "def": "a machine that dries wet clothes by turning them in hot air",
+          "example": "Clean the lint from the filter after every use, because a blocked {{tumble dryer}} can overheat.",
+          "examplePl": "Po każdym użyciu czyść filtr z kłaczków, bo zapchana suszarka bębnowa może się przegrzać.",
+          "collocations": [
+            "clean the tumble dryer filter",
+            "put clothes in the tumble dryer"
+          ],
+          "note": "W amerykańskim angielskim *dryer* lub *clothes dryer*."
+        }
+      ]
+    }
+  ]
+}
