@@ -215,3 +215,28 @@ Skład tygodnia: 22 `word` (±2), 8 `phrasal` (±1), 6 `collocation` (±1), 4 `i
 - `gapFill`: dokładnie 10 nowych zdań (innych niż `example`), każde z jednym `___`, każde do innego hasła tygodnia. `answers` w formie pasującej do zdania.
 - `matching`: dokładnie 8 par (połówki kolokacji albo hasło i definicja), bez dwuznaczności: każda lewa strona pasuje tylko do jednej prawej.
 - `wordFormation`: dokładnie 6 zdań; `base` wielkimi literami, odpowiedź to inne słowo z tej samej rodziny.
+
+## Pakiety słownictwa specjalistycznego
+
+Pakiet to zestaw haseł z jednej dziedziny, który uczący się włącza w Ustawieniach obok głównego kursu. Hasła dochodzą po kilka dziennie i wracają w zwykłych powtórkach. Lista pakietów jest w `data/packs.json`, a hasła w `data/packs/<id>.json`:
+
+```json
+{
+  "id": "ppoz1",
+  "sets": [
+    {
+      "n": 1,
+      "titlePl": "Pożar i dym",
+      "titleEn": "Fire and smoke",
+      "items": [
+        { "id": "ppoz1-001", "term": "smoke alarm", "type": "word", "pos": "n", "level": "B1", "ipa": "/ˈsməʊk əlɑːm/", "pl": "czujka dymu (domowa), alarm dymowy", "def": "…", "example": "…{{smoke alarm}}…", "examplePl": "…", "collocations": ["…"], "note": "…" }
+      ]
+    }
+  ]
+}
+```
+
+- Liczba zestawów i haseł w zestawie oraz dozwolone poziomy są w `data/packs.json` (`sets`, `setSize`, `levels`). Hasła mają kolejne identyfikatory `<id>-001`, `<id>-002`… przez wszystkie zestawy.
+- Każde hasło ma te same pola i zasady co w `wNN-vocab.json` (wyżej). Przykład: 6–28 słów. Rzeczowniki złożone (`fire extinguisher`, `escape route`) mają `type: "word"`, `pos: "n"`.
+- Hasło nie może się powtarzać w pakiecie ani między pakietami (walidator to sprawdza).
+- Sprawdzenie: `node scripts/validate-content.mjs --pack ppoz1`.

@@ -8,6 +8,7 @@
 //   <pid>.log-YYYY-MM             {days: {DD: {deviceId: {reviews, correct, newCards, seconds, sessions}}}}
 //   <pid>.<course>.progress       {steps: {key: {.., at}}, results: {key: {.., at}}, tests: {key: {.., at}}}
 //   <pid>.<course>.srs-wNN        {cards: {id: state}}   (newest review wins per card)
+//   <pid>.packs.srs-<packId>      {cards: {id: state}}   (specialist vocabulary packs, same rule)
 //   <pid>.<course>.journal-wNN    {entries: {key: {.., at}}}
 
 import { isArtifact, nowTs, makeId, stableStringify } from './platform.js';
@@ -33,7 +34,7 @@ export function kindOf(docId) {
   const last = docId.split('.').pop();
   if (last === 'profile') return 'profile';
   if (last === 'progress') return 'progress';
-  if (/^srs-w\d{2}$/.test(last)) return 'srs';
+  if (/^srs-(w\d{2}|[a-z][a-z0-9]{1,15})$/.test(last)) return 'srs';
   if (/^log-\d{4}-\d{2}$/.test(last)) return 'log';
   if (/^journal-w\d{2}$/.test(last)) return 'journal';
   return null;

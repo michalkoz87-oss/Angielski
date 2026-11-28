@@ -10,8 +10,9 @@ import { setSize } from '../common.js';
 const { h } = ui;
 
 export function mount(root, ctx) {
-  const size = setSize(ctx.program);
-  const items = ctx.vocab.slice((ctx.set - 1) * size, ctx.set * size);
+  const size = ctx.program ? setSize(ctx.program) : 10;
+  const items = ctx.items ?? ctx.vocab.slice((ctx.set - 1) * size, ctx.set * size);
+  const pool = ctx.pool ?? ctx.vocab;
   let i = 0;
 
   const finish = () => {
@@ -28,7 +29,7 @@ export function mount(root, ctx) {
 
   const check = () => {
     const rng = seededRng(`learn-${ctx.sid}`);
-    const questions = shuffle(items, rng).map((it, n) => vocabQuestion(it, ctx.vocab, n % 2 ? 'choose-term' : 'choose-pl', rng));
+    const questions = shuffle(items, rng).map((it, n) => vocabQuestion(it, pool, n % 2 ? 'choose-term' : 'choose-pl', rng));
     runQuestions(root, questions, { seed: `learn-${ctx.sid}`, repeatWrong: true, label: 'Szybkie sprawdzenie', onFinish: finish });
   };
 

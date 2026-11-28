@@ -1,5 +1,6 @@
 // Test dymny: dodanie osoby, wybór poziomu, plan, pełne sesje wybranego kursu i wszystkie strony.
 //   node tests/e2e/smoke.mjs [kurs=a2b1] [liczba dni=1] [katalog zrzutów|-] [pace]
+// Z dopiskiem "packs" włącza pakiet słownictwa specjalistycznego ppoz1, uczy się jego słów i sprawdza powtórki.
 // Z dopiskiem "pace" sprawdza też tempo: drugą sesję tego samego dnia, limit dzienny, zapas,
 // podpowiedź o wyższym poziomie i przyspieszenie planu.
 import { createRequire } from 'node:module';
@@ -14,6 +15,7 @@ const course = process.argv[2] ?? 'a2b1';
 const days = Number(process.argv[3] ?? 1);
 const shots = process.argv[4] && process.argv[4] !== '-' ? process.argv[4] : null;
 const pace = process.argv[5] === 'pace';
+const packs = process.argv[5] === 'packs';
 const port = 5200 + Math.floor(Math.random() * 80);
 const server = spawn('node', [join(root, 'scripts', 'dev-server.mjs'), '--port', String(port)], { stdio: 'ignore' });
 await new Promise((r) => setTimeout(r, 600));
@@ -42,6 +44,11 @@ const goto = async (route, ready) => {
 async function runSession(tag) {
   await page.waitForSelector('#start-session');
   await page.click('#start-session');
+  await drive(tag);
+}
+
+// Answers whatever the activity shows until its summary, then returns to "Dziś".
+async function drive(tag) {
   let last = '';
   for (let i = 0; i < 400; i++) {
     await page.waitForTimeout(60);
@@ -109,6 +116,36 @@ try {
       await page.evaluate(() => { const real = Date.now; Date.now = () => real() + 86400000; });
       await page.evaluate(() => window.dispatchEvent(new HashChangeEvent('hashchange')));
     }
+  }
+
+  if (packs) {
+    // Switch the basic fire-safety pack on, learn today's batch, then see it in reviews, dictionary and progress.
+    await goto('ustawienia', '.app[data-route="ustawienia"] .page-head');
+    await page.locator('label:has(#set-pack-ppoz1)').click();
+    await expect('#set-pack-per-day-ppoz1', 'packs: daily amount appears when switched on');
+    await shot('packs-settings');
+    await goto('dzis', '.stats--3');
+    await expect('#pack-learn-ppoz1', 'packs: new pack words offered on Today');
+    await shot('packs-today');
+    await page.click('#pack-learn-ppoz1');
+    await drive('packs');
+    await expect('#pack-learn-ppoz1', 'packs: no more new pack words today', false);
+    const stored = await page.evaluate(() => Object.keys(JSON.parse(localStorage.getItem(Object.keys(localStorage).find((k) => k.endsWith('.packs.srs-ppoz1'))) ?? '{}').cards ?? {}).length);
+    if (stored !== 5) errors.push(`packs: ${stored} pack cards stored, expected 5`);
+    await goto('slownik', '.app[data-route="slownik"] .page-head');
+    await page.selectOption('#dict-filter', 'pack:ppoz1');
+    await page.waitForTimeout(200);
+    const listed = await page.locator('.dict .dict__term').count();
+    if (listed < 5) errors.push(`packs: dictionary lists ${listed} pack entries`);
+    await shot('packs-dictionary');
+    await goto('postepy', '.app[data-route="postepy"] .page-head');
+    await shot('packs-progress');
+    // Next day: the pack words are due together with the course words.
+    await page.evaluate(() => { const real = Date.now; Date.now = () => real() + 86400000; });
+    await goto('dzis', '.stats--3');
+    const due = Number(await page.locator('.stat__value').nth(2).textContent());
+    if (!(due >= 5)) errors.push(`packs: ${due} reviews due next day, expected the pack words among them`);
+    await expect('#pack-learn-ppoz1', 'packs: a new batch the next day');
   }
 
   if (pace) {

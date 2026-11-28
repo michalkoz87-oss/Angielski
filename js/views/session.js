@@ -40,6 +40,37 @@ export async function render(root, ctx) {
 
   const fail = (title, body) => ui.mount(layout.body, ui.emptyState({ icon: 'alert', title, body, action: ui.button({ label: 'Wróć do „Dziś”', kind: 'primary', onClick: leave }) }));
 
+  if (mode === 'pack') {
+    const packId = ctx.params.pack;
+    (async () => {
+      let pack, meta;
+      try {
+        [pack, meta] = await Promise.all([content.loadPack(packId), content.loadPackCatalog().then((c) => c.find((p) => p.id === packId))]);
+      } catch {
+        return fail('Nie udało się wczytać pakietu', 'Sprawdź połączenie i spróbuj ponownie.');
+      }
+      if (closed) return;
+      const settings = model.packSettings()[packId] ?? {};
+      const left = Math.max(0, (settings.newPerDay ?? 5) - model.packIntroducedToday(packId));
+      const items = pack.items.filter((it) => !model.cardState(it.id)).slice(0, left);
+      bar.update({ title: meta ? `${meta.titlePl}: nowe słowa` : 'Nowe słowa', steps: [] });
+      if (!items.length) {
+        return ui.mount(layout.body, ui.emptyState({ icon: 'check', title: 'Na dziś to wszystko', body: 'Dzisiejsza porcja nowych słów z tego pakietu jest już za Tobą. Słowa wrócą w powtórkach.',
+          action: ui.button({ label: 'Wróć do „Dziś”', kind: 'primary', onClick: leave }) }));
+      }
+      current = learn.mount(layout.body, { sid: `pack-${packId}`, items, pool: pack.items, onSkip: leave,
+        onDone: (result) => {
+          stopStep();
+          const n = result?.newCards ?? 0;
+          ui.mount(layout.body, h('div', { class: 'done' },
+            h('h2', { class: 'done__title' }, 'Nowe słowa poznane'),
+            h('p', { class: 'muted' }, `${ui.count(n, 'słowo trafiło', 'słowa trafiły', 'słów trafiło')} do powtórek. Wrócą jutro razem z resztą kart.`),
+            ui.actionBar(ui.button({ label: 'Wróć do „Dziś”', kind: 'primary', size: 'lg', id: 'session-finish', onClick: leave }))));
+        } });
+    })();
+    return () => { closed = true; stopStep(); };
+  }
+
   if (mode === 'review') {
     bar.update({ title: 'Powtórki', steps: [] });
     current = review.mount(layout.body, { onDone: leave, onSkip: leave, standalone: true });

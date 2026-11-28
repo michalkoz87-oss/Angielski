@@ -16,6 +16,8 @@ export async function render(root, ctx) {
   const saved = () => ui.toast('Zapisano', 'ok');
   let courses = [];
   try { courses = await content.loadCatalog(); } catch { /* shown without names */ }
+  const packCatalog = await content.loadPackCatalog();
+  const packSet = model.packSettings();
   const course = courses.find((c) => c.id === p.courseId);
 
   const chips = h('div', { class: 'cluster', role: 'group', 'aria-label': 'Dni nauki' });
@@ -72,6 +74,21 @@ export async function render(root, ctx) {
           if (await ui.confirmDialog({ title: 'Zmienić poziom?', body: 'Postęp na obecnym poziomie zostaje zapisany i można do niego wrócić. Na nowym poziomie nauka zaczyna się od pierwszego tygodnia.', confirmLabel: 'Wybierz poziom' })) model.setCourse(null);
         } }),
         ui.button({ label: model.listProfiles().length > 1 ? 'Zmień osobę' : 'Dodaj kolejną osobę', id: 'set-switch', onClick: () => model.switchProfile(null) }))),
+    packCatalog.length > 0 && ui.section({ title: 'Słownictwo specjalistyczne' },
+      h('p', { class: 'muted' }, 'Dodatkowe słownictwo z wybranej dziedziny, niezależne od poziomu kursu. Nowe hasła pojawiają się na ekranie „Dziś”, a potem wracają w zwykłych powtórkach.'),
+      packCatalog.map((meta) => {
+        const s = packSet[meta.id] ?? {};
+        const known = model.packCardStates(meta.id).size;
+        const total = meta.sets * meta.setSize;
+        const perDay = ui.select({ id: `set-pack-per-day-${meta.id}`, value: String(s.newPerDay ?? 5), ariaLabel: `Nowe słowa dziennie: ${meta.titlePl}, ${meta.levelPl}`,
+          options: [3, 5, 8, 10].map((n) => ({ value: String(n), label: `${n} nowych słów dziennie` })),
+          onChange: (v) => { model.setPack(meta.id, { newPerDay: Number(v) }); saved(); } });
+        perDay.hidden = !s.on;
+        return h('div', { class: 'pack-set' },
+          ui.toggle({ id: `set-pack-${meta.id}`, label: `${meta.titlePl}: ${meta.levelPl} (${meta.rangeLabel})`, hint: `${meta.descPl} ${total} haseł${known ? `, poznane: ${known}` : ''}.`, checked: !!s.on,
+            onChange: (on) => { model.setPack(meta.id, { on }); perDay.hidden = !on; saved(); } }),
+          perDay);
+      })),
     ui.section({ title: 'Plan nauki' },
       ui.field({ label: 'Pierwszy dzień kursu', hint: 'Zmiana przesuwa planowane daty wszystkich sesji.', control: start }),
       h('div', { class: 'field' }, h('span', { class: 'field__label' }, 'Dni nauki'), chips),

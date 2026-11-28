@@ -29,6 +29,12 @@ export function mount(root, ctx) {
   (async () => {
     const weeks = [...new Set(ids.map(content.weekOfItem).filter(Boolean))];
     const pool = (await Promise.allSettled(weeks.map((w) => content.loadVocab(w)))).flatMap((r) => (r.status === 'fulfilled' ? r.value : []));
+    // Pack cards: distractors come from the same pack, never from the general course.
+    const packPools = {};
+    for (const packId of [...new Set(ids.map(content.packOfItem).filter(Boolean))]) {
+      try { packPools[packId] = (await content.loadPack(packId)).items; } catch { /* pack file missing: its cards are skipped */ }
+    }
+    const poolFor = (item) => packPools[content.packOfItem(item.id)] ?? pool;
     if (dead) return;
     const queue = ids.filter((id) => content.itemById(id)).map((id) => ({ id, repeat: false }));
     if (!queue.length) return empty();
@@ -92,7 +98,7 @@ export function mount(root, ctx) {
         return;
       }
 
-      const q = vocabQuestion(item, pool, mode === 'choose' ? (rng() < 0.5 ? 'choose-pl' : 'choose-term') : 'type-term', rng);
+      const q = vocabQuestion(item, poolFor(item), mode === 'choose' ? (rng() < 0.5 ? 'choose-pl' : 'choose-term') : 'type-term', rng);
       const actions = h('div', { class: 'action-bar' });
       const view = questionView(q, { seed: `rev-${entry.id}`, onAnswer: (ok) => {
         const more = h('div', { class: 'flash__back' }, ui.dictEntry(item, { size: 'md', headingLevel: 3 }));

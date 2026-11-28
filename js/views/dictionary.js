@@ -13,15 +13,24 @@ const STATUS = { new: 'nowe', learning: 'w nauce', young: 'utrwalane', mature: '
 
 export async function render(root) {
   ui.mount(root, ui.page(null, ui.loading()));
-  let program, items;
+  let program, items, packCatalog = [];
   try {
     program = await content.loadProgram();
     items = await content.loadVocabRange(1, program.weeks);
+    packCatalog = (await content.loadPackCatalog()).filter((p) => model.enabledPacks().includes(p.id));
+    for (const meta of packCatalog) {
+      try { items = items.concat((await content.loadPack(meta.id)).items); } catch { /* pack file missing */ }
+    }
   } catch {
     ui.mount(root, ui.page(null, ui.emptyState({ icon: 'alert', title: 'Nie udało się wczytać słownika', body: 'Sprawdź połączenie i odśwież stronę.' })));
     return;
   }
   const states = model.allCardStates();
+  const packName = Object.fromEntries(packCatalog.map((p) => [p.id, `${p.titlePl} (${p.levelPl})`]));
+  const where = (it) => {
+    const info = content.packInfo(it.id);
+    return info ? `${packName[info.packId] ?? 'Pakiet'} · zestaw ${info.set}: ${info.setTitlePl}` : `Tydzień ${content.weekOfItem(it.id)}`;
+  };
   const today = toDayNumber(todayKey());
   let query = '';
   let filter = 'all';
@@ -39,7 +48,7 @@ export async function render(root) {
       onToggle: (open) => {
         if (!open || more.childNodes.length) return;
         ui.mount(more, ui.dictEntry(it, { size: 'md', extras: true, headingLevel: 3 }),
-          h('p', { class: 'muted small' }, `Tydzień ${content.weekOfItem(it.id)}` + (st ? ` · następna powtórka: ${ui.fmtDate(fromDayNumber(Math.max(st.d, today)), 'rel')}` : ' · jeszcze nie w powtórkach')),
+          h('p', { class: 'muted small' }, where(it) + (st ? ` · następna powtórka: ${ui.fmtDate(fromDayNumber(Math.max(st.d, today)), 'rel')}` : ' · jeszcze nie w powtórkach')),
           ai.available() && model.isAdult() && ui.button({ label: 'Wyjaśnij szerzej', icon: 'sparkle', size: 'sm', onClick: async (e) => {
             const btn = e.currentTarget;
             ui.setLoading(btn, true, 'Claude pisze…');
@@ -60,6 +69,8 @@ export async function render(root) {
       if (q && !fold(it.term).includes(q) && !fold(it.pl).includes(q)) return false;
       if (filter === 'all') return true;
       const m = srs.maturity(states.get(it.id));
+      if (filter === 'course') return !content.packOfItem(it.id);
+      if (filter.startsWith('pack:')) return content.packOfItem(it.id) === filter.slice(5);
       return filter === 'learned' ? m !== 'new' : filter === 'due' ? !!states.get(it.id) && states.get(it.id).d <= today : it.type === filter;
     });
     countEl.textContent = `${ui.count(match.length, 'hasło', 'hasła', 'haseł')}`;
@@ -69,9 +80,10 @@ export async function render(root) {
 
   const search = ui.textInput({ id: 'dict-search', type: 'search', placeholder: 'Szukaj po angielsku lub po polsku', ariaLabel: 'Szukaj w słowniku', onInput: (v) => { query = v; shown = PAGE; draw(); } });
   const filters = ui.select({ id: 'dict-filter', value: filter, onChange: (v) => { filter = v; shown = PAGE; draw(); },
-    options: [{ value: 'all', label: 'Wszystkie' }, { value: 'learned', label: 'Poznane' }, { value: 'due', label: 'Do powtórki' }, { value: 'word', label: 'Słowa' }, { value: 'phrasal', label: 'Phrasal verbs' }, { value: 'collocation', label: 'Kolokacje' }, { value: 'idiom', label: 'Idiomy' }] });
+    options: [{ value: 'all', label: 'Wszystkie' }, { value: 'learned', label: 'Poznane' }, { value: 'due', label: 'Do powtórki' }, { value: 'word', label: 'Słowa' }, { value: 'phrasal', label: 'Phrasal verbs' }, { value: 'collocation', label: 'Kolokacje' }, { value: 'idiom', label: 'Idiomy' },
+      ...(packCatalog.length ? [{ value: 'course', label: 'Tylko słownictwo kursu' }, ...packCatalog.map((p) => ({ value: `pack:${p.id}`, label: `${p.titlePl}: ${p.levelPl}` }))] : [])] });
   ui.mount(root, ui.page(null,
-    ui.pageHeader({ title: 'Słownik', eyebrow: `${program.rangeLabel} · ${program.title}`, sub: `Poznane: ${states.size} z ${program.weeks * program.vocabPerWeek} haseł kursu` }),
+    ui.pageHeader({ title: 'Słownik', eyebrow: `${program.rangeLabel} · ${program.title}`, sub: `Poznane: ${model.courseCardStates().size} z ${program.weeks * program.vocabPerWeek} haseł kursu` }),
     h('div', { class: 'dict__tools' }, search, filters), countEl, listEl));
   draw();
 }

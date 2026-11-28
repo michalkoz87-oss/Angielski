@@ -26,7 +26,9 @@ export async function render(root) {
     ui.mount(root, ui.page(null, ui.emptyState({ icon: 'alert', title: 'Nie udało się wczytać danych', body: 'Sprawdź połączenie i odśwież stronę.' })));
     return;
   }
-  const states = model.allCardStates();
+  const states = model.courseCardStates();
+  const allStates = model.allCardStates();
+  const packCatalog = (await content.loadPackCatalog()).filter((p) => model.enabledPacks().includes(p.id));
   const today = toDayNumber(todayKey());
   const isDone = makeIsDone(program);
   const st = schedule.status(model.getProfile(), isDone, todayKey());
@@ -38,7 +40,7 @@ export async function render(root) {
   const last14 = hist.slice(-14);
   const reviews = last14.reduce((a, d) => a + d.reviews, 0);
   const correct = last14.reduce((a, d) => a + d.correct, 0);
-  const forecast = srs.forecast(states, today, 14);
+  const forecast = srs.forecast(allStates, today, 14);
   const dayLabels = Array.from({ length: 14 }, (_, i) => (i === 0 ? 'dziś' : `+${i}`));
   const level = (d) => { const n = d.reviews + d.newCards * 2 + d.sessions * 10; return n === 0 ? 0 : n < 15 ? 1 : n < 40 ? 2 : n < 80 ? 3 : 4; };
   const pad = weekdayOf(hist[0].key) - 1;
@@ -65,7 +67,12 @@ export async function render(root) {
       h('p', { class: 'muted small' }, 'Słowo jest opanowane, gdy odstęp między powtórkami przekroczy trzy tygodnie.')),
     ui.section({ title: 'Aktywność' }, heat,
       h('p', { class: 'muted small num' }, reviews ? `Ostatnie 14 dni: ${ui.count(reviews, 'powtórka', 'powtórki', 'powtórek')}, ${Math.round((correct / reviews) * 100)}% pamiętanych.` : 'W ostatnich 14 dniach nie było powtórek.')),
-    ui.section({ title: 'Prognoza powtórek' }, states.size ? bars(forecast, dayLabels, { title: 'Karty do powtórki w kolejnych dniach', unit: 'kart' }) : h('p', { class: 'muted' }, 'Prognoza pojawi się po poznaniu pierwszych słów.')),
+    packCatalog.length > 0 && ui.section({ title: 'Słownictwo specjalistyczne' }, packCatalog.map((p) => {
+      const known = model.packCardStates(p.id).size;
+      const totalP = p.sets * p.setSize;
+      return h('div', { class: 'stack stack--sm' }, h('p', { class: 'small' }, `${p.titlePl}: ${p.levelPl}`, h('span', { class: 'muted num' }, ` · ${known} z ${totalP}`)), ui.progressBar((known / totalP) * 100, { label: `${p.titlePl}, ${p.levelPl}` }));
+    })),
+    ui.section({ title: 'Prognoza powtórek' }, allStates.size ? bars(forecast, dayLabels, { title: 'Karty do powtórki w kolejnych dniach', unit: 'kart' }) : h('p', { class: 'muted' }, 'Prognoza pojawi się po poznaniu pierwszych słów.')),
     ui.section({ title: 'Testy' }, tests.length
       ? h('div', { class: 'table-wrap' }, h('table', { class: 'table' }, h('thead', null, h('tr', null, h('th', null, 'Tydzień'), h('th', null, 'Wynik'), h('th', null, 'Data'))),
         h('tbody', null, tests.map(([key, t]) => h('tr', null, h('td', { class: 'num' }, `${Number(key.slice(1))}${t.module ? ' (moduł)' : ''}`), h('td', { class: 'num' }, `${t.score}/${t.total} · ${Math.round((t.score / t.total) * 100)}%`), h('td', { class: 'num' }, ui.fmtDate(todayKey(new Date(t.at)), 'short')))))))

@@ -15,7 +15,8 @@ let cardCache = null;
 const scopeListeners = new Set();
 
 store.on('change', (event) => {
-  if (event?.docId?.includes('.srs-')) cardCache = null;
+  const id = event?.docId ?? '';
+  if (id.includes('.srs-') || id.endsWith('.profile')) cardCache = null;
 });
 
 function remember(id) {
@@ -160,7 +161,10 @@ export const isOnboarded = () => !!pid && !!course && !!getProfile().startDate;
 
 // ---------------------------------------------------------------- cards (spaced repetition)
 
-const srsDoc = (id) => `${scope()}.srs-${String(id).slice(0, 3)}`;
+const packOf = (id) => /^([a-z][a-z0-9]{1,15})-\d{3}$/.exec(String(id))?.[1] ?? null;
+const packDoc = (packId) => `${pid}.packs.srs-${packId}`;
+// Course cards live per learner and course; pack cards per learner, whatever the course.
+const srsDoc = (id) => (packOf(id) ? packDoc(packOf(id)) : `${scope()}.srs-${String(id).slice(0, 3)}`);
 
 export function cardState(id) {
   return store.get(srsDoc(id)).cards?.[id] ?? null;
@@ -174,16 +178,52 @@ export function setCardState(id, state) {
   cardCache = null;
 }
 
-/** Map<itemId, state> of the active course. */
-export function allCardStates() {
-  if (cardCache) return cardCache;
+/** Map<itemId, state> of the active course only. */
+export function courseCardStates() {
   const map = new Map();
+  if (!pid || !course) return map;
   for (let w = 1; w <= 24; w++) {
     const cards = store.get(`${scope()}.srs-w${String(w).padStart(2, '0')}`).cards;
     if (cards) for (const [id, st] of Object.entries(cards)) map.set(id, st);
   }
+  return map;
+}
+
+/** Map<itemId, state> of one specialist pack. */
+export function packCardStates(packId) {
+  return new Map(Object.entries((pid && store.get(packDoc(packId)).cards) || {}));
+}
+
+/** Map<itemId, state> of everything the learner reviews: the active course and the switched-on packs. */
+export function allCardStates() {
+  if (cardCache) return cardCache;
+  const map = courseCardStates();
+  for (const packId of enabledPacks()) for (const [id, st] of packCardStates(packId)) map.set(id, st);
   cardCache = map;
   return map;
+}
+
+// ---------------------------------------------------------------- specialist vocabulary packs
+
+/** {packId: {on, newPerDay}} of the active learner. */
+export const packSettings = () => profileDoc().packs ?? {};
+export const enabledPacks = () => Object.entries(packSettings()).filter(([, s]) => s?.on).map(([id]) => id);
+
+export function setPack(packId, patch) {
+  if (!pid) return;
+  store.update(`${pid}.profile`, (d) => {
+    d.packs ??= {};
+    d.packs[packId] = { newPerDay: 5, ...(d.packs[packId] ?? {}), ...patch };
+  });
+  cardCache = null;
+}
+
+/** New pack words introduced today (cards created today and not reviewed yet). */
+export function packIntroducedToday(packId) {
+  const today = todayKey();
+  let n = 0;
+  for (const st of packCardStates(packId).values()) if (st && st.n === 0 && todayKey(new Date(st.t)) === today) n++;
+  return n;
 }
 
 // ---------------------------------------------------------------- progress

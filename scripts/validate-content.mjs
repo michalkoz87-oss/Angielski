@@ -6,6 +6,7 @@
 //   node scripts/validate-content.mjs --course b2c1           – jeden kurs
 //   node scripts/validate-content.mjs --course b2c1 --week 7  – jeden tydzień
 //   node scripts/validate-content.mjs --dir <katalog> [--program <plik>]  – inny katalog z plikami wNN-*.json
+//   node scripts/validate-content.mjs --pack ppoz1            – jeden pakiet słownictwa specjalistycznego
 //   --relaxed       bez limitów ilościowych (dane testowe)
 //   --vocab-only    przy --week: nie wymagaj pliku lekcji
 //   --require-all   błąd, jeśli brakuje któregokolwiek tygodnia kursu
@@ -152,6 +153,38 @@ function checkGrammarItem(file, where, ex, allowed) {
   }
 }
 
+/** Checks of one dictionary entry, shared by weekly vocabulary and specialist packs. */
+function checkItem(file, where, it, allowedLevels, exampleWords, counts, levels) {
+  if (!TYPES.includes(it.type)) err(file, `${where}: type ${it.type}`);
+  else if (counts) counts[it.type]++;
+  if (!POS.includes(it.pos)) err(file, `${where}: pos ${it.pos}`);
+  if (!(relaxed ? ALL_LEVELS : allowedLevels).includes(it.level)) err(file, `${where}: level ${it.level} (dozwolone ${allowedLevels.join(', ')})`);
+  else if (levels) levels[it.level] = (levels[it.level] || 0) + 1;
+  if (!isStr(it.ipa) || !/^\/[^/]+\/$/.test(it.ipa.trim())) err(file, `${where}: ipa w ukośnikach /…/`);
+  for (const f of ['pl', 'def', 'example', 'examplePl']) {
+    if (!isStr(it[f])) err(file, `${where}: brak ${f}`);
+    checkBadText(file, `${where}.${f}`, it[f]);
+  }
+  if (isStr(it.example)) {
+    const ms = marks(it.example);
+    if (ms.length !== 1) err(file, `${where}: example musi mieć dokładnie jeden znacznik {{…}} (jest ${ms.length})`);
+    else if (ms[0].id) err(file, `${where}: znacznik w example bez |id`);
+    const n = words(stripMarks(it.example));
+    if (!relaxed && !inRange(n, exampleWords)) err(file, `${where}: example ma ${n} słów (dozwolone ${rangeText(exampleWords)})`);
+    if (/_{3,}/.test(it.example)) err(file, `${where}: example nie może zawierać ___`);
+  }
+  if (isStr(it.def) && isStr(it.term) && it.type === 'word') {
+    const re = new RegExp(`\\b${it.term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
+    if (re.test(it.def)) warn(file, `${where}: definicja zawiera samo hasło`);
+  }
+  if (!isArr(it.collocations) || it.collocations.length > 3 || it.collocations.some((c) => !isStr(c))) err(file, `${where}: collocations: lista 0–3 tekstów`);
+  else if (it.collocations.length === 0 && it.type === 'word') err(file, `${where}: collocations puste (dla type "word" wymagane 1–3)`);
+  if (it.family !== undefined && (!isArr(it.family) || it.family.length > 4 || it.family.some((c) => !isStr(c)))) err(file, `${where}: family: lista do 4 tekstów`);
+  if (it.note !== undefined && !isStr(it.note)) err(file, `${where}: note pusty – usuń pole`);
+  const known = ['id', 'term', 'type', 'pos', 'level', 'ipa', 'pl', 'def', 'example', 'examplePl', 'collocations', 'family', 'note'];
+  for (const k of Object.keys(it)) if (!known.includes(k)) err(file, `${where}: nieznane pole ${k}`);
+}
+
 function validateVocab(week, data, L, weekMeta) {
   const file = `w${pad(week)}-vocab.json`;
   const ids = new Set();
@@ -179,34 +212,7 @@ function validateVocab(week, data, L, weekMeta) {
       seenTerms.add(nt);
       terms.push({ id: it.id, term: it.term, norm: nt });
     }
-    if (!TYPES.includes(it.type)) err(file, `${where}: type ${it.type}`);
-    else counts[it.type]++;
-    if (!POS.includes(it.pos)) err(file, `${where}: pos ${it.pos}`);
-    if (!(relaxed ? ALL_LEVELS : L.levels).includes(it.level)) err(file, `${where}: level ${it.level} (dozwolone ${L.levels.join(', ')})`);
-    else levels[it.level] = (levels[it.level] || 0) + 1;
-    if (!isStr(it.ipa) || !/^\/[^/]+\/$/.test(it.ipa.trim())) err(file, `${where}: ipa w ukośnikach /…/`);
-    for (const f of ['pl', 'def', 'example', 'examplePl']) {
-      if (!isStr(it[f])) err(file, `${where}: brak ${f}`);
-      checkBadText(file, `${where}.${f}`, it[f]);
-    }
-    if (isStr(it.example)) {
-      const ms = marks(it.example);
-      if (ms.length !== 1) err(file, `${where}: example musi mieć dokładnie jeden znacznik {{…}} (jest ${ms.length})`);
-      else if (ms[0].id) err(file, `${where}: znacznik w example bez |id`);
-      const n = words(stripMarks(it.example));
-      if (!relaxed && !inRange(n, L.exampleWords)) err(file, `${where}: example ma ${n} słów (dozwolone ${rangeText(L.exampleWords)})`);
-      if (/_{3,}/.test(it.example)) err(file, `${where}: example nie może zawierać ___`);
-    }
-    if (isStr(it.def) && isStr(it.term) && it.type === 'word') {
-      const re = new RegExp(`\\b${it.term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
-      if (re.test(it.def)) warn(file, `${where}: definicja zawiera samo hasło`);
-    }
-    if (!isArr(it.collocations) || it.collocations.length > 3 || it.collocations.some((c) => !isStr(c))) err(file, `${where}: collocations: lista 0–3 tekstów`);
-    else if (it.collocations.length === 0 && it.type === 'word') err(file, `${where}: collocations puste (dla type "word" wymagane 1–3)`);
-    if (it.family !== undefined && (!isArr(it.family) || it.family.length > 4 || it.family.some((c) => !isStr(c)))) err(file, `${where}: family: lista do 4 tekstów`);
-    if (it.note !== undefined && !isStr(it.note)) err(file, `${where}: note pusty – usuń pole`);
-    const known = ['id', 'term', 'type', 'pos', 'level', 'ipa', 'pl', 'def', 'example', 'examplePl', 'collocations', 'family', 'note'];
-    for (const k of Object.keys(it)) if (!known.includes(k)) err(file, `${where}: nieznane pole ${k}`);
+    checkItem(file, where, it, L.levels, L.exampleWords, counts, levels);
   });
   if (!relaxed) {
     for (const t of TYPES) {
@@ -539,6 +545,60 @@ function validateDir(dir, program, label) {
   if (requireAll) for (let wk = 1; wk <= total; wk++) if (!present.has(wk)) err(`w${pad(wk)}`, 'brak tygodnia');
 }
 
+
+// --- specialist vocabulary packs (data/packs.json, data/packs/<id>.json) ---
+function validatePacks(onlyPack) {
+  const catalogPath = join(root, 'data', 'packs.json');
+  if (!existsSync(catalogPath)) return;
+  prefix = '[pakiety] ';
+  let catalog;
+  try {
+    catalog = JSON.parse(readFileSync(catalogPath, 'utf8'));
+  } catch (e) {
+    return err('packs.json', `niepoprawny JSON: ${e.message}`);
+  }
+  if (!isArr(catalog.packs)) return err('packs.json', 'brak listy packs');
+  const seenAcross = new Map();
+  for (const meta of catalog.packs) {
+    for (const f of ['id', 'titlePl', 'levelPl', 'rangeLabel', 'descPl']) if (!isStr(meta[f])) err('packs.json', `${meta.id ?? '?'}: brak ${f}`);
+    if (!/^[a-z][a-z0-9]{1,15}$/.test(meta.id ?? '')) { err('packs.json', `id „${meta.id}”: małe litery i cyfry`); continue; }
+    if (!isArr(meta.levels) || meta.levels.some((l) => !ALL_LEVELS.includes(l))) err('packs.json', `${meta.id}: levels`);
+    if (onlyPack && meta.id !== onlyPack) continue;
+    const file = `${meta.id}.json`;
+    const data = readJson(join(root, 'data', 'packs'), file);
+    if (data === null) { err(file, 'brak pliku'); continue; }
+    if (!data) continue;
+    checked++;
+    if (data.id !== meta.id) err(file, `id = ${data.id}, oczekiwano ${meta.id}`);
+    if (!isArr(data.sets)) { err(file, 'brak sets'); continue; }
+    if (!relaxed && data.sets.length !== meta.sets) err(file, `sets: ${data.sets.length}, oczekiwano ${meta.sets}`);
+    const seen = new Set();
+    let n = 0;
+    data.sets.forEach((set, si) => {
+      const sw = `sets[${si}]`;
+      if (set.n !== si + 1) err(file, `${sw}: n = ${set.n}, oczekiwano ${si + 1}`);
+      if (!isStr(set.titlePl) || !isStr(set.titleEn)) err(file, `${sw}: titlePl i titleEn wymagane`);
+      if (!isArr(set.items)) return err(file, `${sw}: brak items`);
+      if (!relaxed && set.items.length !== meta.setSize) err(file, `${sw}: ${set.items.length} haseł, oczekiwano ${meta.setSize}`);
+      set.items.forEach((it, ii) => {
+        n++;
+        const where = `${sw}.items[${ii}] (${it?.term ?? '?'})`;
+        const expectId = `${meta.id}-${String(n).padStart(3, '0')}`;
+        if (it.id !== expectId) err(file, `${where}: id = ${it.id}, oczekiwano ${expectId}`);
+        if (isStr(it.term)) {
+          if (/^to\s/i.test(it.term)) err(file, `${where}: term bez „to”`);
+          const nt = normTerm(it.term);
+          if (seen.has(nt)) err(file, `${where}: hasło powtórzone w pakiecie`);
+          else if (seenAcross.has(nt)) err(file, `${where}: hasło jest już w pakiecie ${seenAcross.get(nt)}`);
+          seen.add(nt);
+        } else err(file, `${where}: brak term`);
+        checkItem(file, where, it, meta.levels ?? ALL_LEVELS, [6, 28]);
+      });
+    });
+    for (const t of seen) seenAcross.set(t, meta.id);
+  }
+}
+
 // --- main ---
 const loadProgram = (path) => {
   if (!existsSync(path)) return null;
@@ -550,7 +610,9 @@ const loadProgram = (path) => {
   }
 };
 
-if (opt('--dir')) {
+if (opt('--pack')) {
+  validatePacks(opt('--pack'));
+} else if (opt('--dir')) {
   const dir = resolve(opt('--dir'));
   const programPath = opt('--program') ? resolve(opt('--program')) : join(dir, '..', 'program.json');
   validateDir(dir, loadProgram(programPath), '');
@@ -573,6 +635,7 @@ if (opt('--dir')) {
     const hasFiles = existsSync(dir) && readdirSync(dir).some((f) => /^w\d{2}-/.test(f));
     if (hasFiles || onlyWeek || requireAll) validateDir(dir, program, id);
   }
+  if (!opt('--course')) validatePacks(null);
 }
 
 console.log(`\nSprawdzono plików: ${checked}. Błędy: ${errors}. Uwagi: ${warnings}.`);

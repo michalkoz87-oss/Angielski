@@ -3,7 +3,8 @@
 
 let courseId = null;
 const cache = new Map(); // path -> Promise<json>
-const items = new Map(); // "<course>/<itemId>" -> item
+const items = new Map(); // "<course>/<itemId>" or "pack/<itemId>" -> item
+const packMeta = new Map(); // itemId -> {packId, set, setTitlePl}
 
 function base() {
   if (typeof globalThis.__DATA_BASE__ === 'string') return globalThis.__DATA_BASE__;
@@ -75,8 +76,43 @@ export async function loadVocabRange(from, to, course = courseId) {
 }
 
 export function itemById(id, course = courseId) {
-  return items.get(`${course}/${id}`) ?? null;
+  return items.get(`${course}/${id}`) ?? items.get(`pack/${id}`) ?? null;
 }
+
+// ---------------------------------------------------------------- specialist vocabulary packs
+
+/** The pack catalogue (data/packs.json), or [] when there is none. */
+export async function loadPackCatalog() {
+  try {
+    const data = await getJson('packs.json');
+    return [...(data.packs ?? [])].sort((a, b) => a.order - b.order);
+  } catch {
+    return [];
+  }
+}
+
+/** One pack: {id, sets, items} with items in learning order (all sets flattened). */
+export async function loadPack(id) {
+  const data = await getJson(`packs/${id}.json`);
+  const flat = [];
+  for (const set of data.sets ?? []) {
+    for (const it of set.items ?? []) {
+      items.set(`pack/${it.id}`, it);
+      packMeta.set(it.id, { packId: id, set: set.n, setTitlePl: set.titlePl });
+      flat.push(it);
+    }
+  }
+  return { id, sets: data.sets ?? [], items: flat };
+}
+
+/** 'ppoz1' for 'ppoz1-042'; null for course items. */
+export function packOfItem(id) {
+  const m = /^([a-z][a-z0-9]{1,15})-\d{3}$/.exec(id ?? '');
+  return m ? m[1] : null;
+}
+
+/** {packId, set, setTitlePl} of a loaded pack item, or null. */
+export const packInfo = (id) => packMeta.get(id) ?? null;
 
 export function weekOfItem(id) {
   const m = /^w(\d{2})-/.exec(id ?? '');

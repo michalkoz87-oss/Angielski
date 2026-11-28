@@ -143,6 +143,26 @@ export async function render(root, ctx) {
     }
   }
 
+  const packs = model.enabledPacks();
+  if (packs.length) {
+    const catalog = await content.loadPackCatalog();
+    const rows = [];
+    for (const meta of catalog.filter((p) => packs.includes(p.id))) {
+      const total = meta.sets * meta.setSize;
+      const known = model.packCardStates(meta.id).size;
+      const left = Math.min(Math.max(0, (model.packSettings()[meta.id]?.newPerDay ?? 5) - model.packIntroducedToday(meta.id)), total - known);
+      rows.push(h('div', { class: 'pack-row' },
+        h('div', { class: 'pack-row__body' },
+          h('p', { class: 'pack-row__title' }, `${meta.titlePl} · ${meta.levelPl}`),
+          h('p', { class: 'muted small num' }, known >= total ? `Wszystkie ${total} haseł poznane` : `Poznane ${known} z ${total}`),
+          ui.progressBar((known / total) * 100, { thin: true, label: `${meta.titlePl}, ${meta.levelPl}: postęp` })),
+        left > 0
+          ? ui.button({ label: `Nowe słowa (${left})`, size: 'sm', id: `pack-learn-${meta.id}`, onClick: () => ctx.navigate('nauka', { mode: 'pack', pack: meta.id }) })
+          : h('span', { class: 'muted small' }, known >= total ? 'ukończony' : 'na dziś gotowe')));
+    }
+    if (rows.length) blocks.push(ui.section({ title: 'Słownictwo specjalistyczne' }, h('div', { class: 'stack' }, rows)));
+  }
+
   if (due > 0) {
     blocks.push(ui.section({ title: 'Powtórki' },
       h('p', { class: 'muted' }, `${ui.count(due, 'słowo czeka', 'słowa czekają', 'słów czeka')} na powtórkę. To kilka minut, które decydują o tym, ile zostaje w pamięci.`),
