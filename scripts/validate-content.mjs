@@ -566,7 +566,11 @@ function validatePacks(onlyPack) {
     if (onlyPack && meta.id !== onlyPack) continue;
     const file = `${meta.id}.json`;
     const data = readJson(join(root, 'data', 'packs'), file);
-    if (data === null) { err(file, 'brak pliku'); continue; }
+    if (data === null) {
+      if (meta.published === false) warn(file, 'pakiet w przygotowaniu (published: false), brak pliku');
+      else err(file, 'brak pliku');
+      continue;
+    }
     if (!data) continue;
     checked++;
     if (data.id !== meta.id) err(file, `id = ${data.id}, oczekiwano ${meta.id}`);

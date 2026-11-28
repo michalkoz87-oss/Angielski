@@ -1,0 +1,36 @@
+{
+  "packs": [
+    {
+      "id": "ppoz1",
+      "order": 1,
+      "titlePl": "Ochrona przeciwpożarowa",
+      "levelPl": "podstawowy",
+      "rangeLabel": "B1–B2",
+      "levels": [
+        "B1",
+        "B2"
+      ],
+      "descPl": "Słownictwo bezpieczeństwa pożarowego w pracy, w domu i w budynkach publicznych: pożar i jego przyczyny, alarm i ewakuacja, gaśnice i podręczny sprzęt gaśniczy, szkolenia, pierwsza pomoc.",
+      "forWhomPl": "Dla każdego, kto chce rozmawiać po angielsku o bezpieczeństwie pożarowym, oraz na start dla osób zawodowo związanych z ochroną przeciwpożarową.",
+      "sets": 10,
+      "setSize": 10,
+      "published": false
+    },
+    {
+      "id": "ppoz2",
+      "order": 2,
+      "titlePl": "Ochrona przeciwpożarowa",
+      "levelPl": "zaawansowany",
+      "rangeLabel": "B2–C1",
+      "levels": [
+        "B2",
+        "C1"
+      ],
+      "descPl": "Język zawodowy: odporność ogniowa i reakcja na ogień, strefy pożarowe, drogi ewakuacyjne, oddymianie, systemy sygnalizacji pożarowej i gaśnicze, inżynieria bezpieczeństwa pożarowego, przepisy, ekspertyzy i odbiory.",
+      "forWhomPl": "Dla projektantów, rzeczoznawców, inspektorów i zarządców budynków, którzy czytają normy, raporty i dokumentację po angielsku albo pracują z zagranicznymi partnerami.",
+      "sets": 15,
+      "setSize": 10,
+      "published": false
+    }
+  ]
+}

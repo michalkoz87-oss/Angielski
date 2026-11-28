@@ -85,7 +85,8 @@ export function itemById(id, course = courseId) {
 export async function loadPackCatalog() {
   try {
     const data = await getJson('packs.json');
-    return [...(data.packs ?? [])].sort((a, b) => a.order - b.order);
+    // A pack marked "published": false is still being written: hidden from learners.
+    return [...(data.packs ?? [])].filter((p) => p.published !== false).sort((a, b) => a.order - b.order);
   } catch {
     return [];
   }

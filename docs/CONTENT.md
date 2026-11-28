@@ -240,3 +240,4 @@ Pakiet to zestaw haseł z jednej dziedziny, który uczący się włącza w Ustaw
 - Każde hasło ma te same pola i zasady co w `wNN-vocab.json` (wyżej). Przykład: 6–28 słów. Rzeczowniki złożone (`fire extinguisher`, `escape route`) mają `type: "word"`, `pos: "n"`.
 - Hasło nie może się powtarzać w pakiecie ani między pakietami (walidator to sprawdza).
 - Sprawdzenie: `node scripts/validate-content.mjs --pack ppoz1`.
+- Pakiet z `"published": false` w `data/packs.json` jest w przygotowaniu: aplikacja go nie pokazuje, a walidator sprawdza go, jeśli plik istnieje.
