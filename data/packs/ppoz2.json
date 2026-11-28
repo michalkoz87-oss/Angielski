@@ -1,0 +1,2736 @@
+{
+  "id": "ppoz2",
+  "sets": [
+    {
+      "n": 1,
+      "titlePl": "Rozwój pożaru",
+      "titleEn": "Fire behaviour",
+      "items": [
+        {
+          "id": "ppoz2-001",
+          "term": "ignition",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ɪɡˈnɪʃn/",
+          "pl": "zapłon, zapalenie się",
+          "def": "the moment when a material starts to burn, or the process that causes this",
+          "example": "The investigation concluded that {{ignition}} was most likely caused by an overheated extension lead in the store room.",
+          "examplePl": "W wyniku dochodzenia ustalono, że do zapłonu najprawdopodobniej doszło od przegrzanego przedłużacza w pomieszczeniu magazynowym.",
+          "collocations": [
+            "source of ignition",
+            "piloted ignition",
+            "auto-ignition"
+          ],
+          "note": "*Source of ignition* to *źródło zapłonu*. *Piloted ignition* – zapłon od zewnętrznego źródła (płomienia, iskry), *auto-ignition* – samozapłon."
+        },
+        {
+          "id": "ppoz2-002",
+          "term": "combustion",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/kəmˈbʌstʃən/",
+          "pl": "spalanie",
+          "def": "the chemical process in which a substance reacts with oxygen and gives off heat and usually light",
+          "example": "Incomplete {{combustion}} in a poorly ventilated room produces large quantities of carbon monoxide and dense smoke.",
+          "examplePl": "Niecałkowite spalanie w słabo wentylowanym pomieszczeniu powoduje powstawanie dużych ilości tlenku węgla i gęstego dymu.",
+          "collocations": [
+            "incomplete combustion",
+            "products of combustion",
+            "heat of combustion"
+          ],
+          "note": "*Combustion* to proces; *combustible* (palny) i *non-combustible* (niepalny) to cechy materiału. W mowie potocznej zamiast *combustion* mówi się po prostu *burning*."
+        },
+        {
+          "id": "ppoz2-003",
+          "term": "heat release rate",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈhiːt rɪˌliːs ˌreɪt/",
+          "pl": "szybkość wydzielania ciepła, moc pożaru",
+          "def": "the amount of heat energy a fire gives off per second, usually given in kilowatts or megawatts",
+          "example": "The smoke control calculations assume a peak {{heat release rate}} for a sprinkler-controlled fire in the retail unit.",
+          "examplePl": "Obliczenia systemu oddymiania zakładają maksymalną moc pożaru kontrolowanego przez instalację tryskaczową w lokalu handlowym.",
+          "collocations": [
+            "peak heat release rate",
+            "design heat release rate",
+            "HRR curve"
+          ],
+          "note": "Skrót *HRR*, jednostka kW lub MW. Nie mylić z obciążeniem ogniowym (*fire load*), które jest energią (MJ), a nie mocą."
+        },
+        {
+          "id": "ppoz2-004",
+          "term": "flashover",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈflæʃəʊvə/",
+          "pl": "rozgorzenie",
+          "def": "the sudden stage of a room fire when almost all exposed combustible surfaces start burning at the same time",
+          "example": "Once {{flashover}} occurs, the fire involves the whole room and anyone still inside is unlikely to survive.",
+          "examplePl": "Po wystąpieniu rozgorzenia pożar obejmuje całe pomieszczenie, a osoby, które w nim pozostały, mają niewielkie szanse na przeżycie.",
+          "collocations": [
+            "reach flashover",
+            "post-flashover fire",
+            "prevent flashover"
+          ],
+          "note": "Polski termin to *rozgorzenie*. Nie mylić z *backdraught* (wsteczny ciąg płomieni), który wymaga nagłego dopływu powietrza do pomieszczenia z niedoborem tlenu."
+        },
+        {
+          "id": "ppoz2-005",
+          "term": "backdraught",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈbækdrɑːft/",
+          "pl": "wsteczny ciąg płomieni, backdraft",
+          "def": "a sudden explosive burning of hot gases when air rushes into a closed space where a fire has been starved of oxygen",
+          "example": "Crews were warned of a possible {{backdraught}} because the windows were blackened and smoke was pulsing around the door.",
+          "examplePl": "Zastępy ostrzeżono przed możliwym wstecznym ciągiem płomieni, ponieważ szyby były okopcone, a dym pulsował wokół drzwi.",
+          "collocations": [
+            "risk of backdraught",
+            "signs of backdraught"
+          ],
+          "note": "Pisownia brytyjska *backdraught*, amerykańska *backdraft*. W polskiej praktyce straży pożarnej mówi się *wsteczny ciąg płomieni* albo po prostu *backdraft*."
+        },
+        {
+          "id": "ppoz2-006",
+          "term": "fire growth",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪə ɡrəʊθ/",
+          "pl": "rozwój pożaru",
+          "def": "the increase in the size and heat output of a fire over time before it reaches full intensity",
+          "example": "An ultra-fast {{fire growth}} rate was assumed for the warehouse because of the high-racked plastic goods.",
+          "examplePl": "Dla magazynu przyjęto bardzo szybki rozwój pożaru ze względu na wysokie składowanie towarów z tworzyw sztucznych na regałach.",
+          "collocations": [
+            "fire growth rate",
+            "t-squared fire growth",
+            "slow, medium, fast or ultra-fast growth"
+          ],
+          "note": "W inżynierii bezpieczeństwa pożarowego rozwój pożaru opisuje się często krzywą *t-squared* (moc rośnie z kwadratem czasu), w kategoriach *slow, medium, fast, ultra-fast*."
+        },
+        {
+          "id": "ppoz2-007",
+          "term": "smoke layer",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈsməʊk ˌleɪə/",
+          "pl": "warstwa dymu",
+          "def": "the hot mass of smoke that collects under the ceiling during a fire and moves down as more smoke is produced",
+          "example": "The calculations show that the {{smoke layer}} remains well above head height until all occupants have left the mall.",
+          "examplePl": "Obliczenia wykazują, że warstwa dymu utrzymuje się wyraźnie powyżej wysokości głów, dopóki wszystkie osoby nie opuszczą pasażu.",
+          "collocations": [
+            "smoke layer height",
+            "clear layer",
+            "smoke layer temperature"
+          ],
+          "note": "Przestrzeń pod warstwą dymu to *clear layer* lub *smoke-free layer*; po polsku *warstwa wolna od dymu*."
+        },
+        {
+          "id": "ppoz2-008",
+          "term": "fully developed fire",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌfʊli dɪˌveləpt ˈfaɪə/",
+          "pl": "pożar w pełni rozwinięty",
+          "def": "the stage of a fire after flashover, when it burns at its maximum rate, limited by the fuel or the air available",
+          "example": "The structure must withstand a {{fully developed fire}} long enough for firefighters to complete search and rescue.",
+          "examplePl": "Konstrukcja musi wytrzymać pożar w pełni rozwinięty wystarczająco długo, aby strażacy mogli zakończyć poszukiwania i ratowanie ludzi.",
+          "collocations": [
+            "post-flashover, fully developed fire",
+            "fully developed compartment fire"
+          ],
+          "note": "Fazy pożaru: *ignition, growth, flashover, fully developed fire, decay*. Standardowa krzywa temperatura–czas stosowana w badaniach odporności ogniowej odwzorowuje warunki pożaru w pełni rozwiniętego."
+        },
+        {
+          "id": "ppoz2-009",
+          "term": "decay phase",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/dɪˈkeɪ feɪz/",
+          "pl": "faza wygasania (pożaru)",
+          "def": "the final stage of a fire, when its heat output falls because the fuel is running out or the air supply is reduced",
+          "example": "Steel connections can still fail during the {{decay phase}}, as the structure cools and contracts.",
+          "examplePl": "Połączenia stalowe mogą ulec zniszczeniu także w fazie wygasania pożaru, gdy konstrukcja stygnie i się kurczy.",
+          "collocations": [
+            "cooling phase",
+            "enter the decay phase"
+          ],
+          "note": "Spotyka się też nazwę *cooling phase*. Samo *decay* w innych kontekstach oznacza rozkład lub próchnienie."
+        },
+        {
+          "id": "ppoz2-010",
+          "term": "fire load density",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪə ləʊd ˌdensəti/",
+          "pl": "gęstość obciążenia ogniowego",
+          "def": "the total heat energy that could be released by burning all combustible materials in a space, divided by its floor area",
+          "example": "The archive has a very high {{fire load density}} because of the paper records stored on mobile shelving.",
+          "examplePl": "Archiwum ma bardzo dużą gęstość obciążenia ogniowego ze względu na dokumentację papierową składowaną na regałach przesuwnych.",
+          "collocations": [
+            "fire load density in MJ/m²",
+            "design fire load density"
+          ],
+          "note": "*Fire load* to energia całkowita (MJ), *fire load density* – w przeliczeniu na m². W Polsce gęstość obciążenia ogniowego decyduje m.in. o wymaganiach dla budynków PM; w brytyjskim ADB podział opiera się na grupach przeznaczenia (*purpose groups*), a pojęcie to pojawia się głównie w analizach inżynierskich, np. wg Eurokodu EN 1991-1-2."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titlePl": "Reakcja na ogień",
+      "titleEn": "Reaction to fire",
+      "items": [
+        {
+          "id": "ppoz2-011",
+          "term": "reaction to fire",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/riˌækʃn tə ˈfaɪə/",
+          "pl": "reakcja na ogień",
+          "def": "the way a material or product behaves when exposed to fire, especially how much it adds to the fire's early growth",
+          "example": "The specification requires every layer of the external wall to have a {{reaction to fire}} classification of A2-s1, d0 or better.",
+          "examplePl": "Specyfikacja wymaga, aby każda warstwa ściany zewnętrznej miała klasę reakcji na ogień A2-s1, d0 lub lepszą.",
+          "collocations": [
+            "reaction to fire classification",
+            "reaction to fire performance"
+          ],
+          "note": "Odpowiada polskiej *reakcji na ogień* (PN-EN 13501-1). Nie mylić z *fire resistance* (odporność ogniowa): reakcja na ogień dotyczy wyrobu i jego udziału w rozwoju pożaru, odporność ogniowa – elementu budynku i czasu, przez jaki spełnia on kryteria."
+        },
+        {
+          "id": "ppoz2-012",
+          "term": "Euroclass",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈjʊərəʊklɑːs/",
+          "pl": "euroklasa (klasa reakcji na ogień)",
+          "def": "one of the European categories, from A1 to F, used to rate how a construction product reacts to fire",
+          "example": "The data sheet states that the board achieves {{Euroclass}} B-s1, d0 when fixed to a non-combustible substrate.",
+          "examplePl": "Według karty technicznej płyta uzyskuje euroklasę B-s1, d0 po zamocowaniu do niepalnego podłoża.",
+          "collocations": [
+            "achieve Euroclass A2",
+            "Euroclass rating"
+          ],
+          "note": "Klasy główne A1, A2, B, C, D, E, F oraz klasyfikacja dodatkowa *s* (dym) i *d* (płonące krople); dla posadzek indeks *fl* (np. Bfl-s1). W starszych brytyjskich dokumentach spotyka się klasy krajowe oparte na badaniach wg BS 476 (np. *Class 0*, *Class 1*) – nie są one bezpośrednio równoważne euroklasom."
+        },
+        {
+          "id": "ppoz2-013",
+          "term": "non-combustible",
+          "type": "word",
+          "pos": "adj",
+          "level": "C1",
+          "ipa": "/ˌnɒn kəmˈbʌstəbl/",
+          "pl": "niepalny",
+          "def": "not able to burn or add to a fire; describing the highest level of reaction-to-fire performance",
+          "example": "The fire engineer insisted that the cavity insulation be {{non-combustible}}, so the mineral wool option was chosen.",
+          "examplePl": "Inżynier ds. bezpieczeństwa pożarowego nalegał, aby izolacja w pustce była niepalna, dlatego wybrano wariant z wełną mineralną.",
+          "collocations": [
+            "non-combustible material",
+            "non-combustible substrate"
+          ],
+          "note": "Nie pokrywa się dokładnie z polskim *niepalny*: w polskiej klasyfikacji (załącznik do rozporządzenia o warunkach technicznych) do niepalnych zalicza się klasę A1 i klasy A2, z zastrzeżeniami co do klas dodatkowych, a w brytyjskim ADB *non-combustible* to w zasadzie tylko klasa A1, natomiast A2 to *limited combustibility*. W tłumaczeniu specyfikacji najlepiej podawać euroklasę."
+        },
+        {
+          "id": "ppoz2-014",
+          "term": "limited combustibility",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌlɪmɪtɪd kəmˌbʌstəˈbɪləti/",
+          "pl": "ograniczona palność (materiał o ograniczonej palności)",
+          "def": "a reaction-to-fire category just below the highest one, for materials that add very little heat to a fire",
+          "example": "Insulation within the riser is specified as a material of {{limited combustibility}} to satisfy the fire strategy.",
+          "examplePl": "Izolację w szachcie instalacyjnym określono jako materiał o ograniczonej palności, zgodnie ze strategią pożarową.",
+          "collocations": [
+            "material of limited combustibility",
+            "limited combustibility or better"
+          ],
+          "note": "Kategoria z brytyjskich wytycznych (ADB), w praktyce odpowiadająca euroklasie A2. W polskich przepisach nie ma takiej kategorii – wyroby te są tu zwykle *niepalne*."
+        },
+        {
+          "id": "ppoz2-015",
+          "term": "flame spread",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfleɪm spred/",
+          "pl": "rozprzestrzenianie się płomienia (po powierzchni)",
+          "def": "the movement of flames across the surface of a material",
+          "example": "Linings in the escape corridor must limit {{flame spread}} so that the route stays usable while people leave.",
+          "examplePl": "Okładziny na korytarzu ewakuacyjnym muszą ograniczać rozprzestrzenianie się płomienia, aby droga pozostała użyteczna podczas ewakuacji.",
+          "collocations": [
+            "surface spread of flame",
+            "rate of flame spread",
+            "lateral flame spread"
+          ],
+          "note": "Dawne brytyjskie określenie z norm BS 476: *surface spread of flame*. Nie mylić z polskim *nierozprzestrzenianie ognia (NRO)* – to klasyfikacja elementów budynku (np. ścian zewnętrznych, dachów), a nie samo zjawisko."
+        },
+        {
+          "id": "ppoz2-016",
+          "term": "smoke production",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈsməʊk prəˌdʌkʃn/",
+          "pl": "wytwarzanie dymu",
+          "def": "the amount of smoke a product gives off when it burns, shown in European classification by the classes s1, s2 and s3",
+          "example": "The architect chose a lining board with low {{smoke production}}, classified s1, for the walls of the atrium.",
+          "examplePl": "Architekt wybrał na ściany atrium płytę okładzinową o małym wytwarzaniu dymu, sklasyfikowaną jako s1.",
+          "collocations": [
+            "smoke production class",
+            "low smoke production"
+          ],
+          "note": "W PN-EN 13501-1: *s1* – małe wytwarzanie dymu, *s2* – średnie, *s3* – brak ograniczeń."
+        },
+        {
+          "id": "ppoz2-017",
+          "term": "flaming droplets",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌfleɪmɪŋ ˈdrɒpləts/",
+          "pl": "płonące krople (i cząstki)",
+          "def": "small burning pieces of melted material that fall from a product during a fire",
+          "example": "The d0 class confirms that the membrane produced no {{flaming droplets}} during testing.",
+          "examplePl": "Klasa d0 potwierdza, że membrana nie wytwarzała płonących kropli podczas badań.",
+          "collocations": [
+            "flaming droplets/particles",
+            "d0, d1, d2 classification"
+          ],
+          "note": "Pełna nazwa w normie: *flaming droplets/particles*. Klasyfikacja dodatkowa *d0* (brak), *d1*, *d2* wg PN-EN 13501-1."
+        },
+        {
+          "id": "ppoz2-018",
+          "term": "cladding",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈklædɪŋ/",
+          "pl": "okładzina elewacyjna, obudowa ściany zewnętrznej",
+          "def": "an outer layer of panels or other material fixed to a building's structure to protect it or improve its appearance",
+          "example": "The survey found that the aluminium composite material {{cladding}} on the upper floors had a polyethylene core.",
+          "examplePl": "Inwentaryzacja wykazała, że okładzina z płyt kompozytowych aluminiowych na wyższych kondygnacjach ma rdzeń polietylenowy.",
+          "collocations": [
+            "rainscreen cladding",
+            "cladding system",
+            "cladding remediation"
+          ],
+          "note": "Po pożarze Grenfell Tower (2017) *cladding* stało się w UK hasłem politycznym i prawnym (np. *cladding remediation*). Ocieplenie typu ETICS to po angielsku zwykle *external wall insulation (EWI)* lub *render system*, a nie *cladding*."
+        },
+        {
+          "id": "ppoz2-019",
+          "term": "combustible insulation",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/kəmˌbʌstəbl ˌɪnsjuˈleɪʃn/",
+          "pl": "izolacja palna, palny materiał izolacyjny",
+          "def": "heat-insulating material, such as some plastic foams, that can burn and add to a fire",
+          "example": "The intrusive survey revealed {{combustible insulation}} behind the render, with no cavity barriers at floor level.",
+          "examplePl": "Badanie inwazyjne ujawniło palną izolację pod tynkiem i brak przegród w pustce na poziomie stropów.",
+          "collocations": [
+            "replace combustible insulation",
+            "PIR or PUR insulation"
+          ],
+          "note": "Np. płyty PIR, PUR, EPS. Słowo *insulation* ma w ochronie ppoż. dwa znaczenia: izolacja cieplna (materiał) oraz *izolacyjność ogniowa* (kryterium I w klasyfikacji odporności ogniowej)."
+        },
+        {
+          "id": "ppoz2-020",
+          "term": "fire retardant",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪə rɪˌtɑːdnt/",
+          "pl": "środek ogniochronny, impregnat ogniochronny",
+          "def": "a chemical added to or applied to a material to make it harder to ignite and to slow the spread of flame",
+          "example": "The timber battens have been pressure-impregnated with a {{fire retardant}} to improve their reaction to fire class.",
+          "examplePl": "Łaty drewniane zaimpregnowano ciśnieniowo środkiem ogniochronnym w celu poprawy ich klasy reakcji na ogień.",
+          "collocations": [
+            "fire-retardant treated timber",
+            "fire-retardant coating"
+          ],
+          "note": "Impregnacja ogniochronna poprawia reakcję na ogień, ale nie czyni materiału niepalnym i nie nadaje elementowi odporności ogniowej. W chemii materiałów częściej mówi się *flame retardant* (uniepalniacz)."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "titlePl": "Odporność ogniowa",
+      "titleEn": "Fire resistance",
+      "items": [
+        {
+          "id": "ppoz2-021",
+          "term": "fire resistance",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪə rɪˌzɪstəns/",
+          "pl": "odporność ogniowa",
+          "def": "the ability of a building element to keep performing its function, such as carrying loads or containing fire, for a stated time in a standard fire test",
+          "example": "The steel frame will be protected to achieve 90 minutes' {{fire resistance}}, in line with the structural fire design.",
+          "examplePl": "Szkielet stalowy zostanie zabezpieczony tak, aby uzyskać odporność ogniową 90 minut, zgodnie z projektem konstrukcji na warunki pożarowe.",
+          "collocations": [
+            "achieve 60 minutes' fire resistance",
+            "period of fire resistance",
+            "fire resistance rating"
+          ],
+          "note": "W dokumentach brytyjskich klasę podaje się często słownie (*60 minutes' fire resistance*) albo symbolem (*REI 60*). Polska *klasa odporności pożarowej budynku* (A–E) nie ma odpowiednika w UK. W USA: *fire-resistance rating*, np. *two-hour rated wall*."
+        },
+        {
+          "id": "ppoz2-022",
+          "term": "loadbearing capacity",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈləʊdbeərɪŋ kəˌpæsəti/",
+          "pl": "nośność ogniowa (R)",
+          "def": "the ability of a structural element to support its load during a fire test without collapsing or deforming beyond set limits",
+          "example": "The beams are classified for {{loadbearing capacity}} only, so the classification report shows R 60 rather than REI 60.",
+          "examplePl": "Belki są klasyfikowane wyłącznie pod względem nośności ogniowej, dlatego raport z klasyfikacji podaje R 60, a nie REI 60.",
+          "collocations": [
+            "loadbearing capacity (R)",
+            "loss of loadbearing capacity"
+          ],
+          "note": "Litera *R* (od fr. *résistance*). Pisownia brytyjska zwykle *loadbearing* lub *load-bearing*."
+        },
+        {
+          "id": "ppoz2-023",
+          "term": "integrity",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ɪnˈteɡrəti/",
+          "pl": "szczelność ogniowa (E)",
+          "def": "the ability of a separating element to stop flames and hot gases passing through to the side away from the fire",
+          "example": "The door failed on {{integrity}} after 24 minutes, when flaming appeared at the head of the frame.",
+          "examplePl": "Drzwi utraciły szczelność ogniową po 24 minutach, gdy w górnej części ościeżnicy pojawił się płomień.",
+          "collocations": [
+            "integrity (E)",
+            "fail on integrity",
+            "integrity failure"
+          ],
+          "note": "Fałszywy przyjaciel: w ogólnym angielskim *integrity* to uczciwość lub nienaruszalność. W klasyfikacji odporności ogniowej zawsze *szczelność ogniowa*, litera *E* (od fr. *étanchéité*)."
+        },
+        {
+          "id": "ppoz2-024",
+          "term": "insulation",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌɪnsjuˈleɪʃn/",
+          "pl": "izolacyjność ogniowa (I)",
+          "def": "the ability of a separating element to limit the temperature rise on the side away from the fire",
+          "example": "The glazed screen meets the integrity criterion but not {{insulation}}, so it is classified E 30 rather than EI 30.",
+          "examplePl": "Przeszklona ścianka spełnia kryterium szczelności ogniowej, ale nie izolacyjności, dlatego ma klasę E 30, a nie EI 30.",
+          "collocations": [
+            "integrity and insulation (EI)",
+            "insulation criterion",
+            "fail on insulation"
+          ],
+          "note": "Jako kryterium odporności ogniowej *insulation* to *izolacyjność ogniowa*, a nie izolacja cieplna. Szkło klasy E nie ogranicza promieniowania cieplnego; służą do tego klasy EW (ograniczenie promieniowania) i EI."
+        },
+        {
+          "id": "ppoz2-025",
+          "term": "fire-rated",
+          "type": "word",
+          "pos": "adj",
+          "level": "C1",
+          "ipa": "/ˈfaɪə ˌreɪtɪd/",
+          "pl": "o określonej klasie odporności ogniowej",
+          "def": "tested and classified as able to resist fire for a stated period",
+          "example": "All service penetrations through the {{fire-rated}} plasterboard wall must be sealed with a tested system.",
+          "examplePl": "Wszystkie przejścia instalacyjne przez ścianę z płyt gipsowo-kartonowych o określonej klasie odporności ogniowej muszą być uszczelnione systemem z badaniami.",
+          "collocations": [
+            "fire-rated door",
+            "fire-rated glazing",
+            "fire-rated downlight"
+          ],
+          "note": "Określenie częste w handlu i na budowie; w dokumentach lepiej podać klasę, np. *EI 60*. Słowo *fireproof* sugeruje całkowitą odporność na ogień i w tekstach fachowych jest unikane."
+        },
+        {
+          "id": "ppoz2-026",
+          "term": "intumescent",
+          "type": "word",
+          "pos": "adj",
+          "level": "C1",
+          "ipa": "/ˌɪntjuˈmesnt/",
+          "pl": "pęczniejący (pod wpływem temperatury)",
+          "def": "swelling up when heated to form a thick layer of char that protects what lies beneath",
+          "example": "Thin-film {{intumescent}} coatings will be applied to the exposed steel columns in the entrance hall.",
+          "examplePl": "Na odsłonięte słupy stalowe w holu wejściowym zostaną nałożone cienkowarstwowe powłoki pęczniejące.",
+          "collocations": [
+            "intumescent coating",
+            "intumescent seal",
+            "intumescent pillow"
+          ],
+          "note": "Po polsku *farba* lub *powłoka pęczniejąca*. *Intumescent strip* w drzwiach przeciwpożarowych to *uszczelka pęczniejąca*."
+        },
+        {
+          "id": "ppoz2-027",
+          "term": "encasement",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ɪnˈkeɪsmənt/",
+          "pl": "obudowa ogniochronna (np. płytowa, betonowa)",
+          "def": "a protective layer of boards, concrete or sprayed material placed around a structural member to protect it from heat",
+          "example": "Board {{encasement}} was chosen for the columns because a coating could not achieve the required period.",
+          "examplePl": "Dla słupów wybrano obudowę z płyt, ponieważ powłoka nie zapewniłaby wymaganego czasu odporności ogniowej.",
+          "collocations": [
+            "board encasement",
+            "concrete encasement",
+            "boxed protection"
+          ],
+          "note": "W brytyjskich katalogach ochrony konstrukcji stalowych rozróżnia się *boxed protection* (obudowa skrzynkowa) i *profile protection* (warstwa prowadzona wzdłuż kształtu profilu)."
+        },
+        {
+          "id": "ppoz2-028",
+          "term": "furnace test",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfɜːnɪs test/",
+          "pl": "badanie odporności ogniowej (w piecu)",
+          "def": "a test in which a full-size element is exposed in a large oven to a standard temperature–time curve to find how long it resists fire",
+          "example": "The door set passed a {{furnace test}} to BS EN 1634-1 in the configuration shown on the drawings.",
+          "examplePl": "Zestaw drzwiowy przeszedł badanie odporności ogniowej wg BS EN 1634-1 w konfiguracji pokazanej na rysunkach.",
+          "collocations": [
+            "full-scale furnace test",
+            "standard fire test",
+            "test specimen"
+          ],
+          "note": "Formalnie *fire resistance test*; *furnace test* to określenie potoczne. Wynik dotyczy konkretnej konfiguracji próbki – zmiany wymagają oceny w ramach *field of direct application* (zakres bezpośredniego stosowania wyników badań) lub *extended application*."
+        },
+        {
+          "id": "ppoz2-029",
+          "term": "classification report",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌklæsɪfɪˈkeɪʃn rɪˌpɔːt/",
+          "pl": "raport z klasyfikacji (ogniowej)",
+          "def": "a document from a test laboratory that states the fire performance class of a product, based on one or more test results",
+          "example": "Please send the {{classification report}} rather than the test report, as we need to confirm the EI 60 class and its field of application.",
+          "examplePl": "Prosimy o przesłanie raportu z klasyfikacji, a nie sprawozdania z badań, ponieważ musimy potwierdzić klasę EI 60 i zakres jej stosowania.",
+          "collocations": [
+            "classification report to EN 13501-2",
+            "issue a classification report"
+          ],
+          "note": "Różni się od *test report* (sprawozdanie z badań): to raport z klasyfikacji określa klasę wyrobu i zakres jej stosowania."
+        },
+        {
+          "id": "ppoz2-030",
+          "term": "structural fire protection",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌstrʌktʃərəl ˈfaɪə prəˌtekʃn/",
+          "pl": "ochrona ogniowa konstrukcji, zabezpieczenie ogniochronne konstrukcji",
+          "def": "materials or systems applied to the load-bearing frame of a building to slow its heating and loss of strength in a fire",
+          "example": "The cost plan includes {{structural fire protection}} to all steel beams and columns above ground level.",
+          "examplePl": "Kosztorys obejmuje zabezpieczenie ogniochronne wszystkich stalowych belek i słupów powyżej poziomu terenu.",
+          "collocations": [
+            "passive fire protection",
+            "structural fire protection specialist"
+          ],
+          "note": "Należy do *passive fire protection* (ochrona bierna: przegrody, zabezpieczenia konstrukcji), w odróżnieniu od *active fire protection* (instalacje: sygnalizacja, tryskacze, oddymianie)."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "titlePl": "Strefy pożarowe i oddzielenia",
+      "titleEn": "Compartmentation",
+      "items": [
+        {
+          "id": "ppoz2-031",
+          "term": "fire compartment",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪə kəmˌpɑːtmənt/",
+          "pl": "strefa pożarowa",
+          "def": "a part of a building enclosed by fire-resisting walls and floors to stop a fire spreading to other parts",
+          "example": "Each floor of the hotel forms a separate {{fire compartment}}, with lifts and services in protected shafts.",
+          "examplePl": "Każda kondygnacja hotelu stanowi odrębną strefę pożarową, a dźwigi i instalacje prowadzone są w wydzielonych szybach.",
+          "collocations": [
+            "maximum compartment size",
+            "breach compartmentation",
+            "compartment boundary"
+          ],
+          "note": "Odpowiednik polskiej *strefy pożarowej*, ale nie 1:1: w Polsce dopuszczalna wielkość strefy zależy od kategorii ZL, PM lub IN (dla PM także od gęstości obciążenia ogniowego), a w UK od grupy przeznaczenia (*purpose group*), wysokości budynku i obecności tryskaczy. Cały system podziału to *compartmentation*."
+        },
+        {
+          "id": "ppoz2-032",
+          "term": "compartment wall",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/kəmˈpɑːtmənt wɔːl/",
+          "pl": "ściana oddzielenia przeciwpożarowego",
+          "def": "a fire-resisting wall that divides a building into separate fire compartments",
+          "example": "The new doorway in the {{compartment wall}} needs a fire door whose fire resistance matches that of the wall.",
+          "examplePl": "Nowy otwór drzwiowy w ścianie oddzielenia przeciwpożarowego wymaga drzwi o odporności ogniowej dostosowanej do klasy ściany.",
+          "collocations": [
+            "breach a compartment wall",
+            "junction with a compartment wall"
+          ],
+          "note": "W brytyjskich budynkach mieszkalnych wielorodzinnych każde mieszkanie jest odrębnym *compartment*, więc ściany między mieszkaniami są *compartment walls*. W Polsce taki budynek często stanowi jedną strefę pożarową, a ściany międzymieszkaniowe nie są ścianami oddzielenia przeciwpożarowego."
+        },
+        {
+          "id": "ppoz2-033",
+          "term": "compartment floor",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/kəmˈpɑːtmənt flɔː/",
+          "pl": "strop oddzielenia przeciwpożarowego",
+          "def": "a fire-resisting floor that separates one fire compartment from the one above or below",
+          "example": "Every pipe passing through the {{compartment floor}} between the second and third storeys must be sealed to restore its fire resistance.",
+          "examplePl": "Każda rura przechodząca przez strop oddzielenia przeciwpożarowego między drugą a trzecią kondygnacją musi zostać uszczelniona w celu przywrócenia jego odporności ogniowej.",
+          "collocations": [
+            "compartment floor slab",
+            "penetrate a compartment floor"
+          ]
+        },
+        {
+          "id": "ppoz2-034",
+          "term": "fire separation",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪə ˌsepəˈreɪʃn/",
+          "pl": "oddzielenie przeciwpożarowe",
+          "def": "the use of fire-resisting construction to stop a fire in one part of a building, or in one building, from reaching another",
+          "example": "Adequate {{fire separation}} is required between the plant room and the rest of the basement car park.",
+          "examplePl": "Wymagane jest odpowiednie oddzielenie przeciwpożarowe między maszynownią a pozostałą częścią garażu podziemnego.",
+          "collocations": [
+            "provide fire separation",
+            "fire separation between different uses"
+          ],
+          "note": "W USA *fire separation distance* to odległość ściany budynku od granicy działki. W brytyjskim ADB odpowiednie zagadnienie to *space separation* (zapobieganie rozprzestrzenianiu się ognia między budynkami)."
+        },
+        {
+          "id": "ppoz2-035",
+          "term": "fire stopping",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪə ˌstɒpɪŋ/",
+          "pl": "uszczelnienie ogniochronne (szczelin i złączy)",
+          "def": "material used to seal gaps and joints in fire-resisting construction so that fire and smoke cannot pass through",
+          "example": "The inspection found missing {{fire stopping}} at the head of the compartment walls above the suspended ceiling.",
+          "examplePl": "Inspekcja wykazała brak uszczelnień ogniochronnych na styku ścian oddzielenia przeciwpożarowego ze stropem, powyżej sufitu podwieszonego.",
+          "collocations": [
+            "install fire stopping",
+            "inadequate fire stopping",
+            "fire-stopping materials"
+          ],
+          "note": "W ADB *fire stop* to uszczelnienie szczeliny lub złącza między elementami, a *penetration seal* – uszczelnienie przejścia instalacji; na budowie oba określenia bywają używane zamiennie. Pisownia także *firestopping*."
+        },
+        {
+          "id": "ppoz2-036",
+          "term": "penetration seal",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌpenəˈtreɪʃn siːl/",
+          "pl": "przepust instalacyjny, uszczelnienie przejścia instalacyjnego",
+          "def": "a tested product or system that restores the fire resistance of a wall or floor where pipes, cables or ducts pass through it",
+          "example": "Every {{penetration seal}} must be labelled and photographed before the ceiling is closed up.",
+          "examplePl": "Każde uszczelnienie przejścia instalacyjnego musi zostać oznakowane i sfotografowane przed zamknięciem sufitu.",
+          "collocations": [
+            "tested penetration seal",
+            "service penetration",
+            "inspect penetration seals"
+          ],
+          "note": "W Polsce *przepust instalacyjny* klasyfikuje się wg PN-EN 13501-2 (np. EI 60). Samo przejście instalacji przez przegrodę to po angielsku *service penetration*."
+        },
+        {
+          "id": "ppoz2-037",
+          "term": "cavity barrier",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈkævəti ˌbæriə/",
+          "pl": "przegroda ogniowa w pustce (przestrzeni ukrytej)",
+          "def": "a construction that closes a hidden space, such as a wall cavity or ceiling void, to stop smoke and flames spreading through it",
+          "example": "Open-state {{cavity barriers}} in the rainscreen must close when heated while keeping the ventilated cavity working.",
+          "examplePl": "Przegrody ogniowe typu otwartego w ścianie z okładziną wentylowaną muszą się zamykać pod wpływem temperatury, nie blokując wentylacji szczeliny.",
+          "collocations": [
+            "open-state cavity barrier",
+            "install cavity barriers",
+            "cavity barrier at floor level"
+          ],
+          "note": "Brak jednego polskiego odpowiednika; mówi się o *przegrodach ogniowych w pustkach* lub *barierach ogniowych w szczelinie wentylowanej*. W UK wymagane m.in. w pustkach ścian zewnętrznych na styku ze stropami i ścianami oddzieleń. Od *fire stopping* różni się tym, że zamyka pustkę, a nie szczelinę czy przejście."
+        },
+        {
+          "id": "ppoz2-038",
+          "term": "fire damper",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪə ˌdæmpə/",
+          "pl": "klapa przeciwpożarowa (odcinająca)",
+          "def": "a device in a ventilation duct that closes automatically to stop fire passing through a fire-resisting wall or floor",
+          "example": "The {{fire damper}} closes when its fusible link melts or when it receives a signal from the fire alarm panel.",
+          "examplePl": "Klapa przeciwpożarowa zamyka się po stopieniu wkładki topikowej albo po otrzymaniu sygnału z centrali sygnalizacji pożarowej.",
+          "collocations": [
+            "fire damper drop test",
+            "motorised fire damper",
+            "fusible link"
+          ],
+          "note": "Po polsku *klapa przeciwpożarowa odcinająca*. Chroni przed przejściem ognia przez przegrodę; klapy dla systemów oddymiania to *smoke control dampers* (klapy oddymiające). Istnieją też klapy o obu funkcjach – *fire and smoke dampers*."
+        },
+        {
+          "id": "ppoz2-039",
+          "term": "protected shaft",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/prəˌtektɪd ˈʃɑːft/",
+          "pl": "szyb (szacht) wydzielony pożarowo",
+          "def": "a shaft for lifts, stairs, ducts or pipes enclosed in fire-resisting construction so that it can pass through compartment floors",
+          "example": "The new riser for data cables must be formed as a {{protected shaft}} because it passes through several compartment floors.",
+          "examplePl": "Nowy pion dla kabli teletechnicznych musi być wykonany jako szacht wydzielony pożarowo, ponieważ przechodzi przez kilka stropów oddzielenia przeciwpożarowego.",
+          "collocations": [
+            "protected shaft enclosure",
+            "form a protected shaft"
+          ],
+          "note": "Pojęcie z ADB. W polskich przepisach nie ma jednego terminu; mówi się o *szybach* lub *szachtach instalacyjnych wydzielonych przegrodami o wymaganej klasie odporności ogniowej*."
+        },
+        {
+          "id": "ppoz2-040",
+          "term": "fire-resisting construction",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌfaɪə rɪˌzɪstɪŋ kənˈstrʌkʃn/",
+          "pl": "przegrody o wymaganej odporności ogniowej",
+          "def": "walls, floors and other parts of a building designed and built to resist fire for a stated period",
+          "example": "The kitchen must be enclosed in 30-minute {{fire-resisting construction}} with a self-closing fire door.",
+          "examplePl": "Kuchnia musi być wydzielona przegrodami o odporności ogniowej 30 minut z samozamykającymi się drzwiami przeciwpożarowymi.",
+          "collocations": [
+            "enclose in fire-resisting construction",
+            "30-minute fire-resisting construction"
+          ],
+          "note": "W brytyjskich wytycznych typowa jest forma *fire-resisting* (o elemencie spełniającym kryteria); w handlu i mowie potocznej spotyka się też *fire-resistant*."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "titlePl": "Drogi ewakuacyjne",
+      "titleEn": "Means of escape",
+      "items": [
+        {
+          "id": "ppoz2-041",
+          "term": "means of escape",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌmiːnz əv ɪˈskeɪp/",
+          "pl": "drogi ewakuacyjne, warunki ewakuacji",
+          "def": "the routes and building features that let people reach a place of safety in a fire without outside help",
+          "example": "The loft conversion must not compromise the {{means of escape}} from the upper floors of the house.",
+          "examplePl": "Adaptacja poddasza nie może pogorszyć warunków ewakuacji z wyższych kondygnacji domu.",
+          "collocations": [
+            "provision of means of escape",
+            "means of escape for disabled people"
+          ],
+          "note": "Szersze niż polskie *drogi ewakuacyjne*: obejmuje cały system – trasy, wyjścia, klatki schodowe i ich ochronę. Forma *means* jest taka sama w liczbie pojedynczej i mnogiej. W USA: *means of egress*."
+        },
+        {
+          "id": "ppoz2-042",
+          "term": "travel distance",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈtrævl ˌdɪstəns/",
+          "pl": "długość dojścia ewakuacyjnego, długość drogi ewakuacji",
+          "def": "the actual distance a person must walk from any point on a floor to the nearest storey exit or final exit, allowing for walls and furniture",
+          "example": "The open-plan layout increases the {{travel distance}} beyond the limit for escape in one direction only.",
+          "examplePl": "Układ typu open space powoduje przekroczenie dopuszczalnej długości dojścia przy ewakuacji tylko w jednym kierunku.",
+          "collocations": [
+            "maximum travel distance",
+            "travel distance in one direction",
+            "extended travel distance"
+          ],
+          "note": "Nie 1:1: w Polsce rozróżnia się *przejście ewakuacyjne* (w pomieszczeniu) i *dojście ewakuacyjne* (od wyjścia z pomieszczenia), a brytyjskie *travel distance* mierzy się od dowolnego punktu kondygnacji do najbliższego *storey exit* – obejmuje więc oba odcinki. Porównując limity, sprawdzaj punkt początkowy i końcowy pomiaru."
+        },
+        {
+          "id": "ppoz2-043",
+          "term": "dead end",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌded ˈend/",
+          "pl": "odcinek z jednym kierunkiem ewakuacji, ślepy korytarz",
+          "def": "a part of an escape route, or of a floor, from which escape is possible in one direction only",
+          "example": "Rooms opening off the {{dead end}} of the corridor will need either a shorter travel distance or an extra exit.",
+          "examplePl": "Pomieszczenia z wyjściem na ślepy odcinek korytarza będą wymagały krótszego dojścia albo dodatkowego wyjścia.",
+          "collocations": [
+            "dead-end corridor",
+            "dead-end condition"
+          ],
+          "note": "W polskich przepisach odpowiada odcinkowi dojścia, na którym ewakuacja jest możliwa tylko w jednym kierunku. W ogólnym angielskim *dead end* to też ślepa uliczka albo sytuacja bez wyjścia."
+        },
+        {
+          "id": "ppoz2-044",
+          "term": "protected stairway",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/prəˌtektɪd ˈsteəweɪ/",
+          "pl": "klatka schodowa obudowana (chroniona)",
+          "def": "a staircase enclosed in fire-resisting construction that leads to a final exit, giving people a safe route through the building",
+          "example": "Occupants of the upper floors escape via the {{protected stairway}}, which discharges directly to the street.",
+          "examplePl": "Osoby z wyższych kondygnacji ewakuują się chronioną klatką schodową, która prowadzi bezpośrednio na ulicę.",
+          "collocations": [
+            "enclosure of a protected stairway",
+            "discharge from a protected stairway"
+          ],
+          "note": "Najbliżej polskiej *klatki schodowej obudowanej i zamykanej drzwiami*. W USA: *interior exit stairway* lub *exit stair enclosure*."
+        },
+        {
+          "id": "ppoz2-045",
+          "term": "protected corridor",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/prəˌtektɪd ˈkɒrɪdɔː/",
+          "pl": "korytarz chroniony (wydzielony przegrodami o wymaganej odporności ogniowej)",
+          "def": "a corridor enclosed in fire-resisting construction that gives people a protected route to a storey exit",
+          "example": "Bedrooms in the care home open onto a {{protected corridor}} divided by cross-corridor fire doors.",
+          "examplePl": "Pokoje w domu opieki mają wyjścia na korytarz chroniony, podzielony drzwiami przeciwpożarowymi.",
+          "collocations": [
+            "protected corridor or lobby",
+            "subdivide a corridor"
+          ],
+          "note": "Polskie przepisy mówią raczej o *poziomej drodze ewakuacyjnej* wydzielonej ścianami i drzwiami o określonej klasie odporności ogniowej."
+        },
+        {
+          "id": "ppoz2-046",
+          "term": "final exit",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌfaɪnl ˈeksɪt/",
+          "pl": "wyjście ewakuacyjne na zewnątrz budynku",
+          "def": "the end of an escape route, where people leave the building for a place where they can move away from it safely",
+          "example": "The {{final exit}} doors from the stair must open outwards and be easy to open without a key.",
+          "examplePl": "Drzwi wyjścia na zewnątrz z klatki schodowej muszą otwierać się na zewnątrz i dawać się łatwo otworzyć bez klucza.",
+          "collocations": [
+            "final exit door",
+            "final exit to a place of safety"
+          ],
+          "note": "W UK *final exit* to wyłącznie wyjście na zewnątrz budynku; drzwi do chronionej klatki schodowej to *storey exit*. Polskie *wyjście ewakuacyjne* bywa szersze."
+        },
+        {
+          "id": "ppoz2-047",
+          "term": "storey exit",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈstɔːri ˌeksɪt/",
+          "pl": "wyjście z kondygnacji (na chronioną klatkę schodową lub na zewnątrz)",
+          "def": "a final exit, or a door leading directly into a protected stairway, firefighting lobby or external escape route",
+          "example": "Travel distance on the first floor is measured to the nearest {{storey exit}}, which is the door to the north stair.",
+          "examplePl": "Długość dojścia na pierwszym piętrze mierzy się do najbliższego wyjścia z kondygnacji, czyli drzwi do klatki północnej.",
+          "collocations": [
+            "nearest storey exit",
+            "storey exit width"
+          ],
+          "note": "Pisownia brytyjska *storey* (kondygnacja), amerykańska *story*. Pojęcie z ADB bez dokładnego polskiego odpowiednika – to punkt, do którego mierzy się *travel distance*."
+        },
+        {
+          "id": "ppoz2-048",
+          "term": "exit width",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈeksɪt wɪdθ/",
+          "pl": "szerokość wyjścia (ewakuacyjnego)",
+          "def": "the clear width of a door or route used for escape, which limits how many people can pass through it",
+          "example": "With 600 occupants, the total {{exit width}} on the ground floor is not sufficient if one exit is discounted.",
+          "examplePl": "Przy 600 osobach łączna szerokość wyjść na parterze jest niewystarczająca, jeśli jedno z wyjść zostanie pominięte w obliczeniach.",
+          "collocations": [
+            "aggregate exit width",
+            "discount the largest exit",
+            "clear width"
+          ],
+          "note": "W UK przy obliczaniu szerokości zakłada się zwykle, że jedno wyjście może zostać zablokowane przez pożar (*discounting an exit*). W polskich przepisach szerokość drzwi i dróg ewakuacyjnych określa się w przeliczeniu na liczbę osób."
+        },
+        {
+          "id": "ppoz2-049",
+          "term": "occupant capacity",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈɒkjəpənt kəˌpæsəti/",
+          "pl": "liczba osób (przewidywana w pomieszczeniu lub strefie)",
+          "def": "the maximum number of people a room, floor or building is designed to hold, used to size escape routes",
+          "example": "The {{occupant capacity}} of the bar was calculated from its floor area using the floor space factor in the guidance.",
+          "examplePl": "Liczbę osób w barze obliczono na podstawie jego powierzchni, przyjmując wskaźnik powierzchni na osobę z wytycznych.",
+          "collocations": [
+            "calculate occupant capacity",
+            "floor space factor",
+            "design occupancy"
+          ],
+          "note": "W USA *occupant load*. W UK liczbę osób wyznacza się zwykle z powierzchni i wskaźnika *floor space factor* (m² na osobę), chyba że znana jest faktyczna liczba miejsc."
+        },
+        {
+          "id": "ppoz2-050",
+          "term": "alternative escape route",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ɔːlˌtɜːnətɪv ɪˈskeɪp ruːt/",
+          "pl": "alternatywna (druga, niezależna) droga ewakuacyjna",
+          "def": "a second way out, far enough from or separated from the first, so that one fire is unlikely to block both",
+          "example": "Because the travel distance exceeds the one-direction limit, an {{alternative escape route}} will be provided via the rear stair.",
+          "examplePl": "Ponieważ długość dojścia przekracza limit dla jednego kierunku ewakuacji, zostanie zapewniona alternatywna droga ewakuacyjna przez tylną klatkę schodową.",
+          "collocations": [
+            "provide an alternative escape route",
+            "escape in more than one direction"
+          ],
+          "note": "W ADB drogi alternatywne muszą być rzeczywiście niezależne: odpowiednio rozsunięte kątowo albo oddzielone przegrodami odpornymi na ogień. Polski odpowiednik funkcjonalny: wymóg *dwóch kierunków ewakuacji*."
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "titlePl": "Strategia ewakuacji",
+      "titleEn": "Evacuation strategy",
+      "items": [
+        {
+          "id": "ppoz2-051",
+          "term": "simultaneous evacuation",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌsɪmlˈteɪniəs ɪˌvækjuˈeɪʃn/",
+          "pl": "ewakuacja jednoczesna (całego budynku)",
+          "def": "a strategy in which everyone in the building is warned at once and leaves at the same time",
+          "example": "The offices will operate {{simultaneous evacuation}}, with the sounders activating on every floor at once.",
+          "examplePl": "W biurowcu przyjęto ewakuację jednoczesną – sygnalizatory zadziałają jednocześnie na wszystkich kondygnacjach.",
+          "collocations": [
+            "simultaneous evacuation strategy",
+            "change to simultaneous evacuation"
+          ],
+          "note": "Po pożarze Grenfell Tower w części brytyjskich budynków mieszkalnych z niebezpiecznymi elewacjami czasowo zastąpiono strategię *stay put* ewakuacją jednoczesną, często z patrolami czuwającymi (*waking watch*)."
+        },
+        {
+          "id": "ppoz2-052",
+          "term": "phased evacuation",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌfeɪzd ɪˌvækjuˈeɪʃn/",
+          "pl": "ewakuacja etapowa (strefowa)",
+          "def": "a strategy in which people on the floors most at risk, usually the fire floor and the one above, leave first and other floors follow if needed",
+          "example": "In the office tower, {{phased evacuation}} reduces the stair width needed, as the floors do not all leave at once.",
+          "examplePl": "W wieżowcu biurowym ewakuacja etapowa pozwala zmniejszyć wymaganą szerokość klatek schodowych, ponieważ kondygnacje nie ewakuują się jednocześnie.",
+          "collocations": [
+            "phased evacuation strategy",
+            "alert and evacuate signals"
+          ],
+          "note": "Wymaga systemu rozróżniającego sygnały *alert* (ostrzeżenie) i *evacuate* (ewakuacja) – zwykle dźwiękowego systemu ostrzegawczego – oraz sprawnej organizacji ewakuacji."
+        },
+        {
+          "id": "ppoz2-053",
+          "term": "stay put strategy",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌsteɪ ˈpʊt ˌstrætədʒi/",
+          "pl": "strategia pozostania w mieszkaniu („pozostań na miejscu”)",
+          "def": "an approach used mainly in blocks of flats, where residents not directly affected by a fire stay in their homes unless told to leave",
+          "example": "Under the {{stay put strategy}}, residents of flats away from the fire remain inside unless the fire service tells them to leave.",
+          "examplePl": "Zgodnie ze strategią pozostania w mieszkaniu lokatorzy mieszkań oddalonych od pożaru pozostają w nich, chyba że straż pożarna poleci im wyjść.",
+          "collocations": [
+            "adopt a stay put strategy",
+            "abandon stay put"
+          ],
+          "note": "Strategia typowa dla brytyjskich budynków mieszkalnych wielorodzinnych, oparta na tym, że każde mieszkanie jest odrębną strefą pożarową. W polskich przepisach nie ma jej formalnego odpowiednika. Po pożarze Grenfell Tower (2017) stała się przedmiotem szerokiej debaty."
+        },
+        {
+          "id": "ppoz2-054",
+          "term": "progressive horizontal evacuation",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/prəˌɡresɪv ˌhɒrɪˌzɒntl ɪˌvækjuˈeɪʃn/",
+          "pl": "stopniowa ewakuacja pozioma (do sąsiedniej strefy pożarowej)",
+          "def": "moving people, especially patients, away from a fire into a neighbouring fire compartment on the same floor, and further only if necessary",
+          "example": "The hospital wards rely on {{progressive horizontal evacuation}}, so each floor is divided into several compartments.",
+          "examplePl": "Na oddziałach szpitalnych przyjęto stopniową ewakuację poziomą, dlatego każda kondygnacja jest podzielona na kilka stref pożarowych.",
+          "collocations": [
+            "PHE",
+            "progressive horizontal evacuation strategy"
+          ],
+          "note": "Skrót *PHE*. Standard w brytyjskich szpitalach (wytyczne HTM 05-02) i domach opieki. W Polsce koncepcja ewakuacji do sąsiedniej strefy pożarowej jest znana, ale nie ma ustalonej nazwy."
+        },
+        {
+          "id": "ppoz2-055",
+          "term": "refuge",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈrefjuːdʒ/",
+          "pl": "miejsce oczekiwania na ewakuację (dla osób z niepełnosprawnościami)",
+          "def": "a relatively safe enclosed space, usually in a protected stairway or lobby, where disabled people can wait briefly for help to evacuate",
+          "example": "Each {{refuge}} has an emergency voice communication outstation so that people waiting there can speak to the control point.",
+          "examplePl": "Każde miejsce oczekiwania na ewakuację ma terminal łączności alarmowej, dzięki któremu oczekujące osoby mogą porozumieć się z punktem kontrolnym.",
+          "collocations": [
+            "refuge area",
+            "refuge point",
+            "emergency voice communication"
+          ],
+          "note": "Nie mylić z *assembly point* (miejsce zbiórki na zewnątrz). *Refuge* to miejsce tymczasowego oczekiwania wewnątrz budynku, a nie cel ewakuacji. W USA: *area of refuge*."
+        },
+        {
+          "id": "ppoz2-056",
+          "term": "evacuation lift",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ɪˌvækjuˈeɪʃn lɪft/",
+          "pl": "dźwig ewakuacyjny (do ewakuacji osób z niepełnosprawnościami)",
+          "def": "a lift with extra fire protection and a back-up power supply that trained staff can use to evacuate disabled people during a fire",
+          "example": "The {{evacuation lift}} will be operated by trained staff, who will bring wheelchair users down from the refuges.",
+          "examplePl": "Dźwig ewakuacyjny będzie obsługiwany przez przeszkolony personel, który zwiezie osoby na wózkach z miejsc oczekiwania.",
+          "collocations": [
+            "evacuation lift to BS EN 81-76",
+            "managed use of the evacuation lift"
+          ],
+          "note": "Różni się od *firefighting lift* (dźwig dla ekip ratowniczych), przeznaczonego dla straży pożarnej. *Lift* to słowo brytyjskie, w USA *elevator*."
+        },
+        {
+          "id": "ppoz2-057",
+          "term": "personal emergency evacuation plan",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌpɜːsənl ɪˌmɜːdʒənsi ɪˌvækjuˈeɪʃn plæn/",
+          "pl": "indywidualny plan ewakuacji (osoby wymagającej pomocy)",
+          "def": "a written plan for one person who may need help to leave a building in an emergency, setting out the assistance, route and equipment needed",
+          "example": "A {{personal emergency evacuation plan}} has been prepared for the new employee who uses a wheelchair.",
+          "examplePl": "Dla nowego pracownika poruszającego się na wózku przygotowano indywidualny plan ewakuacji.",
+          "collocations": [
+            "PEEP",
+            "prepare a PEEP",
+            "generic emergency evacuation plan"
+          ],
+          "note": "Skrót *PEEP* (wym. /piːp/). Dla osób odwiedzających obiekt stosuje się procedury ogólne (*GEEP*, *generic emergency evacuation plan*). W Polsce brak ustalonego odpowiednika."
+        },
+        {
+          "id": "ppoz2-058",
+          "term": "available safe escape time",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/əˌveɪləbl ˌseɪf ɪˈskeɪp taɪm/",
+          "pl": "dostępny czas bezpiecznej ewakuacji (ASET)",
+          "def": "the time from ignition until conditions in a space become dangerous for the people in it",
+          "example": "The CFD model shows an {{available safe escape time}} of more than eight minutes on the mezzanine.",
+          "examplePl": "Model CFD wskazuje, że dostępny czas bezpiecznej ewakuacji na antresoli wynosi ponad osiem minut.",
+          "collocations": [
+            "ASET",
+            "ASET/RSET analysis",
+            "safety margin"
+          ],
+          "note": "Pojęcie z inżynierii bezpieczeństwa pożarowego (BS 7974, PD 7974-6). Rozwiązanie uznaje się za akceptowalne, gdy ASET przekracza RSET z odpowiednim marginesem bezpieczeństwa. W polskich opracowaniach zwykle zostawia się skróty angielskie."
+        },
+        {
+          "id": "ppoz2-059",
+          "term": "required safe escape time",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/rɪˌkwaɪəd ˌseɪf ɪˈskeɪp taɪm/",
+          "pl": "wymagany czas bezpiecznej ewakuacji (RSET)",
+          "def": "the time needed for all occupants to reach a place of safety, made up of detection, alarm, pre-movement and travel times",
+          "example": "Pre-movement time dominates the {{required safe escape time}} in the hotel, because guests may be asleep.",
+          "examplePl": "W hotelu czas przed rozpoczęciem ewakuacji ma decydujący udział w wymaganym czasie bezpiecznej ewakuacji, ponieważ goście mogą spać.",
+          "collocations": [
+            "RSET",
+            "calculate RSET",
+            "pre-movement time"
+          ],
+          "note": "Składniki RSET: czas wykrycia (*detection*), alarmowania (*alarm time*), czas przed rozpoczęciem ruchu (*pre-movement time*: rozpoznanie i reakcja) oraz czas przemieszczania się (*travel time*)."
+        },
+        {
+          "id": "ppoz2-060",
+          "term": "tenability",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌtenəˈbɪləti/",
+          "pl": "utrzymanie warunków bezpiecznych dla ludzi (nieprzekroczenie warunków krytycznych)",
+          "def": "the state of a space in which people can still survive and move, judged by visibility, temperature, heat radiation and toxic gases",
+          "example": "The CFD results confirm {{tenability}} on all escape routes for the whole evacuation period.",
+          "examplePl": "Wyniki symulacji CFD potwierdzają, że na wszystkich drogach ewakuacyjnych przez cały czas ewakuacji nie zostają przekroczone warunki krytyczne.",
+          "collocations": [
+            "tenability criteria",
+            "tenability limits",
+            "untenable conditions"
+          ],
+          "note": "W polskich raportach CFD mówi się zwykle o *kryteriach (warunkach) krytycznych*; ich przekroczenie oznacza utratę *tenability*. Przymiotniki: *tenable* / *untenable conditions*."
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "titlePl": "Sygnalizacja pożarowa",
+      "titleEn": "Detection and alarm",
+      "items": [
+        {
+          "id": "ppoz2-061",
+          "term": "fire detection and alarm system",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌfaɪə dɪˌtekʃn ənd əˈlɑːm ˌsɪstəm/",
+          "pl": "system sygnalizacji pożarowej (SSP)",
+          "def": "an installation that senses a fire, automatically or through people, and warns everyone in the building",
+          "example": "The {{fire detection and alarm system}} will be designed to Category L1 in accordance with BS 5839-1.",
+          "examplePl": "System sygnalizacji pożarowej zostanie zaprojektowany w kategorii L1 zgodnie z BS 5839-1.",
+          "collocations": [
+            "Category L1 system",
+            "FD&A system",
+            "design to BS 5839-1"
+          ],
+          "note": "Odpowiednik polskiego *SSP*. Kategorie wg BS 5839-1 określają cel systemu: *L* – ochrona życia (*life*), *P* – ochrona mienia (*property*), *M* – system wyłącznie ręczny (*manual*). Potocznie, także w UK, po prostu *fire alarm system*."
+        },
+        {
+          "id": "ppoz2-062",
+          "term": "addressable system",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/əˌdresəbl ˈsɪstəm/",
+          "pl": "system adresowalny",
+          "def": "a fire alarm system in which every detector and call point has its own identity, so the panel shows exactly which device has operated",
+          "example": "Replacing the conventional panel with an {{addressable system}} will let staff find the activated detector immediately.",
+          "examplePl": "Zastąpienie konwencjonalnej centrali systemem adresowalnym pozwoli personelowi natychmiast zlokalizować czujkę, która zadziałała.",
+          "collocations": [
+            "analogue addressable system",
+            "addressable loop"
+          ],
+          "note": "Przeciwieństwo: *conventional system* (system konwencjonalny, strefowy), w którym centrala wskazuje tylko strefę. W BS 5839-1 *detection zone* to strefa dozorowa, a nie strefa pożarowa."
+        },
+        {
+          "id": "ppoz2-063",
+          "term": "point detector",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈpɔɪnt dɪˌtektə/",
+          "pl": "czujka punktowa",
+          "def": "a fire detector that responds to smoke, heat or other effects of fire at one fixed position, usually on the ceiling",
+          "example": "Multi-sensor {{point detectors}} were chosen for the bedrooms to reduce false alarms caused by steam from the showers.",
+          "examplePl": "W pokojach zastosowano wielodetektorowe czujki punktowe, aby ograniczyć fałszywe alarmy wywołane parą z pryszniców.",
+          "collocations": [
+            "optical smoke detector",
+            "heat detector",
+            "multi-sensor detector"
+          ],
+          "note": "W polskiej terminologii *czujka* (nie *detektor*): *czujka dymu*, *czujka ciepła*, *czujka płomienia*. Wymagania dla poszczególnych typów określają normy serii EN 54."
+        },
+        {
+          "id": "ppoz2-064",
+          "term": "aspirating smoke detection",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌæspəreɪtɪŋ ˈsməʊk dɪˌtekʃn/",
+          "pl": "zasysająca detekcja dymu (zasysające czujki dymu)",
+          "def": "a system that draws air through a network of small pipes to a central detector, giving very early warning of smoke",
+          "example": "The data hall will be protected by {{aspirating smoke detection}}, with sampling pipes along each hot aisle.",
+          "examplePl": "Serwerownia zostanie objęta systemem zasysającej detekcji dymu z rurami próbkującymi wzdłuż każdego gorącego korytarza.",
+          "collocations": [
+            "ASD system",
+            "sampling pipe",
+            "very early warning"
+          ],
+          "note": "Skrót *ASD*; po polsku *zasysająca czujka dymu* (EN 54-20). Nazwa *VESDA* to znak towarowy jednego producenta, często używany potocznie."
+        },
+        {
+          "id": "ppoz2-065",
+          "term": "linear heat detection",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌlɪniə ˈhiːt dɪˌtekʃn/",
+          "pl": "liniowa detekcja ciepła (liniowa czujka ciepła)",
+          "def": "a detection method using a special cable that senses a temperature rise anywhere along its length",
+          "example": "The cable tunnel will be monitored by {{linear heat detection}} fixed along the top of the cable trays.",
+          "examplePl": "Tunel kablowy będzie dozorowany przez liniową czujkę ciepła zamocowaną wzdłuż górnej krawędzi korytek kablowych.",
+          "collocations": [
+            "linear heat detector cable",
+            "fibre-optic linear heat detection"
+          ],
+          "note": "Nie mylić z *optical beam smoke detector* (liniowa czujka dymu, działająca na zasadzie wiązki światła)."
+        },
+        {
+          "id": "ppoz2-066",
+          "term": "manual call point",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌmænjuəl ˈkɔːl pɔɪnt/",
+          "pl": "ręczny ostrzegacz pożarowy (ROP)",
+          "def": "a device on a wall that a person presses to raise the fire alarm",
+          "example": "There was no {{manual call point}} next to the final exit from the loading bay, so one must be added.",
+          "examplePl": "Przy wyjściu na zewnątrz z rampy rozładunkowej brakowało ręcznego ostrzegacza pożarowego, dlatego należy go zamontować.",
+          "collocations": [
+            "MCP",
+            "activate a manual call point",
+            "resettable element"
+          ],
+          "note": "Po polsku *ręczny ostrzegacz pożarowy (ROP)*, norma EN 54-11. Potocznie w UK *break glass*, choć współczesne ostrzegacze mają zwykle element resetowalny zamiast szybki."
+        },
+        {
+          "id": "ppoz2-067",
+          "term": "control and indicating equipment",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/kənˌtrəʊl ənd ˈɪndɪkeɪtɪŋ ɪˌkwɪpmənt/",
+          "pl": "centrala sygnalizacji pożarowej",
+          "def": "the main unit of a fire alarm system, which receives signals from devices, shows their status and triggers alarms and other outputs",
+          "example": "The {{control and indicating equipment}} is located in the entrance lobby so that firefighters can see it on arrival.",
+          "examplePl": "Centrala sygnalizacji pożarowej znajduje się w holu wejściowym, aby strażacy mogli ją zobaczyć zaraz po przybyciu.",
+          "collocations": [
+            "CIE",
+            "fire alarm panel",
+            "repeater panel"
+          ],
+          "note": "Termin normowy (EN 54-2), skrót *CIE*. W rozmowie i e-mailach mówi się raczej *fire alarm panel* albo *panel*. Panel powtórzeniowy to *repeater panel*."
+        },
+        {
+          "id": "ppoz2-068",
+          "term": "cause and effect matrix",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌkɔːz ənd ɪˈfekt ˌmeɪtrɪks/",
+          "pl": "matryca sterowań",
+          "def": "a table that shows, for each fire alarm input, which outputs and actions the system must trigger, such as closing dampers or releasing doors",
+          "example": "The {{cause and effect matrix}} must be agreed before commissioning so that dampers and lift recall can be tested correctly.",
+          "examplePl": "Matrycę sterowań należy uzgodnić przed uruchomieniem systemów, aby można było prawidłowo przetestować klapy i sprowadzanie dźwigów.",
+          "collocations": [
+            "cause and effect testing",
+            "update the cause and effect"
+          ],
+          "note": "W Polsce odpowiada jej *matryca sterowań*, będąca częścią *scenariusza pożarowego*; sam scenariusz zawiera zwykle także opis działania wszystkich urządzeń, a nie tylko tabelę."
+        },
+        {
+          "id": "ppoz2-069",
+          "term": "alarm verification",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/əˈlɑːm ˌverɪfɪˈkeɪʃn/",
+          "pl": "weryfikacja alarmu (alarmowanie dwustopniowe)",
+          "def": "a procedure for confirming that a fire signal is genuine, by staff checking or by a second device responding, before calling the fire service or starting evacuation",
+          "example": "To cut unwanted fire signals, the hospital uses {{alarm verification}} by trained staff before the call is passed to the fire service.",
+          "examplePl": "Aby ograniczyć liczbę niepożądanych alarmów, szpital stosuje weryfikację alarmu przez przeszkolony personel przed przekazaniem zgłoszenia straży pożarnej.",
+          "collocations": [
+            "staff alarm verification",
+            "unwanted fire signals",
+            "two-stage alarm"
+          ],
+          "note": "W Polsce zbliżone jest *alarmowanie dwustopniowe* (czasy T1 i T2). W UK mówi się o *unwanted fire signals* (UwFS); wiele brytyjskich straży pożarnych ogranicza wyjazdy do niezweryfikowanych alarmów automatycznych."
+        },
+        {
+          "id": "ppoz2-070",
+          "term": "voice alarm system",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈvɔɪs əˌlɑːm ˌsɪstəm/",
+          "pl": "dźwiękowy system ostrzegawczy (DSO)",
+          "def": "a system that broadcasts recorded or live spoken messages to warn people and tell them what to do in a fire",
+          "example": "The {{voice alarm system}} will broadcast an alert message to all zones and an evacuate message to the affected zone.",
+          "examplePl": "Dźwiękowy system ostrzegawczy nada komunikat ostrzegawczy do wszystkich stref i komunikat ewakuacyjny do strefy objętej pożarem.",
+          "collocations": [
+            "voice alarm to BS 5839-8",
+            "VA system",
+            "evacuate message"
+          ],
+          "note": "Odpowiednik polskiego *DSO*. W UK projektuje się go wg BS 5839-8. Inną kategorią jest *emergency voice communication (EVC)*, czyli łączność dwukierunkowa, np. z miejscami oczekiwania (*refuges*)."
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "titlePl": "Ochrona przed zadymieniem",
+      "titleEn": "Smoke control",
+      "items": [
+        {
+          "id": "ppoz2-071",
+          "term": "smoke control",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈsməʊk kənˌtrəʊl/",
+          "pl": "ochrona przed zadymieniem, kontrola rozprzestrzeniania dymu",
+          "def": "the range of measures used to limit the spread of smoke and keep escape and firefighting routes usable",
+          "example": "The {{smoke control}} strategy for the atrium combines natural extract at roof level with automatic smoke curtains.",
+          "examplePl": "Koncepcja ochrony atrium przed zadymieniem łączy grawitacyjne usuwanie dymu na poziomie dachu z automatycznymi kurtynami dymowymi.",
+          "collocations": [
+            "smoke control system",
+            "smoke control strategy"
+          ],
+          "note": "Pojęcie szerokie: obejmuje usuwanie dymu (*smoke extract*, *smoke ventilation*) i niedopuszczanie go (np. *pressurisation*). Polskie *oddymianie* oznacza zwykle tylko usuwanie dymu."
+        },
+        {
+          "id": "ppoz2-072",
+          "term": "smoke ventilation",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈsməʊk ventɪˌleɪʃn/",
+          "pl": "wentylacja oddymiająca, oddymianie",
+          "def": "the removal of smoke and hot gases from a building through natural openings or by fans",
+          "example": "The common corridor on each floor is protected by mechanical {{smoke ventilation}}, with an extract shaft at one end.",
+          "examplePl": "Korytarz wspólny na każdej kondygnacji jest chroniony mechaniczną wentylacją oddymiającą z szachtem wyciągowym na jednym końcu.",
+          "collocations": [
+            "natural smoke ventilation",
+            "mechanical smoke ventilation",
+            "smoke ventilation shaft"
+          ],
+          "note": "W brytyjskich budynkach mieszkalnych szczególnie częste są systemy oddymiania korytarzy wspólnych i przedsionków (*common corridor/lobby ventilation*), naturalne lub mechaniczne."
+        },
+        {
+          "id": "ppoz2-073",
+          "term": "smoke and heat exhaust ventilation system",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌsməʊk ənd ˌhiːt ɪɡˈzɔːst ˌventɪˈleɪʃn ˌsɪstəm/",
+          "pl": "system oddymiania (usuwania dymu i ciepła)",
+          "def": "a system that removes smoke and heat from a large space to keep a layer of clear air above the floor",
+          "example": "The warehouse roof includes a {{smoke and heat exhaust ventilation system}} with natural vents opened by the fire alarm.",
+          "examplePl": "Dach magazynu wyposażono w system oddymiania z klapami grawitacyjnymi otwieranymi sygnałem z systemu sygnalizacji pożarowej.",
+          "collocations": [
+            "SHEVS",
+            "natural SHEVS",
+            "powered SHEVS"
+          ],
+          "note": "Skrót *SHEVS*. Seria norm EN 12101 obejmuje wyroby takich systemów (m.in. klapy dymowe, wentylatory, kurtyny dymowe). Po polsku mówi się zwykle o *systemie oddymiania* grawitacyjnego (*natural*) lub mechanicznego (*powered*)."
+        },
+        {
+          "id": "ppoz2-074",
+          "term": "automatic opening vent",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌɔːtəˌmætɪk ˈəʊpənɪŋ vent/",
+          "pl": "klapa dymowa, okno oddymiające (otwierane automatycznie)",
+          "def": "a window, rooflight or panel that opens automatically when smoke is detected, to let smoke escape",
+          "example": "The {{automatic opening vent}} at the head of the stair failed to open during the annual test.",
+          "examplePl": "Klapa dymowa na szczycie klatki schodowej nie otworzyła się podczas corocznej próby.",
+          "collocations": [
+            "AOV",
+            "AOV at the head of the stair",
+            "manual override"
+          ],
+          "note": "Skrót *AOV*, bardzo częsty w brytyjskich budynkach mieszkalnych. Po polsku *klapa dymowa* (EN 12101-2) lub *okno oddymiające*. Nie mylić z *smoke damper* (klapa w kanale)."
+        },
+        {
+          "id": "ppoz2-075",
+          "term": "smoke extract fan",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌsməʊk ˈekstrækt fæn/",
+          "pl": "wentylator oddymiający",
+          "def": "a fan built to keep working at high temperatures for a stated time while removing smoke from a building",
+          "example": "The duty and standby {{smoke extract fans}} are on the roof and are supplied from a secondary power source.",
+          "examplePl": "Wentylatory oddymiające, podstawowy i rezerwowy, znajdują się na dachu i są zasilane z rezerwowego źródła zasilania.",
+          "collocations": [
+            "duty and standby fans",
+            "F400/120 rated fan"
+          ],
+          "note": "Klasyfikacja wg EN 12101-3, np. *F400/120* oznacza pracę w temperaturze 400 °C przez 120 minut. Wentylator napowietrzający to *supply fan* lub *pressurisation fan*."
+        },
+        {
+          "id": "ppoz2-076",
+          "term": "pressure differential system",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌpreʃə ˌdɪfəˈrenʃl ˌsɪstəm/",
+          "pl": "system różnicowania ciśnień (system zapobiegania zadymieniu)",
+          "def": "a system that keeps a stair or lobby at a higher air pressure than the spaces around it so that smoke cannot flow in",
+          "example": "The {{pressure differential system}} failed the door opening force test, so the pressure relief settings must be adjusted.",
+          "examplePl": "System różnicowania ciśnień nie przeszedł próby siły otwarcia drzwi, dlatego należy wyregulować ustawienia upustu nadciśnienia.",
+          "collocations": [
+            "stair pressurisation",
+            "door opening force",
+            "pressure relief damper"
+          ],
+          "note": "Po polsku także *system napowietrzania* (klatek schodowych). W UK potocznie *pressurisation* (pisownia brytyjska z *s*); w USA *stair pressurization*. Normy: seria EN 12101."
+        },
+        {
+          "id": "ppoz2-077",
+          "term": "smoke curtain",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈsməʊk ˌkɜːtn/",
+          "pl": "kurtyna dymowa",
+          "def": "a fabric barrier, often stored in a box in the ceiling, that drops down to contain or direct smoke",
+          "example": "Automatic {{smoke curtains}} will drop from the ceiling to form a reservoir around the edge of the atrium.",
+          "examplePl": "Automatyczne kurtyny dymowe opuszczą się z sufitu, tworząc strefę dymową wokół krawędzi atrium.",
+          "collocations": [
+            "automatic smoke curtain",
+            "active smoke barrier"
+          ],
+          "note": "W EN 12101-1 ogólna nazwa to *smoke barrier* (bariera dymowa), stała lub ruchoma. Nie mylić z kurtyną przeciwpożarową (*fire curtain*), która ma klasę odporności ogniowej."
+        },
+        {
+          "id": "ppoz2-078",
+          "term": "smoke damper",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈsməʊk ˌdæmpə/",
+          "pl": "klapa oddymiająca (w kanale)",
+          "def": "a device in a duct that opens or closes to control the movement of smoke, for example to direct smoke extraction from the fire floor",
+          "example": "On detection, the {{smoke damper}} on the fire floor opens while those on all other floors stay closed.",
+          "examplePl": "Po wykryciu pożaru otwiera się klapa oddymiająca na kondygnacji objętej pożarem, a klapy na pozostałych kondygnacjach pozostają zamknięte.",
+          "collocations": [
+            "smoke control damper",
+            "fire and smoke damper"
+          ],
+          "note": "W systemach oddymiania – *smoke control damper* (EN 12101-8), po polsku *klapa oddymiająca*. W wentylacji ogólnej *smoke damper* może też oznaczać klapę zamykaną, która chroni przed rozprzestrzenianiem dymu – sprawdzaj funkcję w opisie."
+        },
+        {
+          "id": "ppoz2-079",
+          "term": "replacement air",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/rɪˈpleɪsmənt eə/",
+          "pl": "powietrze kompensacyjne (napływ powietrza kompensacyjnego)",
+          "def": "outside air brought into a space to replace the smoke being extracted, so that the extract system works properly",
+          "example": "Without adequate {{replacement air}}, the extract fans will not achieve the design flow and doors will be hard to open.",
+          "examplePl": "Bez odpowiedniego napływu powietrza kompensacyjnego wentylatory nie osiągną projektowej wydajności, a drzwi będzie trudno otworzyć.",
+          "collocations": [
+            "replacement air inlet",
+            "low-level replacement air",
+            "inlet velocity"
+          ],
+          "note": "Synonimy angielskie: *make-up air* (częste w USA), *inlet air*."
+        },
+        {
+          "id": "ppoz2-080",
+          "term": "smoke reservoir",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈsməʊk ˌrezəvwɑː/",
+          "pl": "strefa dymowa (zbiornik dymu)",
+          "def": "an area under the ceiling, bounded by smoke barriers or downstands, where smoke collects and is extracted",
+          "example": "Each {{smoke reservoir}} in the shopping mall is limited in size so that the smoke stays hot and buoyant.",
+          "examplePl": "Wielkość każdej strefy dymowej w pasażu handlowym jest ograniczona, aby dym pozostawał gorący i unosił się pod stropem.",
+          "collocations": [
+            "smoke reservoir area",
+            "channelling screen",
+            "downstand"
+          ],
+          "note": "Nie mylić strefy dymowej (*smoke reservoir*, *smoke zone*) ze strefą pożarową (*fire compartment*)."
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "titlePl": "Stałe urządzenia gaśnicze",
+      "titleEn": "Fixed firefighting systems",
+      "items": [
+        {
+          "id": "ppoz2-081",
+          "term": "sprinkler system",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈsprɪŋklə ˌsɪstəm/",
+          "pl": "instalacja tryskaczowa",
+          "def": "a fixed network of water pipes with heads that open automatically at a set temperature to control or put out a fire",
+          "example": "The {{sprinkler system}} is designed to BS EN 12845 and fed from a dedicated tank and pump set.",
+          "examplePl": "Instalacja tryskaczowa jest zaprojektowana wg BS EN 12845 i zasilana z wydzielonego zbiornika i zestawu pompowego.",
+          "collocations": [
+            "install a sprinkler system",
+            "sprinkler-protected building",
+            "sprinkler zone"
+          ],
+          "note": "W Polsce instalacja tryskaczowa należy do *stałych urządzeń gaśniczych (SUG)*. Normy: EN 12845 w Europie, w UK także BS 9251 (budynki mieszkalne), w USA NFPA 13."
+        },
+        {
+          "id": "ppoz2-082",
+          "term": "sprinkler head",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈsprɪŋklə hed/",
+          "pl": "tryskacz",
+          "def": "the nozzle on a sprinkler pipe with a heat-sensitive element, such as a glass bulb, that opens to spray water when it gets hot enough",
+          "example": "A {{sprinkler head}} in the corridor had been painted over, which could delay or prevent its operation.",
+          "examplePl": "Tryskacz na korytarzu został zamalowany, co mogło opóźnić jego zadziałanie lub mu zapobiec.",
+          "collocations": [
+            "pendent sprinkler head",
+            "upright sprinkler head",
+            "glass bulb"
+          ],
+          "note": "Po polsku *tryskacz*, a cała instalacja to *instalacja tryskaczowa*. W pożarze otwierają się tylko tryskacze, przy których temperatura osiągnie próg zadziałania, a nie wszystkie naraz."
+        },
+        {
+          "id": "ppoz2-083",
+          "term": "wet pipe system",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌwet ˈpaɪp ˌsɪstəm/",
+          "pl": "instalacja tryskaczowa wodna",
+          "def": "a sprinkler system in which the pipes are always filled with water under pressure, so water flows as soon as a head opens",
+          "example": "A {{wet pipe system}} cannot be used in the unheated loading bay, because the water in the pipes could freeze.",
+          "examplePl": "W nieogrzewanej strefie rozładunku nie można zastosować instalacji wodnej, ponieważ woda w rurach mogłaby zamarznąć.",
+          "collocations": [
+            "wet pipe installation",
+            "wet alarm valve"
+          ],
+          "note": "W EN 12845: *wet pipe installation*."
+        },
+        {
+          "id": "ppoz2-084",
+          "term": "dry pipe system",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌdraɪ ˈpaɪp ˌsɪstəm/",
+          "pl": "instalacja tryskaczowa sucha (powietrzna)",
+          "def": "a sprinkler system in which the pipes hold compressed air, and water enters only after a head opens and the valve operates",
+          "example": "The cold store is protected by a {{dry pipe system}}, with water held back at the valve in a heated room.",
+          "examplePl": "Chłodnia jest chroniona instalacją tryskaczową suchą, a woda jest zatrzymywana na zaworze w ogrzewanym pomieszczeniu.",
+          "collocations": [
+            "dry pipe installation",
+            "dry alarm valve",
+            "accelerator"
+          ],
+          "note": "Nie mylić z *dry riser* (suchy pion dla straży pożarnej) – to zupełnie inne urządzenie."
+        },
+        {
+          "id": "ppoz2-085",
+          "term": "deluge system",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈdeljuːdʒ ˌsɪstəm/",
+          "pl": "instalacja zraszaczowa",
+          "def": "a system with open nozzles in which a valve, opened by a separate detection system, releases water through all the nozzles at once",
+          "example": "A {{deluge system}} protects the transformer bay, flooding the whole area as soon as the detection operates.",
+          "examplePl": "Komorę transformatora chroni instalacja zraszaczowa, która zalewa cały obszar zaraz po zadziałaniu detekcji.",
+          "collocations": [
+            "deluge valve",
+            "open nozzles",
+            "water spray system"
+          ],
+          "note": "Po polsku *instalacja zraszaczowa*: w odróżnieniu od tryskaczowej ma otwarte dysze (*zraszacze*), więc woda wypływa ze wszystkich jednocześnie. Wymaga oddzielnego systemu wykrywania."
+        },
+        {
+          "id": "ppoz2-086",
+          "term": "water mist",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈwɔːtə mɪst/",
+          "pl": "mgła wodna (instalacja mgły wodnej)",
+          "def": "very fine water droplets used by a fixed system to control or put out a fire with much less water than sprinklers",
+          "example": "A {{water mist}} system was installed in the listed building to limit water damage to the historic interiors.",
+          "examplePl": "W zabytkowym budynku zainstalowano system mgły wodnej, aby ograniczyć szkody wodne w historycznych wnętrzach.",
+          "collocations": [
+            "high-pressure water mist",
+            "water mist system"
+          ],
+          "note": "Normy: w UK BS 8489 (budynki niemieszkalne) i BS 8458 (mieszkalne), w Europie EN 14972. Instalacja mgły wodnej musi mieć badania dla danego zastosowania – nie jest prostym zamiennikiem tryskaczy."
+        },
+        {
+          "id": "ppoz2-087",
+          "term": "gaseous extinguishing system",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌɡæsiəs ɪkˈstɪŋɡwɪʃɪŋ ˌsɪstəm/",
+          "pl": "urządzenie gaśnicze gazowe",
+          "def": "a fixed system that puts out a fire by filling an enclosed room with an inert gas or a chemical agent",
+          "example": "The server room's {{gaseous extinguishing system}} failed the room integrity test because of unsealed cable openings.",
+          "examplePl": "Urządzenie gaśnicze gazowe w serwerowni nie przeszło próby szczelności pomieszczenia z powodu nieuszczelnionych otworów kablowych.",
+          "collocations": [
+            "room integrity test",
+            "inert gas system",
+            "clean agent"
+          ],
+          "note": "Stosuje się gazy obojętne (np. argon, azot, IG-541) lub środki chemiczne (np. FK-5-1-12). Projektowanie wg EN 15004. W USA często *clean agent system*."
+        },
+        {
+          "id": "ppoz2-088",
+          "term": "fire pump",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈfaɪə pʌmp/",
+          "pl": "pompa pożarowa",
+          "def": "a pump that supplies water at the required pressure and flow to sprinklers or other firefighting installations",
+          "example": "The diesel {{fire pump}} is run every week to confirm that it starts automatically when the pressure drops.",
+          "examplePl": "Pompa pożarowa z napędem diesla jest uruchamiana co tydzień w celu potwierdzenia, że włącza się samoczynnie po spadku ciśnienia.",
+          "collocations": [
+            "diesel fire pump",
+            "duty and standby pumps",
+            "weekly pump run"
+          ],
+          "note": "Pomieszczenie z pompami instalacji tryskaczowej to w UK *sprinkler pump house* lub *pump room*; po polsku *pompownia tryskaczowa*."
+        },
+        {
+          "id": "ppoz2-089",
+          "term": "sprinkler tank",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈsprɪŋklə tæŋk/",
+          "pl": "zbiornik wody dla instalacji tryskaczowej",
+          "def": "a tank that stores the water a sprinkler system needs for the period set in its design",
+          "example": "The {{sprinkler tank}} must hold enough water to supply the system for its full design duration.",
+          "examplePl": "Zbiornik instalacji tryskaczowej musi mieścić ilość wody wystarczającą do zasilania instalacji przez cały projektowy czas działania.",
+          "collocations": [
+            "full-capacity tank",
+            "reduced-capacity tank",
+            "sprinkler water storage"
+          ],
+          "note": "W EN 12845 rozróżnia się m.in. zbiornik o pełnej pojemności (*full capacity*) i o zmniejszonej pojemności, uzupełniany z sieci w czasie pracy (*reduced capacity*)."
+        },
+        {
+          "id": "ppoz2-090",
+          "term": "design density",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/dɪˈzaɪn ˌdensəti/",
+          "pl": "intensywność zraszania (projektowa)",
+          "def": "the minimum amount of water a sprinkler system must deliver over each square metre of the protected area, in millimetres per minute",
+          "example": "For the high-piled storage, the {{design density}} had to be increased and in-rack sprinklers added.",
+          "examplePl": "Dla wysokiego składowania trzeba było zwiększyć projektową intensywność zraszania i dodać tryskacze międzyregałowe.",
+          "collocations": [
+            "design density and area of operation",
+            "mm/min"
+          ],
+          "note": "Po polsku *intensywność zraszania* (mm/min, czyli l/min na m²); razem z *powierzchnią działania* (*area of operation*) wyznacza zapotrzebowanie na wodę. Klasy zagrożenia w EN 12845: LH, OH, HHP, HHS."
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "titlePl": "Urządzenia dla straży pożarnej",
+      "titleEn": "Firefighting facilities",
+      "items": [
+        {
+          "id": "ppoz2-091",
+          "term": "fire service access",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪə ˌsɜːvɪs ˌækses/",
+          "pl": "dostęp dla straży pożarnej (dojazd i wejście do budynku)",
+          "def": "the roads, hard standings and entry points that let fire engines and firefighters reach a building and get inside",
+          "example": "The new barrier at the gatehouse must not obstruct {{fire service access}} to the rear of the warehouse.",
+          "examplePl": "Nowy szlaban przy portierni nie może utrudniać dostępu straży pożarnej do tylnej części magazynu.",
+          "collocations": [
+            "fire service vehicle access",
+            "access for a pumping appliance",
+            "hard standing"
+          ],
+          "note": "Polska *droga pożarowa* ma parametry określone w przepisach o drogach pożarowych; brytyjskie *fire service access* jest pojęciem szerszym (dojazd oraz dostęp do budynku i jego urządzeń). Wóz bojowy to w UK *fire appliance* lub *fire engine*. W USA: *fire department access*."
+        },
+        {
+          "id": "ppoz2-092",
+          "term": "firefighting shaft",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪəfaɪtɪŋ ʃɑːft/",
+          "pl": "wydzielony pożarowo zespół klatki schodowej i dźwigu dla ekip ratowniczych",
+          "def": "a protected enclosure with a firefighting stair, firefighting lobbies and usually a firefighting lift, used by firefighters to reach upper or lower floors",
+          "example": "The tower needs two {{firefighting shafts}}, each with a fire main outlet in the lobby on every floor.",
+          "examplePl": "Wieżowiec wymaga dwóch wydzielonych zespołów dla ekip ratowniczych, z zaworem pionu w przedsionku na każdej kondygnacji.",
+          "collocations": [
+            "firefighting stair",
+            "firefighting lobby",
+            "firefighting shaft with a firefighting lift"
+          ],
+          "note": "Pojęcie z ADB i BS 9999 bez dokładnego polskiego odpowiednika; najbliżej mu do zespołu: *klatka schodowa*, *przedsionek przeciwpożarowy* i *dźwig dla ekip ratowniczych*, chronionego przed zadymieniem."
+        },
+        {
+          "id": "ppoz2-093",
+          "term": "firefighting lift",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪəfaɪtɪŋ lɪft/",
+          "pl": "dźwig dla ekip ratowniczych",
+          "def": "a lift with extra protection and special controls that firefighters can take over and use during a fire",
+          "example": "Firefighters take control of the {{firefighting lift}} at the access level and use it to reach the floor below the fire.",
+          "examplePl": "Strażacy przejmują sterowanie dźwigiem dla ekip ratowniczych na poziomie dostępu i wjeżdżają nim na kondygnację poniżej pożaru.",
+          "collocations": [
+            "firefighting lift to BS EN 81-72",
+            "fire service access level"
+          ],
+          "note": "Norma EN 81-72. W USA: *fire service access elevator*. Nie mylić z *evacuation lift* (dźwig do ewakuacji osób z niepełnosprawnościami)."
+        },
+        {
+          "id": "ppoz2-094",
+          "term": "dry riser",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌdraɪ ˈraɪzə/",
+          "pl": "suchy pion",
+          "def": "an empty vertical pipe in a building that firefighters fill with water from a fire engine, with outlets on each floor",
+          "example": "The {{dry riser}} inlet box at street level was damaged, and two of the outlets on upper floors had no caps.",
+          "examplePl": "Skrzynka z nasadami zasilającymi suchego pionu na poziomie ulicy była uszkodzona, a dwa zawory na wyższych kondygnacjach nie miały pokryw.",
+          "collocations": [
+            "dry riser inlet",
+            "dry riser test",
+            "dry fire main"
+          ],
+          "note": "Formalna nazwa w ADB i BS 9990: *dry fire main*. W USA: *dry standpipe*. Polski *pion nawodniony* odpowiada *wet riser*, a nie *dry riser*."
+        },
+        {
+          "id": "ppoz2-095",
+          "term": "wet riser",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌwet ˈraɪzə/",
+          "pl": "pion nawodniony",
+          "def": "a vertical pipe permanently filled with water under pressure, with outlets on each floor where firefighters connect their hoses",
+          "example": "In the 60-storey tower, a {{wet riser}} fed by pumps and a break tank replaces the dry riser used in lower blocks.",
+          "examplePl": "W 60-kondygnacyjnym wieżowcu zamiast suchego pionu stosowanego w niższych budynkach przewidziano pion nawodniony zasilany pompami ze zbiornika przerwowego.",
+          "collocations": [
+            "wet fire main",
+            "break tank",
+            "landing valve"
+          ],
+          "note": "Po polsku *pion nawodniony* z *zaworami hydrantowymi* na kondygnacjach. W BS 9990: *wet fire main*; w USA *wet standpipe*. Brytyjski *hose reel* to inne urządzenie – przeznaczone do użytku przez osoby przebywające w budynku."
+        },
+        {
+          "id": "ppoz2-096",
+          "term": "landing valve",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈlændɪŋ vælv/",
+          "pl": "zawór hydrantowy (na kondygnacji)",
+          "def": "a valve on each floor, connected to a dry or wet riser, to which firefighters attach their hoses",
+          "example": "During the annual test, the {{landing valve}} on level 9 leaked when the dry riser was charged with water.",
+          "examplePl": "Podczas corocznej próby zawór hydrantowy na 9. kondygnacji przeciekał po napełnieniu suchego pionu wodą.",
+          "collocations": [
+            "outlet valve",
+            "strap and padlock"
+          ],
+          "note": "Polski *zawór hydrantowy* w pionie nawodnionym lub suchym. Spotyka się też określenie *outlet valve* lub po prostu *outlet*."
+        },
+        {
+          "id": "ppoz2-097",
+          "term": "fire main",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪə meɪn/",
+          "pl": "pion wodny dla straży pożarnej (suchy lub nawodniony)",
+          "def": "a pipe installed in a building so that firefighters can get water to upper or lower floors, either kept empty until needed or permanently filled",
+          "example": "The fire strategy refers to a {{fire main}} in each firefighting shaft but does not state whether it is wet or dry.",
+          "examplePl": "Strategia pożarowa przewiduje pion wodny dla straży pożarnej w każdym zespole dla ekip ratowniczych, ale nie określa, czy ma być suchy, czy nawodniony.",
+          "collocations": [
+            "dry fire main",
+            "wet fire main",
+            "fire main outlet"
+          ],
+          "note": "Termin ogólny z ADB i BS 9990, obejmujący *dry* i *wet fire mains*. Słowo *main* oznacza też magistralę sieci, np. *water main* (wodociąg)."
+        },
+        {
+          "id": "ppoz2-098",
+          "term": "pillar hydrant",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈpɪlə ˌhaɪdrənt/",
+          "pl": "hydrant nadziemny",
+          "def": "a fire hydrant that stands above ground like a post, instead of being under a cover in the ground",
+          "example": "The site plan shows a {{pillar hydrant}} at the entrance to the industrial estate, close to the main warehouse.",
+          "examplePl": "Na planie zagospodarowania przy wjeździe na teren przemysłowy, w pobliżu głównego magazynu, zaznaczono hydrant nadziemny.",
+          "collocations": [
+            "underground hydrant",
+            "hydrant marker plate",
+            "private hydrant"
+          ],
+          "note": "W UK większość hydrantów publicznych to hydranty podziemne (*underground hydrants*), oznaczone żółtą tabliczką z literą *H*; hydranty nadziemne spotyka się częściej na terenach przemysłowych i prywatnych. W Polsce hydranty nadziemne są powszechne."
+        },
+        {
+          "id": "ppoz2-099",
+          "term": "firefighter's switch",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪəfaɪtəz swɪtʃ/",
+          "pl": "wyłącznik dla straży pożarnej (instalacji oświetleniowej wysokiego napięcia)",
+          "def": "a switch, usually outside a building, that firefighters use to cut off power to high-voltage lighting such as neon signs",
+          "example": "The {{firefighter's switch}} for the neon sign must be fixed outside the shop, near the entrance, and clearly labelled.",
+          "examplePl": "Wyłącznik dla straży pożarnej zasilający neon musi być zamontowany na zewnątrz sklepu, w pobliżu wejścia, i wyraźnie oznakowany.",
+          "collocations": [
+            "install a firefighter's switch",
+            "high-voltage signage"
+          ],
+          "note": "Fałszywy odpowiednik polskiego *przeciwpożarowego wyłącznika prądu (PWP)*. PWP odcina zasilanie obiektu lub strefy, a brytyjski *firefighter's switch* (BS 7671) dotyczy w zasadzie tylko instalacji oświetleniowych wysokiego napięcia, np. neonów. Tłumacząc PWP, lepiej opisać funkcję, np. *fire isolation switch that disconnects the building's power supply*."
+        },
+        {
+          "id": "ppoz2-100",
+          "term": "premises information box",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈpremɪsɪz ˌɪnfəˈmeɪʃn bɒks/",
+          "pl": "skrzynka z informacjami o budynku dla straży pożarnej",
+          "def": "a secure box near the entrance of a building that holds plans and key information for firefighters arriving at an incident",
+          "example": "The {{premises information box}} by the main entrance holds floor plans and the contact details of the responsible person.",
+          "examplePl": "Skrzynka z informacjami dla straży pożarnej przy głównym wejściu zawiera rzuty kondygnacji i dane kontaktowe osoby odpowiedzialnej.",
+          "collocations": [
+            "PIB",
+            "secure information box"
+          ],
+          "note": "Skrót *PIB*. W Anglii od 2023 r. wysokie budynki mieszkalne muszą mieć taką skrzynkę (*secure information box*) na mocy *Fire Safety (England) Regulations 2022*. W Polsce brak ustalonej nazwy."
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "titlePl": "Przepisy i podejście projektowe",
+      "titleEn": "Regulations and design approach",
+      "items": [
+        {
+          "id": "ppoz2-101",
+          "term": "building regulations",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˌbɪldɪŋ ˌreɡjuˈleɪʃnz/",
+          "pl": "przepisy budowlane (techniczno-budowlane)",
+          "def": "the statutory rules that set minimum standards for the design and construction of buildings, including fire safety",
+          "example": "A change of use from offices to flats brings the building within the scope of the {{building regulations}}, including the fire safety requirements of Part B.",
+          "examplePl": "Zmiana sposobu użytkowania z biurowego na mieszkalny powoduje, że budynek podlega przepisom budowlanym, w tym wymaganiom bezpieczeństwa pożarowego z części B.",
+          "collocations": [
+            "comply with the Building Regulations",
+            "Part B of the Building Regulations"
+          ],
+          "note": "W Anglii *Building Regulations 2010* zawierają głównie ogólne wymagania funkcjonalne (np. B1 *means of warning and escape*), a sposoby ich spełnienia podaje *Approved Document B*. W Polsce szczegółowe wymagania są zapisane bezpośrednio w rozporządzeniu w sprawie warunków technicznych, więc mają moc prawa."
+        },
+        {
+          "id": "ppoz2-102",
+          "term": "Approved Document B",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/əˌpruːvd ˌdɒkjumənt ˈbiː/",
+          "pl": "Approved Document B (brytyjskie wytyczne ppoż. do przepisów budowlanych)",
+          "def": "the official guidance for England showing ways of meeting the fire safety requirements of the Building Regulations",
+          "example": "The design follows {{Approved Document B}} for means of escape, but the atrium relies on a fire-engineered solution.",
+          "examplePl": "Projekt spełnia wytyczne Approved Document B w zakresie ewakuacji, ale dla atrium przyjęto rozwiązanie oparte na inżynierii bezpieczeństwa pożarowego.",
+          "collocations": [
+            "ADB",
+            "Volume 1: Dwellings",
+            "Volume 2: Buildings other than dwellings"
+          ],
+          "note": "Skrót *ADB*. Dokument nie jest prawem, lecz wytyczną: jego stosowanie to jeden ze sposobów wykazania zgodności z przepisami, ale nie jedyny. Najbliżej mu do polskiego rozporządzenia o warunkach technicznych, które jednak jest wiążące."
+        },
+        {
+          "id": "ppoz2-103",
+          "term": "compliance",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/kəmˈplaɪəns/",
+          "pl": "zgodność (z przepisami, wymaganiami)",
+          "def": "the state of meeting the requirements of a law, standard or specification",
+          "example": "The building control body will not issue a completion certificate until {{compliance}} with Part B has been demonstrated.",
+          "examplePl": "Organ kontroli budowlanej nie wyda świadectwa zakończenia budowy, dopóki nie zostanie wykazana zgodność z częścią B przepisów.",
+          "collocations": [
+            "demonstrate compliance",
+            "in compliance with",
+            "route to compliance"
+          ],
+          "note": "*Compliant* – zgodny; *route to compliance* – sposób wykazania zgodności (np. przez ADB albo przez analizę inżynierską)."
+        },
+        {
+          "id": "ppoz2-104",
+          "term": "prescriptive guidance",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/prɪˌskrɪptɪv ˈɡaɪdns/",
+          "pl": "wytyczne nakazowe (podejście przepisowe)",
+          "def": "rules that state exact measures, such as maximum distances or minimum fire resistance periods, instead of the safety goals to be met",
+          "example": "Because the atrium falls outside the {{prescriptive guidance}}, a fire engineering analysis will be submitted.",
+          "examplePl": "Ponieważ atrium wykracza poza zakres wytycznych nakazowych, zostanie przedłożona analiza z zakresu inżynierii bezpieczeństwa pożarowego.",
+          "collocations": [
+            "follow prescriptive guidance",
+            "prescriptive approach"
+          ],
+          "note": "Przeciwieństwo *performance-based design*. Polskie przepisy techniczno-budowlane są w przeważającej mierze nakazowe i wiążące, a brytyjskie *prescriptive guidance* (np. ADB) to wytyczne."
+        },
+        {
+          "id": "ppoz2-105",
+          "term": "performance-based design",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/pəˌfɔːməns beɪst dɪˈzaɪn/",
+          "pl": "projektowanie oparte na kryteriach bezpieczeństwa (projektowanie inżynierskie)",
+          "def": "a design approach that shows by analysis that agreed safety objectives are met, instead of following fixed rules",
+          "example": "The stadium roof was assessed through {{performance-based design}}, using smoke modelling and evacuation analysis.",
+          "examplePl": "Dach stadionu oceniono metodą projektowania opartego na kryteriach bezpieczeństwa, z wykorzystaniem modelowania zadymienia i analizy ewakuacji.",
+          "collocations": [
+            "performance-based approach",
+            "performance-based fire safety design"
+          ],
+          "note": "W Polsce takie podejście stosuje się głównie w ramach *rozwiązań zamiennych* (ekspertyza rzeczoznawcy ds. zabezpieczeń przeciwpożarowych uzgadniana z komendantem wojewódzkim PSP). W UK jest dopuszczalne bezpośrednio, bo stosowanie ADB nie jest obowiązkowe."
+        },
+        {
+          "id": "ppoz2-106",
+          "term": "fire engineering",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪər ˌendʒɪˈnɪərɪŋ/",
+          "pl": "inżynieria bezpieczeństwa pożarowego",
+          "def": "the use of scientific and engineering principles to protect people, property and the environment from fire",
+          "example": "The developer appointed a {{fire engineering}} consultancy to justify the extended travel distances on the upper floors.",
+          "examplePl": "Inwestor zlecił firmie konsultingowej z zakresu inżynierii bezpieczeństwa pożarowego uzasadnienie wydłużonych dojść ewakuacyjnych na wyższych kondygnacjach.",
+          "collocations": [
+            "fire engineering analysis",
+            "fire-engineered solution",
+            "BS 7974"
+          ],
+          "note": "Ramy metodyczne w BS 7974 i serii PD 7974. W UK *fire engineer* to projektant lub konsultant, a nie strażak. Polski *rzeczoznawca ds. zabezpieczeń przeciwpożarowych* ma uprawnienia ustawowe, które nie mają bezpośredniego odpowiednika w UK."
+        },
+        {
+          "id": "ppoz2-107",
+          "term": "code of practice",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌkəʊd əv ˈpræktɪs/",
+          "pl": "kodeks dobrej praktyki (norma z zaleceniami)",
+          "def": "a document that gives recommendations on good practice for design, installation or management, usually without the force of law",
+          "example": "BS 9999 is a {{code of practice}}, so its recommendations can be adapted where the fire strategy justifies it.",
+          "examplePl": "BS 9999 jest kodeksem dobrej praktyki, więc jego zalecenia można dostosować, jeśli uzasadnia to strategia pożarowa.",
+          "collocations": [
+            "follow the code of practice",
+            "recommendations of the code"
+          ],
+          "note": "Wiele brytyjskich norm to *codes of practice* (np. BS 5839-1, BS 9999, BS 9991). Formułują one zalecenia słowem *should*, w odróżnieniu od wymagań (*shall*) w specyfikacjach."
+        },
+        {
+          "id": "ppoz2-108",
+          "term": "departure from guidance",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/dɪˌpɑːtʃə frəm ˈɡaɪdns/",
+          "pl": "odstępstwo od wytycznych (por. rozwiązanie zamienne)",
+          "def": "a design feature that does not follow the recommendations of a guidance document and therefore needs separate justification",
+          "example": "The fire strategy lists each {{departure from guidance}} and explains how the additional risk is compensated for.",
+          "examplePl": "Strategia pożarowa wymienia każde odstępstwo od wytycznych i wyjaśnia, w jaki sposób skompensowano dodatkowe ryzyko.",
+          "collocations": [
+            "justify a departure from guidance",
+            "schedule of departures"
+          ],
+          "note": "Bliskie polskiemu *rozwiązaniu zamiennemu*, ale proceduralnie inne: w UK uzasadnienie (np. analizę inżynierską) ocenia *building control body*, a w Polsce rozwiązanie zamienne wymaga ekspertyzy rzeczoznawcy ds. zabezpieczeń przeciwpożarowych uzgodnionej z komendantem wojewódzkim PSP. Polskie *odstępstwo* od przepisów techniczno-budowlanych (w trybie Prawa budowlanego) to jeszcze inna procedura."
+        },
+        {
+          "id": "ppoz2-109",
+          "term": "alternative solution",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ɔːlˌtɜːnətɪv səˈluːʃn/",
+          "pl": "rozwiązanie alternatywne (por. rozwiązanie zamienne)",
+          "def": "a different way of meeting a safety requirement, shown by analysis to give at least the same level of safety as the standard approach",
+          "example": "As an {{alternative solution}} to fire-resisting glazing, the design proposes a drencher system over the shopfront.",
+          "examplePl": "Jako rozwiązanie alternatywne wobec przeszklenia o odporności ogniowej projekt przewiduje kurtynę wodną nad witryną sklepu.",
+          "collocations": [
+            "propose an alternative solution",
+            "equivalent level of safety"
+          ],
+          "note": "W UK częściej mówi się *alternative approach* lub *fire-engineered solution*; termin *alternative solution* jest formalny m.in. w nowozelandzkich przepisach budowlanych. Tłumacząc polskie *rozwiązanie zamienne*, warto dodać wyjaśnienie procedury, np. *agreed with the regional fire service commander on the basis of an expert's report*."
+        },
+        {
+          "id": "ppoz2-110",
+          "term": "building control body",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌbɪldɪŋ kənˈtrəʊl ˌbɒdi/",
+          "pl": "organ kontroli budowlanej (w przybliżeniu: organ nadzoru budowlanego)",
+          "def": "the organisation that checks plans and inspects building work to confirm that it meets the building regulations",
+          "example": "The {{building control body}} has asked for a fire engineering report before it will approve the atrium design.",
+          "examplePl": "Organ kontroli budowlanej zażądał raportu z analizy inżynierskiej przed zatwierdzeniem projektu atrium.",
+          "collocations": [
+            "local authority building control",
+            "registered building control approver",
+            "Building Safety Regulator"
+          ],
+          "note": "W Anglii może to być urząd lokalny (*local authority building control*) albo podmiot prywatny (dawniej *approved inspector*, obecnie *registered building control approver*); dla budynków wysokiego ryzyka kontrolę przejął *Building Safety Regulator*. W Polsce jego rolę dzielą organ administracji architektoniczno-budowlanej i nadzór budowlany. W USA: *authority having jurisdiction (AHJ)*."
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "titlePl": "Zarządzanie ryzykiem pożarowym",
+      "titleEn": "Fire risk management",
+      "items": [
+        {
+          "id": "ppoz2-111",
+          "term": "fire risk assessment",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˌfaɪə ˈrɪsk əˌsesmənt/",
+          "pl": "ocena ryzyka pożarowego",
+          "def": "a systematic review of a building and its use to identify fire hazards, the people at risk and the precautions needed to keep them safe",
+          "example": "The {{fire risk assessment}} must be reviewed now that the ground floor has been converted into a restaurant.",
+          "examplePl": "Ocenę ryzyka pożarowego trzeba zaktualizować, ponieważ parter przebudowano na restaurację.",
+          "collocations": [
+            "carry out a fire risk assessment",
+            "review the fire risk assessment",
+            "PAS 79"
+          ],
+          "note": "W Anglii i Walii obowiązek wynika z *Regulatory Reform (Fire Safety) Order 2005* i dotyczy obiektów niemieszkalnych oraz części wspólnych budynków wielorodzinnych. W Polsce nie ma odrębnego dokumentu o tej nazwie; część zagadnień obejmuje *instrukcja bezpieczeństwa pożarowego*. Metodyka m.in. w PAS 79."
+        },
+        {
+          "id": "ppoz2-112",
+          "term": "responsible person",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/rɪˌspɒnsəbl ˈpɜːsn/",
+          "pl": "osoba odpowiedzialna (właściciel, zarządca lub użytkownik obiektu)",
+          "def": "under UK fire safety law, the employer, owner or other person in control of premises who must carry out the fire safety duties",
+          "example": "As the {{responsible person}}, the managing agent must make sure that the fire risk assessment is kept up to date.",
+          "examplePl": "Jako osoba odpowiedzialna zarządca nieruchomości musi zapewnić aktualność oceny ryzyka pożarowego.",
+          "collocations": [
+            "duties of the responsible person"
+          ],
+          "note": "Pojęcie prawne z *Fire Safety Order 2005*. W Polsce obowiązki w zakresie ochrony przeciwpożarowej spoczywają na właścicielu, zarządcy lub użytkowniku obiektu – funkcjonalnie podobnie, ale bez jednej nazwy prawnej."
+        },
+        {
+          "id": "ppoz2-113",
+          "term": "competent person",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌkɒmpɪtənt ˈpɜːsn/",
+          "pl": "osoba kompetentna (o odpowiedniej wiedzy i doświadczeniu)",
+          "def": "someone with enough training, experience and knowledge to carry out a particular task properly",
+          "example": "The housing association appointed a {{competent person}} with care-home experience to carry out the fire risk assessment.",
+          "examplePl": "Spółdzielnia mieszkaniowa powierzyła wykonanie oceny ryzyka pożarowego osobie kompetentnej z doświadczeniem w domach opieki.",
+          "collocations": [
+            "appoint a competent person",
+            "competent person scheme"
+          ],
+          "note": "W UK kompetencje potwierdza się zwykle szkoleniem, doświadczeniem lub rejestracją w organizacji zawodowej, a nie państwowymi uprawnieniami. W Polsce wiele czynności wymaga uprawnień ustawowych, np. rzeczoznawcy ds. zabezpieczeń przeciwpożarowych."
+        },
+        {
+          "id": "ppoz2-114",
+          "term": "significant findings",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/sɪɡˌnɪfɪkənt ˈfaɪndɪŋz/",
+          "pl": "istotne ustalenia (z oceny ryzyka)",
+          "def": "the main hazards, people at risk and actions identified in a risk assessment, which are recorded in writing",
+          "example": "The {{significant findings}} of the assessment, including the action plan, have been recorded and shared with the tenants.",
+          "examplePl": "Istotne ustalenia z oceny, łącznie z planem działań, zostały zapisane i przekazane najemcom.",
+          "collocations": [
+            "record the significant findings",
+            "action plan"
+          ],
+          "note": "Formuła z *Fire Safety Order 2005*. W Anglii od 2023 r. wszystkie osoby odpowiedzialne muszą zapisywać całą ocenę ryzyka pożarowego, a nie tylko istotne ustalenia."
+        },
+        {
+          "id": "ppoz2-115",
+          "term": "control measures",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/kənˈtrəʊl ˌmeʒəz/",
+          "pl": "środki ograniczania ryzyka",
+          "def": "the precautions put in place to remove a hazard or reduce the risk it presents",
+          "example": "Additional {{control measures}}, such as moving the bins away from the building, have reduced the risk of arson.",
+          "examplePl": "Dodatkowe środki ograniczania ryzyka, takie jak odsunięcie pojemników na odpady od budynku, zmniejszyły ryzyko podpalenia.",
+          "collocations": [
+            "implement control measures",
+            "existing control measures",
+            "hierarchy of control"
+          ],
+          "note": "Słownictwo wspólne z BHP (*health and safety*). Hierarchia środków: eliminacja, zastąpienie, środki techniczne, organizacyjne, ochrony indywidualnej."
+        },
+        {
+          "id": "ppoz2-116",
+          "term": "residual risk",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/rɪˌzɪdjuəl ˈrɪsk/",
+          "pl": "ryzyko resztkowe",
+          "def": "the risk that remains after all reasonable precautions have been taken",
+          "example": "The assessor rated the {{residual risk}} as tolerable, provided that the actions are completed within three months.",
+          "examplePl": "Oceniający uznał ryzyko resztkowe za tolerowane pod warunkiem wykonania działań w ciągu trzech miesięcy.",
+          "collocations": [
+            "tolerable residual risk",
+            "reduce residual risk"
+          ],
+          "note": "W brytyjskich ocenach ryzyka spotyka się skalę *trivial, tolerable, moderate, substantial, intolerable*."
+        },
+        {
+          "id": "ppoz2-117",
+          "term": "fire safety management",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌfaɪə ˈseɪfti ˌmænɪdʒmənt/",
+          "pl": "zarządzanie bezpieczeństwem pożarowym",
+          "def": "the organised day-to-day arrangements, procedures and staff duties that keep a building's fire precautions working",
+          "example": "Poor {{fire safety management}}, such as wedged-open doors and blocked exits, was the main concern raised in the audit.",
+          "examplePl": "Główne zastrzeżenia audytu dotyczyły złego zarządzania bezpieczeństwem pożarowym, np. zaklinowanych drzwi i zastawionych wyjść.",
+          "collocations": [
+            "level of fire safety management",
+            "fire safety management plan"
+          ],
+          "note": "BS 9999 traktuje poziom zarządzania bezpieczeństwem pożarowym jako jeden z czynników branych pod uwagę przy projektowaniu."
+        },
+        {
+          "id": "ppoz2-118",
+          "term": "fire safety manual",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌfaɪə ˈseɪfti ˌmænjuəl/",
+          "pl": "dokumentacja bezpieczeństwa pożarowego budynku (w przybliżeniu: instrukcja bezpieczeństwa pożarowego)",
+          "def": "a document kept in a building that records its fire safety design and explains how its fire precautions should be managed and maintained",
+          "example": "The {{fire safety manual}} should be updated whenever the layout, use or fire safety systems of the building change.",
+          "examplePl": "Dokumentację bezpieczeństwa pożarowego budynku należy aktualizować przy każdej zmianie układu, sposobu użytkowania lub instalacji przeciwpożarowych.",
+          "collocations": [
+            "maintain the fire safety manual",
+            "Regulation 38 information"
+          ],
+          "note": "Najbliższy polski odpowiednik to *instrukcja bezpieczeństwa pożarowego (IBP)*, ale zakres jest inny: brytyjski *fire safety manual* opisuje założenia projektowe i zasady zarządzania, a treść IBP jest określona przepisami. Informacje przekazywane w UK właścicielowi po zakończeniu budowy to *Regulation 38 information*."
+        },
+        {
+          "id": "ppoz2-119",
+          "term": "emergency plan",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ɪˈmɜːdʒənsi plæn/",
+          "pl": "plan postępowania na wypadek pożaru (zagrożenia)",
+          "def": "a written document that sets out what staff and occupants must do in a fire or other emergency, including raising the alarm and evacuating",
+          "example": "The {{emergency plan}} must explain how night staff will evacuate residents who cannot walk unaided.",
+          "examplePl": "Plan postępowania na wypadek pożaru musi wyjaśniać, w jaki sposób personel nocny ewakuuje mieszkańców, którzy nie mogą samodzielnie chodzić.",
+          "collocations": [
+            "fire emergency plan",
+            "test the emergency plan"
+          ],
+          "note": "W Polsce zawartość odpowiada części IBP dotyczącej sposobów postępowania na wypadek pożaru i warunków ewakuacji. Nie mylić z graficznym planem ewakuacji (*evacuation plan drawing*) ani z tabliczką z instrukcją postępowania przy ROP (*fire action notice*)."
+        },
+        {
+          "id": "ppoz2-120",
+          "term": "hot work permit",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌhɒt ˈwɜːk ˌpɜːmɪt/",
+          "pl": "zezwolenie na prace niebezpieczne pod względem pożarowym",
+          "def": "a written authorisation for work such as welding or cutting, setting out the precautions to be taken before, during and after the work",
+          "example": "No welding may start on the roof until a {{hot work permit}} has been issued and a fire watch arranged.",
+          "examplePl": "Spawanie na dachu nie może się rozpocząć przed wydaniem zezwolenia na prace niebezpieczne pod względem pożarowym i zorganizowaniem dozoru.",
+          "collocations": [
+            "issue a hot work permit",
+            "fire watch",
+            "permit-to-work system"
+          ],
+          "note": "Polskie przepisy używają pojęcia *prace niebezpieczne pod względem pożarowym*. Po zakończeniu prac prowadzi się *fire watch* – obserwację miejsca prac przez określony czas."
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "titlePl": "Montaż, próby i konserwacja",
+      "titleEn": "Installation, testing and maintenance",
+      "items": [
+        {
+          "id": "ppoz2-121",
+          "term": "commissioning",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/kəˈmɪʃənɪŋ/",
+          "pl": "uruchomienie i próby odbiorowe (rozruch)",
+          "def": "the process of testing and adjusting installed systems to prove that they work as designed before the building is handed over",
+          "example": "Full {{commissioning}} of the smoke control system, including cause and effect tests, is planned for next week.",
+          "examplePl": "Pełne uruchomienie i próby systemu ochrony przed zadymieniem, łącznie z testami matrycy sterowań, zaplanowano na przyszły tydzień.",
+          "collocations": [
+            "commissioning certificate",
+            "witness commissioning",
+            "commissioning tests"
+          ],
+          "note": "Fałszywy przyjaciel: nie *komisja*. Czasownik *commission* znaczy też *zlecić wykonanie* (np. *commission a report*). W kontekście instalacji – uruchomienie, próby i potwierdzenie działania przed odbiorem."
+        },
+        {
+          "id": "ppoz2-122",
+          "term": "handover",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈhændəʊvə/",
+          "pl": "przekazanie (obiektu lub instalacji) użytkownikowi",
+          "def": "the formal transfer of a completed building or system from the contractor to the client",
+          "example": "The fire safety information must be given to the client at {{handover}}, not months after the building is occupied.",
+          "examplePl": "Informacje dotyczące bezpieczeństwa pożarowego muszą zostać przekazane inwestorowi przy przekazaniu obiektu, a nie kilka miesięcy po rozpoczęciu użytkowania.",
+          "collocations": [
+            "at handover",
+            "handover documentation",
+            "practical completion"
+          ],
+          "note": "W umowach brytyjskich ważnym momentem jest *practical completion* (zakończenie robót w sensie umownym). Polski *odbiór końcowy* to procedura między stronami umowy; od niej trzeba odróżnić formalności wobec nadzoru budowlanego (zawiadomienie o zakończeniu budowy, pozwolenie na użytkowanie)."
+        },
+        {
+          "id": "ppoz2-123",
+          "term": "as-built drawings",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌæz bɪlt ˈdrɔːɪŋz/",
+          "pl": "rysunki powykonawcze, dokumentacja powykonawcza",
+          "def": "drawings updated at the end of a project to show exactly what was constructed, including any changes made on site",
+          "example": "The {{as-built drawings}} do not show where the fire dampers above the corridor ceiling were installed.",
+          "examplePl": "Rysunki powykonawcze nie pokazują, gdzie zamontowano klapy przeciwpożarowe nad sufitem korytarza.",
+          "collocations": [
+            "issue as-built drawings",
+            "as-built information",
+            "O&M manual"
+          ],
+          "note": "W UK dokumentacja powykonawcza trafia zwykle do *O&M manual* (*operation and maintenance manual*), czyli dokumentacji eksploatacyjnej przekazywanej przy odbiorze."
+        },
+        {
+          "id": "ppoz2-124",
+          "term": "routine testing",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ruːˈtiːn ˌtestɪŋ/",
+          "pl": "rutynowe próby (sprawdzenia okresowe)",
+          "def": "regular checks carried out by the occupier, such as operating a different call point each week, to confirm that a system still works",
+          "example": "Weekly {{routine testing}} of the fire alarm should use a different manual call point each time.",
+          "examplePl": "Cotygodniowe rutynowe sprawdzenie systemu sygnalizacji pożarowej należy wykonywać za każdym razem z innego ręcznego ostrzegacza pożarowego.",
+          "collocations": [
+            "weekly routine testing",
+            "log book"
+          ],
+          "note": "W UK rutynowe testy wykonuje zwykle personel użytkownika i zapisuje je w *log book*, a okresowe przeglądy serwisowe prowadzi firma serwisowa (*service visit*)."
+        },
+        {
+          "id": "ppoz2-125",
+          "term": "service visit",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈsɜːvɪs ˌvɪzɪt/",
+          "pl": "przegląd serwisowy (konserwacja okresowa)",
+          "def": "a scheduled visit by a specialist contractor to inspect, test and maintain a system",
+          "example": "During the six-monthly {{service visit}}, the engineer found two detectors that did not respond to test smoke.",
+          "examplePl": "Podczas półrocznego przeglądu serwisowego technik wykrył dwie czujki, które nie reagowały na dym testowy.",
+          "collocations": [
+            "six-monthly service visit",
+            "service and maintenance contract"
+          ],
+          "note": "Po polsku *przegląd i konserwacja*. Polskie przepisy wymagają przeglądów technicznych i konserwacji urządzeń przeciwpożarowych w okresach ustalonych przez producenta, nie rzadziej niż raz w roku."
+        },
+        {
+          "id": "ppoz2-126",
+          "term": "defect",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈdiːfekt/",
+          "pl": "usterka, wada",
+          "def": "a fault in work or equipment that means it does not meet the required standard",
+          "example": "Each {{defect}} found on the fire doors has been listed with a photograph, its location and a priority rating.",
+          "examplePl": "Każda usterka stwierdzona w drzwiach przeciwpożarowych została opisana wraz ze zdjęciem, lokalizacją i oceną pilności.",
+          "collocations": [
+            "rectify a defect",
+            "defects liability period",
+            "snagging list"
+          ],
+          "note": "*Snagging* (*snag list*) to lista drobnych usterek do usunięcia przed odbiorem; *defects liability period* to okres po zakończeniu robót, w którym wykonawca usuwa ujawnione wady."
+        },
+        {
+          "id": "ppoz2-127",
+          "term": "remedial works",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/rɪˌmiːdiəl ˈwɜːks/",
+          "pl": "prace naprawcze",
+          "def": "building work carried out to correct defects or bring something up to the required standard",
+          "example": "The landlord has appointed a contractor to carry out {{remedial works}} to the fire stopping in the service risers.",
+          "examplePl": "Właściciel budynku zlecił wykonawcy prace naprawcze uszczelnień ogniochronnych w pionach instalacyjnych.",
+          "collocations": [
+            "carry out remedial works",
+            "remedial action",
+            "remediation"
+          ],
+          "note": "Liczba mnoga *works* w znaczeniu 'roboty budowlane' (np. *building works*). Po pożarze Grenfell Tower w UK powszechne jest też *remediation* – usuwanie wad elewacji i innych zagrożeń pożarowych w istniejących budynkach."
+        },
+        {
+          "id": "ppoz2-128",
+          "term": "certificate of conformity",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/səˌtɪfɪkət əv kənˈfɔːməti/",
+          "pl": "certyfikat zgodności",
+          "def": "a document confirming that a product, installation or service meets a specified standard",
+          "example": "The supplier could not provide a {{certificate of conformity}} for the glazing, so its installation was put on hold.",
+          "examplePl": "Dostawca nie mógł przedstawić certyfikatu zgodności dla przeszklenia, dlatego wstrzymano jego montaż.",
+          "collocations": [
+            "certificate of constancy of performance",
+            "declaration of performance"
+          ],
+          "note": "W unijnym systemie wyrobów budowlanych (CPR) jednostka notyfikowana wydaje m.in. *certyfikat stałości właściwości użytkowych* (*certificate of constancy of performance*), a producent sporządza *deklarację właściwości użytkowych* (*declaration of performance, DoP*). Polskie *świadectwo dopuszczenia* (CNBOP-PIB) nie ma prostego odpowiednika w UK."
+        },
+        {
+          "id": "ppoz2-129",
+          "term": "third-party certification",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌθɜːd ˌpɑːti ˌsɜːtɪfɪˈkeɪʃn/",
+          "pl": "certyfikacja przez niezależną jednostkę (stronę trzecią)",
+          "def": "a scheme in which an independent body checks and certifies that products or installers meet a standard",
+          "example": "Only installers holding {{third-party certification}} for passive fire protection will be accepted for the fire stopping package.",
+          "examplePl": "Do wykonania uszczelnień ogniochronnych zostaną dopuszczeni wyłącznie instalatorzy z certyfikacją niezależnej jednostki w zakresie biernej ochrony przeciwpożarowej.",
+          "collocations": [
+            "third-party certificated installer",
+            "certification scheme",
+            "UKAS-accredited"
+          ],
+          "note": "W UK popularne programy to m.in. FIRAS, BM TRADA, LPCB i BAFE; certyfikat ułatwia wykazanie, że prace wykonała osoba kompetentna. Pisownia brytyjska: *certificated installer* (obok *certified*)."
+        },
+        {
+          "id": "ppoz2-130",
+          "term": "fire door survey",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌfaɪə ˈdɔː ˌsɜːveɪ/",
+          "pl": "przegląd (inspekcja) drzwi przeciwpożarowych",
+          "def": "a detailed inspection of fire doors to check their condition, gaps, seals, closers and labels",
+          "example": "The {{fire door survey}} found that many flat entrance doors had excessive gaps and closers that did not work.",
+          "examplePl": "Przegląd drzwi przeciwpożarowych wykazał, że wiele drzwi wejściowych do mieszkań ma zbyt duże szczeliny i niedziałające samozamykacze.",
+          "collocations": [
+            "carry out a fire door survey",
+            "fire door inspection",
+            "door gaps"
+          ],
+          "note": "W Anglii od 2023 r. w budynkach mieszkalnych o wysokości powyżej 11 m zarządca musi regularnie kontrolować drzwi przeciwpożarowe w częściach wspólnych i dokładać starań, by sprawdzać drzwi wejściowe do mieszkań (*Fire Safety (England) Regulations 2022*)."
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "titlePl": "Zagrożenia przemysłowe i wybuchowe",
+      "titleEn": "Industrial and explosion hazards",
+      "items": [
+        {
+          "id": "ppoz2-131",
+          "term": "flash point",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈflæʃ pɔɪnt/",
+          "pl": "temperatura zapłonu",
+          "def": "the lowest temperature at which a liquid gives off enough vapour to catch fire briefly when a flame is applied",
+          "example": "Diesel has a {{flash point}} well above normal room temperature, unlike petrol, which gives off flammable vapour even in winter.",
+          "examplePl": "Olej napędowy ma temperaturę zapłonu znacznie wyższą od temperatury pokojowej, w odróżnieniu od benzyny, która wydziela palne pary nawet zimą.",
+          "collocations": [
+            "low flash point liquid",
+            "closed-cup flash point"
+          ],
+          "note": "Fałszywy przyjaciel: polska *temperatura zapłonu* to właśnie *flash point*, a nie *ignition temperature*. *Auto-ignition temperature* to *temperatura samozapłonu*. W ogólnym angielskim *flashpoint* to też punkt zapalny (np. konfliktu)."
+        },
+        {
+          "id": "ppoz2-132",
+          "term": "flammable liquid storage",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌflæməbl ˈlɪkwɪd ˌstɔːrɪdʒ/",
+          "pl": "magazynowanie cieczy palnych",
+          "def": "keeping liquids that catch fire easily in suitable containers, cabinets or rooms that limit the risk and contain any spill",
+          "example": "In the paint shop, {{flammable liquid storage}} at the workbenches should be limited to the amount needed for one shift.",
+          "examplePl": "W lakierni ilość cieczy palnych przechowywanych przy stanowiskach pracy należy ograniczyć do zapotrzebowania na jedną zmianę.",
+          "collocations": [
+            "flammable liquid storage cabinet",
+            "HSG51"
+          ],
+          "note": "W UK zasady podają m.in. wytyczne HSE (HSG51) i przepisy DSEAR, a klasyfikacja cieczy opiera się na CLP (kategorie 1–3). Uwaga: *inflammable* znaczy to samo co *flammable* (palny), mimo przedrostka."
+        },
+        {
+          "id": "ppoz2-133",
+          "term": "explosive atmosphere",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ɪkˌspləʊsɪv ˈætməsfɪə/",
+          "pl": "atmosfera wybuchowa",
+          "def": "a mixture of air with flammable gas, vapour, mist or dust in which burning spreads through the whole mixture once it is ignited",
+          "example": "Charging forklift batteries can create an {{explosive atmosphere}} if hydrogen builds up in a poorly ventilated room.",
+          "examplePl": "Ładowanie akumulatorów wózków widłowych może wytworzyć atmosferę wybuchową, jeśli w słabo wentylowanym pomieszczeniu gromadzi się wodór.",
+          "collocations": [
+            "potentially explosive atmosphere",
+            "ATEX",
+            "DSEAR risk assessment"
+          ],
+          "note": "Termin z dyrektyw ATEX. W UK obowiązki pracodawcy wynikają z *DSEAR 2002* (*Dangerous Substances and Explosive Atmospheres Regulations*); w Polsce odpowiednim dokumentem jest *ocena zagrożenia wybuchem*."
+        },
+        {
+          "id": "ppoz2-134",
+          "term": "hazardous area",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌhæzədəs ˈeəriə/",
+          "pl": "przestrzeń zagrożona wybuchem",
+          "def": "a place where an explosive atmosphere may be present in amounts that require special precautions for equipment and work",
+          "example": "All electrical equipment within the {{hazardous area}} around the fuel dispensers must be suitable for the zone.",
+          "examplePl": "Wszystkie urządzenia elektryczne w przestrzeni zagrożonej wybuchem wokół dystrybutorów paliwa muszą być dostosowane do danej strefy.",
+          "collocations": [
+            "hazardous area drawing",
+            "hazardous area equipment"
+          ],
+          "note": "W ogólnym BHP *hazardous area* może oznaczać po prostu miejsce niebezpieczne; w kontekście ATEX zawsze chodzi o zagrożenie wybuchem."
+        },
+        {
+          "id": "ppoz2-135",
+          "term": "area classification",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈeəriə ˌklæsɪfɪˈkeɪʃn/",
+          "pl": "klasyfikacja przestrzeni zagrożonych wybuchem (wyznaczanie stref)",
+          "def": "dividing a place into zones according to how often and for how long an explosive atmosphere is likely to be present",
+          "example": "The {{area classification}} for the solvent mixing room shows Zone 1 around the open vessels and Zone 2 elsewhere.",
+          "examplePl": "Klasyfikacja przestrzeni zagrożonych wybuchem dla mieszalni rozpuszczalników wyznacza strefę 1 wokół otwartych zbiorników i strefę 2 w pozostałej części.",
+          "collocations": [
+            "hazardous area classification",
+            "Zone 0, 1 and 2",
+            "Zone 20, 21 and 22"
+          ],
+          "note": "Strefy 0, 1, 2 dotyczą gazów, par i mgieł, a 20, 21, 22 – pyłów (seria EN IEC 60079-10). Pełna nazwa: *hazardous area classification*."
+        },
+        {
+          "id": "ppoz2-136",
+          "term": "dust explosion",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈdʌst ɪkˌspləʊʒn/",
+          "pl": "wybuch pyłu",
+          "def": "a sudden, violent burning of fine combustible particles, such as flour or wood dust, suspended in the air",
+          "example": "A {{dust explosion}} in the extraction system spread through the ductwork into the main production hall.",
+          "examplePl": "Wybuch pyłu w instalacji odciągowej rozprzestrzenił się kanałami do głównej hali produkcyjnej.",
+          "collocations": [
+            "secondary dust explosion",
+            "explosion venting",
+            "dust cloud"
+          ],
+          "note": "Szczególnie groźny jest wybuch wtórny (*secondary explosion*): pierwsza fala wzbija osiadły pył, który następnie wybucha z większą siłą. Środki ochrony to m.in. *explosion venting* (odciążanie wybuchu), *suppression* (tłumienie) i *isolation* (izolowanie wybuchu)."
+        },
+        {
+          "id": "ppoz2-137",
+          "term": "explosion-protected equipment",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ɪkˌspləʊʒn prəˌtektɪd ɪˈkwɪpmənt/",
+          "pl": "urządzenia w wykonaniu przeciwwybuchowym",
+          "def": "electrical or mechanical equipment designed and certified so that it cannot ignite an explosive atmosphere around it",
+          "example": "Only {{explosion-protected equipment}} of the correct category and temperature class may be installed in Zone 1.",
+          "examplePl": "W strefie 1 można instalować wyłącznie urządzenia w wykonaniu przeciwwybuchowym o właściwej kategorii i klasie temperaturowej.",
+          "collocations": [
+            "ATEX-certified equipment",
+            "Ex equipment",
+            "temperature class"
+          ],
+          "note": "Nie mylić z *explosion-proof*, które ściśle (zwłaszcza w USA) oznacza obudowę wytrzymującą wybuch wewnątrz; w Europie odpowiada jej *flameproof enclosure (Ex d)*, po polsku *osłona ognioszczelna*."
+        },
+        {
+          "id": "ppoz2-138",
+          "term": "bund",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/bʌnd/",
+          "pl": "obwałowanie, taca wychwytowa (misa ustawcza)",
+          "def": "a wall or raised edge around a tank or storage area that holds any liquid that leaks or spills",
+          "example": "The diesel tank for the generator sits within a {{bund}} that will contain the fuel if the tank leaks.",
+          "examplePl": "Zbiornik oleju napędowego dla agregatu stoi w obwałowaniu, które zatrzyma paliwo w razie wycieku.",
+          "collocations": [
+            "bunded tank",
+            "bund capacity",
+            "bund wall"
+          ],
+          "note": "Słowo typowo brytyjskie; w USA *dike* lub *secondary containment*. Przymiotnik *bunded*, np. *bunded tank* – zbiornik z wbudowaną tacą wychwytową."
+        },
+        {
+          "id": "ppoz2-139",
+          "term": "static discharge",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌstætɪk ˈdɪstʃɑːdʒ/",
+          "pl": "wyładowanie elektrostatyczne",
+          "def": "a sudden spark caused by electric charge that has built up on a person, container or flowing liquid",
+          "example": "A {{static discharge}} while solvent was being poured into a plastic drum was identified as the likely ignition source.",
+          "examplePl": "Za prawdopodobne źródło zapłonu uznano wyładowanie elektrostatyczne podczas przelewania rozpuszczalnika do plastikowej beczki.",
+          "collocations": [
+            "electrostatic discharge",
+            "static build-up",
+            "anti-static footwear"
+          ],
+          "note": "Formalniej *electrostatic discharge (ESD)*; elektryczność statyczna to *static electricity*."
+        },
+        {
+          "id": "ppoz2-140",
+          "term": "earthing and bonding",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌɜːθɪŋ ənd ˈbɒndɪŋ/",
+          "pl": "uziemienie i połączenia wyrównawcze",
+          "def": "connecting metal parts to each other and to the ground so that electric charge cannot build up and cause a spark",
+          "example": "Before transferring fuel, the operator must check the {{earthing and bonding}} between the road tanker and the storage tank.",
+          "examplePl": "Przed przetłaczaniem paliwa operator musi sprawdzić uziemienie i połączenia wyrównawcze między autocysterną a zbiornikiem magazynowym.",
+          "collocations": [
+            "earthing clamp",
+            "equipotential bonding"
+          ],
+          "note": "*Earthing* to termin brytyjski, w USA *grounding*. *Bonding* to połączenie elementów metalowych ze sobą w celu wyrównania potencjałów."
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "titlePl": "Raporty i komunikacja zawodowa",
+      "titleEn": "Reports and professional communication",
+      "items": [
+        {
+          "id": "ppoz2-141",
+          "term": "fire strategy",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪə ˌstrætədʒi/",
+          "pl": "strategia pożarowa (koncepcja ochrony przeciwpożarowej)",
+          "def": "a document that sets out the fire safety principles for a building, such as escape, compartmentation and fire service access, and how they meet the regulations",
+          "example": "The {{fire strategy}} has been revised to reflect the new mezzanine and the change to phased evacuation.",
+          "examplePl": "Strategię pożarową zaktualizowano, aby uwzględnić nową antresolę i zmianę na ewakuację etapową.",
+          "collocations": [
+            "outline fire strategy",
+            "fire strategy report",
+            "fire strategy drawings"
+          ],
+          "note": "Najbliższy polski odpowiednik to opis *warunków ochrony przeciwpożarowej* w projekcie budowlanym albo *koncepcja ochrony przeciwpożarowej*; brytyjska strategia jest zwykle obszerniejsza i zawiera uzasadnienie rozwiązań inżynierskich."
+        },
+        {
+          "id": "ppoz2-142",
+          "term": "fire statement",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪə ˌsteɪtmənt/",
+          "pl": "opis bezpieczeństwa pożarowego do wniosku planistycznego",
+          "def": "in England, a document sent with a planning application for certain tall residential buildings, describing how fire safety has been considered",
+          "example": "The planning application for the 20-storey residential block was declared invalid because the {{fire statement}} was missing.",
+          "examplePl": "Wniosek planistyczny dla 20-kondygnacyjnego budynku mieszkalnego uznano za niekompletny z powodu braku opisu bezpieczeństwa pożarowego.",
+          "collocations": [
+            "submit a fire statement",
+            "planning gateway one"
+          ],
+          "note": "W Anglii od 2021 r. dołączany do wniosków planistycznych dla budynków o wysokości co najmniej 18 m lub co najmniej 7 kondygnacji, zawierających mieszkania (*planning gateway one*). W Polsce brak odpowiednika na etapie planistycznym."
+        },
+        {
+          "id": "ppoz2-143",
+          "term": "non-compliance",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌnɒn kəmˈplaɪəns/",
+          "pl": "niezgodność (z przepisami lub wymaganiami)",
+          "def": "a failure to meet a rule, standard or requirement",
+          "example": "The report lists each {{non-compliance}} with the fire strategy, together with a recommended action and its priority.",
+          "examplePl": "Raport wymienia każdą niezgodność ze strategią pożarową wraz z zalecanym działaniem i jego priorytetem.",
+          "collocations": [
+            "identify a non-compliance",
+            "schedule of non-compliances"
+          ],
+          "note": "W raportach z inspekcji spotyka się też *non-conformity* (zwłaszcza wobec norm i systemów jakości) oraz *non-compliant item*. Polską *tabelę niezgodności* w ekspertyzie można oddać jako *schedule of non-compliances*."
+        },
+        {
+          "id": "ppoz2-144",
+          "term": "deviation",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌdiːviˈeɪʃn/",
+          "pl": "odstępstwo, odchylenie (od projektu lub normy)",
+          "def": "a difference between what was designed, specified or recommended and what is proposed or built",
+          "example": "Any {{deviation}} from the approved fire strategy must be agreed with the fire engineer before work starts on site.",
+          "examplePl": "Każde odstępstwo od zatwierdzonej strategii pożarowej należy uzgodnić z inżynierem ds. bezpieczeństwa pożarowego przed rozpoczęciem robót.",
+          "collocations": [
+            "deviation from the design",
+            "agreed deviation",
+            "record a deviation"
+          ],
+          "note": "W BS 5839-1 świadomie uzgodnione odstępstwo od zaleceń normy nazywa się *variation* i trzeba je zapisać w dokumentacji. Polskie *odstępstwo* w sensie prawnym (od przepisów techniczno-budowlanych) to w brytyjskim prawie budowlanym raczej *relaxation* lub *dispensation*."
+        },
+        {
+          "id": "ppoz2-145",
+          "term": "recommendation",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˌrekəmenˈdeɪʃn/",
+          "pl": "zalecenie",
+          "def": "advice in a report about the action that should be taken",
+          "example": "Our main {{recommendation}} is to replace the existing conventional panel within the next 12 months.",
+          "examplePl": "Naszym głównym zaleceniem jest wymiana obecnej centrali konwencjonalnej w ciągu najbliższych 12 miesięcy.",
+          "collocations": [
+            "make a recommendation",
+            "implement the recommendations"
+          ],
+          "note": "W raportach z oceny ryzyka pożarowego zalecenia mają zwykle priorytet (np. *high, medium, low*) i termin wykonania."
+        },
+        {
+          "id": "ppoz2-146",
+          "term": "mitigation",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˌmɪtɪˈɡeɪʃn/",
+          "pl": "ograniczenie (zmniejszenie) ryzyka, środki kompensujące",
+          "def": "action taken to make a risk or its consequences less serious",
+          "example": "As {{mitigation}} for the extended travel distance, automatic detection and sprinklers will be provided throughout.",
+          "examplePl": "W celu skompensowania wydłużonego dojścia ewakuacyjnego w całym budynku zostaną zastosowane automatyczna detekcja i instalacja tryskaczowa.",
+          "collocations": [
+            "mitigation measures",
+            "compensatory features",
+            "mitigate the risk"
+          ],
+          "note": "W uzasadnieniu odstępstw pojawia się też *compensatory measures/features* (środki kompensujące). Czasownik: *mitigate a risk*; forma *mitigate against* bywa uznawana za błąd."
+        },
+        {
+          "id": "ppoz2-147",
+          "term": "sign off",
+          "type": "phrasal",
+          "pos": "phr v",
+          "level": "C1",
+          "ipa": "/ˌsaɪn ˈɒf/",
+          "pl": "zatwierdzić (podpisem), formalnie odebrać",
+          "def": "to give formal approval that a piece of work is complete or acceptable",
+          "example": "Building control will not {{sign off}} the scheme until the fire stopping has been inspected and photographed.",
+          "examplePl": "Organ kontroli budowlanej nie zatwierdzi inwestycji, dopóki uszczelnienia ogniochronne nie zostaną sprawdzone i sfotografowane.",
+          "collocations": [
+            "sign off the works",
+            "final sign-off"
+          ],
+          "note": "Rzeczownik z łącznikiem: *sign-off* (*final sign-off*). W brytyjskim angielskim *sign off* znaczy też 'zakończyć list lub e-mail' oraz *sign somebody off (sick)* – wystawić zwolnienie lekarskie."
+        },
+        {
+          "id": "ppoz2-148",
+          "term": "approval",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/əˈpruːvl/",
+          "pl": "zatwierdzenie, zgoda",
+          "def": "official permission or agreement that a design, document or product is acceptable",
+          "example": "The contractor cannot order the smoke curtains until the fire engineer has given written {{approval}} of the technical submission.",
+          "examplePl": "Wykonawca nie może zamówić kurtyn dymowych, dopóki inżynier ds. bezpieczeństwa pożarowego nie zatwierdzi na piśmie dokumentacji technicznej wyrobu.",
+          "collocations": [
+            "seek approval",
+            "full plans approval",
+            "subject to approval"
+          ],
+          "note": "Polskie *uzgodnienie projektu pod względem ochrony przeciwpożarowej* (przez rzeczoznawcę) lepiej opisać niż tłumaczyć jako *approval*, które sugeruje decyzję organu. W UK *full plans approval* to zatwierdzenie projektu przez building control."
+        },
+        {
+          "id": "ppoz2-149",
+          "term": "fire officer",
+          "type": "word",
+          "pos": "n",
+          "level": "B2",
+          "ipa": "/ˈfaɪər ˌɒfɪsə/",
+          "pl": "inspektor straży pożarnej (oficer ds. bezpieczeństwa pożarowego)",
+          "def": "a member of a fire and rescue service, especially one who inspects buildings or comments on fire safety proposals",
+          "example": "The {{fire officer}} who inspected the hotel issued an enforcement notice because the final exits were locked.",
+          "examplePl": "Inspektor straży pożarnej, który kontrolował hotel, wydał nakaz z powodu zamkniętych wyjść na zewnątrz.",
+          "collocations": [
+            "fire safety inspecting officer",
+            "enforcement notice"
+          ],
+          "note": "Określenie potoczne; formalnie np. *fire safety inspecting officer* danej *fire and rescue service*. W firmie *fire safety officer* to pracownik odpowiedzialny za ochronę ppoż., bliższy polskiemu *inspektorowi ochrony przeciwpożarowej*. W USA podobną rolę pełni m.in. *fire marshal*."
+        },
+        {
+          "id": "ppoz2-150",
+          "term": "fire service consultation",
+          "type": "word",
+          "pos": "n",
+          "level": "C1",
+          "ipa": "/ˈfaɪə ˌsɜːvɪs ˌkɒnslˈteɪʃn/",
+          "pl": "konsultacja ze strażą pożarną (opiniowanie projektu)",
+          "def": "the stage in which plans are sent to the fire and rescue service for comments on fire safety and firefighting access",
+          "example": "Building control has started the statutory {{fire service consultation}}, and comments are expected later this month.",
+          "examplePl": "Organ kontroli budowlanej rozpoczął ustawowe konsultacje ze strażą pożarną, a uwagi mają wpłynąć jeszcze w tym miesiącu.",
+          "collocations": [
+            "statutory fire service consultation",
+            "consult the fire and rescue service"
+          ],
+          "note": "W UK opinia straży pożarnej w procedurze budowlanej ma charakter konsultacyjny, a decyzję podejmuje *building control body*. W Polsce wiążące jest m.in. uzgodnienie rozwiązań zamiennych przez komendanta wojewódzkiego PSP. W USA zamiast *fire service* mówi się *fire department*."
+        }
+      ]
+    }
+  ]
+}
